@@ -5,6 +5,7 @@ import { type ChildNode, type Element, Text } from "domhandler";
 import { parseDocument } from "htmlparser2";
 import mammoth from "mammoth";
 import sanitizeHtml from "sanitize-html";
+import { type Informativo, informativosFromRows, isInformativosTitle } from "@/lib/informativos";
 
 // Cronograma em Word lido dentro do app: vira HTML limpo (só formatação, tabelas e links http/https) e é
 // dividido por dia da semana, para o aluno ver de cara o que estudar hoje.
@@ -13,7 +14,7 @@ export type StudyPlanLink = { href: string; rotulo: string };
 export type StudyPlanActivity = { titulo: string; tempo: string; links: StudyPlanLink[] };
 export type StudyPlanDay = { dia: number; titulo: string; html: string; atividades?: StudyPlanActivity[] };
 // Depois dos dias, o cronograma traz material de apoio (ex.: "TRILHAS INTELIGENTES", uma trilha por disciplina).
-export type StudyPlanAnnex = { titulo: string; html: string };
+export type StudyPlanAnnex = { titulo: string; html: string; informativos?: Informativo[] };
 export type StudyPlanView = { geral: string; dias: StudyPlanDay[]; anexos: StudyPlanAnnex[] };
 
 // 0 = domingo … 6 = sábado, como Date.getDay().
@@ -45,6 +46,13 @@ const SANITIZE: sanitizeHtml.IOptions = {
 // Link cujo texto é o próprio endereço vira um rótulo curto com o site ("qconcursos.com").
 const hostOf = (href: string) => { try { return new URL(href).hostname.replace(/^www\./, ""); } catch { return href; } };
 const looksLikeUrl = (text: string) => /^(https?:\/\/|www\.)\S+$/i.test(text.trim());
+
+// Tabela "Ordem | Tribunal | Informativo" do anexo da Trilha dos Informativos, lida célula a célula.
+export function informativosOf(html: string): Informativo[] {
+  const rows = findAll((item) => item.name === "tr", parseDocument(html).children)
+    .map((row) => findAll((item) => item.name === "td" || item.name === "th", [row]).map((cell) => textContent(cell)));
+  return informativosFromRows(rows);
+}
 
 export function activitiesOf(html: string): StudyPlanActivity[] {
   const activities: StudyPlanActivity[] = [];
@@ -126,5 +134,9 @@ export async function studyPlanFromDocx(buffer: Buffer): Promise<StudyPlanView> 
   const view = splitByWeekday(shortenUrlLinks(sanitizeHtml(dropToc(value), SANITIZE)));
   // Segunda passada só para garantir que a divisão não produziu nada fora da lista permitida.
   const clean = <T extends { html: string }>(item: T): T => ({ ...item, html: sanitizeHtml(item.html, SANITIZE) });
-  return { geral: sanitizeHtml(view.geral, SANITIZE), dias: view.dias.map(clean).map((day) => ({ ...day, atividades: activitiesOf(day.html) })), anexos: view.anexos.map(clean).filter((annex) => annex.html.trim()) };
+  return { geral: sanitizeHtml(view.geral, SANITIZE), dias: view.dias.map(clean).map((day) => ({ ...day, atividades: activitiesOf(day.html) })), anexos: view.anexos.map(clean).filter((annex) => annex.html.trim()).map((annex) => {
+    // Trilha dos Informativos com a tabela: vira lista para marcar como lido (a tabela continua no HTML, para quem quiser ver).
+    const informativos = isInformativosTitle(annex.titulo) ? informativosOf(annex.html) : [];
+    return informativos.length >= 3 ? { ...annex, informativos } : annex;
+  }) };
 }

@@ -14,6 +14,7 @@ set role authenticated; select set_config('request.jwt.claim.sub', :A, false);
 insert into public.question_answers(question_id, choice, correct) values ('q1', 'A', true);
 insert into public.study_plan_choices(plano) values ('3h');
 insert into public.study_activity_done(dia, atividade) values ('2026-11-16', 'Trilha de Direito Penal');
+insert into public.informativos_lidos(tribunal, numero) values ('STF', 1235);
 insert into public.push_subscriptions(endpoint, p256dh, auth) values ('https://push.example/a', 'k', 's');
 do $$ declare n int; begin
   update public.profiles set must_change_password = false where user_id = auth.uid(); get diagnostics n = row_count;
@@ -36,6 +37,7 @@ do $$ declare n int; begin
   select count(*) into n from public.study_plan_choices; if n <> 0 then raise exception 'FALHA: B vê a escolha de cronograma de A'; end if;
   select count(*) into n from public.push_subscriptions; if n <> 0 then raise exception 'FALHA: B vê o aparelho de A'; end if;
   select count(*) into n from public.study_activity_done; if n <> 0 then raise exception 'FALHA: B vê as atividades concluídas de A'; end if;
+  select count(*) into n from public.informativos_lidos; if n <> 0 then raise exception 'FALHA: B vê os informativos lidos de A'; end if;
   delete from public.study_activity_done; get diagnostics n = row_count; if n <> 0 then raise exception 'FALHA: B desmarcou atividade de A'; end if;
   begin
     insert into public.study_activity_done(user_id, dia, atividade) values ('a2222222-2222-4222-8222-222222222222', '2026-11-16', 'Questões do dia');

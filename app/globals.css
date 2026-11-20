@@ -126,6 +126,20 @@ label { display: grid; gap: .35rem; font-weight: 600; font-size: .9rem; }
 .plan-progress-bar span { display: block; height: 100%; background: var(--accent); border-radius: inherit; transition: width var(--t-fast) var(--ease); }
 .plan-progress .auth-error { margin: 0; }
 .plan-day-done { font-weight: 700; }
+.inf-trail { display: grid; gap: var(--s-3); margin-bottom: var(--s-3); }
+.inf-next { background: var(--surface); border: 1px solid var(--border); border-left: 4px solid var(--accent); border-radius: var(--r-md); padding: var(--s-3); display: grid; gap: var(--s-2); }
+.inf-next .eyebrow { margin: 0; }
+.inf-next-title { margin: 0; font-size: 1.15rem; font-weight: 700; display: flex; align-items: center; gap: var(--s-2); }
+.inf-court { display: inline-block; padding: .05rem .45rem; border-radius: var(--r-sm); font-size: .75rem; font-weight: 700; letter-spacing: .02em; }
+.inf-stf { background: var(--accent); color: var(--on-accent); }
+.inf-stj { background: var(--tip-bg); color: var(--text); border: 1px solid var(--tip-border); }
+.inf-list { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--s-1); }
+.inf-list li { display: flex; align-items: center; gap: var(--s-2); padding: var(--s-1) var(--s-2); border-radius: var(--r-sm); }
+.inf-list li:nth-child(even) { background: var(--surface-2); }
+.inf-list li.is-done a { color: var(--muted); text-decoration: line-through; }
+.inf-order { min-width: 2.2rem; text-align: right; font-variant-numeric: tabular-nums; color: var(--muted); font-weight: 700; }
+.inf-check { min-height: 36px; padding: var(--s-1) var(--s-2); }
+.plan-html.has-trail table { display: none; }
 .plan-links { display: flex; gap: var(--s-2); flex-wrap: wrap; align-items: center; }
 .plan-annexes { display: grid; gap: var(--s-2); }
 .plan-annexes .section-title { margin: var(--s-3) 0 0; }

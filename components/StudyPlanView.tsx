@@ -5,11 +5,13 @@ import { useCallback, useEffect, useMemo, useState } from "react";
 import { bankDisciplinesFor, questionBankHref } from "@/lib/questions/day-link";
 import { WEEKDAY_NAMES } from "@/lib/study-plan";
 import { activityKeys, weekDates } from "@/lib/study-progress";
+import { InformativosTrail } from "@/components/InformativosTrail";
+import { type Informativo, informativoKey, informativoUrl } from "@/lib/informativos";
 import { vadeFor, vadeMaterial } from "@/lib/vade";
 
 type Activity = { titulo: string; tempo: string; links: { href: string; rotulo: string }[] };
 type Day = { dia: number; titulo: string; html: string; atividades?: Activity[] };
-type Annex = { titulo: string; html: string };
+type Annex = { titulo: string; html: string; informativos?: Informativo[] };
 type Content = { plano: string; titulo: string; tipo: "docx"; geral: string; dias: Day[]; anexos: Annex[]; vade?: string[]; vadeLeitor?: Record<string, string> } | { plano: string; titulo: string; tipo: "arquivo" };
 // Semana de estudo começa na segunda.
 const ORDER = [1, 2, 3, 4, 5, 6, 0];
@@ -49,6 +51,27 @@ export function StudyPlanView() {
       setDone(new Set((payload.feitas as { dia: string; atividade: string }[]).map((item) => `${item.dia}|${item.atividade}`)));
     }).catch(() => undefined);
   }, [week]);
+  // Trilha dos Informativos: os que o aluno já leu (null: marcação indisponível ou cronograma sem a trilha).
+  const [lidos, setLidos] = useState<Set<string> | null>(null); const [salvandoInf, setSalvandoInf] = useState<string | null>(null);
+  const hasInformativos = Boolean(content && content.tipo === "docx" && content.anexos.some((annex) => annex.informativos?.length));
+  useEffect(() => {
+    if (!hasInformativos) return;
+    fetch("/api/informativos").then(async (response) => {
+      const payload = await response.json().catch(() => ({}));
+      if (response.ok && payload.disponivel) setLidos(new Set(payload.lidos as string[]));
+    }).catch(() => undefined);
+  }, [hasInformativos]);
+  const toggleInformativo = useCallback(async (item: Informativo) => {
+    const key = informativoKey(item); const lido = !lidos?.has(key);
+    const apply = (on: boolean) => setLidos((current) => { const next = new Set(current ?? []); if (on) next.add(key); else next.delete(key); return next; });
+    apply(lido); setSalvandoInf(key); setProgressError("");
+    try {
+      const response = await fetch("/api/informativos", { method: "PUT", headers: { "content-type": "application/json" }, body: JSON.stringify({ tribunal: item.tribunal, numero: item.numero, lido }) });
+      if (!response.ok) throw new Error((await response.json().catch(() => ({})))?.error?.message ?? "Não foi possível salvar.");
+    } catch (failure) {
+      apply(!lido); setProgressError(failure instanceof Error ? failure.message : "Não foi possível salvar.");
+    } finally { setSalvandoInf(null); }
+  }, [lidos]);
   const toggle = useCallback(async (dia: string, atividade: string) => {
     const key = `${dia}|${atividade}`; const concluida = !done?.has(key);
     const apply = (on: boolean) => setDone((current) => { const next = new Set(current ?? []); if (on) next.add(key); else next.delete(key); return next; });
@@ -121,6 +144,11 @@ export function StudyPlanView() {
           })}
           {ownBank.length > 0 && <Link className="button primary" href={questionBankHref(ownBank)}>{isQuestions ? "Banco de questões DUO" : "Questões no app"} →</Link>}
           {activity.links.map((link) => <a key={link.href} className="button" href={link.href} target="_blank" rel="noopener noreferrer">{link.rotulo} ↗</a>)}
+          {trail !== null && annexes[trail]?.informativos && lidos && (() => {
+            // Trilha dos Informativos: o próximo da vez já aparece na atividade do dia.
+            const next = annexes[trail].informativos!.find((item) => !lidos.has(informativoKey(item)));
+            return next ? <a className="button primary" href={informativoUrl(next)} target="_blank" rel="noopener noreferrer">Próximo: {next.tribunal} {next.numero} ↗</a> : null;
+          })()}
           {trail !== null && <button type="button" className="button ghost" onClick={() => show(trail)}>Ver a trilha ↓</button>}
         </div>}
       </li>;
@@ -130,7 +158,10 @@ export function StudyPlanView() {
       : <article className="plan-html" dangerouslySetInnerHTML={{ __html: current.html }} />)
       : <p className="empty">{days.length ? `Sem atividades previstas para ${WEEKDAY_NAMES[day].toLowerCase()} neste cronograma. Aproveite para revisar ou descansar.` : "Este cronograma não separa os dias da semana; veja o conteúdo completo abaixo."}</p>}
     {annexes.length > 0 && <section className="plan-annexes" aria-label="Trilhas e materiais do cronograma"><h2 className="section-title">Trilhas e materiais</h2>
-      {annexes.map((annex) => <details key={annex.index} id={`anexo-${annex.index}`} className="plan-general" open={open === annex.index} onToggle={(event) => { if ((event.target as HTMLDetailsElement).open) setOpen(annex.index); else if (open === annex.index) setOpen(null); }}><summary>{annex.titulo}</summary><div className="plan-html" dangerouslySetInnerHTML={{ __html: annex.html }} /></details>)}
+      {annexes.map((annex) => <details key={annex.index} id={`anexo-${annex.index}`} className="plan-general" open={open === annex.index} onToggle={(event) => { if ((event.target as HTMLDetailsElement).open) setOpen(annex.index); else if (open === annex.index) setOpen(null); }}><summary>{annex.titulo}</summary>
+        {annex.informativos && lidos && <InformativosTrail itens={annex.informativos} lidos={lidos} salvando={salvandoInf} onToggle={(item) => void toggleInformativo(item)} />}
+        {/* Com a lista interativa, a tabela do Word sai da tela (a lista tem as mesmas linhas); o texto de orientação fica. */}
+        <div className={`plan-html${annex.informativos && lidos ? " has-trail" : ""}`} dangerouslySetInnerHTML={{ __html: annex.html }} /></details>)}
     </section>}
     {content.geral && <details className="plan-general" open={!days.length}><summary>Orientações e visão geral da semana</summary><div className="plan-html" dangerouslySetInnerHTML={{ __html: content.geral }} /></details>}
     <p><Link href="/">← Trocar de cronograma</Link></p>
