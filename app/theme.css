@@ -1,10 +1,8 @@
-/* Identidade do Reta Final DPE-RN: azul-marinho e amarelo da capa do cronograma, sobre o papel do Cursos DUO.
-   Os nomes "forest" e "brick" vêm do app do DPE-SP (verde e tijolo); aqui guardam o marinho e o ouro, para o resto do
-   CSS não mudar. Contrastes conferidos (WCAG AA): branco sobre marinho 12,7:1; ouro de texto sobre o papel 5:1. */
+/* Identidade Cursos DUO (direção "Caderno de estudo"): verde-floresta + papel + carvão, tijolo como destaque.
+   Valores aproximados do perfil do Instagram; troque aqui quando chegarem os códigos oficiais. Contrastes conferidos (WCAG AA). */
 :root {
-  --forest-50: #E8EEF7; --forest-100: #CCD9EC; --forest-500: #2C5A9A; --forest-600: #1E447C; --forest-700: #15325E; --forest-900: #0B1C38;
-  --brick-50: #FFF6D6; --brick-300: #F2C94C; --brick-600: #8A6400; --brick-700: #7A5A00;
-  --rn-yellow: #FFD34D; /* amarelo da capa: fundo e destaque (texto marinho por cima), nunca texto sobre claro */
+  --forest-50: #EAF2EC; --forest-100: #CFE1D3; --forest-500: #2E6B3C; --forest-600: #1F5A2B; --forest-700: #17401F; --forest-900: #0F2A15;
+  --brick-50: #F8ECE6; --brick-300: #D79A83; --brick-600: #A24627; --brick-700: #873A20;
   --charcoal: #292424;
   --duo-green: #31BF5D; /* só decoração em fundo escuro: sobre claro dá 2,2:1 */
   --duo-paper: #F7F6F1;
@@ -28,21 +26,21 @@
   --surface: #FFFFFF;
   --surface-2: #EFEEE7;
   --text: #231F1E;
-  --muted: #4B5566;
+  --muted: #4C5F54;
   --border: #E3E2DA;            /* decorativo (cards) */
-  --border-strong: #7A8496;     /* campos e botões: 3,5:1 */
+  --border-strong: #7A8A80;     /* campos e botões: 3,4:1 */
   --brand: var(--forest-700);
-  --accent: var(--forest-700);  /* ação: branco 12,7:1 */
+  --accent: var(--forest-700);  /* ação: branco 11,7:1 */
   --accent-hover: var(--forest-600);
-  --accent-strong: var(--forest-600); /* indicador ativo: 8,9:1 sobre o papel */
-  --accent-text: var(--brick-600);    /* rótulos e destaques editoriais (ouro): 5:1 */
+  --accent-strong: var(--forest-600); /* indicador ativo: 7,6:1 sobre o papel */
+  --accent-text: var(--brick-600);    /* rótulos e destaques editoriais: 5,6:1 */
   --on-accent: #FFFFFF;
-  --link: var(--forest-600);
-  --tip-bg: var(--brick-50);       /* DICA DUO e destaques em amarelo claro, como os quadros do cronograma */
-  --tip-border: #E0B21E;
+  --link: #2F5560;
+  --tip-bg: var(--forest-50);
+  --tip-border: var(--forest-500);
   --danger: #B82818;
   --focus: var(--forest-600);
-  --grid: rgba(21, 50, 94, .07);
+  --grid: rgba(23, 64, 31, .07);
   /* Grifos: preenchimento; a cor nunca é a única pista (cada tipo tem um traço próprio, ver globals.css) */
   --hl-importante: #FFE066; --hl-lei: #9BE3B0; --hl-juris: #9CC8F5; --hl-revisar: #F7A8C8; --hl-ink: #231F1E;
 }
@@ -50,24 +48,24 @@
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     color-scheme: dark;
-    --bg: #0E1828; --surface: #15233A; --surface-2: #1D2E4A;
-    --text: #F2F1EA; --muted: #B3BDCC;
-    --border: #2A3B57; --border-strong: #6E7C96;
-    --brand: #FFD34D; --accent: #FFD34D; --accent-hover: #FFE07A; --accent-strong: #FFD34D; --accent-text: #F2C94C; --on-accent: #0B1C38;
-    --link: #9CC2F0; --tip-bg: #1F2D47; --tip-border: #FFD34D; --danger: #F28B82; --focus: #FFD34D;
-    --grid: rgba(255, 211, 77, .05);
+    --bg: #14201A; --surface: #1B2A22; --surface-2: #24362C;
+    --text: #F2F1EA; --muted: #B3C1B8;
+    --border: #2F4538; --border-strong: #6E8A78;
+    --brand: #5CCB85; --accent: #5CCB85; --accent-hover: #7BD79C; --accent-strong: #5CCB85; --accent-text: #E08A6B; --on-accent: #0B1F12;
+    --link: #8FC9D6; --tip-bg: #1E3A2A; --tip-border: #5CCB85; --danger: #F28B82; --focus: #5CCB85;
+    --grid: rgba(92, 203, 133, .06);
     --hl-importante: rgba(255, 216, 77, .30); --hl-lei: rgba(76, 210, 122, .30); --hl-juris: rgba(111, 177, 240, .30); --hl-revisar: rgba(242, 125, 176, .30); --hl-ink: #F2F1EA;
   }
 }
 
 :root[data-theme="dark"] {
   color-scheme: dark;
-  --bg: #0E1828; --surface: #15233A; --surface-2: #1D2E4A;
-  --text: #F2F1EA; --muted: #B3BDCC;
-  --border: #2A3B57; --border-strong: #6E7C96;
-  --brand: #FFD34D; --accent: #FFD34D; --accent-hover: #FFE07A; --accent-strong: #FFD34D; --accent-text: #F2C94C; --on-accent: #0B1C38;
-  --link: #9CC2F0; --tip-bg: #1F2D47; --tip-border: #FFD34D; --danger: #F28B82; --focus: #FFD34D;
-  --grid: rgba(255, 211, 77, .05);
+  --bg: #14201A; --surface: #1B2A22; --surface-2: #24362C;
+  --text: #F2F1EA; --muted: #B3C1B8;
+  --border: #2F4538; --border-strong: #6E8A78;
+  --brand: #5CCB85; --accent: #5CCB85; --accent-hover: #7BD79C; --accent-strong: #5CCB85; --accent-text: #E08A6B; --on-accent: #0B1F12;
+  --link: #8FC9D6; --tip-bg: #1E3A2A; --tip-border: #5CCB85; --danger: #F28B82; --focus: #5CCB85;
+  --grid: rgba(92, 203, 133, .06);
   --hl-importante: rgba(255, 216, 77, .30); --hl-lei: rgba(76, 210, 122, .30); --hl-juris: rgba(111, 177, 240, .30); --hl-revisar: rgba(242, 125, 176, .30); --hl-ink: #F2F1EA;
 }
 

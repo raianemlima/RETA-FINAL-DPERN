@@ -8,7 +8,7 @@ export default function manifest(): MetadataRoute.Manifest {
     description: "Material do curso, grifos e caderno de revisão.",
     start_url: "/",
     display: "standalone",
-    theme_color: "#15325E",
+    theme_color: "#17401F",
     background_color: "#F7F6F1",
     lang: "pt-BR",
     icons: [

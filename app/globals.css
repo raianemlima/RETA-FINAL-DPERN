@@ -63,7 +63,7 @@ label { display: grid; gap: .35rem; font-weight: 600; font-size: .9rem; }
 @media (min-width: 768px) { .bottom-nav { display: none; } }
 
 /* Login */
-.auth-page { min-height: 100dvh; display: grid; place-items: center; padding: 1rem; background: var(--forest-900); }
+.auth-page { min-height: 100dvh; display: grid; place-items: center; padding: 1rem; background: var(--charcoal); }
 .auth-card { width: min(420px, 100%); background: var(--surface); color: var(--text); border-radius: var(--r-lg); padding: 2rem 1.5rem; display: grid; gap: .9rem; box-shadow: 0 20px 50px rgba(0,0,0,.25); }
 .auth-logo { width: 72px; height: 72px; border-radius: 50%; background: var(--forest-700) url("/brand/pena-branca.png") center / 62% no-repeat; justify-self: center; }
 .auth-card h1, .auth-card .eyebrow { text-align: center; }
@@ -137,10 +137,10 @@ label { display: grid; gap: .35rem; font-weight: 600; font-size: .9rem; }
 .resume-card { display: grid; gap: var(--s-2); padding: var(--s-5); background: var(--forest-700); color: #FFFFFF; border-radius: var(--r-lg); text-decoration: none; box-shadow: var(--e-2); margin: 0 0 var(--s-4); transition: box-shadow var(--t-fast) var(--ease), transform var(--t-fast) var(--ease); }
 .resume-card:hover { box-shadow: var(--e-3); }
 .resume-card:active { transform: translateY(1px); }
-.resume-card .eyebrow { color: var(--rn-yellow); margin: 0; }
+.resume-card .eyebrow { color: #CFE1D3; margin: 0; }
 .resume-title { font-size: 1.5rem; font-weight: 700; line-height: 1.2; }
-.resume-meta { color: var(--forest-100); font-size: .9rem; }
-.resume-action { justify-self: start; margin-top: var(--s-2); min-height: 44px; display: inline-flex; align-items: center; padding: 0 var(--s-4); border-radius: var(--r-md); background: var(--rn-yellow); color: var(--forest-900); font-weight: 700; }
+.resume-meta { color: #CFE1D3; font-size: .9rem; }
+.resume-action { justify-self: start; margin-top: var(--s-2); min-height: 44px; display: inline-flex; align-items: center; padding: 0 var(--s-4); border-radius: var(--r-md); background: #FFFFFF; color: var(--forest-700); font-weight: 700; }
 .section-title { font-size: 1.125rem; margin: var(--s-5) 0 var(--s-2); }
 .disc-dot { width: 44px; height: 44px; border-radius: 50%; background: var(--forest-700); border: 1.5px solid var(--border-strong); display: grid; place-items: center; flex: none; }
 .disc-dot img { display: block; }
