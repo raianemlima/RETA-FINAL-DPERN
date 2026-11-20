@@ -1,0 +1,50 @@
+# Publica em produção na Vercel — https://reta-final-dpern.vercel.app — a cada merge em main,
+# e também manualmente (Actions › Deploy produção › Run workflow).
+# `vercel deploy --prod` publica no domínio de produção do projeto apontado por VERCEL_PROJECT_ID,
+# então é por ali que o aluno vê a atualização.
+# Requer o segredo VERCEL_TOKEN e a variável VERCEL_PROJECT_ID (o id "prj_…" do projeto DPE-RN na Vercel), em
+# Settings > Secrets and variables > Actions; sem eles, o job termina avisando,
+# sem erro — e aí a atualização depende da integração Git da própria Vercel estar ligada no projeto.
+name: Deploy produção
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-producao
+  cancel-in-progress: false
+
+env:
+  VERCEL_ORG_ID: team_KtShbotK9blWFngaRlWXXasj
+  VERCEL_PROJECT_ID: ${{ vars.VERCEL_PROJECT_ID }}
+  VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Conferir o segredo VERCEL_TOKEN e a variável VERCEL_PROJECT_ID
+        if: env.VERCEL_TOKEN == '' || env.VERCEL_PROJECT_ID == ''
+        run: echo "::notice::VERCEL_TOKEN ou VERCEL_PROJECT_ID não configurado; nada foi publicado. A Vercel continua publicando cada merge em main."
+      - uses: actions/checkout@v4
+        if: env.VERCEL_TOKEN != '' && env.VERCEL_PROJECT_ID != ''
+      - uses: actions/setup-node@v4
+        if: env.VERCEL_TOKEN != '' && env.VERCEL_PROJECT_ID != ''
+        with:
+          node-version: 22
+          cache: npm
+      - if: env.VERCEL_TOKEN != '' && env.VERCEL_PROJECT_ID != ''
+        run: npm ci
+      - if: env.VERCEL_TOKEN != '' && env.VERCEL_PROJECT_ID != ''
+        run: npm test
+      - if: env.VERCEL_TOKEN != '' && env.VERCEL_PROJECT_ID != ''
+        # Versão fixa: uma CLI nova não muda o deploy de produção sem passar por um PR.
+        run: npm install --global vercel@63.1.2
+      - if: env.VERCEL_TOKEN != '' && env.VERCEL_PROJECT_ID != ''
+        run: vercel pull --yes --environment=production --token="$VERCEL_TOKEN"
+      - if: env.VERCEL_TOKEN != '' && env.VERCEL_PROJECT_ID != ''
+        run: vercel build --prod --token="$VERCEL_TOKEN"
+      - if: env.VERCEL_TOKEN != '' && env.VERCEL_PROJECT_ID != ''
+        run: vercel deploy --prebuilt --prod --token="$VERCEL_TOKEN"
