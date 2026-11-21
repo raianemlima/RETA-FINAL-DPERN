@@ -11802,6 +11802,270 @@
    ],
    "ressalva": "Na data da prova, o estelionato dependia de representação (CP, art. 171, § 5º). Esse parágrafo foi revogado pela Lei 15.397/2026, e hoje a ação é pública incondicionada.",
    "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-41": {
+   "nota": "O furto se consuma com a posse de fato do bem, ainda que por breve tempo e seguida de perseguição, sendo dispensável a posse mansa, pacífica e desvigiada (STJ, Tema 934). Edna saiu da loja com os bens: o crime se consumou. Por isso a C. O valor abaixo do salário-mínimo e a restituição não bastam, por si sós, para a insignificância (B e E). E a reiteração delitiva pode afastá-la nas duas situações, e não só na II (D).",
+   "dispositivos": [
+    {
+     "ref": "STJ, Tema 934 dos recursos repetitivos",
+     "tipo": "entendimento",
+     "texto": "Consuma-se o crime de furto com a posse de fato da res furtiva, ainda que por breve espaço de tempo e seguida de perseguição ao agente, sendo prescindível a posse mansa e pacífica ou desvigiada."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-42": {
+   "nota": "A interrupção da prescrição pelo recebimento da denúncia produz efeitos relativamente a todos os autores do crime (CP, art. 117, § 1º), inclusive os incluídos depois por aditamento. Por isso a D. A reincidência não influi na prescrição da pretensão punitiva (A, Súmula 220 do STJ). O acréscimo da continuidade delitiva não entra no cálculo (B, Súmula 497 do STF). Na extorsão mediante sequestro, crime permanente, o prazo corre da cessação da permanência, 10/10/2024 (C, art. 111, III). E o acórdão confirmatório da condenação também interrompe a prescrição (E, STF, HC 176.473).",
+   "dispositivos": [
+    {
+     "ref": "CP, art. 117, § 1º, e art. 111, III",
+     "tipo": "lei",
+     "texto": "§ 1º - Excetuados os casos dos incisos V e VI deste artigo, a interrupção da prescrição produz efeitos relativamente a todos os autores do crime. Nos crimes conexos, que sejam objeto do mesmo processo, estende-se aos demais a interrupção relativa a qualquer deles. (Redação dada pela Lei nº 7.209, de 11.7.1984)\nIII - nos crimes permanentes, do dia em que cessou a permanência; (Redação dada pela Lei nº 7.209, de 11.7.1984)",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    },
+    {
+     "ref": "STJ, Súmula 220, e STF, Súmula 497",
+     "tipo": "entendimento",
+     "texto": "Súmula 220 do STJ: a reincidência não influi no prazo da prescrição da pretensão punitiva. Súmula 497 do STF: quando se tratar de crime continuado, a prescrição regula-se pela pena imposta na sentença, não se computando o acréscimo decorrente da continuação."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-43": {
+   "nota": "As três hipóteses são crimes imprescritíveis. A recusa de matrícula por cor é crime de racismo (Lei 7.716/1989, art. 6º). Chamar alguém de 'negão' para ofender é injúria racial, hoje no art. 2º-A da mesma lei. E o STF equiparou a homotransfobia ao racismo, inclusive na injúria (ADO 26 e MI 4.733). O racismo é imprescritível (CF, art. 5º, XLII), e o STF estendeu a imprescritibilidade à injúria racial (HC 154.248). Por isso a E. A injúria racial é de ação pública incondicionada (A e B), e a hipótese III não é atípica (D).",
+   "dispositivos": [
+    {
+     "ref": "Lei 7.716/1989, arts. 2º-A e 6º",
+     "tipo": "lei",
+     "texto": "Art. 2º-A Injuriar alguém, ofendendo-lhe a dignidade ou o decoro, em razão de raça, cor, etnia ou procedência nacional. (Incluído pela Lei nº 14.532, de 2023)\nArt. 6º Recusar, negar ou impedir a inscrição ou ingresso de aluno em estabelecimento de ensino público ou privado de qualquer grau.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l7716.htm"
+    },
+    {
+     "ref": "STF, HC 154.248, ADO 26 e MI 4.733",
+     "tipo": "entendimento",
+     "texto": "A injúria racial é espécie do gênero racismo e, por isso, imprescritível (HC 154.248). As condutas homofóbicas e transfóbicas se enquadram nos tipos da Lei 7.716/1989, inclusive a injúria (ADO 26; MI 4.733, embargos de declaração de 2023)."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-44": {
+   "nota": "Na revisão do Tema 931, o STJ fixou que o inadimplemento da pena de multa, após o cumprimento da pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade diante da alegada hipossuficiência do condenado, salvo decisão em contrário suficientemente motivada. Por isso a A. A cobrança por desconto em vencimento ou salário é admitida (B, CP, art. 50, § 1º). A multa aplicada cumulativamente prescreve no mesmo prazo da pena privativa de liberdade (C, art. 114, II). A execução cabe ao juiz da execução penal (D, art. 51). E a pena não passa da pessoa do condenado (E, CF, art. 5º, XLV).",
+   "dispositivos": [
+    {
+     "ref": "STJ, Tema 931 dos recursos repetitivos (revisado)",
+     "tipo": "entendimento",
+     "texto": "O inadimplemento da pena de multa, após cumprida a pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade, ante a alegada hipossuficiência do condenado, salvo se diversamente entender o juiz competente, em decisão suficientemente motivada, que indique concretamente a possibilidade de pagamento da sanção pecuniária."
+    },
+    {
+     "ref": "CP, arts. 51 e 114, II",
+     "tipo": "lei",
+     "texto": "Art. 51. Transitada em julgado a sentença condenatória, a multa será executada perante o juiz da execução penal e será considerada dívida de valor, aplicáveis as normas relativas à dívida ativa da Fazenda Pública, inclusive no que concerne às causas interruptivas e suspensivas da prescrição. (Redação dada pela Lei nº 13.964, de 2019) (Vide ADI 7032)\nII - no mesmo prazo estabelecido para prescrição da pena privativa de liberdade, quando a multa for alternativa ou cumulativamente cominada ou cumulativamente aplicada. (Incluído pela Lei nº 9.268, de 1º.4.1996)",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-45": {
+   "nota": "Para a reabilitação, o condenado deve ter ressarcido o dano ou demonstrar a absoluta impossibilidade de fazê-lo (CP, art. 94, III), mesmo que a sentença tenha sido silente sobre a indenização. Por isso a A. A hipossuficiência pode demonstrar a impossibilidade e afastar a exigência (B). O prazo é de 2 anos, e não 3 (C). A reabilitação não reintegra o condenado ao cargo perdido (D, art. 93, parágrafo único). E é revogada de ofício se ele for condenado como reincidente (E, art. 95).",
+   "dispositivos": [
+    {
+     "ref": "CP, art. 94, caput e III, art. 93, parágrafo único, e art. 95",
+     "tipo": "lei",
+     "texto": "Art. 94 - A reabilitação poderá ser requerida, decorridos 2 (dois) anos do dia em que for extinta, de qualquer modo, a pena ou terminar sua execução, computando-se o período de prova da suspensão e o do livramento condicional, se não sobrevier revogação, desde que o condenado: (Redação dada pela Lei nº 7.209, de 11.7.1984)\nIII - tenha ressarcido o dano causado pelo crime ou demonstre a absoluta impossibilidade de o fazer, até o dia do pedido, ou exiba documento que comprove a renúncia da vítima ou novação da dívida. (Redação dada pela Lei nº 7.209, de 11.7.1984)\nParágrafo único - A reabilitação poderá, também, atingir os efeitos da condenação, previstos no art. 92 deste Código, vedada reintegração na situação anterior, nos casos dos incisos I e II do mesmo artigo. (Redação dada pela Lei nº 7.209, de 11.7.1984)\nArt. 95 - A reabilitação será revogada, de ofício ou a requerimento do Ministério Público, se o reabilitado for condenado, como reincidente, por decisão definitiva, a pena que não seja de multa. (Redação dada pela Lei nº 7.209, de 11.7.1984)",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-46": {
+   "nota": "Há os três tipos de ação penal. A ameaça contra a mulher por razões da condição do sexo feminino, como o ciúme que motivou Gilson, é de ação pública incondicionada (CP, art. 147, §§ 1º e 2º). A injúria simples é de ação penal privada (art. 145). E a perseguição é de ação pública condicionada à representação (art. 147-A, § 3º). Por isso a C.",
+   "dispositivos": [
+    {
+     "ref": "CP, art. 145, art. 147, § 2º, e art. 147-A, § 3º",
+     "tipo": "lei",
+     "texto": "Art. 145 - Nos crimes previstos neste Capítulo somente se procede mediante queixa, salvo quando, no caso do art. 140, § 2º, da violência resulta lesão corporal.\n§ 2º Somente se procede mediante representação, exceto na hipótese prevista no § 1º deste artigo. (Incluído pela Lei nº 14.994, de 2024)\n§ 3º Somente se procede mediante representação. (Incluído pela Lei nº 14.132, de 2021)",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-47": {
+   "nota": "Nos crimes culposos, a substituição por restritiva de direitos é cabível qualquer que seja a pena aplicada (CP, art. 44, I). Por isso a D: Cristiane pode obtê-la apesar dos 4 anos e 6 meses. Para a lesão culposa no trânsito sob efeito de álcool, a substituição é vedada (art. 312-B do CTB). Para o reincidente, ela é possível se a medida for socialmente recomendável e a reincidência não for no mesmo crime (C e E, art. 44, § 3º); se o crime anterior de Mário fosse estelionato, a substituição estaria vedada. José Afonso, por sua vez, pode obtê-la pela colaboração (Lei 9.613/1998, art. 1º, § 5º), o que afasta a A.",
+   "dispositivos": [
+    {
+     "ref": "CP, art. 44, I e § 3º",
+     "tipo": "lei",
+     "texto": "I – aplicada pena privativa de liberdade não superior a quatro anos e o crime não for cometido com violência ou grave ameaça à pessoa ou, qualquer que seja a pena aplicada, se o crime for culposo; (Redação dada pela Lei nº 9.714, de 1998)\n§ 3 o Se o condenado for reincidente, o juiz poderá aplicar a substituição, desde que, em face de condenação anterior, a medida seja socialmente recomendável e a reincidência não se tenha operado em virtude da prática do mesmo crime. (Incluído pela Lei nº 9.714, de 1998)",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    },
+    {
+     "ref": "CTB, art. 312-B",
+     "tipo": "lei",
+     "texto": "Art. 312-B. Aos crimes previstos no § 3º do art. 302 e no § 2º do art. 303 deste Código não se aplica o disposto no inciso I do caput do art. 44 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) . (Incluído pela Lei nº 14.071, de 2020)",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-48": {
+   "nota": "Se os estilhaços ferissem Júlio, uma só ação de Cristiano produziria o dano doloso e uma lesão corporal culposa, em concurso formal (CP, art. 70). Por isso a E. O erro de Emílio é erro de tipo evitável, que exclui o dolo e permite a punição por homicídio culposo (A, art. 20). O erro de Cristiano sobre o dono do carro é acidental e não afasta o crime de dano (B). E, no erro na execução, consideram-se as qualidades da vítima visada, o irmão, e não da mãe atingida (C, art. 73).",
+   "dispositivos": [
+    {
+     "ref": "CP, arts. 20 e 70",
+     "tipo": "lei",
+     "texto": "Art. 20 - O erro sobre elemento constitutivo do tipo legal de crime exclui o dolo, mas permite a punição por crime culposo, se previsto em lei. (Redação dada pela Lei nº 7.209, de 11.7.1984)\nArt. 70 - Quando o agente, mediante uma só ação ou omissão, pratica dois ou mais crimes, idênticos ou não, aplica-se-lhe a mais grave das penas cabíveis ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de um sexto até metade. As penas aplicam-se, entretanto, cumulativamente, se a ação ou omissão é dolosa e os crimes concorrentes resultam de desígnios autônomos, consoante o disposto no artigo anterior. (Redação dada pela Lei nº 7.209, de 11.7.1984)",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-49": {
+   "nota": "Cabe recurso em sentido estrito da decisão que indefere o pedido de reconhecimento da prescrição (CPP, art. 581, IX). Esse recurso só tem efeito suspensivo nas hipóteses listadas no art. 584, entre as quais não está a do inciso IX. Por isso a C.",
+   "dispositivos": [
+    {
+     "ref": "CPP, art. 581, IX, e art. 584",
+     "tipo": "lei",
+     "texto": "IX - que indeferir o pedido de reconhecimento da prescrição ou de outra causa extintiva da punibilidade;\nArt. 584. Os recursos terão efeito suspensivo nos casos de perda da fiança, de concessão de livramento condicional e dos ns. XV, XVII e XXIV do art. 581 .",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-50": {
+   "nota": "A sequência é V, F, V. A primeira reproduz o art. 19, § 5º, da Lei Maria da Penha. A segunda é falsa: a lei não fixa prazo máximo, e as medidas vigoram enquanto persistir o risco (art. 19, § 6º). A terceira reproduz o art. 19, § 1º. Por isso a C.",
+   "dispositivos": [
+    {
+     "ref": "Lei 11.340/2006, art. 19, §§ 1º, 5º e 6º",
+     "tipo": "lei",
+     "texto": "§ 1º As medidas protetivas de urgência poderão ser concedidas de imediato, independentemente de audiência das partes e de manifestação do Ministério Público, devendo este ser prontamente comunicado.\n§ 5º As medidas protetivas de urgência serão concedidas independentemente da tipificação penal da violência, do ajuizamento de ação penal ou cível, da existência de inquérito policial ou do registro de boletim de ocorrência. (Incluído pela Lei nº 14.550, de 2023)\n§ 6º As medidas protetivas de urgência vigorarão enquanto persistir risco à integridade física, psicológica, sexual, patrimonial ou moral da ofendida ou de seus dependentes. (Incluído pela Lei nº 14.550, de 2023)",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-51": {
+   "nota": "Só a I está correta: para vítimas ou testemunhas ameaçadas ou em grave risco, a Resolução CNJ 427/2021 permite, por decisão judicial, registrar em apartado os dados qualificativos e endereços, que ficam sigilosos e fora dos autos. A II erra ao vedar a atuação de ofício: o juiz pode determinar a preservação dos dados também de ofício. A III não reproduz a disciplina de acesso da resolução, que não condiciona nesses termos o acesso do Ministério Público e da defesa. Por isso a A.",
+   "dispositivos": [
+    {
+     "ref": "CNJ, Resolução 427/2021 (proteção de dados de vítimas e testemunhas)",
+     "tipo": "entendimento",
+     "texto": "Os tribunais devem permitir que os dados qualificativos e endereços de vítimas e testemunhas ameaçadas ou em grave risco sejam registrados em apartado, mediante decisão judicial, de ofício ou a requerimento, permanecendo sigilosos e fora dos autos físicos ou eletrônicos."
+    }
+   ],
+   "ressalva": "A justificativa da afirmativa III segue o gabarito oficial; confira a redação da Resolução CNJ 427/2021 no portal de atos do CNJ.",
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-52": {
+   "nota": "A questão pede a incorreta. Se não for possível identificar o acusado pelo nome, a ação penal não é retardada quando certa a identidade física, e a qualificação, se descoberta, é retificada a qualquer tempo, sem suspensão do processo nem da prescrição (CPP, art. 259). Por isso a A. As demais reproduzem os arts. 265 (B), 263 (C) e 261, caput e parágrafo único (E e D).",
+   "dispositivos": [
+    {
+     "ref": "CPP, arts. 259, 261, 263 e 265",
+     "tipo": "lei",
+     "texto": "Art. 259. A impossibilidade de identificação do acusado com o seu verdadeiro nome ou outros qualificativos não retardará a ação penal, quando certa a identidade física. A qualquer tempo, no curso do processo, do julgamento ou da execução da sentença, se for descoberta a sua qualificação, far-se-á a retificação, por termo, nos autos, sem prejuízo da validade dos atos precedentes.\nArt. 261. Nenhum acusado, ainda que ausente ou foragido, será processado ou julgado sem defensor.\nParágrafo único. A defesa técnica, quando realizada por defensor público ou dativo, será sempre exercida através de manifestação fundamentada. (Incluído pela Lei nº 10.792, de 1º.12.2003)\nArt. 263. Se o acusado não o tiver, ser-lhe-á nomeado defensor pelo juiz, ressalvado o seu direito de, a todo tempo, nomear outro de sua confiança, ou a si mesmo defender-se, caso tenha habilitação.\nArt. 265. O defensor não poderá abandonar o processo sem justo motivo, previamente comunicado ao juiz, sob pena de responder por infração disciplinar perante o órgão correicional competente. (Redação dada pela Lei nº 14.752, de 2023)",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-53": {
+   "nota": "A questão pede a incorreta. Para a Resolução CNJ 484/2022, o reconhecimento de pessoas é, por sua natureza, prova irrepetível. A memória da vítima ou testemunha se contamina após o primeiro ato, e por isso a resolução não autoriza repeti-lo, nem 'uma única vez'. Por isso a A. As demais reproduzem as diretrizes da resolução: preferência pelo alinhamento presencial (B), precariedade probatória do reconhecimento (C), registro pormenorizado com gravação (D) e direito a defensor no procedimento (E).",
+   "dispositivos": [
+    {
+     "ref": "CNJ, Resolução 484/2022 (reconhecimento de pessoas)",
+     "tipo": "entendimento",
+     "texto": "O reconhecimento de pessoas, por sua natureza, é prova irrepetível; deve ser feito preferencialmente por alinhamento presencial, reduzido a termo de forma pormenorizada e gravado, e valorado pelo juiz com atenção à falibilidade da memória humana, em conjunto com as demais provas."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-54": {
+   "nota": "Só a III está correta, porque reproduz o art. 8º-A, § 4º, da Lei 9.296/1996, restabelecido após a derrubada do veto. A I erra porque a instalação do dispositivo por operação disfarçada ou à noite é admitida exceto na casa (§ 2º). A II erra o prazo, que é de 15 dias, e não 10 (§ 3º). Por isso a C.",
+   "dispositivos": [
+    {
+     "ref": "Lei 9.296/1996, art. 8º-A, §§ 2º, 3º e 4º",
+     "tipo": "lei",
+     "texto": "§ 2º A instalação do dispositivo de captação ambiental poderá ser realizada, quando necessária, por meio de operação policial disfarçada ou no período noturno, exceto na casa, nos termos do inciso XI do caput do art. 5º da Constituição Federal. (Incluído pela Lei nº 13.964, de 2019) (Vigência)\n§ 3º A captação ambiental não poderá exceder o prazo de 15 (quinze) dias, renovável por decisão judicial por iguais períodos, se comprovada a indispensabilidade do meio de prova e quando presente atividade criminal permanente, habitual ou continuada. (Incluído pela Lei nº 13.964, de 2019)\n§ 4º A captação ambiental feita por um dos interlocutores sem o prévio conhecimento da autoridade policial ou do Ministério Público poderá ser utilizada, em matéria de defesa, quando demonstrada a integridade da gravação. (Incluído pela Lei nº 13.964, de 2019) (Vigência)",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-55": {
+   "nota": "A A reproduz o art. 76, § 4º, da Lei 9.099/1995, e por isso é a correta. Da sentença homologatória da transação cabe apelação (B, § 5º). A sanção não consta de certidão de antecedentes e não tem efeitos civis (C, § 6º). O impedimento é a condenação anterior por crime a pena privativa de liberdade, e não por contravenção (D, § 2º, I). E, sendo a multa a única pena aplicável, o juiz pode reduzi-la até a metade, e não dobrá-la (E, § 1º).",
+   "dispositivos": [
+    {
+     "ref": "Lei 9.099/1995, art. 76, §§ 1º, 2º, I, 4º, 5º e 6º",
+     "tipo": "lei",
+     "texto": "§ 1º Nas hipóteses de ser a pena de multa a única aplicável, o Juiz poderá reduzi-la até a metade.\nI - ter sido o autor da infração condenado, pela prática de crime, à pena privativa de liberdade, por sentença definitiva;\n§ 4º Acolhendo a proposta do Ministério Público aceita pelo autor da infração, o Juiz aplicará a pena restritiva de direitos ou multa, que não importará em reincidência, sendo registrada apenas para impedir novamente o mesmo benefício no prazo de cinco anos.\n§ 5º Da sentença prevista no parágrafo anterior caberá a apelação referida no art. 82 desta Lei.\n§ 6º A imposição da sanção de que trata o § 4º deste artigo não constará de certidão de antecedentes criminais, salvo para os fins previstos no mesmo dispositivo, e não terá efeitos civis, cabendo aos interessados propor ação cabível no juízo cível.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-56": {
+   "nota": "A sequência é V, F, F. A fiança é quebrada quando o acusado, regularmente intimado, deixa de comparecer sem motivo justo (CPP, art. 341, I). O quebramento importa a perda de metade do valor, e não da totalidade (art. 343). E o saldo vai para o fundo penitenciário, e não para a vítima (art. 346). Por isso a E.",
+   "dispositivos": [
+    {
+     "ref": "CPP, arts. 341, I, 343 e 346",
+     "tipo": "lei",
+     "texto": "I - regularmente intimado para ato do processo, deixar de comparecer, sem motivo justo; (Incluído pela Lei nº 12.403, de 2011).\nArt. 343. O quebramento injustificado da fiança importará na perda de metade do seu valor, cabendo ao juiz decidir sobre a imposição de outras medidas cautelares ou, se for o caso, a decretação da prisão preventiva. (Redação dada pela Lei nº 12.403, de 2011).\nArt. 346. No caso de quebramento de fiança, feitas as deduções previstas no art. 345 deste Código , o valor restante será recolhido ao fundo penitenciário, na forma da lei. (Redação dada pela Lei nº 12.403, de 2011).",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-57": {
+   "nota": "A prisão especial vale apenas antes da condenação definitiva, e quem já exerceu efetivamente a função de jurado tem esse direito (CPP, art. 295, X). Já a prisão especial para diplomados em curso superior foi declarada inconstitucional pelo STF (ADPF 334). Assim, Júlio tem direito durante a segregação cautelar, e Caio não. Por isso a C.",
+   "dispositivos": [
+    {
+     "ref": "CPP, art. 295, X",
+     "tipo": "lei",
+     "texto": "X - os cidadãos que já tiverem exercido efetivamente a função de jurado, salvo quando excluídos da lista por motivo de incapacidade para o exercício daquela função;",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    },
+    {
+     "ref": "STF, ADPF 334",
+     "tipo": "entendimento",
+     "texto": "É inconstitucional a prisão especial para portadores de diploma de curso superior (art. 295, VII, do CPP), por violar o princípio da isonomia."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-58": {
+   "nota": "Só a I está correta, porque reproduz o art. 150, § 2º, do CPP. A II erra o prazo do exame, que é de 45 dias, e não 30 (art. 150, § 1º). A III erra porque, se os peritos concluírem pela inimputabilidade ao tempo do fato, o processo prossegue com a presença do curador (art. 151). A suspensão do art. 152 é para a doença mental superveniente à infração. Por isso a A.",
+   "dispositivos": [
+    {
+     "ref": "CPP, art. 150, §§ 1º e 2º, e art. 151",
+     "tipo": "lei",
+     "texto": "§ 1 o O exame não durará mais de quarenta e cinco dias, salvo se os peritos demonstrarem a necessidade de maior prazo.\n§ 2 o Se não houver prejuízo para a marcha do processo, o juiz poderá autorizar sejam os autos entregues aos peritos, para facilitar o exame.\nArt. 151. Se os peritos concluírem que o acusado era, ao tempo da infração, irresponsável nos termos do art. 22 do Código Penal , o processo prosseguirá, com a presença do curador.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-59": {
+   "nota": "Na data da prova, o art. 112 da LEP, na redação da Lei 13.964/2019, previa para a progressão: 16% (primário) e 20% (reincidente) nos crimes sem violência ou grave ameaça, e 25% e 30% nos crimes com violência ou grave ameaça. O livramento condicional manteve o requisito objetivo de mais de um terço para o não reincidente em crime doloso e de mais da metade para o reincidente (CP, art. 83, I e II), sem alteração pelo Pacote Anticrime. Por isso a A. As demais trocam as frações dos crimes hediondos, que eram 40%, 50%, 60% e 70%.",
+   "dispositivos": [
+    {
+     "ref": "CP, art. 83, I e II",
+     "tipo": "lei",
+     "texto": "I - cumprida mais de um terço da pena se o condenado não for reincidente em crime doloso e tiver bons antecedentes; (Redação dada pela Lei nº 7.209, de 11.7.1984)\nII - cumprida mais da metade se o condenado for reincidente em crime doloso; (Redação dada pela Lei nº 7.209, de 11.7.1984)",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    }
+   ],
+   "ressalva": "O art. 112 da LEP foi alterado em 2026 pelas Leis 15.358 e 15.402. Hoje a regra geral é de 1/6, e os crimes hediondos exigem de 70% a 85%. A justificativa segue o texto vigente na data da prova; confira a redação atual no Planalto.",
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-60": {
+   "nota": "Estão corretas I e II, que reproduzem as Regras de Bangkok sobre capacitação de servidores (Regras 29 e 33) e sobre classificação sensível ao gênero, com acomodação menos restritiva para presas com necessidade de atenção à saúde mental (Regra 41). A III erra ao tornar obrigatório o teste de HIV: a Regra 6 prevê que, a depender dos fatores de risco, as presas poderão optar por realizá-lo, com orientação antes e depois. Por isso a B.",
+   "dispositivos": [
+    {
+     "ref": "Regras de Bangkok (ONU), Regras 6, 29, 33 e 41",
+     "tipo": "entendimento",
+     "texto": "Regra 6: o exame médico de ingresso deve determinar, entre outros, a presença de doenças sexualmente transmissíveis ou de transmissão sanguínea; a depender dos fatores de risco, as mulheres presas poderão optar por realizar testes de HIV, com orientação antes e depois do teste. Regras 29 e 33: capacitação dos servidores sobre gênero, discriminação, assédio sexual e necessidades das crianças. Regra 41: classificação que leve em conta o gênero e acomodação menos restritiva para presas que necessitem de atenção à saúde mental."
+    }
+   ],
+   "conferido": "2026-11-21"
   }
  }
 }
