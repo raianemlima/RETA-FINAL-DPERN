@@ -14501,6 +14501,446 @@
     }
    ],
    "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-41": {
+   "nota": "O STF reconhece aos Tribunais de Contas poder geral de cautela, que inclui o exame prévio de editais de licitação e a suspensão do certame até a correção de irregularidades (CF, art. 71, IX e X; MS 24.510). Por isso a D. As sanções por improbidade dependem de ação judicial (B), e o Tribunal de Contas não anula contratos diretamente (A, art. 71, § 1º).",
+   "dispositivos": [
+    {
+     "ref": "STF, MS 24.510 (poder geral de cautela dos Tribunais de Contas)",
+     "tipo": "entendimento",
+     "texto": "Os Tribunais de Contas possuem legitimidade para expedir medidas cautelares, inclusive a suspensão de procedimentos licitatórios, a fim de prevenir lesão ao erário e garantir a efetividade de suas decisões."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-42": {
+   "nota": "A Lei 8.666/1993 permitia a alteração unilateral do contrato quando houvesse modificação do projeto para melhor adequação técnica aos seus objetivos (art. 65, I, a). Determinava também que, se a alteração aumentasse os encargos do contratado, a Administração restabelecesse por aditamento o equilíbrio econômico-financeiro (art. 65, § 6º). Por isso a C. O limite de 50% vale só para reforma de edifício ou equipamento (B).",
+   "dispositivos": [
+    {
+     "ref": "Lei 8.666/1993, art. 65, I, a, e § 6º",
+     "tipo": "entendimento",
+     "texto": "Os contratos podem ser alterados unilateralmente pela Administração quando houver modificação do projeto ou das especificações, para melhor adequação técnica aos seus objetivos; em havendo alteração unilateral que aumente os encargos do contratado, a Administração deverá restabelecer, por aditamento, o equilíbrio econômico-financeiro inicial."
+    }
+   ],
+   "ressalva": "A Lei 8.666/1993 foi revogada pela Lei 14.133/2021, que mantém regra equivalente nos arts. 124, I, a, e 130.",
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-43": {
+   "nota": "Nos Temas 377 e 384 (RE 602.043 e RE 612.975), o STF fixou que, nos casos de acumulação autorizada pela Constituição, o teto incide sobre cada um dos vínculos isoladamente, e não sobre o somatório das remunerações. Por isso a B.",
+   "dispositivos": [
+    {
+     "ref": "STF, Temas 377 e 384 da repercussão geral",
+     "tipo": "entendimento",
+     "texto": "Nos casos autorizados constitucionalmente de acumulação de cargos, empregos e funções, a incidência do art. 37, inciso XI, da Constituição Federal pressupõe consideração de cada um dos vínculos formalizados, afastada a observância do teto remuneratório quanto ao somatório dos ganhos do agente público."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-49": {
+   "nota": "Na Lei de Crimes Ambientais, o recolhimento domiciliar é pena restritiva de direitos, baseada na autodisciplina do condenado, que trabalha sem vigilância e fica recolhido nas folgas (arts. 8º, V, e 13). Não se confunde com a prisão domiciliar do regime aberto. Por isso a D. A substituição cabe para pena inferior a quatro anos, e não de até quatro (A, art. 7º, I). A suspensão condicional da pena alcança penas de até três anos (E, art. 16). O período noturno e o domingo são agravantes, e o baixo grau de instrução é atenuante (B e C, arts. 14 e 15).",
+   "dispositivos": [
+    {
+     "ref": "Lei 9.605/1998, arts. 7º, I, 8º, V, 13 e 16",
+     "tipo": "lei",
+     "texto": "I - tratar-se de crime culposo ou for aplicada a pena privativa de liberdade inferior a quatro anos;\nV - recolhimento domiciliar.\nArt. 13. O recolhimento domiciliar baseia-se na autodisciplina e senso de responsabilidade do condenado, que deverá, sem vigilância, trabalhar, freqüentar curso ou exercer atividade autorizada, permanecendo recolhido nos dias e horários de folga em residência ou em qualquer local destinado a sua moradia habitual, conforme estabelecido na sentença condenatória.\nArt. 16. Nos crimes previstos nesta Lei, a suspensão condicional da pena pode ser aplicada nos casos de condenação a pena privativa de liberdade não superior a três anos.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-81": {
+   "nota": "As obrigações se qualificam e se regem pela lei do país em que se constituíram (LINDB, art. 9º), aqui a norte-americana, onde o jogo é lícito. A aplicação no Brasil depende de não ofender a soberania nacional, a ordem pública e os bons costumes (art. 17). O STJ admitiu a cobrança de dívida de jogo contraída legalmente no exterior. Por isso a D.",
+   "dispositivos": [
+    {
+     "ref": "LINDB, arts. 9º e 17",
+     "tipo": "lei",
+     "texto": "Art. 9 o Para qualificar e reger as obrigações, aplicar-se-á a lei do país em que se constituirem.\nArt. 17. As leis, atos e sentenças de outro país, bem como quaisquer declarações de vontade, não terão eficácia no Brasil, quando ofenderem a soberania nacional, a ordem pública e os bons costumes.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-82": {
+   "nota": "A C reproduz o art. 883 do CC e seu parágrafo único e, por isso, é a correta. Quem alienou de boa-fé a título oneroso responde só pela quantia recebida, e de má-fé, também por perdas e danos (A, art. 879). Cabe a quem pagou voluntariamente provar que o fez por erro (B, art. 877). Não se repete o que se pagou para solver dívida prescrita ou obrigação judicialmente inexigível (D, art. 882). E a obrigação de restituir alcança quem recebe dívida condicional antes de cumprida a condição (E, art. 876).",
+   "dispositivos": [
+    {
+     "ref": "CC, art. 883 e parágrafo único",
+     "tipo": "lei",
+     "texto": "Art. 883. Não terá direito à repetição aquele que deu alguma coisa para obter fim ilícito, imoral, ou proibido por lei.\nParágrafo único. No caso deste artigo, o que se deu reverterá em favor de estabelecimento local de beneficência, a critério do juiz.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-144": {
+   "nota": "No Tema 782 (RE 778.889), o STF fixou que os prazos da licença-adotante não podem ser inferiores aos da licença-gestante, nem pode haver prazos diversos em função da idade da criança adotada. Para a servidora estatutária estadual, a via é o mandado de segurança na Justiça estadual. A competência não é da Justiça do Trabalho, pois o vínculo é estatutário. Por isso a A. Não há súmula vinculante sobre o tema (C).",
+   "dispositivos": [
+    {
+     "ref": "STF, Tema 782 da repercussão geral (RE 778.889)",
+     "tipo": "entendimento",
+     "texto": "Os prazos da licença adotante não podem ser inferiores aos prazos da licença gestante, o mesmo valendo para as respectivas prorrogações. Em relação à licença adotante, não é possível fixar prazos diversos em função da idade da criança adotada."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-145": {
+   "nota": "As CPIs são temporárias, criadas por prazo certo, mediante requerimento de um terço dos membros da Casa, para apurar fato determinado (CF, art. 58, § 3º). Podem convocar Ministros de Estado (art. 58, § 2º, III, e art. 50). Por isso a A. A CPI exige fato determinado (B), tem prazo certo (C e D), e o quórum é de um terço, e não de maioria (E).",
+   "dispositivos": [
+    {
+     "ref": "CF, art. 58, § 3º",
+     "tipo": "lei",
+     "texto": "§ 3º As comissões parlamentares de inquérito, que terão poderes de investigação próprios das autoridades judiciais, além de outros previstos nos regimentos das respectivas Casas, serão criadas pela Câmara dos Deputados e pelo Senado Federal, em conjunto ou separadamente, mediante requerimento de um terço de seus membros, para a apuração de fato determinado e por prazo certo, sendo suas conclusões, se for o caso, encaminhadas ao Ministério Público, para que promova a responsabilidade civil ou criminal dos infratores.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-146": {
+   "nota": "É vedada a cassação de direitos políticos, cuja perda ou suspensão só se dá nos casos do art. 15 da CF, entre eles a incapacidade civil absoluta (inciso II). Por isso a E. O cancelamento da naturalização exige sentença transitada em julgado (C, inciso I), e a condenação criminal também deve ter transitado em julgado (B, inciso III).",
+   "dispositivos": [
+    {
+     "ref": "CF, art. 15, I e II",
+     "tipo": "lei",
+     "texto": "Art. 15. É vedada a cassação de direitos políticos, cuja perda ou suspensão só se dará nos casos de:\nI - cancelamento da naturalização por sentença transitada em julgado;\nII - incapacidade civil absoluta;",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-147": {
+   "nota": "Reconhecida a mora, a decisão pode estabelecer as condições de exercício do direito (Lei 13.300/2016, art. 8º, II). A norma regulamentadora superveniente produz efeitos ex nunc, salvo se for mais favorável ao beneficiado (art. 11). Por isso a C. O mandado de injunção foi criado pela Constituição de 1988 (B). A lei permite a eficácia ultra partes ou erga omnes (D, art. 9º, § 1º). E o mandado de injunção não está entre as hipóteses de recurso ordinário ao STJ (E, CF, art. 105, II).",
+   "dispositivos": [
+    {
+     "ref": "Lei 13.300/2016, art. 8º, II, e art. 11",
+     "tipo": "lei",
+     "texto": "II - estabelecer as condições em que se dará o exercício dos direitos, das liberdades ou das prerrogativas reclamados ou, se for o caso, as condições em que poderá o interessado promover ação própria visando a exercê-los, caso não seja suprida a mora legislativa no prazo determinado.\nArt. 11. A norma regulamentadora superveniente produzirá efeitos ex nunc em relação aos beneficiados por decisão transitada em julgado, salvo se a aplicação da norma editada lhes for mais favorável.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13300.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-148": {
+   "nota": "O STF entende que a reserva de iniciativa do Chefe do Executivo para leis sobre regime jurídico de servidores não se estende às propostas de emenda à Constituição Federal, cuja iniciativa é regulada pelo art. 60. Assim, a PEC parlamentar que estende aos profissionais de saúde das Forças Armadas a acumulação de cargos (EC 77/2014) não tem vício de iniciativa. Por isso a D. Pela mesma razão, a E erra (ADI 5.296, sobre a EC 74/2013). O controle preventivo por mandado de segurança de parlamentar se restringe a vícios formais, com exceção da PEC tendente a abolir cláusula pétrea (B).",
+   "dispositivos": [
+    {
+     "ref": "STF, ADI 5.296 e iniciativa de emendas constitucionais",
+     "tipo": "entendimento",
+     "texto": "As hipóteses de iniciativa privativa do Chefe do Executivo previstas no art. 61, § 1º, da CF não se aplicam às propostas de emenda à Constituição Federal, cuja iniciativa é disciplinada exclusivamente pelo art. 60."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-149": {
+   "nota": "A D reproduz o art. 14, § 2º, da CF e, por isso, é a correta. A suspensão de direitos políticos exige condenação criminal transitada em julgado (A, art. 15, III). A ação de impugnação de mandato tramita em segredo de justiça (B, art. 14, § 11). A idade de 30 anos é para governador, e para presidente e senador são 35 (C). E a lei que altera o processo eleitoral não se aplica à eleição que ocorra até um ano de sua vigência (E, art. 16).",
+   "dispositivos": [
+    {
+     "ref": "CF, art. 14, §§ 2º e 11, e art. 16",
+     "tipo": "lei",
+     "texto": "§ 2º Não podem alistar-se como eleitores os estrangeiros e, durante o período do serviço militar obrigatório, os conscritos.\n§ 11. A ação de impugnação de mandato tramitará em segredo de justiça, respondendo o autor, na forma da lei, se temerária ou de manifesta má-fé.\nArt. 16. A lei que alterar o processo eleitoral entrará em vigor na data de sua publicação, não se aplicando à eleição que ocorra até um ano da data de sua vigência. (Redação dada pela Emenda Constitucional nº 4, de 1993)",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-152": {
+   "nota": "Os preponentes respondem pelos atos de quaisquer prepostos praticados nos seus estabelecimentos e relativos à atividade da empresa, ainda que não autorizados por escrito (CC, art. 1.178). Por isso a C. Para atos praticados fora do estabelecimento, a responsabilidade se limita aos poderes conferidos por escrito (art. 1.178, parágrafo único).",
+   "dispositivos": [
+    {
+     "ref": "CC, art. 1.178",
+     "tipo": "lei",
+     "texto": "Art. 1.178. Os preponentes são responsáveis pelos atos de quaisquer prepostos, praticados nos seus estabelecimentos e relativos à atividade da empresa, ainda que não autorizados por escrito.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-153": {
+   "nota": "A A reproduz o art. 1.147 do CC e seu parágrafo único e, por isso, é a correta. Os contratos sobre o estabelecimento só produzem efeitos perante terceiros após averbação e publicação (B, art. 1.144). Se restarem bens suficientes, a eficácia da alienação não depende do pagamento ou do consentimento dos credores, que pode ser tácito (C, art. 1.145). O adquirente responde só pelos débitos regularmente contabilizados (D, art. 1.146). E a sub-rogação não alcança os contratos de caráter pessoal (E, art. 1.148).",
+   "dispositivos": [
+    {
+     "ref": "CC, arts. 1.144, 1.146 e 1.147",
+     "tipo": "lei",
+     "texto": "Art. 1.144. O contrato que tenha por objeto a alienação, o usufruto ou arrendamento do estabelecimento, só produzirá efeitos quanto a terceiros depois de averbado à margem da inscrição do empresário, ou da sociedade empresária, no Registro Público de Empresas Mercantis, e de publicado na imprensa oficial.\nArt. 1.146. O adquirente do estabelecimento responde pelo pagamento dos débitos anteriores à transferência, desde que regularmente contabilizados, continuando o devedor primitivo solidariamente obrigado pelo prazo de um ano, a partir, quanto aos créditos vencidos, da publicação, e, quanto aos outros, da data do vencimento.\nArt. 1.147. Não havendo autorização expressa, o alienante do estabelecimento não pode fazer concorrência ao adquirente, nos cinco anos subseqüentes à transferência.\nParágrafo único. No caso de arrendamento ou usufruto do estabelecimento, a proibição prevista neste artigo persistirá durante o prazo do contrato.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-194": {
+   "nota": "Aplicam-se às penas restritivas de direitos os mesmos prazos de prescrição das privativas de liberdade (CP, art. 109, parágrafo único). Por isso a E. A prestação de serviços cabe para condenações superiores a seis meses, seja a pena de reclusão ou de detenção (A, art. 46). Diante de nova condenação, a conversão não é obrigatória, pois o juiz pode deixar de aplicá-la (B, art. 44, § 5º). A reincidência específica impede a substituição (C, art. 44, § 3º). E não há regra de seis anos para réu idoso (D).",
+   "dispositivos": [
+    {
+     "ref": "CP, art. 109, parágrafo único, e art. 44, § 5º",
+     "tipo": "lei",
+     "texto": "Parágrafo único - Aplicam-se às penas restritivas de direito os mesmos prazos previstos para as privativas de liberdade. (Redação dada pela Lei nº 7.209, de 11.7.1984)\n§ 5 o Sobrevindo condenação a pena privativa de liberdade, por outro crime, o juiz da execução penal decidirá sobre a conversão, podendo deixar de aplicá-la se for possível ao condenado cumprir a pena substitutiva anterior. (Incluído pela Lei nº 9.714, de 1998)",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-195": {
+   "nota": "A omissão só é penalmente relevante quando o omitente devia e podia agir para evitar o resultado (CP, art. 13, § 2º). Sem o poder de agir, a conduta é atípica. Por isso a C. Os crimes comissivos por omissão são crimes de resultado, e não de mera atividade (D). A tipicidade é a do tipo comissivo, sem a exceção mencionada na B. E, na ingerência, basta que o comportamento anterior tenha criado o risco do resultado (E, alínea c).",
+   "dispositivos": [
+    {
+     "ref": "CP, art. 13, § 2º",
+     "tipo": "lei",
+     "texto": "§ 2 º - A omissão é penalmente relevante quando o omitente devia e podia agir para evitar o resultado. O dever de agir incumbe a quem: (Incluído pela Lei nº 7.209, de 11.7.1984)\na) tenha por lei obrigação de cuidado, proteção ou vigilância; (Incluído pela Lei nº 7.209, de 11.7.1984)\nb) de outra forma, assumiu a responsabilidade de impedir o resultado; (Incluído pela Lei nº 7.209, de 11.7.1984)\nc) com seu comportamento anterior, criou o risco da ocorrência do resultado. (Incluído pela Lei nº 7.209, de 11.7.1984)",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-196": {
+   "nota": "A teoria da imputação objetiva parte da insuficiência do nexo causal naturalístico para atribuir o resultado típico. Ao critério da causalidade, acrescenta critérios normativos, como a criação de um risco proibido e a realização desse risco no resultado. Por isso a C. Ela se aplica também aos crimes dolosos (A). E o termo 'imputação' é antigo, remontando a Hegel e Larenz (B).",
+   "dispositivos": [
+    {
+     "ref": "Teoria da imputação objetiva",
+     "tipo": "entendimento",
+     "texto": "A imputação objetiva pressupõe que o nexo causal naturalístico é insuficiente para atribuir o resultado ao agente, exigindo a criação de um risco juridicamente proibido e a realização desse risco no resultado, critérios aplicáveis a crimes dolosos e culposos."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-269": {
+   "nota": "Estão corretas I, III e IV. Pela Súmula 455 do STJ, a antecipação de provas do art. 366 do CPP exige fundamentação concreta e não se justifica pelo mero decurso do tempo (I). Só cabe para provas urgentes, demonstradas no caso concreto (III). E tem natureza cautelar, para evitar o perecimento da prova durante a suspensão (IV). A II erra porque a gravidade do delito e o decurso do tempo não bastam, e não há direito subjetivo da acusação à antecipação. Por isso a D.",
+   "dispositivos": [
+    {
+     "ref": "CPP, art. 366",
+     "tipo": "lei",
+     "texto": "Art. 366. Se o acusado, citado por edital, não comparecer, nem constituir advogado, ficarão suspensos o processo e o curso do prazo prescricional, podendo o juiz determinar a produção antecipada das provas consideradas urgentes e, se for o caso, decretar prisão preventiva, nos termos do disposto no art. 312 . (Redação dada pela Lei nº 9.271, de 17.4.1996)",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    },
+    {
+     "ref": "STJ, Súmula 455",
+     "tipo": "entendimento",
+     "texto": "A decisão que determina a produção antecipada de provas com base no art. 366 do CPP deve ser concretamente fundamentada, não a justificando unicamente o mero decurso do tempo."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-270": {
+   "nota": "Só a II está correta, porque reproduz a Súmula Vinculante 14. A I erra porque, citado por edital, o acusado que não comparece nem constitui advogado tem o processo e a prescrição suspensos (CPP, art. 366), sem prosseguimento imediato com defensor nomeado. A III erra porque, abandonada a causa pelo defensor constituído, o réu deve ser intimado para constituir outro antes da nomeação de defensor público, em respeito ao direito de escolha. Por isso a E.",
+   "dispositivos": [
+    {
+     "ref": "STF, Súmula Vinculante 14",
+     "tipo": "entendimento",
+     "texto": "É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa."
+    },
+    {
+     "ref": "CPP, art. 366",
+     "tipo": "lei",
+     "texto": "Art. 366. Se o acusado, citado por edital, não comparecer, nem constituir advogado, ficarão suspensos o processo e o curso do prazo prescricional, podendo o juiz determinar a produção antecipada das provas consideradas urgentes e, se for o caso, decretar prisão preventiva, nos termos do disposto no art. 312 . (Redação dada pela Lei nº 9.271, de 17.4.1996)",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-279": {
+   "nota": "Excluem o crédito tributário a isenção e a anistia (CTN, art. 175). Por isso a A. A isenção é causa de exclusão, e não de extinção (B). A compensação extingue o crédito (C, art. 156, II). A moratória suspende sua exigibilidade (D, art. 151, I). E a prescrição extingue o crédito (E, art. 156, V).",
+   "dispositivos": [
+    {
+     "ref": "CTN, art. 175",
+     "tipo": "lei",
+     "texto": "Art. 175. Excluem o crédito tributário:\nI - a isenção;\nII - a anistia.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-302": {
+   "nota": "Comparecendo os pais, o adolescente é prontamente liberado pela autoridade policial, sob compromisso de apresentação ao MP. A exceção é quando, pela gravidade e repercussão do ato, deva permanecer internado para sua segurança ou para garantia da ordem pública (ECA, art. 174). Se a autoridade entender desnecessária a apreensão, Célio pode ser entregue aos pais. Por isso a D. A espera em repartição policial, em seção isolada, não pode passar de 5 dias, e não 45 (A, art. 185, § 2º). E a internação nunca é obrigatória (B, art. 122, § 2º).",
+   "dispositivos": [
+    {
+     "ref": "ECA, arts. 174 e 185, § 2º",
+     "tipo": "lei",
+     "texto": "Art. 174. Comparecendo qualquer dos pais ou responsável, o adolescente será prontamente liberado pela autoridade policial, sob termo de compromisso e responsabilidade de sua apresentação ao representante do Ministério Público, no mesmo dia ou, sendo impossível, no primeiro dia útil imediato, exceto quando, pela gravidade do ato infracional e sua repercussão social, deva o adolescente permanecer sob internação para garantia de sua segurança pessoal ou manutenção da ordem pública.\n§ 2º Sendo impossível a pronta transferência, o adolescente aguardará sua remoção em repartição policial, desde que em seção isolada dos adultos e com instalações apropriadas, não podendo ultrapassar o prazo máximo de cinco dias, sob pena de responsabilidade.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-303": {
+   "nota": "Entre as medidas aplicáveis aos pais ou responsável está a obrigação de matricular o filho e acompanhar sua frequência e aproveitamento escolar (ECA, art. 129, V). Por isso a E. As demais restringem indevidamente as medidas do art. 129, que alcançam também o responsável, como os avós com quem o adolescente vive, e incluem o encaminhamento a tratamento de saúde e a programas para alcoólatras.",
+   "dispositivos": [
+    {
+     "ref": "ECA, art. 129, V",
+     "tipo": "lei",
+     "texto": "V - obrigação de matricular o filho ou pupilo e acompanhar sua freqüência e aproveitamento escolar;",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-304": {
+   "nota": "A prescrição se aplica às medidas socioeducativas (Súmula 338 do STJ). Para o STJ, quando a medida tem prazo determinado, o cálculo usa a duração da medida aplicada. Seis meses de prestação de serviços correspondem à prescrição de 3 anos (CP, art. 109, VI), reduzida à metade por ser o agente menor de 21 anos (art. 115), o que dá 1 ano e 6 meses. Por isso a B.",
+   "dispositivos": [
+    {
+     "ref": "CP, art. 109, VI, e art. 115",
+     "tipo": "lei",
+     "texto": "VI - em 3 (três) anos, se o máximo da pena é inferior a 1 (um) ano. (Redação dada pela Lei nº 12.234, de 2010).\nArt. 115. São reduzidos de metade os prazos de prescrição quando o criminoso era, ao tempo do crime, menor de 21 (vinte e um) anos ou, na data da sentença, maior de 70 (setenta) anos, salvo se o crime envolver violência sexual contra a mulher. (Redação dada pela Lei nº 15.160, de 2025)",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    },
+    {
+     "ref": "STJ, Súmula 338",
+     "tipo": "entendimento",
+     "texto": "A prescrição penal é aplicável nas medidas socioeducativas."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-305": {
+   "nota": "A remissão pode ser concedida pelo MP antes do procedimento judicial, como exclusão do processo, ou pelo juiz depois de iniciado, como suspensão ou extinção (ECA, art. 126). Por isso a E. A remissão não pressupõe prova de autoria e materialidade (D, art. 127). E a medida aplicada só pode ser revista mediante pedido do adolescente, de seu representante ou do MP, e não de ofício (C, art. 128).",
+   "dispositivos": [
+    {
+     "ref": "ECA, arts. 126, 127 e 128",
+     "tipo": "lei",
+     "texto": "Art. 126. Antes de iniciado o procedimento judicial para apuração de ato infracional, o representante do Ministério Público poderá conceder a remissão, como forma de exclusão do processo, atendendo às circunstâncias e conseqüências do fato, ao contexto social, bem como à personalidade do adolescente e sua maior ou menor participação no ato infracional.\nParágrafo único. Iniciado o procedimento, a concessão da remissão pela autoridade judiciária importará na suspensão ou extinção do processo.\nArt. 127. A remissão não implica necessariamente o reconhecimento ou comprovação da responsabilidade, nem prevalece para efeito de antecedentes, podendo incluir eventualmente a aplicação de qualquer das medidas previstas em lei, exceto a colocação em regime de semi-liberdade e a internação.\nArt. 128. A medida aplicada por força da remissão poderá ser revista judicialmente, a qualquer tempo, mediante pedido expresso do adolescente ou de seu representante legal, ou do Ministério Público.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-306": {
+   "nota": "A Resolução CONAD 1/2015 regulamenta as entidades de acolhimento (comunidades terapêuticas): o acolhimento é sempre voluntário e transitório, como etapa para a reinserção social, familiar e econômica. Por isso a D. A entidade não pode fazer internação involuntária ou compulsória (C). O acolhido pode interromper o tratamento a qualquer tempo (B). O Plano de Atendimento Singular é obrigatório (A). E não há segregação obrigatória da família (E).",
+   "dispositivos": [
+    {
+     "ref": "CONAD, Resolução 1/2015 (entidades de acolhimento)",
+     "tipo": "entendimento",
+     "texto": "O acolhimento em entidades que atendem pessoas com problemas decorrentes do uso de substâncias psicoativas é de adesão e permanência voluntárias, de caráter transitório, como etapa para a reinserção social, assegurado ao acolhido o direito de interromper o acolhimento a qualquer momento e a elaboração de Plano de Atendimento Singular."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-308": {
+   "nota": "Os condenados nos regimes fechado ou semiaberto e os presos provisórios podem obter permissão de saída, com escolta, em caso de falecimento de cônjuge, companheira, ascendente, descendente ou irmão (LEP, art. 120, I). A permissão é concedida pelo próprio diretor do estabelecimento (parágrafo único). Por isso a C. O irmão está expressamente incluído (A), e o regime fechado não impede a saída (B).",
+   "dispositivos": [
+    {
+     "ref": "LEP, art. 120, I, e parágrafo único",
+     "tipo": "lei",
+     "texto": "Art. 120. Os condenados que cumprem pena em regime fechado ou semi-aberto e os presos provisórios poderão obter permissão para sair do estabelecimento, mediante escolta, quando ocorrer um dos seguintes fatos:\nI - falecimento ou doença grave do cônjuge, companheira, ascendente, descendente ou irmão;\nParágrafo único. A permissão de saída será concedida pelo diretor do estabelecimento onde se encontra o preso.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l7210.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-324": {
+   "nota": "A teoria do desvio produtivo do consumidor (Marcos Dessaune), acolhida pelo STJ, reconhece como dano indenizável o tempo útil que o consumidor desperdiça tentando resolver problemas que o fornecedor deveria solucionar. Por isso a A.",
+   "dispositivos": [
+    {
+     "ref": "STJ, teoria do desvio produtivo do consumidor (REsp 1.634.851)",
+     "tipo": "entendimento",
+     "texto": "O desperdício do tempo útil do consumidor, que se vê compelido a desviar-se de suas atividades para tentar solucionar vícios de produtos ou serviços não resolvidos prontamente pelo fornecedor, pode configurar dano moral indenizável."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-325": {
+   "nota": "Estão corretas III e IV, que reproduzem o art. 28 e o art. 51, XVI, do CDC. A I descreve a publicidade enganosa, e não a abusiva (art. 37, § 1º). A II erra o prazo de arrependimento, que é de 7 dias, e não 15 (art. 49). Por isso a A.",
+   "dispositivos": [
+    {
+     "ref": "CDC, art. 28, art. 49 e art. 51, XVI",
+     "tipo": "lei",
+     "texto": "Art. 28. O juiz poderá desconsiderar a personalidade jurídica da sociedade quando, em detrimento do consumidor, houver abuso de direito, excesso de poder, infração da lei, fato ou ato ilícito ou violação dos estatutos ou contrato social. A desconsideração também será efetivada quando houver falência, estado de insolvência, encerramento ou inatividade da pessoa jurídica provocados por má administração.\nArt. 49. O consumidor pode desistir do contrato, no prazo de 7 dias a contar de sua assinatura ou do ato de recebimento do produto ou serviço, sempre que a contratação de fornecimento de produtos e serviços ocorrer fora do estabelecimento comercial, especialmente por telefone ou a domicílio.\nXVI - possibilitem a renúncia do direito de indenização por benfeitorias necessárias.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-326": {
+   "nota": "Só a I está correta. Com base no REsp 1.424.304, a exposição do consumidor a risco concreto à saúde ou segurança, por corpo estranho no alimento, gera dever de indenizar mesmo sem ingestão. A II erra porque o fornecedor responde objetivamente e o risco da atividade não é transferido ao consumidor. A III erra porque a culpa exclusiva de terceiro, inclusive do comerciante, afasta a responsabilidade do fabricante (CDC, art. 12, § 3º, III). Por isso a C.",
+   "dispositivos": [
+    {
+     "ref": "CDC, art. 12, § 3º",
+     "tipo": "lei",
+     "texto": "§ 3° O fabricante, o construtor, o produtor ou importador só não será responsabilizado quando provar:\nI - que não colocou o produto no mercado;\nII - que, embora haja colocado o produto no mercado, o defeito inexiste;\nIII - a culpa exclusiva do consumidor ou de terceiro.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-330": {
+   "nota": "O Marco Legal da Primeira Infância (Lei 13.257/2016) incluiu no ECA a isenção de multas, custas e emolumentos para os registros e certidões necessários à inclusão, a qualquer tempo, do nome do pai no assento de nascimento (art. 102, § 5º). Por isso a C.",
+   "dispositivos": [
+    {
+     "ref": "ECA, art. 102, § 5º",
+     "tipo": "lei",
+     "texto": "§ 5 o Os registros e certidões necessários à inclusão, a qualquer tempo, do nome do pai no assento de nascimento são isentos de multas, custas e emolumentos, gozando de absoluta prioridade. (Incluído dada pela Lei nº 13.257, de 2016)",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-366": {
+   "nota": "Os direitos de terceira geração, ou dimensão, são os de solidariedade ou fraternidade, de titularidade difusa. São exemplos o direito ao meio ambiente equilibrado, ao desenvolvimento, à paz e à autodeterminação dos povos. Por isso a E. O direito ao trabalho é de segunda geração (B), e a privacidade e a propriedade são de primeira (C).",
+   "dispositivos": [
+    {
+     "ref": "Gerações (dimensões) dos direitos humanos",
+     "tipo": "entendimento",
+     "texto": "Primeira geração: direitos civis e políticos (liberdade). Segunda: direitos sociais, econômicos e culturais (igualdade). Terceira: direitos de solidariedade ou fraternidade, de titularidade coletiva ou difusa, como meio ambiente, desenvolvimento, paz e autodeterminação dos povos."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-370": {
+   "nota": "As entradas foram expedições, em geral de iniciativa oficial ou com apoio da Coroa, realizadas no século XVI e início do XVII. Contribuíram para a ocupação do interior e para o aprisionamento de indígenas para o trabalho, prática que persistiu mesmo depois da chegada dos africanos escravizados. Por isso a B.",
+   "dispositivos": [],
+   "ressalva": "Questão de conhecimentos gerais, sem fundamento em texto legal.",
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-372": {
+   "nota": "O GNU Mailman é um software livre (open source) de gerenciamento de listas de discussão por e-mail, que permite aos membros cadastrados trocar mensagens entre si. Por isso a C. As demais alternativas são nomes inventados.",
+   "dispositivos": [],
+   "ressalva": "Questão de informática, sem fundamento em texto legal.",
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-391": {
+   "nota": "Pela LC estadual 26/2006 da Bahia, a eleição da lista tríplice para Defensor Público-Geral se faz por voto unipessoal e plurinominal, obrigatório e secreto, dos defensores em atividade, vedados os votos postal e por procuração. Por isso a C. As demais alteram quóruns, requisitos e prazos previstos na lei estadual.",
+   "dispositivos": [
+    {
+     "ref": "LC estadual 26/2006 (Bahia), eleição da lista tríplice",
+     "tipo": "entendimento",
+     "texto": "A eleição da lista tríplice para Defensor Público-Geral far-se-á mediante voto unipessoal e plurinominal, obrigatório e secreto, dos Defensores Públicos em atividade, vedados os votos postal e por procuração."
+    }
+   ],
+   "ressalva": "Questão baseada na LC estadual 26/2006 da Bahia, que não está na base do Planalto; confira a redação no portal de legislação do Estado da Bahia.",
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-392": {
+   "nota": "Estão corretas I e IV. A Ouvidoria recebe, encaminha e acompanha denúncias, reclamações e sugestões dos usuários (I) e presta esclarecimentos à população sobre os serviços e os deveres dos defensores (IV). A II erra porque o mandato de 2 anos admite uma recondução (LC 80/1994, art. 105-B). A III erra porque a Ouvidoria recebe e encaminha as reclamações, mas não as julga (art. 105-C, I). Por isso a A.",
+   "dispositivos": [
+    {
+     "ref": "LC 80/1994, arts. 105-B e 105-C, I",
+     "tipo": "lei",
+     "texto": "Art. 105-B. O Ouvidor-Geral será escolhido pelo Conselho Superior, dentre cidadãos de reputação ilibada, não integrante da Carreira, indicados em lista tríplice formada pela sociedade civil, para mandato de 2 (dois) anos, permitida 1 (uma) recondução. (Incluído pela Lei Complementar nº 132, de 2009).\nI – receber e encaminhar ao Corregedor-Geral representação contra membros e servidores da Defensoria Pública do Estado, assegurada a defesa preliminar; (Incluído pela Lei Complementar nº 132, de 2009).",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm"
+    }
+   ],
+   "ressalva": "Questão baseada na LC estadual 26/2006 da Bahia, que não está na base do Planalto; confira a redação no portal de legislação do Estado da Bahia.",
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-393": {
+   "nota": "Pela LC estadual 26/2006 da Bahia, o conselho deliberativo do Fundo de Assistência Judiciária é integrado pelo Defensor Público-Geral, pelo Diretor da Escola Superior da Defensoria Pública e por um Defensor Público escolhido pela categoria. Por isso a B.",
+   "dispositivos": [
+    {
+     "ref": "LC estadual 26/2006 (Bahia), Fundo de Assistência Judiciária",
+     "tipo": "entendimento",
+     "texto": "O conselho deliberativo do Fundo de Assistência Judiciária da Defensoria Pública da Bahia compõe-se do Defensor Público-Geral, do Diretor da Escola Superior da Defensoria Pública e de um Defensor Público escolhido pela categoria."
+    }
+   ],
+   "ressalva": "Questão baseada na LC estadual 26/2006 da Bahia, que não está na base do Planalto; confira a redação no portal de legislação do Estado da Bahia.",
+   "conferido": "2026-11-21"
+  },
+  "fcc-defensorias-398": {
+   "nota": "Pela LC 80/1994, a remoção se faz a pedido ou por permuta, sempre entre membros da mesma categoria da carreira. Fora disso, só há remoção compulsória como penalidade, na forma da lei (art. 118, para as Defensorias estaduais). Por isso a E. Promoção, condenação criminal, imposição da Administração ou faltas não são formas de remoção (A a D).",
+   "dispositivos": [
+    {
+     "ref": "LC 80/1994, arts. 80 e 118",
+     "tipo": "lei",
+     "texto": "Art. 80. A remoção será feita a pedido ou por permuta, sempre entre membros da mesma categoria da carreira.\nArt. 118. Os membros da Defensoria Pública do Estado são inamovíveis, salvo se apenados com remoção compulsória, na forma da lei estadual.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
   }
  }
 }
