@@ -13574,6 +13574,245 @@
     }
    ],
    "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-81": {
+   "nota": "O CDC garante a preservação do mínimo existencial no tratamento do superendividamento (art. 6º, XI, e art. 104-A). Um decreto que fixa o mínimo existencial em valor irrisório (R$ 600,00) esvazia a lei e a proteção constitucional da dignidade. A Defensoria pode questioná-lo em controle difuso e apresentar plano de pagamento que preserve a renda necessária à sobrevivência de Francisco. Por isso a C. A E erra ao dizer que o regulamento é válido ainda que esvazie a lei.",
+   "dispositivos": [
+    {
+     "ref": "CDC, art. 6º, XI, e art. 104-A, caput",
+     "tipo": "lei",
+     "texto": "XI - a garantia de práticas de crédito responsável, de educação financeira e de prevenção e tratamento de situações de superendividamento, preservado o mínimo existencial, nos termos da regulamentação, por meio da revisão e da repactuação da dívida, entre outras medidas; (Incluído pela Lei nº 14.181, de 2021)\nArt. 104-A. A requerimento do consumidor superendividado pessoa natural, o juiz poderá instaurar processo de repactuação de dívidas, com vistas à realização de audiência conciliatória, presidida por ele ou por conciliador credenciado no juízo, com a presença de todos os credores de dívidas previstas no art. 54-A deste Código, na qual o consumidor apresentará proposta de plano de pagamento com prazo máximo de 5 (cinco) anos, preservados o mínimo existencial, nos termos da regulamentação, e as garantias e as formas de pagamento originalmente pactuadas. (Incluído pela Lei nº 14.181, de 2021)",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    }
+   ],
+   "ressalva": "A constitucionalidade dos Decretos 11.150/2022 e 11.567/2023 é objeto de ações no STF (ADPFs 1.005 e 1.006).",
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-82": {
+   "nota": "A Senacon editou a Nota Técnica 14/2023, que reúne precedentes e diretrizes para o enfrentamento do racismo nas relações de consumo. Por isso a B. As demais negam a existência de racismo e discriminação de gênero no consumo, ou a necessidade de considerá-los na análise da vulnerabilidade, o que contraria a abordagem interseccional adotada pelos órgãos de defesa do consumidor.",
+   "dispositivos": [
+    {
+     "ref": "Senacon, Nota Técnica 14/2023",
+     "tipo": "entendimento",
+     "texto": "A Secretaria Nacional do Consumidor reconheceu a ocorrência de racismo nas relações de consumo e estabeleceu diretrizes para seu enfrentamento, com referência a precedentes judiciais e à necessidade de análise interseccional da vulnerabilidade do consumidor."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-83": {
+   "nota": "O Tema 1.085 do STJ apenas afirmou que não se aplica, por analogia, aos empréstimos comuns com débito em conta o limite da Lei 10.820/2003, próprio do consignado. Não autorizou descontos ilimitados nem afastou a revisão por fato superveniente ou o tratamento do superendividamento. Cabe agravo de instrumento contra a negativa da tutela (CPC, art. 1.015, I), demonstrando a distinção. Por isso a A.",
+   "dispositivos": [
+    {
+     "ref": "STJ, Tema 1.085 dos recursos repetitivos",
+     "tipo": "entendimento",
+     "texto": "São lícitos os descontos de parcelas de empréstimos bancários comuns em conta-corrente, ainda que utilizada para recebimento de salários, desde que previamente autorizados pelo mutuário e enquanto esta autorização perdurar, não sendo aplicável, por analogia, a limitação prevista no § 1º do art. 1º da Lei 10.820/2003."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-84": {
+   "nota": "O prazo decadencial de 90 dias para produtos duráveis (CDC, art. 26, II) refere-se ao direito de reclamar pelos vícios e exercer as alternativas do art. 18, § 1º: substituição, restituição ou abatimento. A pretensão indenizatória por danos materiais e morais tem fundamento no direito básico à reparação (art. 6º, VI) e não se sujeita a esse prazo decadencial. Por isso a E, que inclui também o dano moral, ao contrário da D.",
+   "dispositivos": [
+    {
+     "ref": "CDC, art. 6º, VI, e art. 26, II",
+     "tipo": "lei",
+     "texto": "VI - a efetiva prevenção e reparação de danos patrimoniais e morais, individuais, coletivos e difusos;\nII - noventa dias, tratando-se de fornecimento de serviço e de produtos duráveis.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-85": {
+   "nota": "Só a III está correta: é ilegítimo o corte, sem aviso prévio, do serviço em prédios públicos que prestam serviços indispensáveis à população. A I erra porque o corte por débito irrisório gera dano moral. A II erra porque o STJ não admite o corte por fraude apurada unilateralmente pela concessionária (Tema 699). A IV erra porque o débito é pessoal, e não propter rem, de modo que não autoriza o corte contra o novo usuário. Por isso a A.",
+   "dispositivos": [
+    {
+     "ref": "STJ, serviços essenciais e corte de fornecimento",
+     "tipo": "entendimento",
+     "texto": "É ilegítimo o corte por débito irrisório, com dano moral; o corte por fraude no medidor apurada unilateralmente não é admitido, exigindo-se apuração com contraditório (Tema 699); o débito de consumo é de natureza pessoal, não propter rem, e não autoriza o corte em desfavor do novo usuário; é ilegítimo o corte, sem aviso prévio, de unidades públicas que prestam serviços essenciais."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-86": {
+   "nota": "A questão pede a incorreta. Os requisitos de validade do ato administrativo são competência, finalidade, forma, motivo e objeto, e não os do negócio jurídico civil (agente capaz, forma não proibida e objeto lícito). Por isso a A. As demais estão corretas: delegatários praticam atos administrativos (B), os atos discricionários devem ser motivados (C, Lei 9.784/1999, art. 50), a Administração pode anular seus atos (D, Súmula 473 do STF) e a teoria do funcionário de fato preserva atos perante terceiros de boa-fé (E).",
+   "dispositivos": [
+    {
+     "ref": "Requisitos do ato administrativo e Súmula 473 do STF",
+     "tipo": "entendimento",
+     "texto": "Os elementos do ato administrativo são competência, finalidade, forma, motivo e objeto (Lei 4.717/1965, art. 2º). Súmula 473: a Administração pode anular seus próprios atos, quando eivados de vícios que os tornem ilegais."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-87": {
+   "nota": "Estão corretas I, III e IV. O juiz pode determinar bloqueio de verbas e astreintes para assegurar medicamentos (I, STJ, Temas 84 e 98). A III reproduz o Tema 106 do STJ. A IV reproduz o Tema 500 do STF. A II erra porque o Estado não pode ser obrigado a fornecer medicamentos experimentais (Tema 500). A V erra porque a prescrição pode vir do médico que assiste o paciente, mesmo fora da rede pública. Por isso a D.",
+   "dispositivos": [
+    {
+     "ref": "STJ, Temas 84, 98 e 106; STF, Tema 500",
+     "tipo": "entendimento",
+     "texto": "Tema 84 e 98 (STJ): é possível o bloqueio de verbas públicas e a imposição de multa para garantir o fornecimento de medicamentos. Tema 106 (STJ): requisitos cumulativos para medicamentos não incorporados ao SUS: laudo médico fundamentado, incapacidade financeira e registro na Anvisa. Tema 500 (STF): o Estado não pode ser obrigado a fornecer medicamentos experimentais; excepcionalmente, é possível a concessão de medicamento sem registro em caso de mora irrazoável da Anvisa, presentes pedido de registro, registro em agências estrangeiras renomadas e inexistência de substituto terapêutico."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-88": {
+   "nota": "Estão corretas I, II e V. Prescrevem em 5 anos as ações indenizatórias contra a Fazenda e contra as entidades da administração indireta que prestam serviço público essencial sem fins lucrativos e sem concorrência (I). Na omissão genérica, como nas enchentes, a responsabilidade é subjetiva (II). E o Estado responde objetivamente pela morte de detento (V, STF, Tema 592). A III erra porque a legítima defesa putativa não isenta o Estado. A IV erra porque a denunciação da lide ao agente não é obrigatória. Por isso a B.",
+   "dispositivos": [
+    {
+     "ref": "CF, art. 37, § 6º, e art. 5º, XLIX",
+     "tipo": "lei",
+     "texto": "§ 6º As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.\nXLIX - é assegurado aos presos o respeito à integridade física e moral;",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    },
+    {
+     "ref": "STF, Tema 592",
+     "tipo": "entendimento",
+     "texto": "Em caso de inobservância do seu dever específico de proteção previsto no art. 5º, XLIX, da Constituição, o Estado é responsável pela morte de detento."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-89": {
+   "nota": "A Defensoria Pública é órgão da administração direta, sem personalidade jurídica própria, embora dotada de autonomia funcional, administrativa e orçamentária (CF, art. 134, § 2º). Tem capacidade processual para defender suas prerrogativas institucionais em juízo. Por isso a C.",
+   "dispositivos": [
+    {
+     "ref": "CF, art. 134, § 2º",
+     "tipo": "lei",
+     "texto": "§ 2º Às Defensorias Públicas Estaduais são asseguradas autonomia funcional e administrativa e a iniciativa de sua proposta orçamentária dentro dos limites estabelecidos na lei de diretrizes orçamentárias e subordinação ao disposto no art. 99, § 2º. (Incluído pela Emenda Constitucional nº 45, de 2004)",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-90": {
+   "nota": "A sequência é V, V, V, F. Lélia Gonzalez aponta que o racismo cultural naturaliza a posição desvalorizada da mulher negra (1ª). Mostra que o racismo à brasileira opera por denegação, sob o mito da democracia racial (2ª). E formula a amefricanidade como categoria histórico-cultural afrocentrada, que vai além do território e da língua (3ª). A 4ª é falsa: a autora critica a mercantilização do carnaval e a exploração da imagem da mulher negra, como a 'mulata' exportação. Por isso a A.",
+   "dispositivos": [
+    {
+     "ref": "Lélia Gonzalez, Por um feminismo afro-latino-americano (2020)",
+     "tipo": "entendimento",
+     "texto": "A autora analisa o racismo por denegação, o mito da democracia racial e a categoria político-cultural da amefricanidade, criticando a exploração da imagem da mulher negra, inclusive no carnaval, como objeto de consumo."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-91": {
+   "nota": "Para Hannah Arendt, Eichmann não era um monstro nem um fanático, mas um funcionário normal e assustadoramente comum. Ele cometeu crimes monstruosos por irreflexão, isto é, pela incapacidade de pensar e de se colocar no lugar do outro. É a 'banalidade do mal'. Por isso a E. Arendt rejeita que ele agisse por ódio pessoal (A), que estivesse dispensado de distinguir o certo do errado (B) ou que tenha se arrependido (C). E a Corte de Jerusalém afirmou a responsabilidade individual, rejeitando a tese da 'engrenagem' (D).",
+   "dispositivos": [
+    {
+     "ref": "Hannah Arendt, Eichmann em Jerusalém (banalidade do mal)",
+     "tipo": "entendimento",
+     "texto": "Eichmann não era pervertido nem sádico, mas terrivelmente normal; seus atos decorreram da irreflexão e da incapacidade de pensar do ponto de vista do outro, em circunstâncias que tornavam quase impossível perceber que agia mal. O tribunal, porém, afirmou sua responsabilidade pessoal, rejeitando a tese de mera peça da engrenagem."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-92": {
+   "nota": "Para Silvio Almeida, o Direito não só é incapaz de extinguir o racismo, como é por meio da legalidade que se formam os sujeitos racializados. Por isso a C. O caráter estrutural não torna inúteis as políticas antirracistas (A) nem afasta a responsabilidade individual (B). O racismo estrutural independe de intenção consciente (D). E a visão do racismo como irracionalidade oposta à racionalidade estatal é a concepção individualista, e não a estrutural (E).",
+   "dispositivos": [
+    {
+     "ref": "Silvio Almeida, Racismo estrutural (2019)",
+     "tipo": "entendimento",
+     "texto": "O racismo é estrutural porque decorre do modo normal de funcionamento das relações sociais, políticas, econômicas e jurídicas; o Direito participa da formação dos sujeitos racializados, mas a dimensão estrutural não exime os indivíduos de responsabilidade nem torna inúteis as políticas antirracistas."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-93": {
+   "nota": "Estão corretas I, III e IV. Para Mbembe, a soberania se expressa no poder de ditar quem pode viver e quem deve morrer (I). O racismo regula a distribuição da morte e torna possíveis as funções assassinas do Estado (III). E o poder apela continuamente à exceção, à emergência e a um inimigo ficcional para justificar o direito de matar (IV). A II erra porque o biopoder, em Foucault e Mbembe, pressupõe justamente a divisão da espécie humana em grupos, a cesura biológica. Por isso a D.",
+   "dispositivos": [
+    {
+     "ref": "Achille Mbembe, Necropolítica (2018)",
+     "tipo": "entendimento",
+     "texto": "A soberania reside no poder de ditar quem pode viver e quem deve morrer; o biopoder opera pela divisão da espécie em grupos, e o racismo regula a distribuição da morte; o poder apela à exceção, à emergência e à figura ficcional do inimigo como base do direito de matar."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-94": {
+   "nota": "Silvio Almeida descreve a concepção individualista do racismo como patologia ou anormalidade de indivíduos ou grupos isolados. A concepção estrutural é decorrência do modo 'normal' de funcionamento das relações sociais. A discriminação direta é o repúdio ostensivo motivado pela raça. E a discriminação indireta ignora a situação dos grupos minoritários, impondo regras de 'neutralidade racial'. Por isso a B.",
+   "dispositivos": [
+    {
+     "ref": "Silvio Almeida, Racismo estrutural (2019)",
+     "tipo": "entendimento",
+     "texto": "Concepção individualista: racismo como patologia individual ou de grupos isolados. Concepção estrutural: racismo como decorrência da estrutura social normal. Discriminação direta: repúdio ostensivo motivado pela raça. Discriminação indireta: imposição de neutralidade racial que ignora diferenças sociais significativas."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-95": {
+   "nota": "A questão pede o que não é prerrogativa. O defensor representa a parte independentemente de mandato, ressalvados os casos em que a lei exige poderes especiais, regra que a LC estadual 136/2011 reproduz da LC 80/1994 (art. 128, XI). Por isso a D. As demais são prerrogativas previstas: intimação pessoal com prazo em dobro (A), comunicação reservada com o assistido preso (B), vista pessoal dos processos (C) e deixar de patrocinar ação manifestamente incabível (E).",
+   "dispositivos": [
+    {
+     "ref": "LC 80/1994, art. 128, XI",
+     "tipo": "lei",
+     "texto": "XI - representar a parte, em feito administrativo ou judicial, independentemente de mandato, ressalvados os casos para os quais a lei exija poderes especiais;",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-96": {
+   "nota": "Pela LC estadual 136/2011 do Paraná, são órgãos de atuação as Defensorias Públicas do Estado e os Núcleos Especializados. Os defensores públicos são órgãos de execução, e a Coordenadoria-Geral de Administração é órgão auxiliar. Por isso a A.",
+   "dispositivos": [
+    {
+     "ref": "LC estadual 136/2011 (Paraná), organização da Defensoria",
+     "tipo": "entendimento",
+     "texto": "A Defensoria Pública do Paraná compreende órgãos de administração superior, órgãos de atuação (as Defensorias Públicas do Estado e os Núcleos Especializados), órgãos de execução (os Defensores Públicos) e órgãos auxiliares."
+    }
+   ],
+   "ressalva": "A LC estadual 136/2011 não está na base de leis do Planalto; confira a redação no portal de legislação do Estado do Paraná.",
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-97": {
+   "nota": "A questão pede a incorreta. Os Tribunais Superiores reconhecem a legitimidade do próprio defensor, como órgão de execução, para impetrar mandado de segurança em defesa de suas prerrogativas e funções institucionais. Essa legitimidade não é exclusiva do Defensor Público-Geral. Por isso a E. As demais estão corretas: poder de requisição (A, ADI 6.852), honorários contra o ente que a integra (B, Tema 1.002), inconstitucionalidade do critério de desempate por tempo de serviço público (C) e honorários na curadoria especial (D, STJ).",
+   "dispositivos": [
+    {
+     "ref": "Jurisprudência sobre prerrogativas da Defensoria",
+     "tipo": "entendimento",
+     "texto": "O STF reconheceu o poder de requisição (ADI 6.852) e os honorários contra o ente a que se vincula a Defensoria (Tema 1.002); o STJ reconhece honorários sucumbenciais na atuação como curadora especial e a legitimidade do órgão de execução para defender suas prerrogativas em juízo."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-98": {
+   "nota": "Todas as hipóteses dispensam a análise econômica prévia. O réu sem defensor constituído tem direito à defesa técnica (I), assim como o apenado na execução penal (II) e o adolescente no procedimento socioeducativo (III), situações em que a atuação da Defensoria é imposta pelo direito de defesa. A mulher em situação de violência doméstica tem atendimento independentemente de renda para as ações de família necessárias (IV, Lei 11.340/2006, art. 28). E a comunidade tradicional caiçara é grupo vulnerável cuja tutela coletiva não depende de prova individual de carência (V). Por isso a E.",
+   "dispositivos": [
+    {
+     "ref": "Deliberações do Conselho Superior da DPE-PR e atuação em favor de vulneráveis",
+     "tipo": "entendimento",
+     "texto": "A atuação da Defensoria independe de análise de renda na defesa criminal e na execução penal, no procedimento socioeducativo, no atendimento à mulher em situação de violência doméstica e na tutela coletiva de povos e comunidades tradicionais, por se tratar de vulnerabilidades não econômicas."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-99": {
+   "nota": "Na ADPF 709, o STF admitiu a Defensoria como custos vulnerabilis com base nos seguintes requisitos: vulnerabilidade dos destinatários (I), elevado grau de desproteção judiciária dos interesses (II), formulação do pedido por defensores com atribuição (III) e pertinência com estratégia institucional (IV). A hipossuficiência econômica do grupo não é requisito, porque a vulnerabilidade é mais ampla. Por isso a D.",
+   "dispositivos": [
+    {
+     "ref": "STF, ADPF 709 (custos vulnerabilis)",
+     "tipo": "entendimento",
+     "texto": "A admissão da Defensoria Pública como custos vulnerabilis pressupõe a vulnerabilidade dos destinatários da prestação jurisdicional, o elevado grau de desproteção judiciária dos interesses, a formulação do requerimento por defensores com atribuição e a pertinência com estratégia de cunho institucional."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-100": {
+   "nota": "A D reproduz os §§ 2º e 3º do art. 99 do CPC e, por isso, é a correta. A CF fala em assistência jurídica integral, e não apenas judiciária (A, art. 5º, LXXIV). A gratuidade não afasta a responsabilidade pelas despesas e honorários de sucumbência, que apenas ficam suspensos (B, art. 98, § 2º). O constituinte optou pelo modelo público, por meio da Defensoria, e não por modelo misto (C). E a gratuidade é pessoal e não se estende a litisconsorte ou sucessor (E, art. 99, § 6º).",
+   "dispositivos": [
+    {
+     "ref": "CPC, art. 99, §§ 2º, 3º e 6º, e art. 98, § 2º",
+     "tipo": "lei",
+     "texto": "§ 2º O juiz somente poderá indeferir o pedido se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão de gratuidade, devendo, antes de indeferir o pedido, determinar à parte a comprovação do preenchimento dos referidos pressupostos.\n§ 3º Presume-se verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa natural.\n§ 6º O direito à gratuidade da justiça é pessoal, não se estendendo a litisconsorte ou a sucessor do beneficiário, salvo requerimento e deferimento expressos.\n§ 2º A concessão de gratuidade não afasta a responsabilidade do beneficiário pelas despesas processuais e pelos honorários advocatícios decorrentes de sua sucumbência.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    },
+    {
+     "ref": "CF, art. 5º, LXXIV",
+     "tipo": "lei",
+     "texto": "LXXIV - o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos;",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
   }
  }
 }
