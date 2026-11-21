@@ -9031,6 +9031,323 @@
     }
    ],
    "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-41": {
+   "nota": "Para o STJ, o direito líquido e certo do mandado de segurança é personalíssimo: morto o impetrante, não há sucessão de partes, e o processo se extingue sem prejuízo das vias ordinárias para os herdeiros. Por isso a A. Apreensão de bem determinado, objeto do litígio, é sequestro; o arresto recai sobre bens indeterminados para garantir dívida em dinheiro (B). Matéria estranha ao pedido torna a sentença extra petita, não ultra petita (C). Julgado improcedente o pedido principal, não se exige a multa da cautelar (D). E adequar os juros à legislação civil superveniente não ofende a coisa julgada (E).",
+   "dispositivos": [
+    {
+     "ref": "STJ, mandado de segurança e sucessão de partes",
+     "tipo": "entendimento",
+     "texto": "O direito postulado em mandado de segurança tem caráter personalíssimo e intransferível; falecido o impetrante, não há habilitação de herdeiros, e o processo é extinto, ressalvadas as vias ordinárias."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-42": {
+   "nota": "A confissão espontânea pode ser feita pela própria parte ou por representante com poder especial (hoje, CPC/2015, art. 390, § 1º). Por isso a C. O documento feito por oficial incompetente, mas assinado pelas partes, vale como documento particular, perdendo a fé pública (A). O menor de dezesseis anos é incapaz para depor como testemunha (B). Ausente o advogado da parte, o juiz pode dispensar as provas que ela requereu (D). A E está errada porque, à época, o juiz podia aplicar a pena de confissão; hoje o CPC/2015 afasta a pena no interrogatório livre (art. 139, VIII), mas a mantém no depoimento pessoal (art. 385, § 1º).",
+   "dispositivos": [
+    {
+     "ref": "CPC/2015, art. 390, § 1º",
+     "tipo": "lei",
+     "texto": "§ 1º A confissão espontânea pode ser feita pela própria parte ou por representante com poder especial.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    },
+    {
+     "ref": "CPC/2015, art. 139, VIII, e art. 385, § 1º",
+     "tipo": "lei",
+     "texto": "VIII - determinar, a qualquer tempo, o comparecimento pessoal das partes, para inquiri-las sobre os fatos da causa, hipótese em que não incidirá a pena de confesso;\n§ 1º Se a parte, pessoalmente intimada para prestar depoimento pessoal e advertida da pena de confesso, não comparecer ou, comparecendo, se recusar a depor, o juiz aplicar-lhe-á a pena.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-43": {
+   "nota": "O STJ não admite a desistência da apelação principal quando já concedida tutela antecipada no recurso adesivo: a desistência, nesse momento, serviria para frustrar a decisão favorável à outra parte, em abuso do direito de recorrer. Por isso a E. Embargos infringentes (CPC/1973) só cabiam contra acórdão não unânime que reformasse sentença de mérito, não contra o que a anulasse (A; hoje, a figura nem existe). Não há deserção no recurso contra o indeferimento da gratuidade (B; hoje, CPC/2015, art. 101, § 1º). O STF superou a tese da intempestividade dos embargos prematuros (C). E na apelação só se juntam documentos novos, não os indispensáveis à propositura (D).",
+   "dispositivos": [
+    {
+     "ref": "STJ, desistência da apelação após tutela no recurso adesivo",
+     "tipo": "entendimento",
+     "texto": "Concedida a antecipação dos efeitos da tutela no julgamento do recurso adesivo, não se admite a desistência do recurso principal, ainda que apresentada antes do julgamento, porque isso esvaziaria a decisão favorável à parte contrária."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-44": {
+   "nota": "Sem registro da penhora, a fraude à execução depende da prova de má-fé do terceiro adquirente, e o ônus é do credor: deve mostrar que o comprador sabia da demanda capaz de levar o alienante à insolvência (Súmula 375 e Tema 243 do STJ). Por isso a A. Na execução provisória não se arbitram honorários em favor do exequente (B, entendimento do STJ à época). O excesso de execução deve ser alegado nos embargos, não depois (C). A poupança é impenhorável até quarenta salários mínimos, não em qualquer valor (D). E o bloqueio eletrônico depende de requerimento do exequente (E).",
+   "dispositivos": [
+    {
+     "ref": "STJ, Súmula 375",
+     "tipo": "entendimento",
+     "texto": "O reconhecimento da fraude à execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente."
+    },
+    {
+     "ref": "CPC/2015, art. 833, X, e art. 854, caput",
+     "tipo": "lei",
+     "texto": "X - a quantia depositada em caderneta de poupança, até o limite de 40 (quarenta) salários-mínimos;\nArt. 854. Para possibilitar a penhora de dinheiro em depósito ou em aplicação financeira, o juiz, a requerimento do exequente, sem dar ciência prévia do ato ao executado, determinará às instituições financeiras, por meio de sistema eletrônico gerido pela autoridade supervisora do sistema financeiro nacional, que torne indisponíveis ativos financeiros existentes em nome do executado, limitando-se a indisponibilidade ao valor indicado na execução.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-45": {
+   "nota": "Entre ações coletivas com o mesmo réu e a mesma causa de pedir, quando o objeto de uma abrange o da outra, há continência, e o STJ reúne as ações no juízo da ação de objeto mais amplo, ainda que os autores sejam associações diferentes. Por isso a E, gabarito oficial. O STJ admite suspender as ações individuais até o julgamento da coletiva sobre a macrolide (A, Tema 589). O prazo para a execução individual de sentença coletiva é de cinco anos, sem a ressalva da B (Tema 515). E a ACP em que a União é parte vai à Justiça Federal (D).",
+   "dispositivos": [
+    {
+     "ref": "STJ, continência entre ações coletivas",
+     "tipo": "entendimento",
+     "texto": "Havendo identidade de réu e de causa de pedir entre ações coletivas, e sendo o objeto de uma mais amplo que o da outra, há continência, devendo as demandas ser reunidas no juízo da ação de objeto mais abrangente, ainda que propostas por entidades distintas."
+    }
+   ],
+   "conferido": "2026-11-21",
+   "ressalva": "A alternativa C é discutível: no Tema 685 (2014), o STJ fixou que os juros de mora na ação civil pública sobre direitos individuais homogêneos correm desde a citação na fase de conhecimento. A banca, ainda assim, manteve a E como única resposta."
+  },
+  "dpe-rn-2015-46": {
+   "nota": "A falta de publicação do edital do art. 94 do CDC, que serve para chamar interessados como litisconsortes, não impede, por si só, os efeitos erga omnes da sentença de procedência sobre direitos individuais homogêneos (STJ). Por isso a E. O juiz não pode aumentar a multa fixada no termo de ajustamento de conduta, que é negócio entre as partes (A). O TAC é título executivo extrajudicial independentemente de testemunhas (B). O acórdão de improcedência revoga a antecipação de tutela mesmo sem menção expressa (C). E o TAC não impede a ação coletiva de outros legitimados (D).",
+   "dispositivos": [
+    {
+     "ref": "CDC, art. 94",
+     "tipo": "lei",
+     "texto": "Art. 94. Proposta a ação, será publicado edital no órgão oficial, a fim de que os interessados possam intervir no processo como litisconsortes, sem prejuízo de ampla divulgação pelos meios de comunicação social por parte dos órgãos de defesa do consumidor.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    },
+    {
+     "ref": "STJ, ausência do edital do art. 94 do CDC",
+     "tipo": "entendimento",
+     "texto": "A ausência de publicação do edital previsto no art. 94 do CDC não impede, por si só, a produção de efeitos erga omnes da sentença de procedência em ação coletiva sobre direitos individuais homogêneos."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-47": {
+   "nota": "O dano moral coletivo não depende de prova de dor, sofrimento ou abalo psicológico, que são noções próprias da esfera individual e não se aplicam aos interesses difusos e coletivos: basta a lesão injusta e intolerável a valores da coletividade (STJ). Por isso a E. A reparação do dano ambiental é imprescritível (A, Tema 999 do STF). A ACP não serve como sucedâneo de ADI (B). Ação popular e ACP podem coexistir sobre o mesmo fato (C). E, para o STJ, a inversão do ônus da prova do CDC é regra de instrução, não de julgamento (D).",
+   "dispositivos": [
+    {
+     "ref": "STJ, dano moral coletivo",
+     "tipo": "entendimento",
+     "texto": "O dano moral coletivo é aferível in re ipsa e dispensa a demonstração de dor, sofrimento ou abalo psicológico, que são próprios da esfera individual; configura-se pela lesão injusta e intolerável a valores fundamentais da coletividade."
+    },
+    {
+     "ref": "STF, Tema 999 da repercussão geral",
+     "tipo": "entendimento",
+     "texto": "É imprescritível a pretensão de reparação civil de dano ambiental."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-48": {
+   "nota": "Pelo texto da Lei 12.016/2009 (art. 22, § 2º), a liminar no mandado de segurança coletivo só seria concedida depois de ouvido, em 72 horas, o representante da pessoa jurídica de direito público. Por isso a C foi o gabarito. Atenção: em 2021 o STF declarou esse § 2º inconstitucional (ADI 4.296), e hoje a regra não vale mais. A exigência de um ano de funcionamento é só para associações, não para entidades de classe e sindicatos (A). Cabe MS contra lei de efeitos concretos (E). E o Judiciário controla a legalidade dos atos discricionários (D).",
+   "dispositivos": [
+    {
+     "ref": "Lei 12.016/2009, art. 22, § 2º (declarado inconstitucional na ADI 4.296)",
+     "tipo": "lei",
+     "texto": "§ 2º No mandado de segurança coletivo, a liminar só poderá ser concedida após a audiência do representante judicial da pessoa jurídica de direito público, que deverá se pronunciar no prazo de 72 (setenta e duas) horas.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm"
+    },
+    {
+     "ref": "Lei 12.016/2009, art. 21, caput",
+     "tipo": "lei",
+     "texto": "Art. 21. O mandado de segurança coletivo pode ser impetrado por partido político com representação no Congresso Nacional, na defesa de seus interesses legítimos relativos a seus integrantes ou à finalidade partidária, ou por organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há, pelo menos, 1 (um) ano, em defesa de direitos líquidos e certos da totalidade, ou de parte, dos seus membros ou associados, na forma dos seus estatutos e desde que pertinentes às suas finalidades, dispensada, para tanto, autorização especial.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-49": {
+   "nota": "O STF admite ADPF contra ato normativo já revogado, porque ela também serve para resolver controvérsias sobre o direito pré-constitucional e sobre normas que deixaram efeitos (ADPF 33 e precedentes). Por isso a C. O habeas data contra Ministro de Estado é julgado pelo STJ (A, art. 105, I, b). O mandado de injunção coletivo é admitido, e hoje está na Lei 13.300/2016 (B). O STF não admite MI para a revisão geral anual, que depende de lei de iniciativa do Executivo (D). E a apelação contra sentença que concede o habeas data tem efeito só devolutivo (E).",
+   "dispositivos": [
+    {
+     "ref": "CF/1988, art. 105, I, b",
+     "tipo": "lei",
+     "texto": "b) os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal;",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    },
+    {
+     "ref": "Lei 9.507/1997, art. 15",
+     "tipo": "lei",
+     "texto": "Art. 15. Da sentença que conceder ou negar o habeas data cabe apelação.\nParágrafo único. Quando a sentença conceder o habeas data, o recurso terá efeito meramente devolutivo.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l9507.htm"
+    },
+    {
+     "ref": "Lei 13.300/2016, art. 12, caput",
+     "tipo": "lei",
+     "texto": "Art. 12. O mandado de injunção coletivo pode ser promovido:",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13300.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-50": {
+   "nota": "O STJ entende que a multa diária fixada em liminar de ação popular pode ser executada antes do trânsito em julgado da ação. Por isso a D. A ação popular contra o Presidente da República é julgada em primeiro grau, não no STF (A). Só o cidadão, com título de eleitor, propõe ação popular (B, Lei 4.717/1965, art. 1º, § 3º). Não se exige que ele resida no domicílio eleitoral do local da ação (C). E a ação popular não serve à defesa de interesses difusos dos consumidores, que têm a ação civil pública (E).",
+   "dispositivos": [
+    {
+     "ref": "Lei 4.717/1965, art. 1º, § 3º",
+     "tipo": "lei",
+     "texto": "§ 3º A prova da cidadania, para ingresso em juízo, será feita com o título eleitoral, ou com documento que a ele corresponda.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm"
+    },
+    {
+     "ref": "STJ, multa em liminar de ação popular",
+     "tipo": "entendimento",
+     "texto": "A multa diária fixada em decisão liminar na ação popular pode ser executada provisoriamente, independentemente do trânsito em julgado da sentença."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-51": {
+   "nota": "O STJ considera abusiva a cláusula de plano de saúde que, cobrindo a doença, exclui os meios e materiais necessários ao procedimento cirúrgico para tratá-la: o plano pode limitar as doenças cobertas, não o tratamento. Por isso a E. A inversão do ônus da prova também favorece o MP em ação consumerista (A). A prestação de saneamento por quem não integra a administração exige contrato, vedados convênios e instrumentos precários (B, Lei 11.445/2007, art. 10). Os recursos do FNHIS podem ser associados a recursos onerosos, como os do FGTS (C). E o MP pode tutelar o direito à moradia (D).",
+   "dispositivos": [
+    {
+     "ref": "STJ, plano de saúde e materiais do tratamento coberto",
+     "tipo": "entendimento",
+     "texto": "É abusiva a cláusula contratual que exclui da cobertura do plano de saúde os meios e materiais necessários ao melhor desempenho do tratamento de doença coberta, como próteses e materiais cirúrgicos ligados ao ato cirúrgico."
+    },
+    {
+     "ref": "Lei 11.445/2007, art. 10, caput",
+     "tipo": "lei",
+     "texto": "Art. 10. A prestação de serviços públicos de saneamento básico por entidade que não integre a administração do titular depende da celebração de contrato, sendo vedada a sua disciplina mediante convênios, termos de parceria ou outros instrumentos de natureza precária.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-52": {
+   "nota": "Para cumprir o dever de comunicar o consumidor sobre a negativação, basta comprovar a postagem da carta: o aviso de recebimento é dispensável (Súmula 404 do STJ). Por isso a D. A operadora responde pelas falhas dos serviços que credencia (A). Na inscrição indevida, o dano moral é presumido, sem prova de prejuízo (C). E o vício de qualidade dá ao consumidor a escolha entre substituição, restituição ou abatimento, se não sanado em 30 dias (E, CDC, art. 18, § 1º).",
+   "dispositivos": [
+    {
+     "ref": "STJ, Súmula 404",
+     "tipo": "entendimento",
+     "texto": "É dispensável o aviso de recebimento (AR) na carta de comunicação ao consumidor sobre a negativação de seu nome em bancos de dados e cadastros."
+    },
+    {
+     "ref": "STJ, inscrição indevida em cadastro de inadimplentes",
+     "tipo": "entendimento",
+     "texto": "A inscrição indevida do nome do consumidor em cadastro de inadimplentes gera dano moral in re ipsa, dispensada a prova do prejuízo."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-53": {
+   "nota": "Para o STJ, a Convenção da Haia sobre sequestro internacional de crianças não decide quem fica com a guarda: trata da retirada ilícita da criança do país de residência habitual ou da sua retenção indevida, buscando o retorno imediato. Por isso a D. A Convenção deixa de se aplicar aos dezesseis anos, não aos dezoito (A, art. 4). A Convenção sobre os Direitos da Criança garante também a previdência social (B, art. 26). A adoção internacional só cabe depois de esgotadas as possibilidades de família substituta brasileira (C, ECA, art. 51, § 1º). E as Regras de Beijing admitem a combinação de medidas (E).",
+   "dispositivos": [
+    {
+     "ref": "Convenção da Haia sobre sequestro internacional de crianças (Decreto 3.413/2000), art. 4",
+     "tipo": "lei",
+     "texto": "A Convenção aplica-se a qualquer criança que tenha residência habitual num Estado Contratante, imediatamente antes da violação do direito de guarda ou de visita. A aplicação da Convenção cessa quando a criança atingir a idade de dezesseis anos.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto/d3413.htm"
+    },
+    {
+     "ref": "STJ, objeto da Convenção da Haia de 1980",
+     "tipo": "entendimento",
+     "texto": "A Convenção não tem por objeto decidir o direito de guarda, mas garantir o retorno imediato da criança ilicitamente transferida ou retida fora do Estado de sua residência habitual."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-54": {
+   "nota": "A municipalização do atendimento é diretriz da política de atendimento (ECA, art. 88, I), mas não afasta a atuação solidária dos Estados e da União na proteção dos direitos infantojuvenis. Por isso a D. A proteção começa antes do nascimento, com a gestante (A). A prioridade absoluta está na própria Constituição (B, art. 227). O interesse superior vale para todas as crianças e adolescentes, não só em 'situação irregular', doutrina superada (C). E o ECA se aplica excepcionalmente a quem tem entre dezoito e vinte e um anos (E, art. 2º, parágrafo único).",
+   "dispositivos": [
+    {
+     "ref": "ECA, art. 88, I",
+     "tipo": "lei",
+     "texto": "Art. 88. São diretrizes da política de atendimento:\nI - municipalização do atendimento;",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    },
+    {
+     "ref": "ECA, art. 2º, parágrafo único",
+     "tipo": "lei",
+     "texto": "Parágrafo único. Nos casos expressos em lei, aplica-se excepcionalmente este Estatuto às pessoas entre dezoito e vinte e um anos de idade.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-55": {
+   "nota": "Revistas com material impróprio devem ser vendidas em embalagem lacrada, com advertência, e as editoras devem proteger as capas obscenas com embalagem opaca (ECA, art. 78); o descumprimento é infração administrativa punida com multa, além da apreensão (art. 257). Por isso a D. As ações da política de atendimento são obrigatórias, não recomendações (A). A Defensoria atua também na execução das medidas socioeducativas (B). Os programas se inscrevem no Conselho Municipal dos Direitos da Criança, não no Conselho Tutelar (C). E a viagem ao exterior sem os pais exige autorização judicial mesmo para quem tem a guarda (E).",
+   "dispositivos": [
+    {
+     "ref": "ECA, arts. 78 e 257",
+     "tipo": "lei",
+     "texto": "Art. 78. As revistas e publicações contendo material impróprio ou inadequado a crianças e adolescentes deverão ser comercializadas em embalagem lacrada, com a advertência de seu conteúdo.\nParágrafo único. As editoras cuidarão para que as capas que contenham mensagens pornográficas ou obscenas sejam protegidas com embalagem opaca.\nArt. 257. Descumprir obrigação constante dos arts. 78 e 79 desta Lei:",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-56": {
+   "nota": "Embora a regra seja o cadastro, o ECA admite a adoção por quem não está cadastrado em hipóteses como a adoção unilateral, o pedido de parente com vínculo afetivo ou de quem tem a guarda legal de criança maior de três anos (art. 50, § 13), e o STJ admite a adoção intuitu personae quando há vínculo consolidado. Por isso a E. A condenação criminal, por si, não gera perda do poder familiar (A). A família natural e a extensa têm primazia (B). Não há idade mínima para a adoção por casal homoafetivo (C). E dispensa-se o consentimento quando os pais são desconhecidos (D).",
+   "dispositivos": [
+    {
+     "ref": "ECA, art. 50, § 13",
+     "tipo": "lei",
+     "texto": "§ 13. Somente poderá ser deferida adoção em favor de candidato domiciliado no Brasil não cadastrado previamente nos termos desta Lei quando:\nI - se tratar de pedido de adoção unilateral;\nII - for formulada por parente com o qual a criança ou adolescente mantenha vínculos de afinidade e afetividade;\nIII - oriundo o pedido de quem detém a tutela ou guarda legal de criança maior de 3 (três) anos ou adolescente, desde que o lapso de tempo de convivência comprove a fixação de laços de afinidade e afetividade, e não seja constatada a ocorrência de má-fé ou qualquer das situações previstas nos arts. 237 ou 238 desta Lei.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-57": {
+   "nota": "O professor de pré-escola que sabe de maus-tratos e não comunica comete a infração administrativa do art. 245 do ECA, e o procedimento para impor a penalidade pode começar por representação do Conselho Tutelar (art. 194). Por isso a A. O Conselho pode advertir os pais que usam castigo físico (B). Diante do descumprimento de suas deliberações, o próprio Conselho representa à autoridade judiciária (C). O Conselho é autônomo, sem subordinação hierárquica (D). E os conselheiros são escolhidos pela comunidade, em eleição direta (E).",
+   "dispositivos": [
+    {
+     "ref": "ECA, arts. 194 e 245",
+     "tipo": "lei",
+     "texto": "Art. 194. O procedimento para imposição de penalidade administrativa por infração às normas de proteção à criança e ao adolescente terá início por representação do Ministério Público, ou do Conselho Tutelar, ou auto de infração elaborado por servidor efetivo ou voluntário credenciado, e assinado por duas testemunhas, se possível.\nArt. 245. Deixar o médico, professor ou responsável por estabelecimento de atenção à saúde e de ensino fundamental, pré-escola ou creche, de comunicar à autoridade competente os casos de que tenha conhecimento, envolvendo suspeita ou confirmação de maus-tratos contra criança ou adolescente:",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-58": {
+   "nota": "Cabe à autoridade judiciária autorizar a entrada de criança desacompanhada em eventos como estádios e bailes, e também a participação de criança em espetáculos públicos, ainda que acompanhada (ECA, art. 149, I e II). Por isso a A. A isenção de custas da Justiça da Infância beneficia crianças e adolescentes, não terceiros (B). O STJ dispensa curador especial na destituição do poder familiar proposta pelo MP (C). A notícia não pode identificar o adolescente nem por iniciais (D, art. 143, parágrafo único). E a lei estadual pode atribuir a outro juízo os crimes sexuais contra crianças (E).",
+   "dispositivos": [
+    {
+     "ref": "ECA, art. 149, I e II, a",
+     "tipo": "lei",
+     "texto": "Art. 149. Compete à autoridade judiciária disciplinar, através de portaria, ou autorizar, mediante alvará:\nI - a entrada e permanência de criança ou adolescente, desacompanhado dos pais ou responsável, em:\nII - a participação de criança e adolescente em:\na) espetáculos públicos e seus ensaios;",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    },
+    {
+     "ref": "ECA, art. 143, parágrafo único",
+     "tipo": "lei",
+     "texto": "Parágrafo único. Qualquer notícia a respeito do fato não poderá identificar a criança ou adolescente, vedando-se fotografia, referência a nome, apelido, filiação, parentesco, residência e, inclusive, iniciais do nome e sobrenome.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-59": {
+   "nota": "A corrupção de menores é crime formal: basta a participação do menor de dezoito anos na infração penal, sem prova de que ele tenha sido efetivamente corrompido (Súmula 500 do STJ). Por isso a A. O crime de não liberar adolescente ilegalmente apreendido não tem modalidade culposa (B). Embaraçar a ação da autoridade é crime formal (C). O descumprimento injustificado de prazo é doloso (D). E a submissão a vexame admite tentativa em certas formas (E).",
+   "dispositivos": [
+    {
+     "ref": "ECA, art. 244-B, caput",
+     "tipo": "lei",
+     "texto": "Art. 244-B. Corromper ou facilitar a corrupção de menor de 18 (dezoito) anos, com ele praticando infração penal ou induzindo-o a praticá-la:",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    },
+    {
+     "ref": "STJ, Súmula 500",
+     "tipo": "entendimento",
+     "texto": "A configuração do crime previsto no artigo 244-B do Estatuto da Criança e do Adolescente independe da prova da efetiva corrupção do menor, por se tratar de delito formal."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-60": {
+   "nota": "O STJ entende que o direito ao benefício assistencial (BPC) é fundamental e não se perde com o tempo: negado o pedido administrativo, não há prescrição do fundo de direito, só das parcelas. Por isso a B. O benefício de um salário mínimo recebido por idoso do grupo familiar fica fora do cálculo da renda (A, Tema 640). O cancelamento de benefício exige contraditório e ampla defesa (C). Renda per capita inferior a um quarto do salário mínimo gera presunção de miserabilidade (D). E o STJ admite flexibilizar o critério de baixa renda do auxílio-reclusão (E).",
+   "dispositivos": [
+    {
+     "ref": "STJ, BPC e prescrição do fundo de direito",
+     "tipo": "entendimento",
+     "texto": "O direito ao benefício assistencial de prestação continuada, por sua natureza alimentar e fundamental, pode ser postulado a qualquer tempo; não há prescrição do fundo de direito, mas apenas das parcelas anteriores ao quinquênio."
+    },
+    {
+     "ref": "Lei 8.742/1993 (LOAS), art. 20, § 3º",
+     "tipo": "lei",
+     "texto": "§ 3º Observados os demais critérios de elegibilidade definidos nesta Lei, terão direito ao benefício financeiro de que trata o caput deste artigo a pessoa com deficiência ou a pessoa idosa com renda familiar mensal per capita igual ou inferior a 1/4 (um quarto) do salário-mínimo.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
   }
  }
 }
