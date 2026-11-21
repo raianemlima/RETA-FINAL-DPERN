@@ -9348,6 +9348,277 @@
     }
    ],
    "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-61": {
+   "nota": "A educação a distância é oferecida por instituições credenciadas pela União (LDB, art. 80, § 1º): os Estados podem promover capacitação de professores com esses recursos, mas não credenciar instituições privadas para cursos a distância (STJ). Por isso a E. A revalidação de diplomas estrangeiros cabe às universidades públicas, não ao MEC (A). A forma de implementar cotas está na autonomia universitária (B). Os cursos sequenciais integram a educação superior (C). E a instituição privada pode, com cautelas, extinguir curso no exercício da autonomia (D).",
+   "dispositivos": [
+    {
+     "ref": "LDB (Lei 9.394/1996), art. 80, § 1º",
+     "tipo": "lei",
+     "texto": "§ 1º A educação a distância, organizada com abertura e regime especiais, será oferecida por instituições especificamente credenciadas pela União.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-62": {
+   "nota": "As atribuições do Conselho Tutelar são as fixadas no ECA, e as resoluções do CONANDA (como a 139/2010) vedam ampliá-las por regimento interno ou ato de outras autoridades. Por isso a D. O Conselho atende criança que pratica ato infracional, aplicando medidas de proteção (A). Os sistemas de garantia têm também legitimidade normativa complementar (B). A Defensoria presta assistência jurídica integral, não só judiciária (C). E a internação provisória integra o sistema socioeducativo (E).",
+   "dispositivos": [
+    {
+     "ref": "CONANDA, Resolução 139/2010 (Conselhos Tutelares)",
+     "tipo": "entendimento",
+     "texto": "As atribuições do Conselho Tutelar são as previstas no ECA e não podem ser instituídas ou ampliadas por leis locais, regimentos internos ou atos administrativos de outras autoridades."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-63": {
+   "nota": "O STJ entende que o adolescente com transtorno mental não deve receber medida socioeducativa, que pressupõe capacidade de compreendê-la e cumpri-la: o caso é de tratamento individual e especializado. Por isso a D. Pesquisa com o paciente exige consentimento e também comunicação aos conselhos profissionais e ao Conselho Nacional de Saúde (A, Lei 10.216/2001, art. 11). A internação compulsória é determinada pelo juiz (B). Esgotar os recursos extra-hospitalares vale para qualquer modalidade de internação (C, art. 4º). E a internação involuntária se comunica ao MP também na alta (E, art. 8º, § 1º).",
+   "dispositivos": [
+    {
+     "ref": "Lei 10.216/2001, arts. 4º, 8º, § 1º, e 11",
+     "tipo": "lei",
+     "texto": "Art. 4º A internação, em qualquer de suas modalidades, só será indicada quando os recursos extra-hospitalares se mostrarem insuficientes.\n§ 1º A internação psiquiátrica involuntária deverá, no prazo de setenta e duas horas, ser comunicada ao Ministério Público Estadual pelo responsável técnico do estabelecimento no qual tenha ocorrido, devendo esse mesmo procedimento ser adotado quando da respectiva alta.\nArt. 11. Pesquisas científicas para fins diagnósticos ou terapêuticos não poderão ser realizadas sem o consentimento expresso do paciente, ou de seu representante legal, e sem a devida comunicação aos conselhos profissionais competentes e ao Conselho Nacional de Saúde.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10216.htm"
+    },
+    {
+     "ref": "STJ, medida socioeducativa e adolescente com transtorno mental",
+     "tipo": "entendimento",
+     "texto": "O adolescente portador de transtorno mental não tem condições de cumprir medida socioeducativa, devendo receber tratamento individual e especializado, em local adequado às suas condições."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-64": {
+   "nota": "No procedimento de acolhimento institucional em que a criança é apenas destinatária da decisão, e não parte, o STJ não exige a nomeação de curador especial: o MP já atua na defesa dos seus interesses. Por isso a C. A Defensoria integra a rede de atendimento também no acolhimento (A). Não tem legitimidade exclusiva para alimentos: o MP também pode propor (B). O prazo da Defensoria corre da entrada dos autos na instituição, não da audiência (D). E a ação por medicamentos para criança é da Vara da Infância, mesmo representada pelos pais (E).",
+   "dispositivos": [
+    {
+     "ref": "STJ, curador especial em acolhimento institucional",
+     "tipo": "entendimento",
+     "texto": "Não é obrigatória a nomeação de curador especial à criança ou ao adolescente em procedimento de acolhimento institucional no qual figuram como meros destinatários da decisão, e não como partes, pois o Ministério Público já atua na defesa de seus interesses."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-65": {
+   "nota": "Salvo medidas emergenciais, o afastamento da criança do convívio familiar — acolhimento familiar ou colocação em família substituta — é de competência exclusiva da autoridade judiciária (ECA, art. 101, § 2º). Por isso a B. A permanência no acolhimento pode passar de 18 meses se o interesse da criança exigir (A). O acolhimento é medida protetiva, provisória e sem privação de liberdade, nunca punição (C, art. 101, § 1º). O rol de medidas é exemplificativo ('dentre outras') (D). E o acolhimento familiar também é provisório (E).",
+   "dispositivos": [
+    {
+     "ref": "ECA, art. 101, §§ 1º e 2º",
+     "tipo": "lei",
+     "texto": "§ 1º O acolhimento institucional e o acolhimento familiar são medidas provisórias e excepcionais, utilizáveis como forma de transição para reintegração familiar ou, não sendo esta possível, para colocação em família substituta, não implicando privação de liberdade.\n§ 2º Sem prejuízo da tomada de medidas emergenciais para proteção de vítimas de violência ou abuso sexual e das providências a que alude o art. 130 desta Lei, o afastamento da criança ou adolescente do convívio familiar é de competência exclusiva da autoridade judiciária",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-66": {
+   "nota": "O plano individual de atendimento pode ser impugnado pelo defensor ou pelo MP, mas a impugnação não suspende a execução do plano, salvo determinação judicial (Lei 12.594/2012, art. 41, § 4º). Por isso a D. Aplica-se na execução o sistema recursal do ECA, que adota o do CPC (A). A substituição da medida é possível na execução (B). O tratamento psiquiátrico não é sanção a agentes públicos (C). E os programas de orientação e apoio sociofamiliar são, sim, responsabilidade das entidades de atendimento (E, ECA, art. 90, I).",
+   "dispositivos": [
+    {
+     "ref": "Lei 12.594/2012 (SINASE), art. 41, §§ 2º e 4º",
+     "tipo": "lei",
+     "texto": "§ 2º A impugnação ou complementação do plano individual, requerida pelo defensor ou pelo Ministério Público, deverá ser fundamentada, podendo a autoridade judiciária indeferi-la, se entender insuficiente a motivação.\n§ 4º A impugnação não suspenderá a execução do plano individual, salvo determinação judicial em contrário.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12594.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-67": {
+   "nota": "A Constituição de 1934 foi a primeira a impor à União e aos Estados a concessão de assistência judiciária aos necessitados, com a criação de órgãos especiais e a isenção de custas (art. 113, n. 32). Por isso a E e não a A. A assistência jurídica integral, mais ampla que a judiciária, só aparece na Constituição de 1988 (B). A Defensoria Pública como instituição constitucional nasce em 1988, não na EC 1/1969 (C). E a Constituição de 1824 não tratava de gratuidade de justiça (D).",
+   "dispositivos": [
+    {
+     "ref": "Constituição de 1934, art. 113, n. 32",
+     "tipo": "entendimento",
+     "texto": "A União e os Estados concederão aos necessitados assistência judiciária, criando, para esse efeito, órgãos especiais, e assegurando a isenção de emolumentos, custas, taxas e selos."
+    },
+    {
+     "ref": "CF/1988, art. 5º, LXXIV",
+     "tipo": "lei",
+     "texto": "LXXIV - o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos;",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-68": {
+   "nota": "Desde a EC 80/2014, são princípios institucionais da Defensoria a unidade, a indivisibilidade e a independência funcional, os mesmos do MP (art. 134, § 4º, e art. 127, § 1º). Por isso a D. A inamovibilidade do defensor não tem a ressalva da sentença judicial (A). Defensores não têm vitaliciedade (B). A estabilidade dos procuradores do Estado é após três anos, e a regra não inclui defensores (C). E a proposta orçamentária é de iniciativa da própria Defensoria, não do governador (E, art. 134, § 2º).",
+   "dispositivos": [
+    {
+     "ref": "CF/1988, art. 134, §§ 2º e 4º",
+     "tipo": "lei",
+     "texto": "§ 2º Às Defensorias Públicas Estaduais são asseguradas autonomia funcional e administrativa e a iniciativa de sua proposta orçamentária dentro dos limites estabelecidos na lei de diretrizes orçamentárias e subordinação ao disposto no art. 99, § 2º.\n§ 4º São princípios institucionais da Defensoria Pública a unidade, a indivisibilidade e a independência funcional, aplicando-se também, no que couber, o disposto no art. 93 e no inciso II do art. 96 desta Constituição Federal.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-69": {
+   "nota": "Prestar as informações solicitadas pelos órgãos da Administração Superior, como o Conselho Superior, é dever funcional do defensor na LCE 251/2003-RN; a estabilidade e a independência funcional não o dispensam disso. Descumprido o dever sem justificativa, cabe advertência por escrito, a pena mais leve. Por isso a C. Nem toda sanção exige inquérito administrativo (D), e as penas mais graves não são aplicadas pelo Conselho Superior em todos os casos (E).",
+   "dispositivos": [
+    {
+     "ref": "LCE 251/2003-RN, deveres e sanções do defensor público",
+     "tipo": "entendimento",
+     "texto": "É dever do membro da Defensoria Pública do Estado atender às requisições e prestar as informações solicitadas pelos órgãos da Administração Superior; a violação de dever funcional de menor gravidade sujeita o defensor à pena de advertência, aplicada por escrito."
+    }
+   ],
+   "ressalva": "A LCE 251/2003-RN não está no Planalto: a regra foi resumida, sem transcrição literal. Confira na versão consolidada publicada pela Assembleia Legislativa do RN.",
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-70": {
+   "nota": "Compete à Ouvidoria-Geral contribuir para a disseminação das formas de participação popular no acompanhamento e na fiscalização dos serviços da Defensoria (LC 80/1994, art. 105-C, VII). Por isso a D. O ouvidor é escolhido pelo Conselho Superior e nomeado pelo Defensor Público-Geral, não pelo governador (A), a partir de lista tríplice formada pela sociedade civil, com quem não integra a carreira (B). Participa do Conselho Superior só com direito a voz (C). E a fiscalização da conduta dos membros é da Corregedoria, não da Ouvidoria (E).",
+   "dispositivos": [
+    {
+     "ref": "LC 80/1994, art. 105-B, caput e § 2º",
+     "tipo": "lei",
+     "texto": "Art. 105-B. O Ouvidor-Geral será escolhido pelo Conselho Superior, dentre cidadãos de reputação ilibada, não integrante da Carreira, indicados em lista tríplice formada pela sociedade civil, para mandato de 2 (dois) anos, permitida 1 (uma) recondução.\n§ 2º O Ouvidor-Geral será nomeado pelo Defensor Público-Geral do Estado.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm"
+    },
+    {
+     "ref": "LC 80/1994, art. 105-C, IV e VII",
+     "tipo": "lei",
+     "texto": "IV – participar, com direito a voz, do Conselho Superior da Defensoria Pública do Estado;\nVII – contribuir para a disseminação das formas de participação popular no acompanhamento e na fiscalização da prestação dos serviços realizados pela Defensoria Pública;",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-71": {
+   "nota": "Os recursos das dotações orçamentárias da Defensoria, incluídos os créditos suplementares e especiais, são entregues em duodécimos até o dia 20 de cada mês, regra da Constituição Federal (art. 168) reproduzida na Constituição do RN. Por isso a E. Projetos sobre a organização dos serviços administrativos não admitem aumento de despesa (A). Legislar sobre assistência jurídica e Defensoria é competência concorrente da União e dos Estados, não dos Municípios (B, art. 24, XIII). A organização da Defensoria é matéria de lei complementar, que não pode ser delegada (C). E a proposta orçamentária respeita os limites da LDO (D, art. 134, § 2º).",
+   "dispositivos": [
+    {
+     "ref": "CF/1988, art. 168",
+     "tipo": "lei",
+     "texto": "Art. 168. Os recursos correspondentes às dotações orçamentárias, compreendidos os créditos suplementares e especiais, destinados aos órgãos dos Poderes Legislativo e Judiciário, do Ministério Público e da Defensoria Pública, ser-lhes-ão entregues até o dia 20 de cada mês, em duodécimos, na forma da lei complementar a que se refere o art. 165, § 9º.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-72": {
+   "nota": "São direitos dos assistidos, entre outros, a qualidade e a eficiência do atendimento e o patrocínio pelo defensor natural (LC 80/1994, art. 4º-A, II e IV). Por isso a B. Havendo interesses antagônicos, a lei já impõe defensores distintos, sem avaliação do Defensor-Geral (A). Pessoa jurídica necessitada pode ser assistida (C). A renda é um critério, mas não há recusa automática acima de dois salários mínimos (D). E o defensor não precisa de mandato: sua representação decorre da lei (E).",
+   "dispositivos": [
+    {
+     "ref": "LC 80/1994, art. 4º-A, II e IV",
+     "tipo": "lei",
+     "texto": "Art. 4º-A. São direitos dos assistidos da Defensoria Pública, além daqueles previstos na legislação estadual ou em atos normativos internos:\nII – a qualidade e a eficiência do atendimento;\nIV – o patrocínio de seus direitos e interesses pelo defensor natural;",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-73": {
+   "nota": "A Defensoria deve promover, prioritariamente, a solução extrajudicial dos litígios, por mediação, conciliação, arbitragem e outras técnicas (LC 80/1994, art. 4º, II), e o defensor pode atuar como árbitro indicado pelas partes. Por isso a E. O acordo referendado pelo defensor é título executivo extrajudicial mesmo com pessoa jurídica de direito público, sem homologação (A, art. 4º, § 4º). A atuação em direitos difusos não é subsidiária à do MP (B). A atuação coletiva pressupõe que o resultado beneficie grupo de hipossuficientes (C). E a prioridade é a solução extrajudicial, não a judicial (D).",
+   "dispositivos": [
+    {
+     "ref": "LC 80/1994, art. 4º, II, e § 4º",
+     "tipo": "lei",
+     "texto": "II – promover, prioritariamente, a solução extrajudicial dos litígios, visando à composição entre as pessoas em conflito de interesses, por meio de mediação, conciliação, arbitragem e demais técnicas de composição e administração de conflitos;\n§ 4º O instrumento de transação, mediação ou conciliação referendado pelo Defensor Público valerá como título executivo extrajudicial, inclusive quando celebrado com a pessoa jurídica de direito público.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-74": {
+   "nota": "Na obra de Cappelletti e Garth, a terceira onda ('enfoque de acesso à justiça') amplia o foco para além da representação em juízo, com reformas que incluem prevenir litígios e resolvê-los fora do Judiciário. Por isso a A. No judicare, os advogados particulares eram pagos pelo Estado, não atuavam de graça (B), e o modelo era criticado justamente por não ajudar os pobres a reconhecer seus direitos (C). A segunda onda tratou dos interesses difusos, superando a visão individualista (D). E a terceira onda não abandonou as anteriores, mas as incorporou (E).",
+   "dispositivos": [
+    {
+     "ref": "Cappelletti e Garth, Acesso à Justiça (as três ondas)",
+     "tipo": "entendimento",
+     "texto": "A primeira onda tratou da assistência judiciária aos pobres (modelos judicare e de advogados remunerados pelo Estado); a segunda, da representação dos interesses difusos; a terceira, o enfoque de acesso à justiça, incorpora as anteriores e busca técnicas como a prevenção de litígios e meios alternativos de solução de conflitos."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-75": {
+   "nota": "A LC 80/1994 prevê que o defensor estadual atue junto aos Tribunais Superiores na forma da legislação estadual (art. 111), e o STJ admite a atuação da Defensoria estadual perante ele quando a lei orgânica do Estado a prevê. Por isso a D. A atuação não se limita ao habeas corpus (A), não é vedada (B) nem exclusiva da DPU (C), e a DPU não substitui as Defensorias estaduais a seu critério (E).",
+   "dispositivos": [
+    {
+     "ref": "LC 80/1994, art. 111",
+     "tipo": "lei",
+     "texto": "Art. 111. O Defensor Público do Estado atuará, na forma do que dispuser a legislação estadual, junto a todos os Juízos de 1º grau de jurisdição, núcleos, órgãos judiciários de 2º grau de jurisdição, instâncias administrativas e Tribunais Superiores (art. 22, parágrafo único).",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-76": {
+   "nota": "Havendo duas qualificadoras (ou majorantes), o STJ admite que uma qualifique o crime (ou aumente a pena na terceira fase) e a outra seja valorada como circunstância judicial desfavorável, na pena-base. Por isso a A. O arrependimento posterior é circunstância objetiva e se estende aos corréus (B, art. 16). A vigilância eletrônica não torna, por si só, o furto impossível (C, Súmula 567 do STJ). Condenações atingidas pelo período depurador ainda podem gerar maus antecedentes (D). E a confissão qualificada, com tese defensiva, também atenua a pena segundo o STJ (E).",
+   "dispositivos": [
+    {
+     "ref": "STJ, duas qualificadoras na dosimetria",
+     "tipo": "entendimento",
+     "texto": "Presentes duas ou mais qualificadoras, uma delas qualifica o delito e as demais podem ser valoradas na primeira fase, como circunstância judicial desfavorável, ou na segunda, como agravante, se previstas como tal."
+    },
+    {
+     "ref": "Código Penal, art. 16",
+     "tipo": "lei",
+     "texto": "Art. 16 - Nos crimes cometidos sem violência ou grave ameaça à pessoa, reparado o dano ou restituída a coisa, até o recebimento da denúncia ou da queixa, por ato voluntário do agente, a pena será reduzida de um a dois terços.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    },
+    {
+     "ref": "STJ, Súmula 567",
+     "tipo": "entendimento",
+     "texto": "Sistema de vigilância realizado por monitoramento eletrônico ou por existência de segurança no interior de estabelecimento comercial, por si só, não torna impossível a configuração do crime de furto."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-77": {
+   "nota": "No latrocínio com uma só subtração e duas mortes, havendo desígnios autônomos, o STJ reconhece concurso formal impróprio: as penas se somam, como no concurso material (CP, art. 70, caput, parte final). Por isso a B. Roubo de vítimas diferentes no mesmo contexto é concurso formal, não material (A). Atos libidinosos e conjunção carnal com a mesma vítima, no mesmo contexto, formam crime único (C). Não se aplicam cumulativamente concurso formal e continuidade: prevalece a continuidade (D). E roubo seguido de extorsão com o cartão é concurso material (E).",
+   "dispositivos": [
+    {
+     "ref": "Código Penal, art. 70, caput",
+     "tipo": "lei",
+     "texto": "Art. 70 - Quando o agente, mediante uma só ação ou omissão, pratica dois ou mais crimes, idênticos ou não, aplica-se-lhe a mais grave das penas cabíveis ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de um sexto até metade. As penas aplicam-se, entretanto, cumulativamente, se a ação ou omissão é dolosa e os crimes concorrentes resultam de desígnios autônomos, consoante o disposto no artigo anterior.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-78": {
+   "nota": "O indulto extingue os efeitos primários da condenação (a pena), no todo ou em parte, mas mantém os efeitos secundários, como a reincidência (Súmula 631 do STJ). Por isso a C. O STF admite revogar a extinção da punibilidade baseada em certidão de óbito falsa (B). A perempção pressupõe ação penal já instaurada, com a queixa recebida (D). E a queixa ajuizada no prazo, ainda que em juízo territorialmente incompetente, impede a decadência (E).",
+   "dispositivos": [
+    {
+     "ref": "STJ, Súmula 631",
+     "tipo": "entendimento",
+     "texto": "O indulto extingue os efeitos primários da condenação (pretensão executória), mas não atinge os efeitos secundários, penais ou extrapenais."
+    },
+    {
+     "ref": "STF, extinção da punibilidade com certidão de óbito falsa",
+     "tipo": "entendimento",
+     "texto": "A decisão que declara extinta a punibilidade com base em certidão de óbito falsa pode ser revogada, pois não faz coisa julgada em sentido estrito e ninguém pode se beneficiar da própria fraude."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-79": {
+   "nota": "A doutrina e a jurisprudência admitem coautoria em crime culposo, quando há vínculo psicológico na cooperação consciente para a conduta imprudente; o que não se admite é a participação, pois todo aquele que concorre com culpa é autor. Por isso a D. Saber do crime sem dever de agir é conivência impunível, não participação (A). No roubo com arma conhecida de todos, a morte é desdobramento previsível, e todos respondem por latrocínio (B). Cabe concurso de agentes no porte de arma (C). E o STJ admite a participação do advogado que induz a testemunha ao falso (E).",
+   "dispositivos": [
+    {
+     "ref": "Doutrina e STJ, concurso de agentes no crime culposo",
+     "tipo": "entendimento",
+     "texto": "No crime culposo admite-se a coautoria, quando duas ou mais pessoas, conscientemente, cooperam na conduta descuidada, mas não a participação, porque qualquer contribuição culposa para o resultado é conduta de autor."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-80": {
+   "nota": "No caso do túnel até o cofre do banco, o STJ reconheceu atos executórios de furto qualificado: a escavação, longa e complexa, já expunha o patrimônio a risco concreto, e a interrupção pela prisão configura tentativa. Por isso a A. A pena-base não tem fração fixa de um sexto por circunstância (B). A morte causada pelo incêndio no hospital é causa superveniente que, por si só, produziu o resultado: Aldo responde só pela lesão (C, art. 13, § 1º). O reincidente com pena até quatro anos só vai ao semiaberto se as circunstâncias judiciais forem favoráveis; com circunstância desfavorável, o regime inicial é o fechado (D, Súmula 269 do STJ). E, no concurso de crimes, as multas são aplicadas distinta e integralmente, sem o aumento do art. 70 (E, art. 72).",
+   "dispositivos": [
+    {
+     "ref": "STJ, caso do túnel para furto a banco",
+     "tipo": "entendimento",
+     "texto": "A escavação de túnel, por longo tempo e com logística complexa, em direção ao cofre de instituição bancária já constitui ato executório do crime de furto qualificado, punível como tentativa se a empreitada é interrompida por circunstâncias alheias à vontade dos agentes."
+    },
+    {
+     "ref": "Código Penal, art. 13, § 1º",
+     "tipo": "lei",
+     "texto": "§ 1º - A superveniência de causa relativamente independente exclui a imputação quando, por si só, produziu o resultado; os fatos anteriores, entretanto, imputam-se a quem os praticou.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
   }
  }
 }
