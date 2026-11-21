@@ -159,7 +159,7 @@ export function QuestionBank() {
   const rate = result && result.stats.respondidas ? Math.round((100 * result.stats.acertos) / result.stats.respondidas) : null;
   return <div className="question-bank">
     <p className="eyebrow">{COURSE.name}</p><h1>Banco de questões</h1>
-    <p className="muted">Provas de concursos de Defensoria Pública.{result ? ` Você respondeu ${result.stats.respondidas} de ${result.stats.total}${rate !== null ? ` · ${rate}% de acerto` : ""}.` : ""}</p>
+    <p className="muted">Provas de Defensoria do {COURSE.banca}: DPE-RN 2015.{result ? ` Você respondeu ${result.stats.respondidas} de ${result.stats.total}${rate !== null ? ` · ${rate}% de acerto` : ""}.` : ""}</p>
     {bank && bank.answers.size > 0 && <div className="sheet-actions qb-restart">
       {active && <button type="button" className="button ghost" onClick={() => restart(true)} disabled={resetting}>Recomeçar esta seleção</button>}
       <button type="button" className="button ghost" onClick={() => restart(false)} disabled={resetting}>{resetting ? "Apagando…" : "Recomeçar do zero (apagar todas as respostas)"}</button>

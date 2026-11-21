@@ -13,9 +13,9 @@ describe("atividade do cronograma → banco de questões", () => {
     expect(bankDisciplinesFor("Mini Curso de Humanística")).toEqual(["Filosofia e Sociologia do Direito"]);
     expect(bankDisciplinesFor("Revisão das aulas ao vivo")).toEqual([]);
   });
-  it("todas as disciplinas que o cronograma pode apontar existem no banco", () => {
+  it("as disciplinas centrais do cronograma da DPE-RN têm questões no banco (as demais não ganham atalho)", () => {
     const bank = new Set(QUESTIONS.map((question) => question.disciplina));
-    for (const title of ["processo penal", "processo civil", "execução penal", "criminologia", "penal", "constitucional", "administrativo", "criança", "consumidor", "difusos", "direitos humanos", "institucional", "humanística", "internacional", "civil"]) {
+    for (const title of ["processo penal", "processo civil", "execução penal", "penal", "constitucional", "administrativo", "criança", "consumidor", "difusos", "institucional", "civil"]) {
       for (const discipline of bankDisciplinesFor(title)) expect(bank.has(discipline), discipline).toBe(true);
     }
   });

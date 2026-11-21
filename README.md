@@ -114,12 +114,10 @@ Resultado em 20/11/2026, com os 6 ebooks do Reta Final DPE-RN já prontos (Word,
 
 ## Banco de questões
 
-As questões vêm do repositório REVIEW-RAI (`ferramentas/conteudo/dados/simulados/*.json`) e ficam em `data/questoes.json`. A regra `keep` do importador já está ajustada para o DPE-RN: entram as da própria DPE-RN e as de Defensor do
-**Cebraspe** de 2021 em diante; questões Certo/Errado entram com as alternativas C (Certo) e E (Errado).
-**Atenção:** o `data/questoes.json` ainda é o banco copiado do DPE-SP (provas da DPE-SP e de Defensor da FCC). Rode o
-importador com o REVIEW-RAI para trocar pelo banco do Cebraspe; a fundamentação (`data/fundamentacoes.json`) vale por id
-de questão, então as questões novas entram sem fundamentação até ela ser conferida.
-Para atualizar depois de mudar as questões lá: `node scripts/questoes/importar.mjs /caminho/para/review-rai`, confira e faça o commit.
+As questões vêm do repositório REVIEW-RAI (`ferramentas/conteudo/dados/simulados/*.json`) e ficam em `data/questoes.json`. Entram só as provas de **Defensoria do Cebraspe** (regra `keep` no importador): hoje, a própria DPE-RN 2015 (100
+questões). Provas de MP, TJ e de servidores do Cebraspe que estão no REVIEW-RAI ficam de fora. Questões Certo/Errado
+entram com as alternativas C (Certo) e E (Errado). A fundamentação (`data/fundamentacoes.json`) ainda está vazia: as do
+DPE-SP eram de outras questões.
 As respostas de cada aluno ficam na tabela `question_answers` (migração 0015).
 
 ### Fundamentação do gabarito

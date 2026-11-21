@@ -5,6 +5,10 @@ import { ApiError, handleRoute } from "@/lib/server/http";
 import { ownPlanFiles } from "@/lib/server/study-plan-files";
 import { isOfficialPlan, isPlanChoice, OFFICIAL_PLANS, STUDY_PLAN_BUCKET } from "@/lib/study-plan";
 import { studyPlanFromDocx } from "@/lib/study-plan-view";
+import { QUESTIONS } from "@/lib/questions/data";
+
+// Disciplinas que têm questões no banco: o cronograma só oferece o atalho do banco para elas.
+const BANK_DISCIPLINES = [...new Set(QUESTIONS.map((question) => question.disciplina))];
 import { listVade } from "@/lib/server/vade";
 
 export const dynamic = "force-dynamic";
@@ -30,6 +34,6 @@ export function GET() {
     if (error || !blob) throw new ApiError(404, "not_found", plano === "proprio" ? "Não foi possível abrir o seu cronograma." : "A equipe ainda não publicou este cronograma.");
     const [view, vade] = await Promise.all([studyPlanFromDocx(Buffer.from(await blob.arrayBuffer())), listVade(supabase)]);
     // Os Vade Espertos publicados: as atividades "Vade Esperto – X" ganham o botão para abrir o PDF.
-    return NextResponse.json({ plano, titulo, tipo: "docx", ...view, vade: vade.filter((item) => item.disponivel || item.leitor).map((item) => item.slug), vadeLeitor: Object.fromEntries(vade.filter((item) => item.leitor).map((item) => [item.slug, item.leitor])) }, { headers: { "cache-control": "private, max-age=300" } });
+    return NextResponse.json({ plano, titulo, tipo: "docx", ...view, banco: BANK_DISCIPLINES, vade: vade.filter((item) => item.disponivel || item.leitor).map((item) => item.slug), vadeLeitor: Object.fromEntries(vade.filter((item) => item.leitor).map((item) => [item.slug, item.leitor])) }, { headers: { "cache-control": "private, max-age=300" } });
   });
 }

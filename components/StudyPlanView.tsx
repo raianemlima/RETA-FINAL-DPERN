@@ -12,7 +12,7 @@ import { vadeFor, vadeMaterial } from "@/lib/vade";
 type Activity = { titulo: string; tempo: string; links: { href: string; rotulo: string }[] };
 type Day = { dia: number; titulo: string; html: string; atividades?: Activity[] };
 type Annex = { titulo: string; html: string; informativos?: Informativo[] };
-type Content = { plano: string; titulo: string; tipo: "docx"; geral: string; dias: Day[]; anexos: Annex[]; vade?: string[]; vadeLeitor?: Record<string, string> } | { plano: string; titulo: string; tipo: "arquivo" };
+type Content = { plano: string; titulo: string; tipo: "docx"; geral: string; dias: Day[]; anexos: Annex[]; vade?: string[]; vadeLeitor?: Record<string, string>; banco?: string[] } | { plano: string; titulo: string; tipo: "arquivo" };
 // Semana de estudo começa na segunda.
 const ORDER = [1, 2, 3, 4, 5, 6, 0];
 // "Defensoria do Rio Grande do Norte" e "DPE/RN" são a mesma coisa para achar a trilha (idem para SP).
@@ -106,7 +106,9 @@ export function StudyPlanView() {
   const activities = current?.atividades ?? [];
   // Disciplinas do dia, tiradas das trilhas e do Vade Esperto, para o atalho do banco de questões do app.
   const isStudy = (title: string) => !/^(quest[oõ]es|s[uú]mulas|temas|revis)/i.test(fold(title).trim());
-  const dayDisciplines = [...new Set(activities.filter((activity) => isStudy(activity.titulo)).flatMap((activity) => bankDisciplinesFor(activity.titulo)))];
+  // Só disciplinas com questões no banco (a prova da DPE-RN 2015 não tem, por exemplo, Direitos Humanos).
+  const inBank = (title: string) => bankDisciplinesFor(title).filter((discipline) => !content.banco || content.banco.includes(discipline));
+  const dayDisciplines = [...new Set(activities.filter((activity) => isStudy(activity.titulo)).flatMap((activity) => inBank(activity.titulo)))];
   // Progresso: do dia aberto e da semana inteira (só dias com atividades separadas).
   const keysOf = (item: Day) => activityKeys((item.atividades ?? []).map((activity) => activity.titulo));
   const doneIn = (item: Day) => keysOf(item).filter((key) => done?.has(`${week[item.dia]}|${key}`)).length;
@@ -129,7 +131,7 @@ export function StudyPlanView() {
       // "Questões do dia" abre primeiro o banco do app nas disciplinas do dia; a trilha de cada disciplina, as questões dela.
       const isQuestions = /^quest/i.test(fold(activity.titulo).trim());
       const vade = /^vade/i.test(fold(activity.titulo).trim()) ? vadeFor(activity.titulo).filter((slug) => content.vade?.includes(slug)) : [];
-      const ownBank = isQuestions ? dayDisciplines : /^trilha/i.test(fold(activity.titulo).trim()) ? bankDisciplinesFor(activity.titulo) : [];
+      const ownBank = isQuestions ? dayDisciplines : /^trilha/i.test(fold(activity.titulo).trim()) ? inBank(activity.titulo) : [];
       const doneKey = `${week[day]}|${dayKeys[position]}`; const isDone = Boolean(done?.has(doneKey));
       return <li key={position} className={`plan-activity${isDone ? " is-done" : ""}`}>
         <div className="plan-activity-head"><span className="plan-activity-n" aria-hidden={isDone || undefined}>{isDone ? "✓" : position + 1}</span><strong>{activity.titulo}</strong>{activity.tempo && <span className="badge">{activity.tempo}</span>}</div>
