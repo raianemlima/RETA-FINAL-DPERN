@@ -12566,6 +12566,273 @@
     }
    ],
    "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-1": {
+   "nota": "A Constituição protege os locais de culto e suas liturgias (CF, art. 5º, VI) e garante imunidade tributária aos templos de qualquer culto, o que afasta a cobrança de IPTU sobre o terreiro (art. 150, VI, b). O STF declarou constitucional o sacrifício ritual de animais em cultos de religiões de matriz africana (RE 494.601). Quanto ao sossego, resolve-se por ponderação e proporcionalidade. Por isso a C. A E erra ao equiparar o sacrifício ritual às práticas cruéis vedadas, como briga de galo e farra do boi.",
+   "dispositivos": [
+    {
+     "ref": "CF, art. 5º, VI, e art. 150, VI, b",
+     "tipo": "lei",
+     "texto": "VI - é inviolável a liberdade de consciência e de crença, sendo assegurado o livre exercício dos cultos religiosos e garantida, na forma da lei, a proteção aos locais de culto e a suas liturgias;\nb) entidades religiosas e templos de qualquer culto, inclusive suas organizações assistenciais e beneficentes; (Redação dada pela Emenda Constitucional nº 132, de 2023)",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    },
+    {
+     "ref": "STF, RE 494.601 (Tema 940)",
+     "tipo": "entendimento",
+     "texto": "É constitucional a lei de proteção animal que, a fim de resguardar a liberdade religiosa, permite o sacrifício ritual de animais em cultos de religiões de matriz africana."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-2": {
+   "nota": "A questão pede a incorreta. Para a Constituição Radical (Vera Karam de Chueiri), o poder constituinte não se exaure com a promulgação: ele permanece retido na Constituição, em tensão agonística com os poderes constituídos e aberto ao futuro. Por isso a E. As demais expressam a teoria: a Constituição não se reduz ao constituído (A), não é mero texto que abranda tensões (B), é a própria tensão (C), e essa tensão é sinal virtuoso de uma democracia radical (D).",
+   "dispositivos": [
+    {
+     "ref": "Chueiri, 'Constituição Radical: uma ideia e uma prática' (2013)",
+     "tipo": "entendimento",
+     "texto": "A Constituição radical mantém o poder constituinte como potência permanente, em relação agonística com os poderes constituídos; a Constituição é promessa e tensão, e não síntese acabada no momento da promulgação."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-3": {
+   "nota": "A Defensoria não tem legitimidade para o controle preventivo de constitucionalidade de projeto de lei, que no Judiciário só é admitido em mandado de segurança impetrado por parlamentar. Pode, porém, elaborar nota técnica sobre o PL, no exercício de sua função de difusão e conscientização dos direitos humanos (LC 80/1994, art. 4º, III). Por isso a C. A Defensoria não tem direito líquido e certo a ser defendido por mandado de segurança contra a tramitação (E). E o poder de requisição não serve para instruir controle incidental de projeto ainda não convertido em lei (D).",
+   "dispositivos": [
+    {
+     "ref": "LC 80/1994, art. 4º, III",
+     "tipo": "lei",
+     "texto": "III – promover a difusão e a conscientização dos direitos humanos, da cidadania e do ordenamento jurídico;",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm"
+    },
+    {
+     "ref": "STF, controle preventivo judicial de constitucionalidade",
+     "tipo": "entendimento",
+     "texto": "O controle judicial preventivo de projeto de lei só é admitido por mandado de segurança impetrado por parlamentar, para assegurar o devido processo legislativo."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-4": {
+   "nota": "A questão pede a alternativa incorreta nos dois temas. O transfeminismo rejeita o determinismo biológico como chave única do que é ser mulher. E, para o STF, a identidade de gênero é manifestação da própria personalidade, cabendo ao Estado apenas reconhecê-la, e não constituí-la (ADI 4.275 e Tema 761). Por isso a D. As demais estão corretas: local de cumprimento de pena de pessoas trans (A), Lei Maria da Penha para mulheres trans (B, STJ, REsp 1.977.124), alteração de registro sem cirurgia (C) e cobertura de cirurgias de afirmação de gênero (E).",
+   "dispositivos": [
+    {
+     "ref": "STF, ADI 4.275 e Tema 761 (RE 670.422)",
+     "tipo": "entendimento",
+     "texto": "A identidade de gênero é manifestação da própria personalidade da pessoa humana e, como tal, cabe ao Estado apenas o papel de reconhecê-la, nunca de constituí-la; a pessoa transgênero tem direito à alteração do prenome e do gênero no registro civil por simples manifestação de vontade, independentemente de cirurgia ou tratamentos."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-5": {
+   "nota": "Os faxinais caracterizam-se pela criação de animais à solta em terras de uso comum e pelo extrativismo florestal de baixo impacto, associado à conservação. Quanto ao ICMS ecológico, o STF entendeu que o Estado pode adotar critérios ambientais para distribuir a parcela do ICMS que cabe aos Municípios, mas não pode vincular a aplicação desses recursos, que depende de decisão autônoma do Município (ADI 2.355). A vedação de vinculação de receita de impostos está no art. 167, IV, da CF. Por isso a B.",
+   "dispositivos": [
+    {
+     "ref": "CF, art. 167, IV",
+     "tipo": "lei",
+     "texto": "IV - a vinculação de receita de impostos a órgão, fundo ou despesa, ressalvadas a repartição do produto da arrecadação dos impostos a que se referem os arts. 158 e 159, a destinação de recursos para as ações e serviços públicos de saúde, para manutenção e desenvolvimento do ensino e para realização de atividades da administração tributária, como determinado, respectivamente, pelos arts. 198, § 2º, 212 e 37, XXII, e a prestação de garantias às operações de crédito por antecipação de receita, previstas no art. 165, § 8º, bem como o disposto no § 4º deste artigo; (Redação dada pela Emenda Constitucional nº 42, de 19.12.2003)",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    },
+    {
+     "ref": "STF, ADI 2.355 (ICMS ecológico no Paraná)",
+     "tipo": "entendimento",
+     "texto": "O Estado pode estabelecer critérios ambientais para o repasse da quota municipal do ICMS, mas a destinação dos valores recebidos pelos Municípios insere-se em sua autonomia financeira, não podendo ser vinculada pelo Estado."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-6": {
+   "nota": "A questão pede a incorreta. O STF reconheceu a constitucionalidade de leis municipais que instituíram feriado no Dia da Consciência Negra, como expressão do interesse local e da proteção da cultura afro-brasileira. A Lei 14.759/2023 tornou o 20 de novembro feriado nacional. Por isso a E. As demais estão corretas: o diálogo da ADPF 635 com o caso Favela Nova Brasília (A), a ADPF contra omissões estruturais (B), o racismo como desumanização e privilégio (C) e a imprescritibilidade da injúria racial (D, HC 154.248).",
+   "dispositivos": [
+    {
+     "ref": "STF, feriado municipal da Consciência Negra, e Lei 14.759/2023",
+     "tipo": "entendimento",
+     "texto": "Leis municipais que instituíram feriado em 20 de novembro, Dia da Consciência Negra, foram consideradas compatíveis com a Constituição, por tratarem de data de alta significação étnica (CF, art. 215, § 2º); a Lei 14.759/2023 declarou o dia feriado nacional."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-7": {
+   "nota": "A questão pede a medida que não foi determinada como descrita. Na ADPF 976, o STF determinou a vedação imediata do emprego de técnicas de arquitetura hostil contra a população em situação de rua. A medida não depende de alteração prévia do plano diretor nem de adesão formal à política nacional. Por isso a D. As demais correspondem à decisão: barracas pela Defesa Civil (A), divulgação prévia das ações de zeladoria (B), bebedouros, banheiros e lavanderias sociais (C) e diagnóstico em 120 dias (E).",
+   "dispositivos": [
+    {
+     "ref": "STF, ADPF 976 MC-Ref (2023)",
+     "tipo": "entendimento",
+     "texto": "Os entes federativos devem observar, independentemente de adesão formal ao Decreto 7.053/2009, medidas como a vedação do emprego de técnicas de arquitetura hostil contra a população em situação de rua, a divulgação prévia das ações de zeladoria urbana, a disponibilização de barracas, bebedouros, banheiros e lavanderias sociais, e a realização de diagnóstico da população em situação de rua no prazo de 120 dias."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-8": {
+   "nota": "A questão pede a incorreta. Na ADPF 828, o regime de transição alcançou as desocupações coletivas. Para os despejos da Lei do Inquilinato, de base contratual, o STF autorizou a retomada imediata, sem manter regime de transição. Por isso a E. As demais trazem regras constitucionais corretas (CF, arts. 185, 182, §§ 1º e 2º, 183, § 3º, e 184) e medidas da decisão: comissões de conflitos fundiários inspiradas no modelo do TJPR e oitiva prévia das comunidades afetadas.",
+   "dispositivos": [
+    {
+     "ref": "CF, art. 182, §§ 1º e 2º, art. 183, § 3º, e art. 185",
+     "tipo": "lei",
+     "texto": "§ 1º O plano diretor, aprovado pela Câmara Municipal, obrigatório para cidades com mais de vinte mil habitantes, é o instrumento básico da política de desenvolvimento e de expansão urbana.\n§ 2º A propriedade urbana cumpre sua função social quando atende às exigências fundamentais de ordenação da cidade expressas no plano diretor.\n§ 3º Os imóveis públicos não serão adquiridos por usucapião.\nArt. 185. São insuscetíveis de desapropriação para fins de reforma agrária:\nI - a pequena e média propriedade rural, assim definida em lei, desde que seu proprietário não possua outra;\nII - a propriedade produtiva.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    },
+    {
+     "ref": "STF, ADPF 828 TPI-quarta-Ref (2022)",
+     "tipo": "entendimento",
+     "texto": "Foi estabelecido regime de transição para a retomada das desocupações coletivas, com criação de comissões de conflitos fundiários nos tribunais e oitiva prévia das comunidades afetadas; quanto aos despejos individuais em locações regidas pela Lei 8.245/1991, autorizou-se a retomada da execução."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-9": {
+   "nota": "A questão pede a incorreta. O STF reconheceu o poder de requisição da Defensoria como prerrogativa legítima (ADI 6.852), exercida diretamente, sem depender de prévia autorização judicial. Por isso a A. As demais estão corretas: a Defensoria não se equipara à advocacia (B, ADI 4.636), a carreira com concurso garante a independência técnica (C), são devidos honorários contra o ente que a integra (D, Tema 1.002), e os Municípios podem prestar assistência judiciária sem criar Defensoria municipal (E, ADPF 279).",
+   "dispositivos": [
+    {
+     "ref": "LC 80/1994, art. 128, X",
+     "tipo": "lei",
+     "texto": "X - requisitar de autoridade pública ou de seus agentes exames, certidões, perícias, vistorias, diligências, processos, documentos, informações, esclarecimentos e providências necessárias ao exercício de suas atribuições;",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm"
+    },
+    {
+     "ref": "STF, ADI 6.852",
+     "tipo": "entendimento",
+     "texto": "É constitucional o poder de requisição conferido à Defensoria Pública, prerrogativa que concretiza o acesso à justiça e independe de intermediação judicial."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-10": {
+   "nota": "Um traço do constitucionalismo latino-americano, destacado por Roberto Gargarella, é a manutenção de uma 'sala de máquinas' presidencialista e concentradora de poder ao lado da ampliação dos direitos, que não repercute na organização do poder. Por isso a B. Argentina e Brasil não são Estados plurinacionais; os exemplos são Bolívia e Equador (A). A Constituição de 1988 não se filiou ao socialismo (C). E a Constituição de 1824 não conferiu cidadania aos escravizados (D).",
+   "dispositivos": [
+    {
+     "ref": "Gargarella, a 'sala de máquinas' das constituições latino-americanas",
+     "tipo": "entendimento",
+     "texto": "As reformas constitucionais latino-americanas ampliaram as declarações de direitos, mas preservaram a organização de poder concentrada no Executivo presidencial, criando tensão entre a parte dogmática renovada e a parte orgânica inalterada."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-11": {
+   "nota": "A questão pede a incorreta. Pelas normas do CNJ sobre audiências concentradas, o ato deve ocorrer preferencialmente nas dependências da entidade de acolhimento, e não no fórum, com a presença dos atores do Sistema de Garantia de Direitos. Por isso a A. As demais estão corretas: participação da Defensoria mesmo sem representar a parte (B), intimação ou condução dos pais e parentes com vínculos (C), periodicidade semestral, preferencialmente em abril e outubro ou maio e novembro (D), e competência do juízo que determinou o acolhimento, admitida a videoconferência (E).",
+   "dispositivos": [
+    {
+     "ref": "CNJ, Provimento 118/2021 (audiências concentradas)",
+     "tipo": "entendimento",
+     "texto": "As audiências concentradas para reavaliação das medidas de acolhimento serão realizadas semestralmente, preferencialmente nos meses de abril e outubro ou maio e novembro, e, sempre que possível, nas dependências da entidade de acolhimento, com a presença dos atores do Sistema de Garantia de Direitos; compete ao juízo que determinou o acolhimento realizá-las, podendo valer-se de videoconferência."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-12": {
+   "nota": "A educação básica em creche e pré-escola é direito fundamental de toda criança até 5 anos e é dever do Poder Público assegurá-la, sem que se possa opor a reserva do possível. Por isso o STF fixou o Tema 548 (RE 1.008.166). Não se exige que a mãe comprove a inexistência de parentes para cuidar do filho: o direito é da criança. Por isso a E.",
+   "dispositivos": [
+    {
+     "ref": "CF, art. 208, IV",
+     "tipo": "lei",
+     "texto": "IV - educação infantil, em creche e pré-escola, às crianças até 5 (cinco) anos de idade; (Redação dada pela Emenda Constitucional nº 53, de 2006)",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    },
+    {
+     "ref": "STF, Tema 548 da repercussão geral (RE 1.008.166)",
+     "tipo": "entendimento",
+     "texto": "A educação básica em todas as suas fases, educação infantil, ensino fundamental e ensino médio, constitui direito fundamental de todas as crianças e jovens, assegurado por normas constitucionais de eficácia plena e aplicabilidade direta e imediata; a educação infantil compreende creche e pré-escola, e sua oferta pelo Poder Público pode ser exigida individualmente."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-13": {
+   "nota": "Pela tese institucional da DPE-PR, a perda do poder familiar por 'atos contrários à moral e aos bons costumes' (CC, art. 1.638, III) pode ser inconstitucional. A expressão é vaga e permite intervenção estatal discriminatória sobre modos de vida das famílias, violando a legalidade e a proteção da família. Por isso a B.",
+   "dispositivos": [
+    {
+     "ref": "CC, art. 1.638, III",
+     "tipo": "lei",
+     "texto": "III - praticar atos contrários à moral e aos bons costumes;",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    },
+    {
+     "ref": "DPE-PR, tese institucional sobre o art. 1.638, III, do CC",
+     "tipo": "entendimento",
+     "texto": "A hipótese de perda do poder familiar por prática de atos contrários à moral e aos bons costumes é inconstitucional, por indeterminação e por permitir juízos morais discriminatórios sobre as famílias, em afronta à legalidade estrita e à proteção constitucional da família."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-14": {
+   "nota": "O adolescente não pode receber tratamento mais gravoso do que o conferido ao adulto (Lei 12.594/2012, art. 35, I). A pena máxima da lesão corporal leve é de um ano, e Romeu já está internado há quase isso. Mantê-lo internado ou prorrogar a medida o colocaria em situação pior que a de um adulto. Por isso a medida deve ser extinta, como diz a A.",
+   "dispositivos": [
+    {
+     "ref": "Lei 12.594/2012, art. 35, I",
+     "tipo": "lei",
+     "texto": "I - legalidade, não podendo o adolescente receber tratamento mais gravoso do que o conferido ao adulto;",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12594.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-15": {
+   "nota": "A Lei 13.431/2017 lista como formas de violência a física, a psicológica, a sexual, a institucional e a patrimonial (art. 4º, I a V). A negligência não está entre elas. Por isso a D.",
+   "dispositivos": [
+    {
+     "ref": "Lei 13.431/2017, art. 4º, I e IV",
+     "tipo": "lei",
+     "texto": "I - violência física, entendida como a ação infligida à criança ou ao adolescente que ofenda sua integridade ou saúde corporal ou que lhe cause sofrimento físico;\nIV - violência institucional, entendida como a praticada por instituição pública ou conveniada, inclusive quando gerar revitimização.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13431.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-16": {
+   "nota": "Estão integralmente corretos I, II e IV, que reproduzem os incisos I, IV e XII do parágrafo único do art. 100 do ECA. O III está incompleto: a obrigatoriedade da informação alcança também os pais ou responsável, e não apenas a criança e o adolescente (inciso XI). Por isso a B.",
+   "dispositivos": [
+    {
+     "ref": "ECA, art. 100, parágrafo único, I, IV e XI",
+     "tipo": "lei",
+     "texto": "I - condição da criança e do adolescente como sujeitos de direitos: crianças e adolescentes são os titulares dos direitos previstos nesta e em outras Leis, bem como na Constituição Federal;\nIV - interesse superior da criança e do adolescente: a intervenção deve atender prioritariamente aos interesses e direitos da criança e do adolescente, sem prejuízo da consideração que for devida a outros interesses legítimos no âmbito da pluralidade dos interesses presentes no caso concreto;\nXI - obrigatoriedade da informação: a criança e o adolescente, respeitado seu estágio de desenvolvimento e capacidade de compreensão, seus pais ou responsável devem ser informados dos seus direitos, dos motivos que determinaram a intervenção e da forma como esta se processa;",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-17": {
+   "nota": "O gabarito adota a tese defensiva de que a presença do adolescente na audiência de apresentação é um direito, e não uma obrigação. Se ele não comparece, o feito deve prosseguir com a dispensa da presença. A previsão do ECA de condução coercitiva ou de busca e apreensão nessa hipótese (art. 187) seria incompatível com a Constituição, pois viola a autodefesa e o direito ao silêncio. Por isso a D. Não há revelia no procedimento infracional (C).",
+   "dispositivos": [
+    {
+     "ref": "Tese defensiva: presença facultativa do adolescente",
+     "tipo": "entendimento",
+     "texto": "O comparecimento à audiência de apresentação é direito de autodefesa do adolescente, e não dever; a condução coercitiva ou a busca e apreensão para esse fim (ECA, art. 187) é incompatível com o direito ao silêncio e com o entendimento do STF que vedou a condução coercitiva para interrogatório (ADPFs 395 e 444)."
+    }
+   ],
+   "ressalva": "A tese não é pacífica na jurisprudência. A justificativa segue o gabarito oficial.",
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-18": {
+   "nota": "Contra a decisão que indefere tutela provisória cabe agravo de instrumento (CPC, art. 1.015, I). Na ação civil pública, ainda que na Vara da Infância, aplica-se o prazo do CPC de 15 dias úteis (arts. 1.003, § 5º, e 219), e não o prazo de 10 dias corridos do ECA, que se restringe aos procedimentos do próprio Estatuto. Com o prazo em dobro da Defensoria (art. 186), são 30 dias úteis. Por isso a C.",
+   "dispositivos": [
+    {
+     "ref": "CPC, arts. 1.015, I, 1.003, § 5º, 186 e 219",
+     "tipo": "lei",
+     "texto": "Art. 1.015. Cabe agravo de instrumento contra as decisões interlocutórias que versarem sobre:\nI - tutelas provisórias;\n§ 5º Excetuados os embargos de declaração, o prazo para interpor os recursos e para responder-lhes é de 15 (quinze) dias.\nArt. 186. A Defensoria Pública gozará de prazo em dobro para todas as suas manifestações processuais.\nArt. 219. Na contagem de prazo em dias, estabelecido por lei ou pelo juiz, computar-se-ão somente os dias úteis.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-19": {
+   "nota": "No HC 769.197/RJ, o STJ fixou que, na apuração de ato infracional, a audiência de apresentação não deve ter carga probatória contra o adolescente. A oitiva dele deve ser o último ato da instrução, após a defesa prévia e a audiência em continuação. Por isso a C.",
+   "dispositivos": [
+    {
+     "ref": "STJ, HC 769.197/RJ (Rel. Min. Rogerio Schietti Cruz)",
+     "tipo": "entendimento",
+     "texto": "No procedimento de apuração de ato infracional, a oitiva do adolescente deve ser o último ato da instrução, à semelhança do art. 400 do CPP; a audiência de apresentação não pode ter carga probatória em desfavor do representado."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-20": {
+   "nota": "A questão pede a incorreta. Pela Declaração da ONU sobre os Direitos dos Povos Indígenas, eles participam das decisões que os afetam por representantes eleitos de acordo com seus próprios procedimentos, e não conforme procedimentos determinados pelo Estado (art. 18). Por isso a E. As demais reproduzem os arts. 4º (A), 6º (B), 10 (C) e 14 (D) da Declaração.",
+   "dispositivos": [
+    {
+     "ref": "Declaração das Nações Unidas sobre os Direitos dos Povos Indígenas (2007), art. 18",
+     "tipo": "entendimento",
+     "texto": "Os povos indígenas têm o direito de participar da tomada de decisões sobre questões que afetem seus direitos, por meio de representantes por eles eleitos de acordo com seus próprios procedimentos, assim como de manter e desenvolver suas próprias instituições de tomada de decisões."
+    }
+   ],
+   "conferido": "2026-11-21"
   }
  }
 }
