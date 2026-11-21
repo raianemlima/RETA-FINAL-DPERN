@@ -10461,6 +10461,277 @@
     }
    ],
    "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-41": {
+   "nota": "A questão pede a incorreta. A Convenção sobre o Genocídio diz o contrário da C: o genocídio e os demais atos puníveis não serão considerados crimes políticos para efeito de extradição, e as partes se comprometem a conceder a extradição conforme suas leis e tratados (art. VII). Por isso a C. As demais reproduzem a Convenção: o genocídio é crime de direito internacional em tempo de paz ou de guerra (A, art. I), os atos puníveis (B, art. III), a extensão a territórios (D) e a punição de governantes, funcionários ou particulares (E, art. IV).",
+   "dispositivos": [
+    {
+     "ref": "Convenção para a Prevenção e a Repressão do Crime de Genocídio (Decreto 30.822/1952), art. VII",
+     "tipo": "entendimento",
+     "texto": "O genocídio e os outros atos enumerados no artigo III não serão considerados crimes políticos para efeitos de extradição; as Partes Contratantes se comprometem, em tal caso, a conceder a extradição de acordo com sua legislação e com os tratados em vigor."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-42": {
+   "nota": "A Lei 9.474/1997 manda considerar a condição atípica dos refugiados quando se exigem documentos do país de origem (art. 43): a falta de documentos não impede a atuação da Defensoria. Por isso a A. Os efeitos do refúgio se estendem também aos demais familiares dependentes economicamente (B, art. 2º). O refugiado tem os direitos e deveres dos estrangeiros, não dos naturalizados, e deve acatar as normas de ordem pública (C, art. 5º). O ingresso irregular não impede o pedido de refúgio (D, art. 8º). E o reconhecimento do refúgio obsta a extradição pelos mesmos fatos (E, art. 33).",
+   "dispositivos": [
+    {
+     "ref": "Lei 9.474/1997, arts. 2º, 8º, 33 e 43",
+     "tipo": "lei",
+     "texto": "Art. 2º Os efeitos da condição dos refugiados serão extensivos ao cônjuge, aos ascendentes e descendentes, assim como aos demais membros do grupo familiar que do refugiado dependerem economicamente, desde que se encontrem em território nacional.\nArt. 8º O ingresso irregular no território nacional não constitui impedimento para o estrangeiro solicitar refúgio às autoridades competentes.\nArt. 33. O reconhecimento da condição de refugiado obstará o seguimento de qualquer pedido de extradição baseado nos fatos que fundamentaram a concessão de refúgio.\nArt. 43. No exercício de seus direitos e deveres, a condição atípica dos refugiados deverá ser considerada quando da necessidade da apresentação de documentos emitidos por seus países de origem ou por suas representações diplomáticas e consulares.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l9474.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-43": {
+   "nota": "Estão corretas I, II e IV, que reproduzem diretrizes da Resolução 487/2023 do CNJ (Política Antimanicomial do Judiciário): a vedação à discriminação com atenção à interseccionalidade (I), o controle judicial do uso de algemas e contenções diante da condição de saúde mental (II) e a reavaliação, no mínimo anual, da extinção da medida de segurança, sem vinculá-la ao fim do tratamento (IV). A III erra: a resolução reforça a participação da defesa e não prevê a instauração compulsória do incidente contra a oposição dela. Por isso a D.",
+   "dispositivos": [
+    {
+     "ref": "CNJ, Resolução 487/2023 (Política Antimanicomial do Poder Judiciário)",
+     "tipo": "entendimento",
+     "texto": "Estabelece procedimentos para aplicar a Convenção sobre os Direitos das Pessoas com Deficiência no processo penal e na execução das medidas de segurança, com respeito à diversidade e vedação à discriminação, controle do uso de contenções, participação da defesa no incidente de insanidade e avaliação ao menos anual da extinção da medida de segurança, independentemente do término do tratamento."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-44": {
+   "nota": "A questão pede a incorreta. Em 2022, o STJ decidiu que a Lei Maria da Penha se aplica às mulheres transexuais em situação de violência doméstica (REsp 1.977.124). Por isso a E. As demais estão corretas, como a manutenção do vínculo trabalhista por até seis meses e o acesso prioritário à remoção da servidora (B, Lei 11.340/2006, art. 9º, § 2º, I e II), a interseccionalidade (A), a recomendação da Comissão Interamericana no caso Maria da Penha (C) e a atuação extrajudicial da Defensoria (D).",
+   "dispositivos": [
+    {
+     "ref": "Lei 11.340/2006, art. 9º, § 2º, I e II",
+     "tipo": "lei",
+     "texto": "I - acesso prioritário à remoção quando servidora pública, integrante da administração direta ou indireta;\nII - manutenção do vínculo trabalhista, quando necessário o afastamento do local de trabalho, por até seis meses.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm"
+    },
+    {
+     "ref": "STJ, REsp 1.977.124 (Lei Maria da Penha e mulher transexual)",
+     "tipo": "entendimento",
+     "texto": "A Lei Maria da Penha aplica-se à violência contra a mulher transexual no âmbito doméstico e familiar, pois a proteção se baseia no gênero, e não no sexo biológico."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-45": {
+   "nota": "Só a I está correta: a Resolução 348/2020 do CNJ estende às mulheres lésbicas, travestis e transexuais e aos homens transexuais, no que couber, os direitos assegurados às mulheres. Por isso a A. A II erra porque o reconhecimento como pessoa LGBTI se dá por autodeclaração, e não pelo magistrado. A III erra porque a resolução garante o tratamento pelo nome social.",
+   "dispositivos": [
+    {
+     "ref": "CNJ, Resolução 348/2020 (população LGBTI no âmbito criminal)",
+     "tipo": "entendimento",
+     "texto": "O reconhecimento da pessoa como integrante da população LGBTI é feito exclusivamente por autodeclaração; é garantido o uso do nome social; e os direitos assegurados às mulheres são estendidos às mulheres lésbicas, travestis e transexuais e aos homens transexuais, no que couber."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-46": {
+   "nota": "Quando o imóvel a desapropriar está em núcleo urbano informal ocupado predominantemente por população de baixa renda, o ente expropriante deve prever medidas compensatórias: realocação em outra unidade habitacional, indenização de benfeitorias ou compensação financeira suficiente, com prévio cadastramento dos ocupantes (Decreto-Lei 3.365/1941, art. 4º-A, incluído pela Lei 14.620/2023). Por isso a B. A desapropriação não é vedada (C e E), mas não basta a indenização em dinheiro (A), e não se paga em títulos da dívida (D).",
+   "dispositivos": [
+    {
+     "ref": "Decreto-Lei 3.365/1941, art. 4º-A, caput e § 1º",
+     "tipo": "lei",
+     "texto": "Art. 4º-A. Quando o imóvel a ser desapropriado caracterizar-se como núcleo urbano informal ocupado predominantemente por população de baixa renda, nos termos do § 2º do art. 9º da Lei nº 13.465, de 11 de julho de 2017, e seu regulamento, o ente expropriante deverá prever, no planejamento da ação de desapropriação, medidas compensatórias.\n§ 1º As medidas compensatórias a que se refere o caput incluem a realocação de famílias em outra unidade habitacional, a indenização de benfeitorias ou a compensação financeira suficiente para assegurar o restabelecimento da família em outro local, exigindo-se, para este fim, o prévio cadastramento dos ocupantes.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-47": {
+   "nota": "A Lei 14.133/2021 entrou em vigor na data de sua publicação (art. 194); o que foi adiado foi a revogação das leis antigas. Por isso a C. No período de transição, a Administração podia escolher uma das leis, mas era vedada a aplicação combinada (D, art. 191). A lei não se aplica integralmente às estatais (A). E Estados e Municípios podem editar normas próprias, respeitadas as normas gerais (E).",
+   "dispositivos": [
+    {
+     "ref": "Lei 14.133/2021, arts. 191 e 194",
+     "tipo": "lei",
+     "texto": "Art. 191. Até o decurso do prazo de que trata o inciso II do caput do art. 193, a Administração poderá optar por licitar ou contratar diretamente de acordo com esta Lei ou de acordo com as leis citadas no referido inciso, e a opção escolhida deverá ser indicada expressamente no edital ou no aviso ou instrumento de contratação direta, vedada a aplicação combinada desta Lei com as citadas no referido inciso.\nArt. 194. Esta Lei entra em vigor na data de sua publicação.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-48": {
+   "nota": "Todas estão corretas e reproduzem a tese do Tema 698 do STF: a intervenção judicial em políticas públicas de direitos fundamentais, diante de ausência ou deficiência grave do serviço, não viola a separação dos poderes (I); a decisão deve, em regra, apontar as finalidades e exigir da Administração um plano (II); e, na saúde, o déficit de profissionais pode ser suprido por concurso, remanejamento ou contratação de OS e OSCIP (III). Por isso a D.",
+   "dispositivos": [
+    {
+     "ref": "STF, Tema 698 da repercussão geral",
+     "tipo": "entendimento",
+     "texto": "A intervenção do Poder Judiciário em políticas públicas voltadas à realização de direitos fundamentais, em caso de ausência ou deficiência grave do serviço, não viola a separação dos Poderes; a decisão judicial, como regra, deve apontar as finalidades a serem alcançadas e determinar à Administração que apresente um plano; no caso de serviços de saúde, o déficit de profissionais pode ser suprido por concurso público ou, por exemplo, pelo remanejamento de recursos humanos e pela contratação de OS e OSCIP."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-49": {
+   "nota": "A questão pede a incorreta. A responsabilidade dos entes na saúde é solidária, e por isso o autor pode demandar só o Estado: o chamamento da União ao processo não é impositivo (STJ, Tema 686). Por isso a B. As demais refletem a jurisprudência: solidariedade com direcionamento do cumprimento e ressarcimento (A, STF, Tema 793); o juízo federal decide sobre o interesse da União (C); as regras do SUS não servem para alterar o polo passivo escolhido pelo autor (D); e a dispensação de medicamentos integra o direito à saúde (E).",
+   "dispositivos": [
+    {
+     "ref": "STF, Tema 793, e STJ, Tema 686",
+     "tipo": "entendimento",
+     "texto": "STF: os entes da Federação são solidariamente responsáveis nas demandas prestacionais de saúde, cabendo ao juiz direcionar o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus. STJ: o chamamento ao processo da União é inadequado nas ações de fornecimento de medicamentos movidas contra outro ente federativo."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-50": {
+   "nota": "Todas estão corretas e reproduzem a LOAS: as entidades de atendimento (I), de assessoramento (II) e de defesa e garantia de direitos (III) do art. 3º, §§ 1º a 3º, e a celebração de convênios e contratos com financiamento integral pelo Estado, nos limites da capacidade instalada (IV, art. 6º-B, § 3º). Por isso a A.",
+   "dispositivos": [
+    {
+     "ref": "Lei 8.742/1993 (LOAS), art. 3º, §§ 1º a 3º",
+     "tipo": "lei",
+     "texto": "§ 1º São de atendimento aquelas entidades que, de forma continuada, permanente e planejada, prestam serviços, executam programas ou projetos e concedem benefícios de prestação social básica ou especial, dirigidos às famílias e indivíduos em situações de vulnerabilidade ou risco social e pessoal, nos termos desta Lei, e respeitadas as deliberações do Conselho Nacional de Assistência Social (CNAS), de que tratam os incisos I e II do art. 18.\n§ 2º São de assessoramento aquelas que, de forma continuada, permanente e planejada, prestam serviços e executam programas ou projetos voltados prioritariamente para o fortalecimento dos movimentos sociais e das organizações de usuários, formação e capacitação de lideranças, dirigidos ao público da política de assistência social, nos termos desta Lei, e respeitadas as deliberações do CNAS, de que tratam os incisos I e II do art. 18.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742.htm"
+    },
+    {
+     "ref": "Lei 8.742/1993 (LOAS), art. 6º-B, § 3º",
+     "tipo": "lei",
+     "texto": "§ 3º As entidades e organizações de assistência social vinculadas ao Suas celebrarão convênios, contratos, acordos ou ajustes com o poder público para a execução, garantido financiamento integral, pelo Estado, de serviços, programas, projetos e ações de assistência social, nos limites da capacidade instalada, aos beneficiários abrangidos por esta Lei, observando-se as disponibilidades orçamentárias.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-51": {
+   "nota": "A questão pede a incorreta. Pelo Decreto Estadual 48.418/2022 de Minas Gerais, o Compromisso de Ajustamento Disciplinar é proposto e celebrado no próprio âmbito da autoridade competente para instaurar o procedimento disciplinar, e não por 'autoridade distinta' para garantir sigilo, como afirma a E. Por isso a E. As demais descrevem regras do decreto: objetivos do CAD (A), vedação havendo PAD em curso por outra infração (B), ressarcimento com juros e correção desde o dano (C) e pedido do servidor até a defesa prévia (D).",
+   "dispositivos": [
+    {
+     "ref": "Decreto Estadual 48.418/2022 (MG), Compromisso de Ajustamento Disciplinar",
+     "tipo": "entendimento",
+     "texto": "O CAD é medida alternativa à instauração de processo disciplinar e à aplicação de penalidade, celebrado pela autoridade competente para a instauração do procedimento, com o objetivo de restabelecer a ordem jurídico-administrativa e prevenir novas infrações."
+    }
+   ],
+   "ressalva": "O decreto mineiro não está no Planalto: a regra foi resumida, sem transcrição literal. Confira no texto publicado pelo Estado de Minas Gerais.",
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-52": {
+   "nota": "Todas as alegações são incorretas segundo o STF. O excesso de prazo na conclusão do PAD não gera nulidade nem impede a punição se não houver prejuízo, e a prescrição segue as regras próprias, com interrupção pela instauração (I e II). A falta de advogado no PAD não ofende a Constituição (III, Súmula Vinculante 5). O Judiciário controla a legalidade do processo, mas não reexamina o mérito administrativo (IV). E a autoridade julgadora pode aplicar pena mais grave que a sugerida pela comissão, motivadamente, se as provas o justificarem (V). Por isso a D.",
+   "dispositivos": [
+    {
+     "ref": "STF, Súmula Vinculante 5",
+     "tipo": "entendimento",
+     "texto": "A falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição."
+    },
+    {
+     "ref": "STF, excesso de prazo e agravamento da pena no PAD",
+     "tipo": "entendimento",
+     "texto": "O excesso de prazo para a conclusão do processo administrativo disciplinar não acarreta, por si só, a sua nulidade, salvo demonstração de prejuízo; e a autoridade julgadora pode, motivadamente, aplicar penalidade mais grave do que a sugerida pela comissão processante, quando contrária à prova dos autos."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-53": {
+   "nota": "Só a I está correta. Nome, telefone e data de nascimento são dados pessoais comuns, não sensíveis: a LGPD define como sensíveis os dados sobre origem racial, religião, opinião política, saúde, vida sexual, dados genéticos e biométricos (art. 5º, II). A II erra porque, para o STJ, o vazamento de dados comuns não gera dano moral presumido: é preciso demonstrar o prejuízo (AREsp 2.130.619). A III erra porque a idade não torna o dado sensível. Por isso a A.",
+   "dispositivos": [
+    {
+     "ref": "LGPD (Lei 13.709/2018), art. 5º, II",
+     "tipo": "lei",
+     "texto": "II - dado pessoal sensível: dado pessoal sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural;",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm"
+    },
+    {
+     "ref": "STJ, AREsp 2.130.619 (vazamento de dados comuns)",
+     "tipo": "entendimento",
+     "texto": "O vazamento de dados pessoais comuns, não sensíveis, não gera dano moral presumido; o titular deve demonstrar o efetivo prejuízo decorrente da exposição."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-54": {
+   "nota": "Estão corretas II e III. O STF considera inconstitucional lei estadual que concede isenção de tarifas de energia elétrica: invade a competência da União para legislar sobre energia e para explorar os serviços e instalações de energia (CF, arts. 21, XII, b, e 22, IV) e interfere em contratos de concessão federais, afetando seu equilíbrio econômico-financeiro. Por isso a A. Não se trata de mero ato discricionário do governador (I), nem de compensação legítima por falhas de drenagem (IV).",
+   "dispositivos": [
+    {
+     "ref": "CF/1988, art. 22, IV",
+     "tipo": "lei",
+     "texto": "IV - águas, energia, informática, telecomunicações e radiodifusão;",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    },
+    {
+     "ref": "STF, leis estaduais sobre tarifas de energia elétrica",
+     "tipo": "entendimento",
+     "texto": "É inconstitucional lei estadual que concede isenção ou altera tarifas do serviço de energia elétrica, por invadir a competência da União e interferir nos contratos de concessão federais, afetando a equação econômico-financeira."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-55": {
+   "nota": "Pelo gabarito oficial, estão incorretas I e II (letra C). Atenção, porém: as afirmativas I e II reproduzem literalmente os arts. 8º e 17-D da Lei de Improbidade, na redação da Lei 14.230/2021. A afirmativa III é que está errada: a lei nova não 'modificou os parâmetros' da suspensão dos direitos políticos nas condutas do art. 11; simplesmente deixou de prevê-la, mantendo só multa e proibição de contratar (art. 12, III).",
+   "dispositivos": [
+    {
+     "ref": "Lei 8.429/1992, arts. 8º e 17-D",
+     "tipo": "lei",
+     "texto": "Art. 8º O sucessor ou o herdeiro daquele que causar dano ao erário ou que se enriquecer ilicitamente estão sujeitos apenas à obrigação de repará-lo até o limite do valor da herança ou do patrimônio transferido.\nArt. 17-D. A ação por improbidade administrativa é repressiva, de caráter sancionatório, destinada à aplicação de sanções de caráter pessoal previstas nesta Lei, e não constitui ação civil, vedado seu ajuizamento para o controle de legalidade de políticas públicas e para a proteção do patrimônio público e social, do meio ambiente e de outros interesses difusos, coletivos e individuais homogêneos.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429.htm"
+    },
+    {
+     "ref": "Lei 8.429/1992, art. 12, III",
+     "tipo": "lei",
+     "texto": "III - na hipótese do art. 11 desta Lei, pagamento de multa civil de até 24 (vinte e quatro) vezes o valor da remuneração percebida pelo agente e proibição de contratar com o poder público ou de receber benefícios ou incentivos fiscais ou creditícios, direta ou indiretamente, ainda que por intermédio de pessoa jurídica da qual seja sócio majoritário, pelo prazo não superior a 4 (quatro) anos;",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429.htm"
+    }
+   ],
+   "ressalva": "O gabarito oficial (C) diverge do texto da lei: pela letra dos arts. 8º, 12, III, e 17-D, só a afirmativa III estaria incorreta, o que levaria à letra D.",
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-56": {
+   "nota": "Só a I está correta: o possuidor tem direito à proteção possessória, e a alegação de propriedade não impede a manutenção ou a reintegração na posse (CC, art. 1.210, caput e § 2º). Por isso a A. A II contraria o § 2º. A III erra porque os atos violentos não autorizam a aquisição da posse apenas enquanto dura a violência; cessada a violência, pode haver posse apta à usucapião (art. 1.208).",
+   "dispositivos": [
+    {
+     "ref": "Código Civil, arts. 1.208 e 1.210",
+     "tipo": "lei",
+     "texto": "Art. 1.208. Não induzem posse os atos de mera permissão ou tolerância assim como não autorizam a sua aquisição os atos violentos, ou clandestinos, senão depois de cessar a violência ou a clandestinidade.\nArt. 1.210. O possuidor tem direito a ser mantido na posse em caso de turbação, restituído no de esbulho, e segurado de violência iminente, se tiver justo receio de ser molestado.\n§ 2º Não obsta à manutenção ou reintegração na posse a alegação de propriedade, ou de outro direito sobre a coisa.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-57": {
+   "nota": "A usucapião extraordinária dispensa justo título e boa-fé (CC, art. 1.238): a posse de má-fé não a impede. Por isso a E. Também não se exige que o possuidor não tenha outro imóvel (A), exigência própria de outras modalidades. A boa-fé não é requisito (B). E o STF e o STJ não admitem negar a usucapião porque a área é inferior ao módulo urbano municipal; o cartório deve registrar a sentença (C e D).",
+   "dispositivos": [
+    {
+     "ref": "Código Civil, art. 1.238",
+     "tipo": "lei",
+     "texto": "Art. 1.238. Aquele que, por quinze anos, sem interrupção, nem oposição, possuir como seu um imóvel, adquire-lhe a propriedade, independentemente de título e boa-fé; podendo requerer ao juiz que assim o declare por sentença, a qual servirá de título para o registro no Cartório de Registro de Imóveis.\nParágrafo único. O prazo estabelecido neste artigo reduzir-se-á a dez anos se o possuidor houver estabelecido no imóvel a sua moradia habitual, ou nele realizado obras ou serviços de caráter produtivo.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-58": {
+   "nota": "Desde a Lei 14.382/2022, a inclusão ou exclusão do sobrenome do cônjuge, na constância do casamento, pode ser pedida diretamente ao oficial do registro civil, sem autorização judicial (Lei 6.015/1973, art. 57, II). Por isso a C. Não é preciso esperar a dissolução do casamento (D), nem a anuência do outro cônjuge (E), nem processo judicial motivado (A e B).",
+   "dispositivos": [
+    {
+     "ref": "Lei 6.015/1973, art. 57, caput, II e III",
+     "tipo": "lei",
+     "texto": "Art. 57. A alteração posterior de sobrenomes poderá ser requerida pessoalmente perante o oficial de registro civil, com a apresentação de certidões e de documentos necessários, e será averbada nos assentos de nascimento e casamento, independentemente de autorização judicial, a fim de:\nII - inclusão ou exclusão de sobrenome do cônjuge, na constância do casamento;\nIII - exclusão de sobrenome do ex-cônjuge, após a dissolução da sociedade conjugal, por qualquer de suas causas;",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-59": {
+   "nota": "O prazo para a ação monitória contra o emitente de cheque sem força executiva é de cinco anos, contados do dia seguinte à data de emissão (Súmula 503 do STJ). E, em qualquer ação de cobrança de cheque, a correção monetária corre da data de emissão e os juros de mora da primeira apresentação ao banco sacado ou à câmara de compensação (Tema 942 do STJ). Por isso a D.",
+   "dispositivos": [
+    {
+     "ref": "STJ, Súmula 503 e Tema 942",
+     "tipo": "entendimento",
+     "texto": "Súmula 503: o prazo para ajuizamento de ação monitória em face do emitente de cheque sem força executiva é quinquenal, a contar do dia seguinte à data de emissão estampada na cártula. Tema 942: em qualquer ação utilizada pelo portador para cobrança de cheque, a correção monetária incide a partir da data de emissão estampada na cártula, e os juros de mora a contar da primeira apresentação à instituição financeira sacada ou câmara de compensação."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-60": {
+   "nota": "Para o STJ, a pensão alimentícia incide sobre o décimo terceiro salário e o terço constitucional de férias (Tema 192). Por isso a A. Na separação obrigatória, os bens adquiridos com esforço comum se comunicam sem necessidade de registro em condomínio (B, Súmula 377 do STF). A pessoa com deficiência casa expressando a vontade diretamente ou por meio do responsável, não necessariamente por ele (C, CC, art. 1.550, § 2º). O curador legítimo é primeiro o cônjuge ou companheiro (D, art. 1.775). E o divórcio pode ser concedido sem partilha prévia (E, art. 1.581).",
+   "dispositivos": [
+    {
+     "ref": "STJ, Tema 192",
+     "tipo": "entendimento",
+     "texto": "A pensão alimentícia incide sobre o décimo terceiro salário e o terço constitucional de férias, também conhecidos, respectivamente, por gratificação natalina e gratificação de férias."
+    },
+    {
+     "ref": "Código Civil, arts. 1.550, § 2º, 1.775 e 1.581",
+     "tipo": "lei",
+     "texto": "§ 2º A pessoa com deficiência mental ou intelectual em idade núbia poderá contrair matrimônio, expressando sua vontade diretamente ou por meio de seu responsável ou curador.\nArt. 1.775. O cônjuge ou companheiro, não separado judicialmente ou de fato, é, de direito, curador do outro, quando interdito.\nArt. 1.581. O divórcio pode ser concedido sem que haja prévia partilha de bens.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
   }
  }
 }
