@@ -13324,6 +13324,256 @@
     }
    ],
    "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-61": {
+   "nota": "A E reproduz o art. 1.478 do CC, na redação da Lei 14.711/2023, e por isso é a correta. Não se considera insolvente o devedor que falta ao pagamento das hipotecas posteriores à primeira (B, art. 1.477, § 1º). A extensão da hipoteca respeita a prioridade dos direitos contraditórios já ingressos na matrícula (C, art. 1.487-A). O direito de uso especial para fins de moradia pode ser hipotecado (A, art. 1.473, VIII). E a D contraria a regra de que os credores podem convencionar de modo diverso.",
+   "dispositivos": [
+    {
+     "ref": "CC, arts. 1.477, § 1º, 1.478 e 1.487-A",
+     "tipo": "lei",
+     "texto": "§ 1º Não se considera insolvente o devedor por faltar ao pagamento das obrigações garantidas por hipotecas posteriores à primeira. (Incluído pela Lei nº 14.711, de 2023)\nArt. 1.478. O credor hipotecário que efetuar o pagamento, a qualquer tempo, das dívidas garantidas pelas hipotecas anteriores sub-rogar-se-á nos seus direitos, sem prejuízo dos que lhe competirem contra o devedor comum. (Redação dada pela Lei nº 14.711, de 2023)\nArt. 1.487-A. A hipoteca poderá, por requerimento do proprietário, ser posteriormente estendida para garantir novas obrigações em favor do mesmo credor, mantidos o registro e a publicidade originais, mas respeitada, em relação à extensão, a prioridade de direitos contraditórios ingressos na matrícula do imóvel. (Incluído pela Lei nº 14.711, de 2023)",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-62": {
+   "nota": "A C reproduz a Súmula 621 do STJ e, por isso, é a correta. O imóvel único locado a terceiros continua impenhorável se a renda reverte para a subsistência da família (A, Súmula 486). A seguradora denunciada responde solidariamente nos limites contratados na apólice (B, Súmula 537). No suicídio nos dois primeiros anos, o beneficiário tem direito à devolução da reserva técnica (D, Súmula 610). E a ocupação indevida de bem público não gera indenização por benfeitorias (E, Súmula 619).",
+   "dispositivos": [
+    {
+     "ref": "STJ, Súmulas 486, 537, 610, 619 e 621",
+     "tipo": "entendimento",
+     "texto": "Súmula 621: os efeitos da sentença que reduz, majora ou exonera o alimentante do pagamento retroagem à data da citação, vedadas a compensação e a repetibilidade. Súmula 486: é impenhorável o único imóvel residencial do devedor que esteja locado a terceiros, desde que a renda obtida com a locação seja revertida para a subsistência ou a moradia da sua família. Súmula 537: a seguradora denunciada pode ser condenada direta e solidariamente, nos limites contratados na apólice. Súmula 610: o suicídio não é coberto nos dois primeiros anos, ressalvado o direito à devolução da reserva técnica. Súmula 619: a ocupação indevida de bem público configura mera detenção, inadmitindo indenização por benfeitorias."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-63": {
+   "nota": "A questão pede a incorreta. No REsp 1.927.090, o STJ admitiu a inclusão do nome indígena e do etnônimo no registro, mas não a completa supressão e substituição do nome registral, preservando os sobrenomes de família. Por isso a A. As demais reproduzem a Lei 6.015/1973, com as alterações da Lei 14.382/2022: composição do nome (B, art. 55), certificado de vida, estado civil e domicílio (C, art. 29, § 3º), sepultamento com certidão (D, art. 77) e oposição dos genitores ao nome em 15 dias (E, art. 55, § 4º).",
+   "dispositivos": [
+    {
+     "ref": "STJ, REsp 1.927.090-RJ",
+     "tipo": "entendimento",
+     "texto": "É possível a retificação do registro civil para inclusão do nome indígena e da etnia, em respeito à autodeterminação dos povos indígenas, mas não a completa supressão do nome registral com substituição total, preservando-se a identificação familiar."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-64": {
+   "nota": "Nos casos de desconsideração, a fraude à execução se verifica a partir da citação da parte cuja personalidade se pretende desconsiderar (CPC, art. 792, § 3º). Por isso a E. O incidente cabe em todas as fases, inclusive no conhecimento (A, art. 134). O prazo de manifestação é de 15 dias, por citação (B, art. 135). A decisão é interlocutória, impugnável por agravo (C, arts. 136 e 1.015, IV). E a alienação em fraude é ineficaz perante o requerente, e não nula (D, art. 137).",
+   "dispositivos": [
+    {
+     "ref": "CPC, arts. 135, 136, 137 e 792, § 3º",
+     "tipo": "lei",
+     "texto": "Art. 135. Instaurado o incidente, o sócio ou a pessoa jurídica será citado para manifestar-se e requerer as provas cabíveis no prazo de 15 (quinze) dias.\nArt. 136. Concluída a instrução, se necessária, o incidente será resolvido por decisão interlocutória.\nArt. 137. Acolhido o pedido de desconsideração, a alienação ou a oneração de bens, havida em fraude de execução, será ineficaz em relação ao requerente.\n§ 3º Nos casos de desconsideração da personalidade jurídica, a fraude à execução verifica-se a partir da citação da parte cuja personalidade se pretende desconsiderar.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-65": {
+   "nota": "A litigância de má-fé pode ser reconhecida de ofício ou a requerimento (CPC, art. 81), e, sendo o valor da causa irrisório ou inestimável, a multa pode chegar a 10 salários-mínimos (§ 2º). Por isso a A. Na perda de objeto, paga honorários quem deu causa ao processo (B, art. 85, § 10). Na desistência, renúncia ou reconhecimento, quem desistiu, renunciou ou reconheceu paga as despesas e os honorários (C, art. 90). O amicus curiae exige representatividade adequada e tem 15 dias para se manifestar (D, art. 138). E a sentença de procedência no chamamento vale como título contra os codevedores (E, art. 132).",
+   "dispositivos": [
+    {
+     "ref": "CPC, art. 81, § 2º",
+     "tipo": "lei",
+     "texto": "§ 2º Quando o valor da causa for irrisório ou inestimável, a multa poderá ser fixada em até 10 (dez) vezes o valor do salário-mínimo.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-66": {
+   "nota": "Na execução fiscal, os embargos são oferecidos em 30 dias contados da intimação da penhora (Lei 6.830/1980, art. 16, III), e não da juntada do mandado. Por isso a B. A reconvenção não é admitida nos embargos à execução fiscal (D, art. 16, § 3º). E a exceção de pré-executividade não admite dilação probatória (E, Súmula 393 do STJ).",
+   "dispositivos": [
+    {
+     "ref": "Lei 6.830/1980, art. 16, caput e III",
+     "tipo": "lei",
+     "texto": "Art. 16 - O executado oferecerá embargos, no prazo de 30 (trinta) dias, contados:\nIII - da intimação da penhora.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-67": {
+   "nota": "Presumem-se válidas as intimações dirigidas ao endereço constante dos autos, ainda que não recebidas pessoalmente, se a mudança não tiver sido comunicada ao juízo (CPC, art. 274, parágrafo único). Por isso a B. O edital exige o esgotamento dos meios de localização (A). A não localização do devedor não suspende de ofício o cumprimento de sentença (C). E a hipoteca judiciária independe da localização do devedor (E, art. 495).",
+   "dispositivos": [
+    {
+     "ref": "CPC, art. 274, parágrafo único",
+     "tipo": "lei",
+     "texto": "Parágrafo único. Presumem-se válidas as intimações dirigidas ao endereço constante dos autos, ainda que não recebidas pessoalmente pelo interessado, se a modificação temporária ou definitiva não tiver sido devidamente comunicada ao juízo, fluindo os prazos a partir da juntada aos autos do comprovante de entrega da correspondência no primitivo endereço.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-68": {
+   "nota": "A A reproduz o art. 611 do CPC e, por isso, é a correta. O credor do legatário também tem legitimidade concorrente (B, art. 616, VI). As primeiras declarações são prestadas em 20 dias, e não 30 (C, art. 620). A sonegação só pode ser arguida depois de encerrada a descrição dos bens (D, art. 621). E a dívida de imposto de transmissão garantida não impede o julgamento da partilha (E, art. 654, parágrafo único).",
+   "dispositivos": [
+    {
+     "ref": "CPC, arts. 611 e 620",
+     "tipo": "lei",
+     "texto": "Art. 611. O processo de inventário e de partilha deve ser instaurado dentro de 2 (dois) meses, a contar da abertura da sucessão, ultimando-se nos 12 (doze) meses subsequentes, podendo o juiz prorrogar esses prazos, de ofício ou a requerimento de parte.\nArt. 620. Dentro de 20 (vinte) dias contados da data em que prestou o compromisso, o inventariante fará as primeiras declarações, das quais se lavrará termo circunstanciado, assinado pelo juiz, pelo escrivão e pelo inventariante, no qual serão exarados:",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-69": {
+   "nota": "A sentença que concede o mandado de segurança pode ser executada provisoriamente, salvo quando vedada a liminar (Lei 12.016/2009, art. 14, § 3º). Por isso a C. A autoridade coatora também pode recorrer (A, § 2º). A sentença concessiva está sujeita ao duplo grau obrigatório (B, § 1º). Contra sentença de juiz de primeiro grau cabe apelação, e não recurso ordinário (D, art. 14). E o agravo contra a suspensão da segurança não tem efeito suspensivo (E, art. 15).",
+   "dispositivos": [
+    {
+     "ref": "Lei 12.016/2009, art. 14, caput e §§ 1º a 3º",
+     "tipo": "lei",
+     "texto": "Art. 14. Da sentença, denegando ou concedendo o mandado, cabe apelação.\n§ 1 o Concedida a segurança, a sentença estará sujeita obrigatoriamente ao duplo grau de jurisdição.\n§ 2 o Estende-se à autoridade coatora o direito de recorrer.\n§ 3 o A sentença que conceder o mandado de segurança pode ser executada provisoriamente, salvo nos casos em que for vedada a concessão da medida liminar.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-70": {
+   "nota": "A questão pede a incorreta. Nas decisões por maioria, em reexame necessário, não se admitem embargos infringentes (Súmula 390 do STJ), recurso que, aliás, nem existe no CPC/2015. Por isso a D. As demais estão corretas: a Súmula 111 continua aplicável (A), a dispensa de reexame não se aplica a sentenças ilíquidas (B, Súmula 490), não há prazo diferenciado para a Fazenda nos Juizados da Fazenda Pública, com citação 30 dias antes da audiência (C, Lei 12.153/2009, art. 7º), e os procedimentos especiais não são admissíveis no Juizado (E).",
+   "dispositivos": [
+    {
+     "ref": "STJ, Súmulas 111, 390 e 490; Lei 12.153/2009, art. 7º",
+     "tipo": "entendimento",
+     "texto": "Súmula 390: nas decisões por maioria, em reexame necessário, não se admitem embargos infringentes. Súmula 490: a dispensa de reexame necessário, quando o valor da condenação ou do direito controvertido for inferior a sessenta salários mínimos, não se aplica a sentenças ilíquidas. Lei 12.153/2009, art. 7º: não haverá prazo diferenciado para a prática de qualquer ato processual pelas pessoas jurídicas de direito público, devendo a citação para a audiência de conciliação ser efetuada com antecedência mínima de 30 dias."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-71": {
+   "nota": "A questão pede a incorreta. A demarcação de terra indígena tem natureza declaratória, e não constitutiva: o direito originário dos indígenas às terras que tradicionalmente ocupam preexiste ao ato estatal (CF, art. 231; STF, Tema 1.031). Por isso a B. As demais refletem a jurisprudência: heteroidentificação subsidiária nas cotas (A, ADC 41), responsabilidade solidária dos entes pela saúde indígena (C), controle judicial da inércia na demarcação (D) e o dano ambiental individual ou por ricochete (E).",
+   "dispositivos": [
+    {
+     "ref": "CF, art. 231, caput",
+     "tipo": "lei",
+     "texto": "Art. 231. São reconhecidos aos índios sua organização social, costumes, línguas, crenças e tradições, e os direitos originários sobre as terras que tradicionalmente ocupam, competindo à União demarcá-las, proteger e fazer respeitar todos os seus bens.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    },
+    {
+     "ref": "STF, Tema 1.031 (RE 1.017.365)",
+     "tipo": "entendimento",
+     "texto": "A demarcação consiste em procedimento declaratório do direito originário territorial à posse das terras ocupadas tradicionalmente por comunidade indígena."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-72": {
+   "nota": "Para o STJ, todos os fornecedores da cadeia de consumo de um evento, como organizadores, vendedores de ingressos e donos do local, respondem por garantir condições adequadas de acesso e participação às pessoas com deficiência. Por isso a C. O STJ estendeu a cobertura de terapias multidisciplinares sem limite a outros quadros, como paralisia cerebral e síndrome de Down (A). O benefício assistencial não afasta, por si, os alimentos ao filho incapaz (B). A deficiência, por si só, não exige a intervenção do MP (D). E o estacionamento indevido em vaga reservada não configura, por si, dano moral coletivo (E).",
+   "dispositivos": [
+    {
+     "ref": "STJ, acessibilidade em eventos e cadeia de fornecimento",
+     "tipo": "entendimento",
+     "texto": "Todos os fornecedores que integram a cadeia de consumo de evento de entretenimento são solidariamente responsáveis por assegurar condições adequadas de acessibilidade às pessoas com deficiência, nos termos do CDC e da Lei 13.146/2015."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-73": {
+   "nota": "A B reproduz a ordem de prioridade do art. 9º da Política Nacional de Resíduos Sólidos e, por isso, é a correta. A política é adotada pelo Governo Federal isoladamente ou em regime de cooperação com Estados, DF, Municípios e particulares (A, art. 4º). O Plano Nacional tem horizonte de 20 anos e atualização a cada 4 anos (C, art. 15). A inexistência do plano municipal não impede o plano de gerenciamento (D, art. 21, § 2º). E o titular dos serviços de limpeza urbana é responsável por sua organização e prestação (E, art. 26).",
+   "dispositivos": [
+    {
+     "ref": "Lei 12.305/2010, art. 9º",
+     "tipo": "lei",
+     "texto": "Art. 9 o Na gestão e gerenciamento de resíduos sólidos, deve ser observada a seguinte ordem de prioridade: não geração, redução, reutilização, reciclagem, tratamento dos resíduos sólidos e disposição final ambientalmente adequada dos rejeitos.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-74": {
+   "nota": "A questão pede a incorreta. A pessoa com deficiência não está obrigada à fruição de benefícios de ação afirmativa (Lei 13.146/2015, art. 4º, § 2º). Por isso a E. As demais reproduzem o Estatuto: o conceito de pessoa com deficiência (A, art. 2º), a igualdade de oportunidades (B, art. 4º), a dignidade ao longo da vida (C, art. 10) e os objetivos da habilitação e reabilitação (D, art. 14, parágrafo único).",
+   "dispositivos": [
+    {
+     "ref": "Lei 13.146/2015, art. 4º, § 2º",
+     "tipo": "lei",
+     "texto": "§ 2º A pessoa com deficiência não está obrigada à fruição de benefícios decorrentes de ação afirmativa.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-75": {
+   "nota": "É facultado a qualquer cidadão habilitar-se como litisconsorte ou assistente do autor da ação popular (Lei 4.717/1965, art. 6º, § 5º). Por isso a A. A coisa julgada da ação coletiva de associação alcança apenas os filiados residentes no âmbito da jurisdição do órgão julgador, segundo o Tema 499 do STF (B). As demais distorcem entendimentos do STJ sobre causalidade, dano moral coletivo por tarifa bancária e legitimidade de sindicato.",
+   "dispositivos": [
+    {
+     "ref": "Lei 4.717/1965, art. 6º, § 5º",
+     "tipo": "lei",
+     "texto": "§ 5º É facultado a qualquer cidadão habilitar-se como litisconsorte ou assistente do autor da ação popular.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-76": {
+   "nota": "A questão pede a incorreta. O fabricante, o produtor, o construtor e o importador respondem independentemente da existência de culpa, e não 'desde que haja culpa' (CDC, art. 12). Por isso a B. As demais reproduzem os arts. 14, caput (A), 12, § 2º (C), 14, § 2º (D) e 26, § 3º (E).",
+   "dispositivos": [
+    {
+     "ref": "CDC, art. 12, caput e § 2º, art. 14, § 2º, e art. 26, § 3º",
+     "tipo": "lei",
+     "texto": "Art. 12. O fabricante, o produtor, o construtor, nacional ou estrangeiro, e o importador respondem, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos decorrentes de projeto, fabricação, construção, montagem, fórmulas, manipulação, apresentação ou acondicionamento de seus produtos, bem como por informações insuficientes ou inadequadas sobre sua utilização e riscos.\n§ 2º O produto não é considerado defeituoso pelo fato de outro de melhor qualidade ter sido colocado no mercado.\n§ 2º O serviço não é considerado defeituoso pela adoção de novas técnicas.\n§ 3° Tratando-se de vício oculto, o prazo decadencial inicia-se no momento em que ficar evidenciado o defeito.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-77": {
+   "nota": "A D reproduz o art. 6º, § 3º, da Lei 4.717/1965 e, por isso, é a correta. As demais distorcem outras leis: a retificação no habeas data deve ocorrer em até 10 dias (A, Lei 9.507/1997, art. 4º). A improcedência por insuficiência de provas permite nova ação somente com nova prova (B, Lei 7.347/1985, art. 16). As ações do SUS são regionalizadas e hierarquizadas, sejam executadas diretamente ou mediante participação complementar (C). E a E descreve os direitos difusos, e não os coletivos (CDC, art. 81).",
+   "dispositivos": [
+    {
+     "ref": "Lei 4.717/1965, art. 6º, § 3º",
+     "tipo": "lei",
+     "texto": "§ 3º A pessoas jurídica de direito público ou de direito privado, cujo ato seja objeto de impugnação, poderá abster-se de contestar o pedido, ou poderá atuar ao lado do autor, desde que isso se afigure útil ao interesse público, a juízo do respectivo representante legal ou dirigente.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-78": {
+   "nota": "Para o STJ, o banco responde pelos danos de fraudes de terceiros no âmbito de suas operações, que são fortuito interno (Súmula 479). Responde também quando falha em identificar e bloquear transações atípicas, fora do perfil do cliente, como empréstimos e transferências de alto valor feitos por idoso aposentado. A entrega do cartão ao falso funcionário, induzida pela aparência de contato do próprio banco, não configura culpa exclusiva da vítima. Por isso a C.",
+   "dispositivos": [
+    {
+     "ref": "STJ, Súmula 479 e dever de segurança nas transações atípicas",
+     "tipo": "entendimento",
+     "texto": "As instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias; a ausência de mecanismos para obstar transações que destoam do perfil de consumo do correntista configura defeito na prestação do serviço."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-79": {
+   "nota": "Para o STJ, o dever de informação não se cumpre só com cláusulas fisicamente legíveis: exige clareza semântica, isto é, que o consumidor efetivamente compreenda o que contrata. Se Maria quis um empréstimo consignado e lhe deram, sem informação adequada, um cartão de crédito consignado, ela pode pedir a nulidade do contrato ou o cumprimento da oferta de empréstimo (CDC, art. 35, I). Por isso a B.",
+   "dispositivos": [
+    {
+     "ref": "CDC, art. 35, I",
+     "tipo": "lei",
+     "texto": "Art. 35. Se o fornecedor de produtos ou serviços recusar cumprimento à oferta, apresentação ou publicidade, o consumidor poderá, alternativamente e à sua livre escolha:\nI - exigir o cumprimento forçado da obrigação, nos termos da oferta, apresentação ou publicidade;",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    },
+    {
+     "ref": "STJ, cartão de crédito consignado e dever de informação",
+     "tipo": "entendimento",
+     "texto": "O dever de informação exige não apenas clareza física, mas também clareza semântica das cláusulas; a contratação de cartão de crédito consignado sem informação adequada, quando o consumidor pretendia empréstimo consignado, viola os arts. 6º, III, e 46 do CDC."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-80": {
+   "nota": "Para o STJ, quem acessa o ambiente disponibilizado pelo shopping usufrui, direta ou indiretamente, do serviço prestado, ainda que não compre nada. Por isso há relação de consumo, ao menos por equiparação, inclusive com o funcionário de loja que se lesionou no banheiro. Por isso a B. Equiparam-se a consumidores todas as vítimas do evento danoso (CDC, art. 17).",
+   "dispositivos": [
+    {
+     "ref": "CDC, art. 17",
+     "tipo": "lei",
+     "texto": "Art. 17. Para os efeitos desta Seção, equiparam-se aos consumidores todas as vítimas do evento.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    },
+    {
+     "ref": "STJ, shopping center e consumidor por equiparação",
+     "tipo": "entendimento",
+     "texto": "Ao acessar o ambiente disponibilizado pelo shopping center, a pessoa passa a desfrutar, direta ou indiretamente, do serviço prestado, ainda que não adquira produtos ou serviços, caracterizando-se a relação de consumo, inclusive por equiparação."
+    }
+   ],
+   "conferido": "2026-11-21"
   }
  }
 }
