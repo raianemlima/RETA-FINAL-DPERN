@@ -114,10 +114,10 @@ Resultado em 20/11/2026, com os 6 ebooks do Reta Final DPE-RN já prontos (Word,
 
 ## Banco de questões
 
-As questões vêm do repositório REVIEW-RAI (`ferramentas/conteudo/dados/simulados/*.json`) e ficam em `data/questoes.json`. Entram só as provas de **Defensoria do Cebraspe** (regra `keep` no importador): hoje, a própria DPE-RN 2015 (100
-questões). Provas de MP, TJ e de servidores do Cebraspe que estão no REVIEW-RAI ficam de fora. Questões Certo/Errado
-entram com as alternativas C (Certo) e E (Errado). A fundamentação (`data/fundamentacoes.json`) ainda está vazia: as do
-DPE-SP eram de outras questões.
+As questões vêm do repositório REVIEW-RAI (`ferramentas/conteudo/dados/simulados/*.json`) e ficam em `data/questoes.json`. Entram **todas as provas de Defensoria Pública** do REVIEW-RAI, de qualquer banca e ano (regra `keep` no importador):
+967 questões em 20/11/2026, de 21 Defensorias, incluindo a DPE-RN 2015 (Cebraspe, 100 questões). Provas de MP, TJ e de
+servidores ficam de fora. Questões Certo/Errado entram com as alternativas C (Certo) e E (Errado). A fundamentação
+conferida (`data/fundamentacoes.json`, a mesma do app da DPE-SP) cobre 460 delas.
 As respostas de cada aluno ficam na tabela `question_answers` (migração 0015).
 
 ### Fundamentação do gabarito

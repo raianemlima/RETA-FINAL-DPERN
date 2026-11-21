@@ -20,10 +20,10 @@ const RULES = [
 const discipline = (materia) => RULES.find(([pattern]) => pattern.test(materia))?.[1] ?? "Outras matérias";
 const clean = (text) => (text ?? "").replace(/\s+\n/g, "\n").replace(/[ \t]+/g, " ").trim();
 
-// Ficam só as provas de Defensoria do Cebraspe (banca contratada para o próximo concurso da DPE-RN), de qualquer ano:
-// hoje, a própria DPE-RN 2015. Provas de MP, TJ e de servidores ficam de fora. Questão Certo/Errado do Cebraspe entra
-// com as alternativas C e E.
-const keep = (question) => /cebraspe|cespe/i.test(question.banca) && /^Defensor/i.test(question.cargo);
+// Ficam todas as provas de Defensoria Pública, de qualquer banca e ano (DPEs e DPU), incluindo a da própria DPE-RN
+// (Cebraspe, banca contratada para o próximo concurso). Provas de MP, TJ e de servidores ficam de fora. Questão
+// Certo/Errado do Cebraspe entra com as alternativas C e E.
+const keep = (question) => /^Defensor/i.test(question.cargo) || /^(DPE-|DPU)/.test(question.orgao ?? "");
 
 const out = [];
 for (const file of readdirSync(dir).filter((name) => name.endsWith(".json") && !name.includes("correcoes")).sort()) {
