@@ -9619,6 +9619,304 @@
     }
    ],
    "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-81": {
+   "nota": "Conjunção carnal ou ato libidinoso com menor de quatorze anos é estupro de vulnerável, e o consentimento da vítima, sua experiência sexual anterior ou o relacionamento amoroso são irrelevantes (Súmula 593 do STJ; hoje expresso no art. 217-A, § 5º). Por isso a C. O namoro não extingue a punibilidade (A). Desde 2009, atos libidinosos e conjunção carnal estão no mesmo tipo, sem 'atentado violento ao pudor' autônomo (B). A ação penal é pública incondicionada (D, art. 225). E a experiência sexual não afasta a vulnerabilidade (E).",
+   "dispositivos": [
+    {
+     "ref": "Código Penal, art. 217-A, caput e § 5º",
+     "tipo": "lei",
+     "texto": "Art. 217-A. Ter conjunção carnal ou praticar outro ato libidinoso com menor de 14 (catorze) anos:\n§ 5º As penas previstas no caput e nos §§ 1º, 3º e 4º deste artigo aplicam-se independentemente do consentimento da vítima, de sua experiência sexual, do fato de ela ter mantido relações sexuais anteriormente ao crime ou da ocorrência de gravidez resultante da prática do crime.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    },
+    {
+     "ref": "STJ, Súmula 593",
+     "tipo": "entendimento",
+     "texto": "O crime de estupro de vulnerável se configura com a conjunção carnal ou prática de ato libidinoso com menor de 14 anos, sendo irrelevante eventual consentimento da vítima para a prática do ato, sua experiência sexual anterior ou existência de relacionamento amoroso com o agente."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-82": {
+   "nota": "Na ADPF 54, o STF declarou inconstitucional interpretar como aborto a interrupção da gravidez de feto anencéfalo: a conduta é atípica e não depende de autorização judicial. Por isso a A, e não as demais: não há crime de Dalva nem dos médicos (D e E), não se exige alvará (B) e não se trata do aborto necessário, que pressupõe risco de vida à gestante (C).",
+   "dispositivos": [
+    {
+     "ref": "STF, ADPF 54",
+     "tipo": "entendimento",
+     "texto": "É inconstitucional a interpretação segundo a qual a interrupção da gravidez de feto anencéfalo é conduta tipificada nos arts. 124, 126 e 128, I e II, do Código Penal; a antecipação terapêutica do parto, nesse caso, é atípica."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-83": {
+   "nota": "Subtrair com a ajuda de outra pessoa qualifica o furto (concurso de agentes), e, sendo o réu primário e de pequeno valor a coisa, cabe o privilégio, compatível com a qualificadora objetiva (Súmula 511 do STJ). Praticar a infração com adolescente é corrupção de menores, crime formal (Súmula 500 do STJ). E atribuir-se falsa identidade perante a polícia para esconder antecedentes é crime, não autodefesa (Súmula 522 do STJ). Por isso a A.",
+   "dispositivos": [
+    {
+     "ref": "Código Penal, arts. 155, § 2º, e 307",
+     "tipo": "lei",
+     "texto": "§ 2º - Se o criminoso é primário, e é de pequeno valor a coisa furtada, o juiz pode substituir a pena de reclusão pela de detenção, diminuí-la de um a dois terços, ou aplicar somente a pena de multa.\nArt. 307 - Atribuir-se ou atribuir a terceiro falsa identidade para obter vantagem, em proveito próprio ou alheio, ou para causar dano a outrem:",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    },
+    {
+     "ref": "STJ, Súmulas 511 e 522",
+     "tipo": "entendimento",
+     "texto": "Súmula 511: é possível o reconhecimento do privilégio no furto qualificado se estiverem presentes a primariedade do agente, o pequeno valor da coisa e a qualificadora for de ordem objetiva. Súmula 522: a conduta de atribuir-se falsa identidade perante autoridade policial é típica, ainda que em situação de alegada autodefesa."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-84": {
+   "nota": "Para garantir a efetividade das medidas protetivas, o juiz pode requisitar, a qualquer momento, o auxílio da força policial (Lei 11.340/2006, art. 22, § 3º). Por isso a B. A medida pode ser concedida sem ouvir o agressor previamente (A). A violência psicológica basta, sem violência física (D, art. 7º, II), e não se exige coabitação (E, Súmula 600 do STJ). Na época da prova, o STJ não via crime de desobediência no descumprimento (C); desde 2018, porém, o descumprimento é crime próprio (art. 24-A).",
+   "dispositivos": [
+    {
+     "ref": "Lei 11.340/2006, arts. 22, § 3º, e 24-A",
+     "tipo": "lei",
+     "texto": "§ 3º Para garantir a efetividade das medidas protetivas de urgência, poderá o juiz requisitar, a qualquer momento, auxílio da força policial.\nArt. 24-A. Descumprir decisão judicial que defere medidas protetivas de urgência previstas nesta Lei:",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm"
+    },
+    {
+     "ref": "STJ, Súmula 600",
+     "tipo": "entendimento",
+     "texto": "Para a configuração da violência doméstica e familiar prevista no artigo 5º da Lei 11.340/2006 (Lei Maria da Penha) não se exige a coabitação entre autor e vítima."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-85": {
+   "nota": "Vender e expor à venda cópias pirateadas de obras é violação de direito autoral (CP, art. 184, § 2º), e o STJ afasta a adequação social e a insignificância nesse caso (Súmula 502). Por isso a C. Não se exige prova de prejuízo efetivo aos titulares (B). E o desconhecimento da ilicitude, nessa conduta amplamente reprimida, não isenta de culpa (A).",
+   "dispositivos": [
+    {
+     "ref": "Código Penal, art. 184, § 2º",
+     "tipo": "lei",
+     "texto": "§ 2º Na mesma pena do § 1º incorre quem, com o intuito de lucro direto ou indireto, distribui, vende, expõe à venda, aluga, introduz no País, adquire, oculta, tem em depósito, original ou cópia de obra intelectual ou fonograma reproduzido com violação do direito de autor, do direito de artista intérprete ou executante ou do direito do produtor de fonograma, ou, ainda, aluga original ou cópia de obra intelectual ou fonograma, sem a expressa autorização dos titulares dos direitos ou de quem os represente.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    },
+    {
+     "ref": "STJ, Súmula 502",
+     "tipo": "entendimento",
+     "texto": "Presentes a materialidade e a autoria, afigura-se típica, em relação ao crime previsto no art. 184, § 2º, do CP, a conduta de expor à venda CDs e DVDs piratas."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-86": {
+   "nota": "No processo penal, a prevenção fixa a competência quando dois ou mais juízes são igualmente competentes ou há incerteza sobre a competência territorial, e também nos crimes continuados ou permanentes praticados em mais de uma jurisdição (CPP, arts. 71 e 83). Por isso a A, e não a E, que troca a prevenção pelo número de infrações. O STF não exige transcrição integral das interceptações (B). O STJ admite prorrogações sucessivas, desde que fundamentadas (C). E a notícia anônima, sozinha, não basta para abrir inquérito ou ação penal (D).",
+   "dispositivos": [
+    {
+     "ref": "CPP, arts. 71 e 83",
+     "tipo": "lei",
+     "texto": "Art. 71. Tratando-se de infração continuada ou permanente, praticada em território de duas ou mais jurisdições, a competência firmar-se-á pela prevenção.\nArt. 83. Verificar-se-á a competência por prevenção toda vez que, concorrendo dois ou mais juízes igualmente competentes ou com jurisdição cumulativa, um deles tiver antecedido aos outros na prática de algum ato do processo ou de medida a este relativa, ainda que anterior ao oferecimento da denúncia ou da queixa",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-87": {
+   "nota": "A procuração para a queixa-crime deve ter poderes especiais e mencionar o fato criminoso (CPP, art. 44), mas o STJ dispensa a descrição pormenorizada: basta a menção ao fato ou o nomen juris. Por isso a A. Em habeas corpus não se faz exame aprofundado de provas (B). O prazo da denúncia com réu preso é impróprio (C). A queixa no prazo, ainda que em juízo incompetente, impede a decadência (D). E, para o STJ, o recebimento da denúncia não exige fundamentação como decisão de mérito (E).",
+   "dispositivos": [
+    {
+     "ref": "CPP, art. 44",
+     "tipo": "lei",
+     "texto": "Art. 44. A queixa poderá ser dada por procurador com poderes especiais, devendo constar do instrumento do mandato o nome do querelante e a menção do fato criminoso, salvo quando tais esclarecimentos dependerem de diligências que devem ser previamente requeridas no juízo criminal.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-88": {
+   "nota": "O STF reconhece ao corréu o direito de, por seu defensor, participar do interrogatório dos demais acusados, formulando perguntas, como expressão do contraditório e da ampla defesa. Por isso a B. O comparecimento espontâneo supre a falta de citação (A, CPP, art. 570). Esse direito tem base na própria Constituição (C). A precatória não suspende a instrução (E, CPP, art. 222, § 1º). Na época, a Lei de Drogas previa o interrogatório no início, e por isso a D foi considerada errada; depois, o STF passou a exigir o interrogatório ao final da instrução em todos os ritos (HC 127.900).",
+   "dispositivos": [
+    {
+     "ref": "CPP, art. 570 e art. 222, § 1º",
+     "tipo": "lei",
+     "texto": "Art. 570. A falta ou a nulidade da citação, da intimação ou notificação estará sanada, desde que o interessado compareça, antes de o ato consumar-se, embora declare que o faz para o único fim de argüi-la.\n§ 1º A expedição da precatória não suspenderá a instrução criminal.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    },
+    {
+     "ref": "STF, participação do corréu no interrogatório dos demais",
+     "tipo": "entendimento",
+     "texto": "O corréu tem direito de participar, por meio de seu defensor, do interrogatório dos demais acusados, inclusive formulando reperguntas, em respeito ao contraditório e à ampla defesa."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-89": {
+   "nota": "A razoável duração do processo (art. 5º, LXXVIII) proíbe dilações indevidas, e a demora deve ser avaliada pela complexidade do caso e pelas diligências necessárias. Por isso a B. A delação, confirmada por outras provas, pode embasar condenação (A). O STJ admite provar a reincidência por folha de antecedentes, sem certidão formal (C). A D inverte os conceitos: a valoração da prova é questão de direito. E a Súmula Vinculante 14 não tem o acréscimo da E sobre cópia integral de autos sigilosos.",
+   "dispositivos": [
+    {
+     "ref": "CF/1988, art. 5º, LXXVIII",
+     "tipo": "lei",
+     "texto": "LXXVIII - a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    },
+    {
+     "ref": "STF, Súmula Vinculante 14",
+     "tipo": "entendimento",
+     "texto": "É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-90": {
+   "nota": "No sistema inquisitivo, a confissão é a 'rainha das provas', e o procedimento é escrito e sigiloso. Por isso a B. O CPP admite a interpretação extensiva e a aplicação analógica (art. 3º), o que afasta a A e a C. A D descreve a analogia, não a interpretação extensiva. E a E erra ao condicionar a analogia à natureza do diploma de origem.",
+   "dispositivos": [
+    {
+     "ref": "CPP, art. 3º",
+     "tipo": "lei",
+     "texto": "Art. 3º A lei processual penal admitirá interpretação extensiva e aplicação analógica, bem como o suplemento dos princípios gerais de direito.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    },
+    {
+     "ref": "Doutrina, sistema inquisitivo",
+     "tipo": "entendimento",
+     "texto": "No sistema inquisitivo, as funções de acusar e julgar se concentram no mesmo órgão, o procedimento é escrito e sigiloso, e a confissão é considerada a rainha das provas."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-91": {
+   "nota": "O sequestro é a medida assecuratória que retém imóveis e móveis adquiridos com os proventos da infração, ainda que já transferidos a terceiros (CPP, arts. 125 e 132). Por isso a E. O CPP admite a citação por hora certa (A, art. 362). A suspensão condicional do processo não se aplica à violência doméstica contra a mulher (B, Súmula 536 do STJ). Os indícios podem fundamentar condenação (C, art. 239). E quem é perseguido logo após o crime está em flagrante impróprio, não presumido (D, art. 302, III).",
+   "dispositivos": [
+    {
+     "ref": "CPP, arts. 125 e 132",
+     "tipo": "lei",
+     "texto": "Art. 125. Caberá o seqüestro dos bens imóveis, adquiridos pelo indiciado com os proventos da infração, ainda que já tenham sido transferidos a terceiro.\nArt. 132. Proceder-se-á ao seqüestro dos bens móveis se, verificadas as condições previstas no art. 126, não for cabível a medida regulada no Capítulo Xl do Título Vll deste Livro.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    },
+    {
+     "ref": "CPP, art. 302, III e IV",
+     "tipo": "lei",
+     "texto": "III - é perseguido, logo após, pela autoridade, pelo ofendido ou por qualquer pessoa, em situação que faça presumir ser autor da infração;\nIV - é encontrado, logo depois, com instrumentos, armas, objetos ou papéis que façam presumir ser ele autor da infração.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-92": {
+   "nota": "Para o STJ, não se anula parcialmente o veredicto do júri só quanto às qualificadoras: reconhecida a decisão manifestamente contrária à prova, o réu é submetido a novo julgamento integral. Por isso a C. A injúria é infração de menor potencial ofensivo, e a rejeição da queixa no Juizado desafia apelação, não RESE (B, Lei 9.099/1995, art. 82). A correção da capitulação sem mudança dos fatos é emendatio libelli, não mutatio (D). E a negativa de autoria não é hipótese de absolvição sumária (E, CPP, art. 397).",
+   "dispositivos": [
+    {
+     "ref": "STJ, anulação parcial de veredicto do júri",
+     "tipo": "entendimento",
+     "texto": "Não é possível anular parcialmente o julgamento do júri, apenas quanto às qualificadoras: provido o recurso por decisão manifestamente contrária à prova dos autos, o réu deve ser submetido a novo julgamento por inteiro."
+    },
+    {
+     "ref": "Lei 9.099/1995, art. 82, caput",
+     "tipo": "lei",
+     "texto": "Art. 82. Da decisão de rejeição da denúncia ou queixa e da sentença caberá apelação, que poderá ser julgada por turma composta de três Juízes em exercício no primeiro grau de jurisdição, reunidos na sede do Juizado.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm"
+    },
+    {
+     "ref": "CPP, art. 397",
+     "tipo": "lei",
+     "texto": "Art. 397. Após o cumprimento do disposto no art. 396-A, e parágrafos, deste Código, o juiz deverá absolver sumariamente o acusado quando verificar:\nI - a existência manifesta de causa excludente da ilicitude do fato;\nII - a existência manifesta de causa excludente da culpabilidade do agente, salvo inimputabilidade;\nIII - que o fato narrado evidentemente não constitui crime; ou\nIV - extinta a punibilidade do agente.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-93": {
+   "nota": "Na Lei de Tortura, a perda do cargo e a interdição pelo dobro da pena são efeitos automáticos da condenação, sem necessidade de fundamentação específica (Lei 9.455/1997, art. 1º, § 5º). Por isso a A. A falta de intimação da expedição de precatória gera nulidade relativa (B, Súmula 155 do STF). Contra decisão do juiz da execução cabe agravo, não RESE (C, LEP, art. 197). A revisão criminal pode ser proposta a qualquer tempo (D). E o STJ estende o prazo em dobro à Defensoria também quando atua como assistente de acusação (E).",
+   "dispositivos": [
+    {
+     "ref": "Lei 9.455/1997, art. 1º, § 5º",
+     "tipo": "lei",
+     "texto": "§ 5º A condenação acarretará a perda do cargo, função ou emprego público e a interdição para seu exercício pelo dobro do prazo da pena aplicada.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l9455.htm"
+    },
+    {
+     "ref": "STF, Súmula 155",
+     "tipo": "entendimento",
+     "texto": "É relativa a nulidade do processo criminal por falta de intimação da expedição de precatória para inquirição de testemunha."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-94": {
+   "nota": "Anulado o júri por recurso exclusivo da defesa, os jurados do novo julgamento são soberanos e podem reconhecer a qualificadora, mas o juiz presidente não pode impor pena maior que a do julgamento anulado: a soberania dos veredictos não afasta a proibição da reformatio in pejus indireta (STF). Por isso a B. O conselho podia condenar por homicídio qualificado (A); a pena acima de seis anos foi ilegal (C). O recurso do MP é apelação por decisão manifestamente contrária à prova (D e E, CPP, art. 593, III, d), cabível também para a acusação.",
+   "dispositivos": [
+    {
+     "ref": "STF, reformatio in pejus indireta no júri",
+     "tipo": "entendimento",
+     "texto": "Anulado o julgamento do júri em recurso exclusivo da defesa, os jurados do novo julgamento podem reconhecer qualificadora, em respeito à soberania dos veredictos, mas a pena imposta pelo juiz presidente não pode superar a do julgamento anulado."
+    },
+    {
+     "ref": "CPP, art. 593, III, d",
+     "tipo": "lei",
+     "texto": "d) for a decisão dos jurados manifestamente contrária à prova dos autos.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-95": {
+   "nota": "Na classificação doutrinária, a sentença subjetivamente plúrima é a proferida por órgão colegiado homogêneo, como as turmas dos tribunais; a subjetivamente complexa vem de órgão heterogêneo, como o júri (jurados decidem o fato e o juiz fixa a pena). Por isso a C. O recebimento da denúncia é decisão interlocutória simples, não mero despacho (A). A sentença que aplica medida de segurança é absolutória imprópria (B). A sentença do júri é subjetivamente complexa, não simples (D). E a pronúncia é decisão interlocutória mista não terminativa, não definitiva (E).",
+   "dispositivos": [
+    {
+     "ref": "Doutrina, classificação das sentenças quanto aos sujeitos",
+     "tipo": "entendimento",
+     "texto": "Sentença subjetivamente simples é a proferida por juiz singular; subjetivamente plúrima, a proferida por órgão colegiado homogêneo; subjetivamente complexa, a que resulta da atuação de mais de um órgão, como no tribunal do júri."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-96": {
+   "nota": "Na época da prova, prevalecia que a decisão de remição era declaratória e o tempo remido podia ser perdido pela prática de falta grave (Súmula Vinculante 9). Por isso a C. Hoje, a LEP limita essa perda a até um terço do tempo remido (art. 127). O trabalho externo do preso em regime fechado é possível com cautelas contra a fuga (A, art. 36). O preso provisório não é obrigado a trabalhar (B, art. 31, parágrafo único). A remição também vale por trabalho externo e por estudo (D). E a prestação de serviços à comunidade não é remunerada (E, art. 30).",
+   "dispositivos": [
+    {
+     "ref": "LEP, arts. 30, 31, parágrafo único, e 127",
+     "tipo": "lei",
+     "texto": "Art. 30 - As tarefas executadas como prestação de serviço à comunidade não serão remuneradas.\nParágrafo único. Para o preso provisório, o trabalho não é obrigatório e só poderá ser executado no interior do estabelecimento.\nArt. 127. Em caso de falta grave, o juiz poderá revogar até 1/3 (um terço) do tempo remido, observado o disposto no art. 57, recomeçando a contagem a partir da data da infração disciplinar.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l7210.htm"
+    },
+    {
+     "ref": "STF, Súmula Vinculante 9",
+     "tipo": "entendimento",
+     "texto": "O disposto no artigo 127 da Lei 7.210/1984 (Lei de Execução Penal) foi recebido pela ordem constitucional vigente, e não se lhe aplica o limite temporal previsto no caput do artigo 58."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-97": {
+   "nota": "Questão anulada pela banca. Nenhuma alternativa foi considerada válida como gabarito oficial.",
+   "dispositivos": [],
+   "ressalva": "Questão anulada pelo Cebraspe: não há gabarito oficial a fundamentar.",
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-98": {
+   "nota": "Havendo condenação por mais de um crime, no mesmo processo ou em processos distintos, o regime é determinado pela soma ou unificação das penas, observadas a detração e a remição (LEP, art. 111). Por isso a E. A unificação cabe ao juízo da execução, não ao da sentença (A). O STJ considera incompatível manter a restritiva com nova pena em regime semiaberto ou fechado (B). E a prestação pecuniária e a perda de bens podem ser executadas junto com a privativa de liberdade (C e D).",
+   "dispositivos": [
+    {
+     "ref": "LEP, art. 111, caput e parágrafo único",
+     "tipo": "lei",
+     "texto": "Art. 111. Quando houver condenação por mais de um crime, no mesmo processo ou em processos distintos, a determinação do regime de cumprimento será feita pelo resultado da soma ou unificação das penas, observada, quando for o caso, a detração ou remição.\nParágrafo único. Sobrevindo condenação no curso da execução, somar-se-á a pena ao restante da que está sendo cumprida, para determinação do regime.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l7210.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-99": {
+   "nota": "As Regras Mínimas da ONU permitem que a conversa entre o preso não julgado e seu advogado seja vigiada visualmente por policial ou funcionário, mas não ouvida. Por isso a A. Os presos não podem ser obrigados a trabalho como sanção disciplinar (B). Algemas podem ser usadas como precaução contra fuga numa transferência (C). As celas de isolamento noturno são, em regra, individuais (D). E o registro de nascimento não deve mencionar que a criança nasceu na prisão (E).",
+   "dispositivos": [
+    {
+     "ref": "ONU, Regras Mínimas para o Tratamento de Reclusos (presos não julgados)",
+     "tipo": "entendimento",
+     "texto": "As entrevistas entre o preso não julgado e o seu advogado podem ser vistas, mas não ouvidas, por um funcionário da polícia ou do estabelecimento penitenciário."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-100": {
+   "nota": "Entre as incumbências da Defensoria na execução penal está requerer a emissão anual do atestado de pena a cumprir (LEP, art. 81-B, II). Por isso a B. As demais atribuições são de outros órgãos da execução: o Conselho da Comunidade busca recursos para a assistência ao preso (A); o Patronato colabora na fiscalização da suspensão e do livramento (C); o MP fiscaliza as guias de recolhimento (D); e o Conselho Nacional de Política Criminal e Penitenciária contribui com os planos nacionais (E).",
+   "dispositivos": [
+    {
+     "ref": "LEP, art. 81-B, II",
+     "tipo": "lei",
+     "texto": "II - requerer a emissão anual do atestado de pena a cumprir;",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l7210.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
   }
  }
 }
