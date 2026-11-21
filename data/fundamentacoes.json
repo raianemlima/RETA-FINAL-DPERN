@@ -8400,6 +8400,637 @@
     }
    ],
    "conferido": "2026-10-22"
+  },
+  "dpe-rn-2015-1": {
+   "nota": "Na concepção jurídica de Kelsen, a Constituição em sentido jurídico-positivo é a norma que regula a produção das normas jurídicas gerais, e nada impede que ela própria seja produzida pelo costume. Por isso a A. As demais erram: direito constitucional comunitário trata da relação com o direito de uma comunidade de Estados, não com 'preceitos de Estados estrangeiros' (B); 'Constituição fixa' é a que só o poder constituinte originário altera, não sinônimo de rígida (C); o preâmbulo não tem força normativa (D); para Hesse, realidade e norma estão em relação de condicionamento recíproco, não são autônomas (E).",
+   "dispositivos": [
+    {
+     "ref": "Hans Kelsen, concepção jurídica de Constituição",
+     "tipo": "entendimento",
+     "texto": "Em sentido jurídico-positivo, a Constituição é a norma (ou o conjunto de normas) que regula a produção das normas jurídicas gerais; ela pode ser escrita ou produzida pelo costume (Teoria Pura do Direito)."
+    },
+    {
+     "ref": "STF, ADI 2.076, preâmbulo da Constituição",
+     "tipo": "entendimento",
+     "texto": "O preâmbulo não se situa no âmbito do Direito, mas da política: não tem força normativa nem é norma de reprodução obrigatória nas Constituições estaduais."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-2": {
+   "nota": "As Constituições estaduais devem observar os princípios da Constituição Federal (art. 25), entre eles os princípios extensíveis, como as regras básicas do processo legislativo, que o STF manda reproduzir por simetria. Por isso a A. A mutação constitucional é mudança informal de sentido, fruto do poder constituinte difuso, e não da reforma (B). Não existe iniciativa privativa do Presidente para PEC: o art. 60 lista três legitimados concorrentes (C). O poder originário é permanente, não se esgota com a nova Constituição (D), e não se sujeita a procedimento predeterminado (E).",
+   "dispositivos": [
+    {
+     "ref": "CF/1988, art. 25, caput",
+     "tipo": "lei",
+     "texto": "Os Estados organizam-se e regem-se pelas Constituições e leis que adotarem, observados os princípios desta Constituição.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    },
+    {
+     "ref": "CF/1988, art. 60, I a III",
+     "tipo": "lei",
+     "texto": "A Constituição poderá ser emendada mediante proposta:\nI - de um terço, no mínimo, dos membros da Câmara dos Deputados ou do Senado Federal;\nII - do Presidente da República;\nIII - de mais da metade das Assembléias Legislativas das unidades da Federação, manifestando-se, cada uma delas, pela maioria relativa de seus membros.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-3": {
+   "nota": "No RE 592.581 (Tema 220), o STF decidiu que o Judiciário pode impor à Administração a realização de obras emergenciais em presídios para garantir a integridade física e moral dos presos, sem que caiba opor a reserva do possível ou a separação dos Poderes. Por isso a A. A eficácia dos direitos fundamentais nas relações privadas é a horizontal, não a vertical (B); peso é técnica para colisão de princípios, não de regras, que se resolvem por validade ou exceção (C); princípios também se expressam por dever, permissão e proibição (D); a proibição do retrocesso protege sobretudo direitos sociais já concretizados, não as liberdades (E).",
+   "dispositivos": [
+    {
+     "ref": "CF/1988, art. 5º, XLIX",
+     "tipo": "lei",
+     "texto": "é assegurado aos presos o respeito à integridade física e moral;",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    },
+    {
+     "ref": "STF, RE 592.581 (Tema 220 da repercussão geral)",
+     "tipo": "entendimento",
+     "texto": "É lícito ao Judiciário impor à Administração Pública obrigação de fazer, consistente na promoção de medidas ou na execução de obras emergenciais em estabelecimentos prisionais, para dar efetividade ao postulado da dignidade da pessoa humana e assegurar aos detentos o respeito à sua integridade física e moral, não sendo oponível o argumento da reserva do possível nem o princípio da separação dos Poderes."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-4": {
+   "nota": "O STF exige, para revisar ou cancelar súmula vinculante, a demonstração de superação evidente da sua jurisprudência, de alteração legislativa sobre o tema ou de modificação substantiva do contexto político, econômico ou social. Por isso a E. O Defensor Público-Geral Federal não está no rol do art. 103 (C). A decisão em ADPF é irrecorrível e não admite rescisória, mas cabe reclamação contra o descumprimento (D). Proclamado o resultado da ADI, o STF não reabre o julgamento só para modular efeitos (B). E, na época da prova, o STF negava ao CNMP a possibilidade de afastar lei por inconstitucionalidade (A).",
+   "dispositivos": [
+    {
+     "ref": "STF, revisão ou cancelamento de súmula vinculante",
+     "tipo": "entendimento",
+     "texto": "Para admitir-se a revisão ou o cancelamento de súmula vinculante, é necessário demonstrar a evidente superação da jurisprudência do STF no trato da matéria, a alteração legislativa quanto ao tema ou, ainda, a modificação substantiva de contexto político, econômico ou social (PSV 13 e precedentes)."
+    },
+    {
+     "ref": "CF/1988, art. 103, I a IX",
+     "tipo": "lei",
+     "texto": "Podem propor a ação direta de inconstitucionalidade e a ação declaratória de constitucionalidade:\nI - o Presidente da República;\nII - a Mesa do Senado Federal;\nIII - a Mesa da Câmara dos Deputados;\nIV - a Mesa de Assembléia Legislativa ou da Câmara Legislativa do Distrito Federal;\nV - o Governador de Estado ou do Distrito Federal;\nVI - o Procurador-Geral da República;\nVII - o Conselho Federal da Ordem dos Advogados do Brasil;\nVIII - partido político com representação no Congresso Nacional;\nIX - confederação sindical ou entidade de classe de âmbito nacional.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    },
+    {
+     "ref": "Lei 9.882/1999, arts. 12 e 13",
+     "tipo": "lei",
+     "texto": "A decisão que julgar procedente ou improcedente o pedido em argüição de descumprimento de preceito fundamental é irrecorrível, não podendo ser objeto de ação rescisória.\nCaberá reclamação contra o descumprimento da decisão proferida pelo Supremo Tribunal Federal, na forma do seu Regimento Interno.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l9882.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-5": {
+   "nota": "Para Marcelo Neves, a constitucionalização simbólica tem um sentido negativo: o texto constitucional não orienta, de forma generalizada, as expectativas normativas e a conduta dos envolvidos, por falta de concretização. Por isso a B. A forma básica não é a 'constitucionalização-álibi' confirmadora de crenças de grupos — essa descrição corresponde à confirmação de valores sociais (C). Conceitos indeterminados se preenchem por valoração, mas não por juízo discricionário livre (A); a hermenêutica gadameriana rompe com a clássica, pois não se limita a extrair sentido preexistente (D); casos difíceis justamente não se resolvem por simples subsunção (E).",
+   "dispositivos": [
+    {
+     "ref": "Marcelo Neves, A constitucionalização simbólica",
+     "tipo": "entendimento",
+     "texto": "No sentido negativo, a constitucionalização simbólica se caracteriza pela falta de concretização normativo-jurídica do texto constitucional: há ausência generalizada de orientação das expectativas normativas conforme as determinações dos dispositivos da Constituição."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-6": {
+   "nota": "O STF admite que a Constituição estadual incorpore, por remissão, normas da Constituição Federal, e que esses preceitos estaduais de remissão sirvam de parâmetro no controle abstrato estadual (Rcl 383 e precedentes). Por isso a A. A pertinência temática pode ser exigida pelo TJ por simetria (B); o TJ pode, incidentalmente, afastar norma da Constituição estadual incompatível com a CF (C); a decisão em controle abstrato tem eficácia contra todos sem depender da Assembleia (D); e os Estados podem instituir ADI por omissão (E): o art. 125, § 2º só proíbe dar a legitimação a um único órgão.",
+   "dispositivos": [
+    {
+     "ref": "CF/1988, art. 125, § 2º",
+     "tipo": "lei",
+     "texto": "Cabe aos Estados a instituição de representação de inconstitucionalidade de leis ou atos normativos estaduais ou municipais em face da Constituição Estadual, vedada a atribuição da legitimação para agir a um único órgão.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    },
+    {
+     "ref": "STF, normas de remissão como parâmetro estadual",
+     "tipo": "entendimento",
+     "texto": "As normas da Constituição estadual que remetem a dispositivos da Constituição Federal, incorporando-os, podem servir de parâmetro para o controle abstrato de constitucionalidade de leis estaduais e municipais perante o Tribunal de Justiça."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-7": {
+   "nota": "O parlamentar investido no cargo de Ministro de Estado não perde o mandato (art. 56, I) e, por isso, conserva o foro no STF pelos crimes comuns. Por isso a C. A inviolabilidade do vereador exige as duas coisas: estar na circunscrição do Município e ter relação com o mandato (A). Deputados distritais têm as mesmas imunidades dos estaduais, sem a restrição da B. Vereadores não têm imunidade formal, só material (D). E deputados estaduais têm as duas imunidades, material e formal (E).",
+   "dispositivos": [
+    {
+     "ref": "CF/1988, art. 56, I",
+     "tipo": "lei",
+     "texto": "Não perderá o mandato o Deputado ou Senador:\nI - investido no cargo de Ministro de Estado, Governador de Território, Secretário de Estado, do Distrito Federal, de Território, de Prefeitura de Capital ou chefe de missão diplomática temporária;",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-8": {
+   "nota": "A Constituição fixa o mínimo de oito e o máximo de setenta deputados por unidade, mas é a lei complementar que define o número total e a representação de cada Estado e do DF; o STF invalidou a delegação dessa tarefa ao TSE (ADI 4.947). Por isso a E. Territórios elegem quatro deputados, não senadores (A). Na competência concorrente, é a lei federal superveniente que suspende a estadual, e não o contrário (B). Durante intervenção federal não há emenda, sem exceção (C). E os Municípios integram a Federação (D).",
+   "dispositivos": [
+    {
+     "ref": "CF/1988, art. 45, §§ 1º e 2º",
+     "tipo": "lei",
+     "texto": "§ 1º O número total de Deputados, bem como a representação por Estado e pelo Distrito Federal, será estabelecido por lei complementar, proporcionalmente à população, procedendo-se aos ajustes necessários, no ano anterior às eleições, para que nenhuma daquelas unidades da Federação tenha menos de oito ou mais de setenta Deputados.\n§ 2º Cada Território elegerá quatro Deputados.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    },
+    {
+     "ref": "CF/1988, art. 60, § 1º",
+     "tipo": "lei",
+     "texto": "§ 1º A Constituição não poderá ser emendada na vigência de intervenção federal, de estado de defesa ou de estado de sítio.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-9": {
+   "nota": "A lei orgânica é votada em dois turnos e aprovada por dois terços da Câmara Municipal (art. 29), e pode ter sua validade apreciada em abstrato pelo TJ (em face da Constituição estadual) e pelo STF (por ADPF). Por isso a A. Foro por prerrogativa não é matéria da lei orgânica (B). A lei orgânica não serve de parâmetro para o controle abstrato estadual (C). A Constituição estadual não pode criar limites à auto-organização municipal além dos previstos na CF (D). E direitos do funcionalismo dependem de lei de iniciativa do Executivo, não da lei orgânica (E).",
+   "dispositivos": [
+    {
+     "ref": "CF/1988, art. 29, caput",
+     "tipo": "lei",
+     "texto": "O Município reger-se-á por lei orgânica, votada em dois turnos, com o interstício mínimo de dez dias, e aprovada por dois terços dos membros da Câmara Municipal, que a promulgará, atendidos os princípios estabelecidos nesta Constituição, na Constituição do respectivo Estado e os seguintes preceitos:",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-10": {
+   "nota": "O MP elabora sua proposta dentro dos limites da LDO (art. 127, § 3º), e o STF decidiu que o chefe do Executivo não pode reduzir unilateralmente essa proposta: só pode pedir a redução ao Legislativo, que tem a palavra final. Por isso a B. O Executivo não pode restringir a execução orçamentária do Judiciário amparada na LDO e na LOA (A). O MP junto aos Tribunais de Contas não tem a autonomia financeira do MP comum (C). Os Tribunais de Contas têm autonomia financeira (D). E a Defensoria tem iniciativa da própria proposta orçamentária (E, contra o art. 134, § 2º).",
+   "dispositivos": [
+    {
+     "ref": "CF/1988, art. 127, § 3º",
+     "tipo": "lei",
+     "texto": "§ 3º O Ministério Público elaborará sua proposta orçamentária dentro dos limites estabelecidos na lei de diretrizes orçamentárias.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    },
+    {
+     "ref": "CF/1988, art. 134, § 2º",
+     "tipo": "lei",
+     "texto": "§ 2º Às Defensorias Públicas Estaduais são asseguradas autonomia funcional e administrativa e a iniciativa de sua proposta orçamentária dentro dos limites estabelecidos na lei de diretrizes orçamentárias e subordinação ao disposto no art. 99, § 2º.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-11": {
+   "nota": "O art. 167, I veda o início de programas ou projetos não incluídos na lei orçamentária anual. Por isso a E. Crédito suplementar ou especial exige, além da autorização legislativa, a indicação dos recursos correspondentes (A). Transposição e remanejamento dependem de autorização legislativa (B), assim como a instituição de fundos, que não pode vir por decreto (C). E investimento que ultrapasse um exercício precisa estar no plano plurianual ou em lei que o autorize (D).",
+   "dispositivos": [
+    {
+     "ref": "CF/1988, art. 167, I, V, VI e IX",
+     "tipo": "lei",
+     "texto": "São vedados:\nI - o início de programas ou projetos não incluídos na lei orçamentária anual;\nV - a abertura de crédito suplementar ou especial sem prévia autorização legislativa e sem indicação dos recursos correspondentes;\nVI - a transposição, o remanejamento ou a transferência de recursos de uma categoria de programação para outra ou de um órgão para outro, sem prévia autorização legislativa;\nIX - a instituição de fundos de qualquer natureza, sem prévia autorização legislativa.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-12": {
+   "nota": "O STF usa a proporcionalidade em duas faces para controlar o legislador: a proibição do excesso (restrição desmedida de direitos) e a proibição da proteção insuficiente (omissão ou proteção deficiente de bens jurídicos). Por isso a A. Para representar filiados, a associação precisa de autorização expressa; a cláusula estatutária genérica não basta (B, RE 573.232). Não há regra geral que proíba exercer direitos fundamentais cumulativamente (C); as restrições têm limites, como o núcleo essencial (D), que também opera na eficácia concreta do direito (E).",
+   "dispositivos": [
+    {
+     "ref": "STF, proporcionalidade: proibição do excesso e da proteção insuficiente",
+     "tipo": "entendimento",
+     "texto": "O princípio da proporcionalidade funciona como proibição de excesso (Übermassverbot), contra restrições desmedidas de direitos, e como proibição de proteção insuficiente (Untermassverbot), contra a omissão ou a proteção deficiente do legislador; o STF os aplica no controle da atividade legislativa."
+    },
+    {
+     "ref": "CF/1988, art. 5º, XXI",
+     "tipo": "lei",
+     "texto": "XXI - as entidades associativas, quando expressamente autorizadas, têm legitimidade para representar seus filiados judicial ou extrajudicialmente;",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-13": {
+   "nota": "Na ADPF 187 e na ADI 4.274, o STF garantiu a realização de manifestações pela legalização das drogas ('marcha da maconha') como exercício das liberdades de reunião e de expressão, ressalvando a participação de crianças e adolescentes. Por isso a E. A inviolabilidade do domicílio alcança escritório e local de trabalho (A). Foro previsto só na Constituição estadual não prevalece sobre o júri (B, Súmula Vinculante 45). É legítima a divulgação nominal da remuneração dos servidores (C). E a união homoafetiva é entidade familiar (D, ADI 4.277 e ADPF 132).",
+   "dispositivos": [
+    {
+     "ref": "CF/1988, art. 5º, XVI",
+     "tipo": "lei",
+     "texto": "XVI - todos podem reunir-se pacificamente, sem armas, em locais abertos ao público, independentemente de autorização, desde que não frustrem outra reunião anteriormente convocada para o mesmo local, sendo apenas exigido prévio aviso à autoridade competente;",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    },
+    {
+     "ref": "STF, ADPF 187 e ADI 4.274 (marcha da maconha)",
+     "tipo": "entendimento",
+     "texto": "A defesa, em manifestações públicas, da legalização das drogas é exercício legítimo das liberdades de reunião e de expressão e não configura apologia ao crime; o STF ressalvou a participação de crianças e adolescentes."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-14": {
+   "nota": "Questão anulada pela banca. Nenhuma alternativa foi considerada válida como gabarito oficial.",
+   "dispositivos": [],
+   "ressalva": "Questão anulada pelo Cebraspe: não há gabarito oficial a fundamentar.",
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-15": {
+   "nota": "O STF não aceita a reserva do possível como justificativa genérica: o Poder Público só pode invocá-la se comprovar, objetivamente, a real falta de recursos (ADPF 45 e precedentes). Por isso a C. A ampliação do sentido da norma pelo juiz é ativismo, não judicialização da política (A). A felicidade não é direito social expresso (B). O STF admite ordem para obras emergenciais em presídios (D, RE 592.581). E o mínimo existencial vai além da mera sobrevivência: inclui condições para uma vida digna (E).",
+   "dispositivos": [
+    {
+     "ref": "STF, reserva do possível (ADPF 45 e precedentes)",
+     "tipo": "entendimento",
+     "texto": "A cláusula da reserva do possível não pode ser invocada pelo Estado com a finalidade de exonerar-se do cumprimento de suas obrigações constitucionais, salvo quando houver justo motivo objetivamente aferível, como a comprovada insuficiência de recursos."
+    },
+    {
+     "ref": "CF/1988, art. 5º, XLIX",
+     "tipo": "lei",
+     "texto": "XLIX - é assegurado aos presos o respeito à integridade física e moral;",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-16": {
+   "nota": "Pagamentos da Fazenda decorrentes de sentença seguem o regime de precatórios, salvo as obrigações de pequeno valor (art. 100, § 3º), e, sem lei do ente, pequeno valor é até quarenta salários mínimos perante os Estados e o DF (ADCT, art. 87, I). Por isso a B. A nacionalidade perdida por sentença não se readquire por nova naturalização, só por ação rescisória (A). O número de defensores é proporcional à demanda e à população, não ao número de processos (C, ADCT, art. 98). Tratados de direitos humanos sem o rito do art. 5º, § 3º têm status supralegal (D). O militar alistável é elegível (E).",
+   "dispositivos": [
+    {
+     "ref": "CF/1988, art. 100, § 3º",
+     "tipo": "lei",
+     "texto": "§ 3º O disposto no caput deste artigo relativamente à expedição de precatórios não se aplica aos pagamentos de obrigações definidas em leis como de pequeno valor que as Fazendas referidas devam fazer em virtude de sentença judicial transitada em julgado.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    },
+    {
+     "ref": "ADCT, art. 87, I e II",
+     "tipo": "lei",
+     "texto": "Para efeito do que dispõem o § 3º do art. 100 da Constituição Federal e o art. 78 deste Ato das Disposições Constitucionais Transitórias serão considerados de pequeno valor, até que se dê a publicação oficial das respectivas leis definidoras pelos entes da Federação, observado o disposto no § 4º do art. 100 da Constituição Federal, os débitos ou obrigações consignados em precatório judiciário, que tenham valor igual ou inferior a:\nI - quarenta salários-mínimos, perante a Fazenda dos Estados e do Distrito Federal;\nII - trinta salários-mínimos, perante a Fazenda dos Municípios.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    },
+    {
+     "ref": "ADCT, art. 98, caput",
+     "tipo": "lei",
+     "texto": "O número de defensores públicos na unidade jurisdicional será proporcional à efetiva demanda pelo serviço da Defensoria Pública e à respectiva população.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-17": {
+   "nota": "O poder regulamentar serve para a fiel execução da lei (art. 84, IV): o regulamento complementa a lei dentro dos seus limites e não cria direitos nem obrigações, salvo nas hipóteses de decreto autônomo do art. 84, VI. Por isso a D. A multa não é autoexecutória, mas a lei pode condicionar outro ato ao seu pagamento (A, como no licenciamento de veículo). A autorização é ato discricionário e precário (B). Atuar fora da competência é excesso de poder, não desvio de finalidade (C). E a delegação tem limites legais, não é irrestrita (E, Lei 9.784/1999, art. 13).",
+   "dispositivos": [
+    {
+     "ref": "CF/1988, art. 84, IV e VI, a e b",
+     "tipo": "lei",
+     "texto": "IV - sancionar, promulgar e fazer publicar as leis, bem como expedir decretos e regulamentos para sua fiel execução;\na) organização e funcionamento da administração federal, quando não implicar aumento de despesa nem criação ou extinção de órgãos públicos;\nb) extinção de funções ou cargos públicos, quando vagos;",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-18": {
+   "nota": "É o contrato de gestão do art. 37, § 8º: firmado entre os administradores e o Poder Público, com metas de desempenho, amplia a autonomia gerencial, orçamentária e financeira de órgãos e entidades. Por isso a D. Só a sociedade de economia mista é obrigatoriamente S.A.; a empresa pública pode ter qualquer forma admitida (A). Na descentralização por colaboração, transfere-se apenas a execução ao particular, não a titularidade (B). Órgãos superiores não têm autonomia financeira (C). E autarquias sofrem controle finalístico (tutela), não hierárquico (E).",
+   "dispositivos": [
+    {
+     "ref": "CF/1988, art. 37, § 8º",
+     "tipo": "lei",
+     "texto": "§ 8º A autonomia gerencial, orçamentária e financeira dos órgãos e entidades da administração direta e indireta poderá ser ampliada mediante contrato, a ser firmado entre seus administradores e o poder público, que tenha por objeto a fixação de metas de desempenho para o órgão ou entidade, cabendo à lei dispor sobre:",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-19": {
+   "nota": "Os serviços sociais autônomos (Sistema S) recebem contribuições parafiscais e, por isso, sujeitam-se à fiscalização estatal (inclusive do TCU) nos termos da legislação de cada um. Por isso a E. O STF decidiu que não precisam fazer concurso público (A, RE 789.874), nem seguem a Lei 8.666/1993, mas regulamentos próprios (B). Não dependem de contrato de gestão para receber as contribuições, que vêm da lei (C). E não integram a administração indireta: são entes paraestatais de cooperação (D).",
+   "dispositivos": [
+    {
+     "ref": "STF, RE 789.874 (serviços sociais autônomos)",
+     "tipo": "entendimento",
+     "texto": "Os serviços sociais autônomos são pessoas jurídicas de direito privado, não integram a administração pública, não se submetem à exigência de concurso público para contratar pessoal e estão sujeitos à fiscalização do Tribunal de Contas quanto à aplicação dos recursos públicos que recebem."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-20": {
+   "nota": "Pela teoria dos motivos determinantes, o motivo declarado, ainda que a motivação não fosse obrigatória, vincula a validade do ato: se for falso ou inexistente, o ato é nulo. Por isso a E. O Judiciário controla a legalidade, não a conveniência e a oportunidade (A). A presunção de legitimidade e veracidade é relativa (B). O parecer meramente opinativo não é ato decisório; a responsabilização do parecerista depende de erro grosseiro ou culpa (C). E só são convalidáveis os vícios sanáveis, de competência e de forma, não os de motivo, objeto e finalidade (D).",
+   "dispositivos": [
+    {
+     "ref": "Teoria dos motivos determinantes",
+     "tipo": "entendimento",
+     "texto": "A validade do ato administrativo se vincula aos motivos indicados como seu fundamento: declarados os motivos, mesmo em ato discricionário que dispensaria motivação, eles passam a condicionar a validade do ato, que será inválido se os motivos forem falsos ou inexistentes."
+    },
+    {
+     "ref": "Lei 9.784/1999, art. 55",
+     "tipo": "lei",
+     "texto": "Em decisão na qual se evidencie não acarretarem lesão ao interesse público nem prejuízo a terceiros, os atos que apresentarem defeitos sanáveis poderão ser convalidados pela própria Administração.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-21": {
+   "nota": "A homologação não impede que a Administração anule a licitação por ilegalidade ou a revogue por interesse público superveniente (Súmula 473 do STF; hoje, Lei 14.133/2021, art. 71). Por isso a E. A Administração pode alterar unilateralmente o contrato de concessão, preservado o equilíbrio econômico-financeiro (A). Encampação é a retomada do serviço durante a concessão, por interesse público, com prévia indenização; a incorporação ao fim do prazo é a reversão (B). A contratação de artista consagrado é inexigibilidade, não dispensa (C). E o pregão vale para todos os entes, não só para a União (D).",
+   "dispositivos": [
+    {
+     "ref": "Lei 14.133/2021, art. 71, II e III",
+     "tipo": "lei",
+     "texto": "II - revogar a licitação por motivo de conveniência e oportunidade;\nIII - proceder à anulação da licitação, de ofício ou mediante provocação de terceiros, sempre que presente ilegalidade insanável;",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+    },
+    {
+     "ref": "STF, Súmula 473",
+     "tipo": "entendimento",
+     "texto": "A administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada, em todos os casos, a apreciação judicial."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-22": {
+   "nota": "No RE 591.874, o STF decidiu que a responsabilidade das prestadoras privadas de serviço público é objetiva também perante terceiros não usuários do serviço (art. 37, § 6º). Por isso a D. Não fere a continuidade a interrupção em emergência ou, após aviso, por razões técnicas ou de segurança (A, Lei 8.987/1995, art. 6º, § 3º). O débito de serviço essencial é pessoal, não propter rem: não se corta por dívida de usuário anterior (B). Não se corta o serviço de unidades públicas essenciais à coletividade (C). E o STJ não admite corte por débitos pretéritos, só por débitos atuais (E).",
+   "dispositivos": [
+    {
+     "ref": "CF/1988, art. 37, § 6º",
+     "tipo": "lei",
+     "texto": "§ 6º As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    },
+    {
+     "ref": "STF, RE 591.874",
+     "tipo": "entendimento",
+     "texto": "A responsabilidade civil das pessoas jurídicas de direito privado prestadoras de serviço público é objetiva relativamente a terceiros usuários e não usuários do serviço."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-23": {
+   "nota": "No RE 543.974, o STF decidiu que a expropriação do art. 243 alcança a totalidade da propriedade onde há cultura ilegal de plantas psicotrópicas, e não apenas a área plantada. Por isso a C. Limitações administrativas são gerais, não individuais (A). Desapropriar para reforma agrária é competência exclusiva da União (B, art. 184). A servidão, mesmo por acordo, depende de declaração de utilidade pública (D). E a requisição, por ser urgente e transitória, dispensa registro (E).",
+   "dispositivos": [
+    {
+     "ref": "CF/1988, art. 243, caput",
+     "tipo": "lei",
+     "texto": "As propriedades rurais e urbanas de qualquer região do País onde forem localizadas culturas ilegais de plantas psicotrópicas ou a exploração de trabalho escravo na forma da lei serão expropriadas e destinadas à reforma agrária e a programas de habitação popular, sem qualquer indenização ao proprietário e sem prejuízo de outras sanções previstas em lei, observado, no que couber, o disposto no art. 5º.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    },
+    {
+     "ref": "STF, RE 543.974",
+     "tipo": "entendimento",
+     "texto": "A expropriação prevista no art. 243 da Constituição abrange toda a propriedade, e não apenas a área efetivamente cultivada com plantas psicotrópicas."
+    },
+    {
+     "ref": "CF/1988, art. 184, caput",
+     "tipo": "lei",
+     "texto": "Compete à União desapropriar por interesse social, para fins de reforma agrária, o imóvel rural que não esteja cumprindo sua função social, mediante prévia e justa indenização em títulos da dívida agrária, com cláusula de preservação do valor real, resgatáveis no prazo de até vinte anos, a partir do segundo ano de sua emissão, e cuja utilização será definida em lei.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-24": {
+   "nota": "Na época da prova, o STJ entendia que a prescrição das sanções da Lei de Improbidade não impedia a ação de ressarcimento ao erário, com base na ressalva do art. 37, § 5º. Por isso a C. Atenção: depois, o STF limitou a imprescritibilidade ao ressarcimento por ato doloso de improbidade (Tema 897). O direito disciplinar tem tipos abertos, ao contrário do penal (A). As esferas são independentes: a demissão não espera a ação de improbidade (B). A denúncia anônima pode iniciar o PAD, se houver apuração prévia (E, Súmula 611 do STJ). E não há responsabilidade objetiva por improbidade (D).",
+   "dispositivos": [
+    {
+     "ref": "CF/1988, art. 37, § 5º",
+     "tipo": "lei",
+     "texto": "§ 5º A lei estabelecerá os prazos de prescrição para ilícitos praticados por qualquer agente, servidor ou não, que causem prejuízos ao erário, ressalvadas as respectivas ações de ressarcimento.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    },
+    {
+     "ref": "STF, Tema 897 da repercussão geral",
+     "tipo": "entendimento",
+     "texto": "São imprescritíveis as ações de ressarcimento ao erário fundadas na prática de ato doloso tipificado na Lei de Improbidade Administrativa."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-25": {
+   "nota": "Controle interno é o que cada Poder exerce sobre os próprios atos, como a fiscalização da Controladoria-Geral da União sobre programa de governo federal (art. 74, I). Por isso a A. As demais são controle externo: judicial (B e E, ação popular) e legislativo, direto (C) ou com auxílio do Tribunal de Contas (D).",
+   "dispositivos": [
+    {
+     "ref": "CF/1988, art. 74, caput e I",
+     "tipo": "lei",
+     "texto": "Os Poderes Legislativo, Executivo e Judiciário manterão, de forma integrada, sistema de controle interno com a finalidade de:\nI - avaliar o cumprimento das metas previstas no plano plurianual, a execução dos programas de governo e dos orçamentos da União;",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-26": {
+   "nota": "A lei nova tem efeito imediato, mas respeita o ato jurídico perfeito: não alcança os efeitos presentes de contratos já celebrados, salvo nos de trato sucessivo, nos quais o STJ admite a incidência sobre as prestações futuras. Por isso a E. Internação involuntária é a feita a pedido de terceiro; a compulsória é a determinada pela Justiça (A). O negócio do incapaz anterior à interdição pode ser anulado se a incapacidade já existia (B). É direito retificar o patronímico no registro dos filhos após o divórcio (C). E a filial não tem personalidade jurídica própria (D).",
+   "dispositivos": [
+    {
+     "ref": "LINDB, art. 6º, caput",
+     "tipo": "lei",
+     "texto": "Art. 6º A Lei em vigor terá efeito imediato e geral, respeitados o ato jurídico perfeito, o direito adquirido e a coisa julgada.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+    },
+    {
+     "ref": "Lei 10.216/2001, art. 6º, parágrafo único",
+     "tipo": "lei",
+     "texto": "Parágrafo único. São considerados os seguintes tipos de internação psiquiátrica:\nI - internação voluntária: aquela que se dá com o consentimento do usuário;\nII - internação involuntária: aquela que se dá sem o consentimento do usuário e a pedido de terceiro; e\nIII - internação compulsória: aquela determinada pela Justiça.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10216.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-27": {
+   "nota": "Na perda de uma chance, indeniza-se a chance séria e real que foi perdida, e não o resultado final, que nunca se saberá se ocorreria. Por isso a B. O acordo dos pais em nome do filho menor exige a intervenção do MP (A). Na responsabilidade extracontratual, os juros correm desde o evento danoso (C, Súmula 54 do STJ). O pai que indeniza não pode reaver do filho incapaz (D, art. 934). E o empregador responde pelo ato do preposto praticado em razão do trabalho, ainda que fora do horário (E).",
+   "dispositivos": [
+    {
+     "ref": "STJ, teoria da perda de uma chance",
+     "tipo": "entendimento",
+     "texto": "A indenização pela perda de uma chance exige que a chance perdida seja séria e real; o objeto da reparação é a própria chance, e não o dano final, cuja ocorrência não se pode afirmar."
+    },
+    {
+     "ref": "Código Civil, art. 934",
+     "tipo": "lei",
+     "texto": "Aquele que ressarcir o dano causado por outrem pode reaver o que houver pago daquele por quem pagou, salvo se o causador do dano for descendente seu, absoluta ou relativamente incapaz.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    },
+    {
+     "ref": "STJ, Súmula 54",
+     "tipo": "entendimento",
+     "texto": "Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-28": {
+   "nota": "A apreensão é modo originário de adquirir a posse e, segundo a doutrina, ocorre tanto na apropriação de coisa sem dono quanto na retirada da coisa de outrem sem permissão (posse injusta, mas posse). Por isso a A. Entregar a coisa a um representante para administrá-la não faz perder a posse (B). Bens divisíveis podem tornar-se indivisíveis por vontade das partes (C, art. 88). O usufrutuário pode usar ações possessórias e também petitórias (D). E o perecimento pode decorrer de ato voluntário, como a destruição da coisa (E).",
+   "dispositivos": [
+    {
+     "ref": "Código Civil, art. 1.204",
+     "tipo": "lei",
+     "texto": "Adquire-se a posse desde o momento em que se torna possível o exercício, em nome próprio, de qualquer dos poderes inerentes à propriedade.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    },
+    {
+     "ref": "Código Civil, art. 88",
+     "tipo": "lei",
+     "texto": "Os bens naturalmente divisíveis podem tornar-se indivisíveis por determinação da lei ou por vontade das partes.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-29": {
+   "nota": "O STJ considera ilícita a decisão da assembleia que suspende serviços essenciais (água, luz, elevador) do condômino inadimplente: a dívida se cobra pelos meios legais, sem afetar a dignidade e a função social da propriedade. Por isso a B. A alienação da nua propriedade não extingue o usufruto (A). O condômino não pode dar posse a estranhos sem o consenso dos outros (C, art. 1.314, parágrafo único). O concedente não pode cobrar pela transferência da superfície (D, art. 1.372). E é nula a cláusula que deixa o credor fiduciário ficar com a coisa (E, art. 1.365).",
+   "dispositivos": [
+    {
+     "ref": "STJ, suspensão de serviços essenciais ao condômino inadimplente",
+     "tipo": "entendimento",
+     "texto": "O inadimplemento de taxas condominiais não autoriza a suspensão, por determinação da assembleia, de serviços essenciais à unidade, como água e energia; o condomínio deve cobrar a dívida pelos meios legais."
+    },
+    {
+     "ref": "Código Civil, arts. 1.314, parágrafo único, 1.365 e 1.372, parágrafo único",
+     "tipo": "lei",
+     "texto": "Parágrafo único. Nenhum dos condôminos pode alterar a destinação da coisa comum, nem dar posse, uso ou gozo dela a estranhos, sem o consenso dos outros.\nArt. 1.365. É nula a cláusula que autoriza o proprietário fiduciário a ficar com a coisa alienada em garantia, se a dívida não for paga no vencimento.\nParágrafo único. Não poderá ser estipulado pelo concedente, a nenhum título, qualquer pagamento pela transferência.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-30": {
+   "nota": "Obrigações conjuntivas (ou cumulativas) têm várias prestações ligadas pela conjunção 'e' e só se cumprem com a realização de todas. Por isso a C. Bens divisíveis podem tornar-se indivisíveis também por vontade das partes (A, art. 88). Obrigações ambulatórias (propter rem) decorrem da titularidade de direito real, não pessoal (B). As disjuntivas (alternativas) têm prestações determinadas, uma das quais se escolhe; a descrição de gênero e quantidade é da obrigação de dar coisa incerta (D). E o ato de escolha nesta é a concentração, não a 'desconcentração' (E, art. 245).",
+   "dispositivos": [
+    {
+     "ref": "Doutrina: obrigações conjuntivas ou cumulativas",
+     "tipo": "entendimento",
+     "texto": "Nas obrigações conjuntivas (cumulativas), há pluralidade de prestações unidas pela conjunção 'e', e o devedor só se libera cumprindo todas elas."
+    },
+    {
+     "ref": "Código Civil, arts. 88 e 245",
+     "tipo": "lei",
+     "texto": "Os bens naturalmente divisíveis podem tornar-se indivisíveis por determinação da lei ou por vontade das partes.\nArt. 245. Cientificado da escolha o credor, vigorará o disposto na Seção antecedente.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-31": {
+   "nota": "O atraso no pagamento do prêmio não desfaz automaticamente o seguro: a seguradora precisa notificar o segurado antes de suspender ou resolver o contrato (Súmula 616 do STJ; hoje, Lei 15.040/2024, arts. 20 e 21). Por isso a A. Para o suicídio vale o critério objetivo dos dois primeiros anos, não a premeditação (B, Súmula 610 do STJ). Não há regra que estenda o seguro de acidentes pessoais à morte natural (C). O segurado de boa-fé não perde automaticamente o direito por transigir sem anuência, se não prejudicar a seguradora (D). E o comodatário que salva os próprios bens responde mesmo em caso fortuito ou força maior (E, art. 583).",
+   "dispositivos": [
+    {
+     "ref": "STJ, Súmula 616",
+     "tipo": "entendimento",
+     "texto": "A indenização securitária é devida quando ausente a comunicação prévia do segurado acerca do atraso no pagamento do prêmio, por constituir requisito essencial para a suspensão ou resolução do contrato de seguro."
+    },
+    {
+     "ref": "Lei 15.040/2024, art. 21, caput",
+     "tipo": "lei",
+     "texto": "Art. 21. A resolução do contrato, salvo quando se tratar de mora da prestação única ou da primeira parcela do prêmio, está condicionada a notificação prévia e não poderá ocorrer em prazo inferior a 30 (trinta) dias após a suspensão da garantia.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l15040.htm"
+    },
+    {
+     "ref": "Código Civil, art. 583",
+     "tipo": "lei",
+     "texto": "Se, correndo risco o objeto do comodato juntamente com outros do comodatário, antepuser este a salvação dos seus abandonando o do comodante, responderá pelo dano ocorrido, ainda que se possa atribuir a caso fortuito, ou força maior.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-32": {
+   "nota": "A resolução por onerosidade excessiva (art. 478) é própria dos contratos de execução continuada ou diferida: nos de execução instantânea não há intervalo em que um fato imprevisível possa desequilibrar a prestação. Por isso a E. Nos bilaterais, quem não cumpriu sua parte não pode exigir a do outro (A, art. 476). A cláusula resolutiva expressa opera de pleno direito; a tácita é que depende de interpelação judicial (B, art. 474). O fim consensual é distrato (resilição bilateral), não denúncia (C). E a cláusula resolutiva tácita atua diante do inadimplemento posterior, não gera nulidade (D).",
+   "dispositivos": [
+    {
+     "ref": "Código Civil, arts. 474, 476 e 478",
+     "tipo": "lei",
+     "texto": "Art. 474. A cláusula resolutiva expressa opera de pleno direito; a tácita depende de interpelação judicial.\nArt. 476. Nos contratos bilaterais, nenhum dos contratantes, antes de cumprida a sua obrigação, pode exigir o implemento da do outro.\nArt. 478. Nos contratos de execução continuada ou diferida, se a prestação de uma das partes se tornar excessivamente onerosa, com extrema vantagem para a outra, em virtude de acontecimentos extraordinários e imprevisíveis, poderá o devedor pedir a resolução do contrato.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-33": {
+   "nota": "Os antigos impedimentos impedientes são hoje as causas suspensivas do art. 1.523: não invalidam o casamento, só geram sanções, como o regime obrigatório de separação de bens. Por isso a A. O casamento do divorciado antes da partilha não é nulo, e o juiz pode afastar a causa suspensiva provada a ausência de prejuízo (B). A procuração deve ser por instrumento público (C). Celebrado o casamento sem ciência da revogação do mandato, o mandante responde por perdas e danos (D). E os impedimentos absolutamente dirimentes geram nulidade e não podem ser supridos (E).",
+   "dispositivos": [
+    {
+     "ref": "Código Civil, art. 1.523, III e parágrafo único",
+     "tipo": "lei",
+     "texto": "III - o divorciado, enquanto não houver sido homologada ou decidida a partilha dos bens do casal;\nParágrafo único. É permitido aos nubentes solicitar ao juiz que não lhes sejam aplicadas as causas suspensivas previstas nos incisos I, III e IV deste artigo, provando-se a inexistência de prejuízo, respectivamente, para o herdeiro, para o ex-cônjuge e para a pessoa tutelada ou curatelada;",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    },
+    {
+     "ref": "Código Civil, art. 1.542, caput e § 1º",
+     "tipo": "lei",
+     "texto": "O casamento pode celebrar-se mediante procuração, por instrumento público, com poderes especiais.\n§ 1º A revogação do mandato não necessita chegar ao conhecimento do mandatário; mas, celebrado o casamento sem que o mandatário ou o outro contraente tivessem ciência da revogação, responderá o mandante por perdas e danos.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-34": {
+   "nota": "Para o STJ, na comunhão parcial entram na comunhão as verbas trabalhistas relativas a direitos nascidos durante o casamento, ainda que recebidas depois do divórcio. Por isso a D. Na participação final nos aquestos, só os móveis podem ser alienados livremente (A, art. 1.673, parágrafo único). Os bens adquiridos por fato eventual entram na comunhão parcial (B, art. 1.660, II). Na comunhão universal, ficam excluídas as dívidas anteriores ao casamento (C, art. 1.668, III). E a separação obrigatória decorre da lei, sem pacto antenupcial (E).",
+   "dispositivos": [
+    {
+     "ref": "STJ, verbas trabalhistas na comunhão parcial",
+     "tipo": "entendimento",
+     "texto": "Integram a comunhão as verbas trabalhistas correspondentes a direitos adquiridos durante o casamento sob comunhão parcial, ainda que reconhecidas ou recebidas após a separação."
+    },
+    {
+     "ref": "Código Civil, arts. 1.660, II, 1.668, III, e 1.673, parágrafo único",
+     "tipo": "lei",
+     "texto": "II - os bens adquiridos por fato eventual, com ou sem o concurso de trabalho ou despesa anterior;\nIII - as dívidas anteriores ao casamento, salvo se provierem de despesas com seus aprestos, ou reverterem em proveito comum;\nParágrafo único. A administração desses bens é exclusiva de cada cônjuge, que os poderá livremente alienar, se forem móveis.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-35": {
+   "nota": "Questão anulada pela banca. Nenhuma alternativa foi considerada válida como gabarito oficial.",
+   "dispositivos": [],
+   "ressalva": "Questão anulada pelo Cebraspe: não há gabarito oficial a fundamentar.",
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-36": {
+   "nota": "Na sociedade simples, o cedente responde solidariamente com o cessionário, perante a sociedade e terceiros, até dois anos depois de averbada a modificação do contrato (art. 1.003, parágrafo único). Por isso a B. Na sociedade em comum, os sócios entre si só provam a sociedade por escrito (A, art. 987). Na limitada é vedada contribuição em serviços (C, art. 1.055, § 2º). Cônjuges casados na comunhão universal ou na separação obrigatória não podem ser sócios entre si (D, art. 977). E a cooperativa é sempre sociedade simples (E, art. 982, parágrafo único).",
+   "dispositivos": [
+    {
+     "ref": "Código Civil, art. 1.003, parágrafo único",
+     "tipo": "lei",
+     "texto": "Parágrafo único. Até dois anos depois de averbada a modificação do contrato, responde o cedente solidariamente com o cessionário, perante a sociedade e terceiros, pelas obrigações que tinha como sócio.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    },
+    {
+     "ref": "Código Civil, arts. 977, 982, parágrafo único, 987 e 1.055, § 2º",
+     "tipo": "lei",
+     "texto": "Art. 977. Faculta-se aos cônjuges contratar sociedade, entre si ou com terceiros, desde que não tenham casado no regime da comunhão universal de bens, ou no da separação obrigatória.\nParágrafo único. Independentemente de seu objeto, considera-se empresária a sociedade por ações; e, simples, a cooperativa.\nArt. 987. Os sócios, nas relações entre si ou com terceiros, somente por escrito podem provar a existência da sociedade, mas os terceiros podem prová-la de qualquer modo.\n§ 2º É vedada contribuição que consista em prestação de serviços.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-37": {
+   "nota": "Questão anulada pela banca. Nenhuma alternativa foi considerada válida como gabarito oficial.",
+   "dispositivos": [],
+   "ressalva": "Questão anulada pelo Cebraspe: não há gabarito oficial a fundamentar.",
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-38": {
+   "nota": "Juros remuneratórios acima de 12% ao ano, por si sós, não indicam abusividade (Súmula 382 do STJ). Por isso a E. A cobrança de TAC e TEC só é válida em contratos até 30/4/2008 (A, Súmula 565 do STJ). A simples propositura de revisional não afasta a mora (B, Súmula 380 do STJ). O vício do título não invalida o negócio subjacente (C, art. 888). E o Código Civil veda o aval parcial (D, art. 897, parágrafo único).",
+   "dispositivos": [
+    {
+     "ref": "STJ, Súmula 382",
+     "tipo": "entendimento",
+     "texto": "A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade."
+    },
+    {
+     "ref": "Código Civil, arts. 888 e 897, parágrafo único",
+     "tipo": "lei",
+     "texto": "Art. 888. A omissão de qualquer requisito legal, que tire ao escrito a sua validade como título de crédito, não implica a invalidade do negócio jurídico que lhe deu origem.\nParágrafo único. É vedado o aval parcial.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-39": {
+   "nota": "O STJ não admite denunciação da lide quando o denunciante traz fundamento novo, estranho à causa principal, que exija ampla instrução: isso atrasaria o processo e prejudicaria o autor. Por isso a A. O denunciado pelo autor pode aditar a petição inicial (B, hoje CPC/2015, art. 127). Julgar a ação principal antes da oposição, em sentenças distintas, não gera nulidade por si só (C). Solidariedade não implica litisconsórcio unitário (D). E o recurso do assistente simples fica condicionado à vontade do assistido (E).",
+   "dispositivos": [
+    {
+     "ref": "STJ, denunciação da lide com fundamento novo",
+     "tipo": "entendimento",
+     "texto": "Não se admite a denunciação da lide fundada em direito de regresso quando o denunciante introduz fundamento novo, estranho à lide principal, que exija ampla dilação probatória."
+    },
+    {
+     "ref": "CPC/2015, art. 127",
+     "tipo": "lei",
+     "texto": "Art. 127. Feita a denunciação pelo autor, o denunciado poderá assumir a posição de litisconsorte do denunciante e acrescentar novos argumentos à petição inicial, procedendo-se em seguida à citação do réu.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-rn-2015-40": {
+   "nota": "A ação que pede a nulidade de escritura de cessão de direitos possessórios é pessoal, e não real imobiliária: segue a regra geral do foro do domicílio do réu (CPC/1973, art. 94; hoje CPC/2015, art. 46). Por isso a E. O prazo da Defensoria começa da intimação pessoal, não da mera ciência (A). O prazo para emendar a inicial é dilatório e pode ser ampliado (B). As demais alternativas tratam de regras do CPC/1973 (exceção de incompetência e rito sumário) e contrariam a jurisprudência da época (C e D).",
+   "dispositivos": [
+    {
+     "ref": "CPC/2015, art. 46, caput",
+     "tipo": "lei",
+     "texto": "Art. 46. A ação fundada em direito pessoal ou em direito real sobre bens móveis será proposta, em regra, no foro de domicílio do réu.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
   }
  }
 }
