@@ -14261,6 +14261,246 @@
     }
    ],
    "conferido": "2026-11-21"
+  },
+  "dpe-ro-2025-51": {
+   "nota": "O domicílio da pessoa natural é o lugar onde ela estabelece residência com ânimo definitivo (CC, art. 70). Para João, é Curitiba, onde vive com a família. São Paulo é domicílio apenas para as relações profissionais (art. 72) e para o contrato em que foi eleito (art. 78), mas não é domicílio necessário, figura própria de incapazes, servidores, militares, marítimos e presos (art. 76). Por isso a A.",
+   "dispositivos": [
+    {
+     "ref": "CC, arts. 70 e 72",
+     "tipo": "lei",
+     "texto": "Art. 70. O domicílio da pessoa natural é o lugar onde ela estabelece a sua residência com ânimo definitivo.\nArt. 72. É também domicílio da pessoa natural, quanto às relações concernentes à profissão, o lugar onde esta é exercida.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-ro-2025-52": {
+   "nota": "Maria comprou uma reprodução acreditando ser um original. Há erro substancial sobre qualidade essencial do objeto (CC, art. 139, I), que torna o negócio anulável (art. 138), mesmo sem dolo do vendedor. Por isso a B. O objeto não é ilícito (C), e a entrega do bem não impede a anulação (D).",
+   "dispositivos": [
+    {
+     "ref": "CC, art. 138 e art. 139, I",
+     "tipo": "lei",
+     "texto": "Art. 138. São anuláveis os negócios jurídicos, quando as declarações de vontade emanarem de erro substancial que poderia ser percebido por pessoa de diligência normal, em face das circunstâncias do negócio.\nI - interessa à natureza do negócio, ao objeto principal da declaração, ou a alguma das qualidades a ele essenciais;",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-ro-2025-53": {
+   "nota": "O trator e as obras de arte podem ser removidos sem alterar sua substância: são bens móveis (CC, art. 82). O galpão construído, o lote vizinho e o sistema de irrigação fixado permanentemente ao solo são imóveis, porque incorporados ao solo natural ou artificialmente (art. 79). Por isso a B.",
+   "dispositivos": [
+    {
+     "ref": "CC, arts. 79 e 82",
+     "tipo": "lei",
+     "texto": "Art. 79. São bens imóveis o solo e tudo quanto se lhe incorporar natural ou artificialmente.\nArt. 82. São móveis os bens suscetíveis de movimento próprio, ou de remoção por força alheia, sem alteração da substância ou da destinação econômico-social.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-ro-2025-54": {
+   "nota": "Destruir coisa alheia para remover perigo iminente não é ato ilícito (CC, art. 188, II). Ainda assim, se o dono da coisa não causou o perigo, tem direito a indenização (art. 929). O autor do dano pode depois buscar o ressarcimento, em regresso, contra o terceiro culpado pelo perigo (art. 930). Por isso a D. O estado de necessidade não exclui o dever de indenizar o terceiro inocente (A).",
+   "dispositivos": [
+    {
+     "ref": "CC, art. 188, II, e arts. 929 e 930",
+     "tipo": "lei",
+     "texto": "II - a deterioração ou destruição da coisa alheia, ou a lesão a pessoa, a fim de remover perigo iminente.\nArt. 929. Se a pessoa lesada, ou o dono da coisa, no caso do inciso II do art. 188, não forem culpados do perigo, assistir-lhes-á direito à indenização do prejuízo que sofreram.\nArt. 930. No caso do inciso II do art. 188, se o perigo ocorrer por culpa de terceiro, contra este terá o autor do dano ação regressiva para haver a importância que tiver ressarcido ao lesado.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-ro-2025-55": {
+   "nota": "A exclusão de associado só é admissível havendo justa causa, reconhecida em procedimento que assegure direito de defesa e de recurso (CC, art. 57). Os direitos fundamentais também se aplicam às relações entre particulares (STF, RE 201.819). A cláusula que dispensa a defesa é inválida, e a exclusão pode ser anulada. Por isso a C.",
+   "dispositivos": [
+    {
+     "ref": "CC, art. 57",
+     "tipo": "lei",
+     "texto": "Art. 57. A exclusão do associado só é admissível havendo justa causa, assim reconhecida em procedimento que assegure direito de defesa e de recurso, nos termos previstos no estatuto. (Redação dada pela Lei nº 11.127, de 2005)",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-ro-2025-56": {
+   "nota": "Só a I está correta, porque reproduz o art. 7º do CPC. A II inverte o art. 10: a vedação à decisão surpresa vale ainda que se trate de matéria de ofício. A III inverte o art. 4º: a solução integral do mérito inclui a atividade satisfativa. Por isso a B.",
+   "dispositivos": [
+    {
+     "ref": "CPC, arts. 4º, 7º e 10",
+     "tipo": "lei",
+     "texto": "Art. 4º As partes têm o direito de obter em prazo razoável a solução integral do mérito, incluída a atividade satisfativa.\nArt. 7º É assegurada às partes paridade de tratamento em relação ao exercício de direitos e faculdades processuais, aos meios de defesa, aos ônus, aos deveres e à aplicação de sanções processuais, competindo ao juiz zelar pelo efetivo contraditório.\nArt. 10. O juiz não pode decidir, em grau algum de jurisdição, com base em fundamento a respeito do qual não se tenha dado às partes oportunidade de se manifestar, ainda que se trate de matéria sobre a qual deva decidir de ofício.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-ro-2025-57": {
+   "nota": "Pelo princípio da inércia, a jurisdição só atua mediante provocação: o processo começa por iniciativa da parte (CPC, art. 2º). Por isso a B.",
+   "dispositivos": [
+    {
+     "ref": "CPC, art. 2º",
+     "tipo": "lei",
+     "texto": "Art. 2º O processo começa por iniciativa da parte e se desenvolve por impulso oficial, salvo as exceções previstas em lei.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-ro-2025-58": {
+   "nota": "Havendo substituição processual, o substituído pode intervir como assistente litisconsorcial (CPC, art. 18, parágrafo único). Por isso a D. O CPC exige apenas interesse e legitimidade, sem a possibilidade jurídica do pedido (A, art. 17). A ação declaratória é admissível mesmo que já tenha ocorrido a violação do direito (B, art. 20). O interesse pode limitar-se à autenticidade ou falsidade de documento (C, art. 19, II). E ninguém pode pleitear direito alheio em nome próprio, salvo autorização legal (E, art. 18).",
+   "dispositivos": [
+    {
+     "ref": "CPC, arts. 17 e 18",
+     "tipo": "lei",
+     "texto": "Art. 17. Para postular em juízo é necessário ter interesse e legitimidade.\nArt. 18. Ninguém poderá pleitear direito alheio em nome próprio, salvo quando autorizado pelo ordenamento jurídico.\nParágrafo único. Havendo substituição processual, o substituído poderá intervir como assistente litisconsorcial.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-ro-2025-59": {
+   "nota": "A B reproduz o art. 46 do CPC e, por isso, é a correta. Quando o Estado é autor, o foro é o do domicílio do réu (A, art. 52). Havendo vários réus com domicílios diferentes, o autor escolhe o de qualquer deles (C, art. 46, § 4º). A recuperação judicial é exceção à remessa à Justiça Federal (D, art. 45, I). E o foro do inventário é o do último domicílio do autor da herança, e não o do herdeiro (E, art. 48).",
+   "dispositivos": [
+    {
+     "ref": "CPC, art. 46, caput",
+     "tipo": "lei",
+     "texto": "Art. 46. A ação fundada em direito pessoal ou em direito real sobre bens móveis será proposta, em regra, no foro de domicílio do réu.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-ro-2025-60": {
+   "nota": "A B reproduz o art. 22, II, do CPC e, por isso, é a correta. A jurisdição brasileira sobre obrigação a ser cumprida no Brasil independe da nacionalidade do réu (A, art. 21, II). A ação no estrangeiro não induz litispendência (C, art. 24). A cláusula de foro exclusivo estrangeiro, arguida na contestação, afasta a jurisdição brasileira (D, art. 25). E as ações sobre imóveis situados no Brasil são de competência exclusiva, e não concorrente (E, art. 23, I).",
+   "dispositivos": [
+    {
+     "ref": "CPC, art. 22, II, art. 23, I, e art. 24",
+     "tipo": "lei",
+     "texto": "II - decorrentes de relações de consumo, quando o consumidor tiver domicílio ou residência no Brasil;\nI - conhecer de ações relativas a imóveis situados no Brasil;\nArt. 24. A ação proposta perante tribunal estrangeiro não induz litispendência e não obsta a que a autoridade judiciária brasileira conheça da mesma causa e das que lhe são conexas, ressalvadas as disposições em contrário de tratados internacionais e acordos bilaterais em vigor no Brasil.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-ro-2025-61": {
+   "nota": "Helder supôs, por erro plenamente justificado pelas circunstâncias, uma situação de fato que, se existisse, tornaria legítima a sua ação: uma agressão armada iminente. É a legítima defesa putativa, por erro de tipo permissivo (CP, art. 20, § 1º). Por isso a A. Não há legítima defesa real (B), porque não havia agressão injusta.",
+   "dispositivos": [
+    {
+     "ref": "CP, art. 20, § 1º",
+     "tipo": "lei",
+     "texto": "§ 1º - É isento de pena quem, por erro plenamente justificado pelas circunstâncias, supõe situação de fato que, se existisse, tornaria a ação legítima. Não há isenção de pena quando o erro deriva de culpa e o fato é punível como crime culposo. (Redação dada pela Lei nº 7.209, de 11.7.1984)",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-ro-2025-62": {
+   "nota": "Os membros do Congresso Nacional são julgados pelo STF nas infrações penais comuns (CF, art. 102, I, b). Isso alcança o crime praticado durante o mandato e em razão dele (AP 937). O habeas corpus em que o paciente é um desses agentes também é julgado pelo STF (art. 102, I, d). Por isso a E.",
+   "dispositivos": [
+    {
+     "ref": "CF, art. 102, I, b e d",
+     "tipo": "lei",
+     "texto": "b) nas infrações penais comuns, o Presidente da República, o Vice-Presidente, os membros do Congresso Nacional, seus próprios Ministros e o Procurador-Geral da República;\nd) o habeas corpus , sendo paciente qualquer das pessoas referidas nas alíneas anteriores; o mandado de segurança e o habeas data contra atos do Presidente da República, das Mesas da Câmara dos Deputados e do Senado Federal, do Tribunal de Contas da União, do Procurador-Geral da República e do próprio Supremo Tribunal Federal;",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-ro-2025-63": {
+   "nota": "Na época dos fatos, o estelionato passou a depender de representação com o Pacote Anticrime (CP, art. 171, § 5º, incluído pela Lei 13.964/2019, em vigor desde janeiro de 2020). A exceção era a vítima com 70 anos ou mais, e Manoel tinha 60. Como a denúncia foi recebida sem representação da vítima, a decisão foi incorreta. Por isso a C.",
+   "dispositivos": [
+    {
+     "ref": "CP, art. 171, § 5º (redação da Lei 13.964/2019)",
+     "tipo": "entendimento",
+     "texto": "Somente se procede mediante representação, salvo se a vítima for a Administração Pública, criança ou adolescente, pessoa com deficiência mental, ou maior de 70 anos de idade ou incapaz."
+    }
+   ],
+   "ressalva": "O § 5º do art. 171 foi revogado pela Lei 15.397/2026; hoje o estelionato é de ação pública incondicionada. A justificativa segue a lei vigente na data da prova.",
+   "conferido": "2026-11-21"
+  },
+  "dpe-ro-2025-64": {
+   "nota": "O processo segue sem a presença do acusado que, citado ou intimado pessoalmente, muda de residência sem comunicar o novo endereço ao juízo (CPP, art. 367). Antônio foi citado pessoalmente e não informou a mudança. Por isso a B. A suspensão do art. 366 vale apenas para o citado por edital que não comparece nem constitui advogado (D).",
+   "dispositivos": [
+    {
+     "ref": "CPP, art. 367",
+     "tipo": "lei",
+     "texto": "Art. 367. O processo seguirá sem a presença do acusado que, citado ou intimado pessoalmente para qualquer ato, deixar de comparecer sem motivo justificado, ou, no caso de mudança de residência, não comunicar o novo endereço ao juízo. (Redação dada pela Lei nº 9.271, de 17.4.1996)",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-ro-2025-65": {
+   "nota": "A vítima pode submeter o arquivamento à revisão da instância competente do MP (CPP, art. 28, § 1º). A decisão da instância revisora que mantém o arquivamento é irrecorrível, porque não há previsão de recurso e o arquivamento é ato do titular da ação penal. Por isso a A. O juiz não revê o mérito do arquivamento mantido pela instância ministerial (D).",
+   "dispositivos": [
+    {
+     "ref": "CPP, art. 28, § 1º",
+     "tipo": "lei",
+     "texto": "§ 1º Se a vítima, ou seu representante legal, não concordar com o arquivamento do inquérito policial, poderá, no prazo de 30 (trinta) dias do recebimento da comunicação, submeter a matéria à revisão da instância competente do órgão ministerial, conforme dispuser a respectiva lei orgânica. (Incluído pela Lei nº 13.964, de 2019) (Vigência) (Vide ADI 6.298)",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-ro-2025-66": {
+   "nota": "A interpretação analógica, em que a lei dá uma fórmula casuística seguida de cláusula genérica (como 'ou outro meio insidioso ou cruel'), é admitida no Direito Penal, inclusive em desfavor do réu, porque é a própria lei que manda estender. Por isso a D. A analogia, ao contrário, só é admitida in bonam partem (C). A interpretação sistemática considera o conjunto do ordenamento, e não o contexto histórico (A). A teleológica busca a finalidade da norma, e não o sentido literal (B). E só a lei é fonte imediata da norma penal incriminadora (E).",
+   "dispositivos": [
+    {
+     "ref": "Interpretação analógica e analogia no Direito Penal",
+     "tipo": "entendimento",
+     "texto": "Interpretação analógica: a própria lei prevê fórmula casuística seguida de expressão genérica, autorizando a extensão a casos semelhantes, inclusive em prejuízo do réu. Analogia: integração de lacuna, vedada in malam partem pelo princípio da legalidade."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-ro-2025-67": {
+   "nota": "Aplica-se a lei brasileira ao crime praticado por brasileiro no estrangeiro (CP, art. 7º, II, b) se ele entrar no território nacional, se o fato for punível também no país onde foi praticado e se estiver entre aqueles que autorizam a extradição, entre outras condições (art. 7º, § 2º). Por isso a D.",
+   "dispositivos": [
+    {
+     "ref": "CP, art. 7º, II, b, e § 2º, a a c",
+     "tipo": "lei",
+     "texto": "b) praticados por brasileiro; (Incluído pela Lei nº 7.209, de 1984)\n§ 2º - Nos casos do inciso II, a aplicação da lei brasileira depende do concurso das seguintes condições: (Incluído pela Lei nº 7.209, de 1984)\na) entrar o agente no território nacional; (Incluído pela Lei nº 7.209, de 1984)\nb) ser o fato punível também no país em que foi praticado; (Incluído pela Lei nº 7.209, de 1984)\nc) estar o crime incluído entre aqueles pelos quais a lei brasileira autoriza a extradição; (Incluído pela Lei nº 7.209, de 1984)",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-ro-2025-68": {
+   "nota": "Solicitar vantagem a pretexto de influir em juiz configura exploração de prestígio (CP, art. 357). Brandão pediu dinheiro ao réu para influenciar a sentença do juiz. Por isso a E. O tráfico de influência (art. 332) é crime genérico contra a Administração, enquanto o art. 357 é específico quando a influência alegada recai sobre juiz e outros agentes da Justiça.",
+   "dispositivos": [
+    {
+     "ref": "CP, art. 357",
+     "tipo": "lei",
+     "texto": "Art. 357 - Solicitar ou receber dinheiro ou qualquer outra utilidade, a pretexto de influir em juiz, jurado, órgão do Ministério Público, funcionário de justiça, perito, tradutor, intérprete ou testemunha:",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    }
+   ],
+   "ressalva": "Como Brandão é funcionário do próprio gabinete e solicitou vantagem em razão da função, parte da doutrina enquadraria a conduta como corrupção passiva. A justificativa segue o gabarito oficial.",
+   "conferido": "2026-11-21"
+  },
+  "dpe-ro-2025-69": {
+   "nota": "Se a resposta à acusação não for apresentada no prazo, o juiz nomeia defensor para oferecê-la em até 10 dias (CPP, art. 408). Por isso a B. A acareação é admitida na instrução preliminar (A, art. 411). A absolvição sumária pressupõe causas como a inexistência do fato ou a excludente provada, e não indícios de autoria (C, art. 415). Contra a impronúncia cabe apelação (D, art. 416). E o juiz pode dar ao fato definição jurídica diversa (E, art. 418).",
+   "dispositivos": [
+    {
+     "ref": "CPP, art. 408",
+     "tipo": "lei",
+     "texto": "Art. 408. Não apresentada a resposta no prazo legal, o juiz nomeará defensor para oferecê-la em até 10 (dez) dias, concedendo-lhe vista dos autos. (Redação dada pela Lei nº 11.689, de 2008)",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-ro-2025-70": {
+   "nota": "Agredir a esposa por ciúme, no contexto de violência doméstica, configura lesão corporal contra a mulher por razões da condição do sexo feminino (CP, art. 129, § 13, combinado com o art. 121-A, § 1º). Por isso a E. A emoção ou paixão não exclui a imputabilidade (B, art. 28, I). E o § 13, mais específico e mais grave, prevalece sobre o § 9º (D).",
+   "dispositivos": [
+    {
+     "ref": "CP, art. 129, § 13",
+     "tipo": "lei",
+     "texto": "§ 13. Se a lesão é praticada contra a mulher, por razões da condição do sexo feminino, nos termos do § 1º do art. 121-A deste Código: (Redação dada pela Lei nº 14.994, de 2024)",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
   }
  }
 }
