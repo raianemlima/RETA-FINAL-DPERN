@@ -12066,6 +12066,256 @@
     }
    ],
    "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-61": {
+   "nota": "Só a III está correta, porque reproduz diretriz de política judiciária para mulheres presas inspirada nas Regras de Bangkok. A I erra ao incluir a lactante e a 'associação criminosa': o art. 112, § 3º, da LEP fala em gestante, mãe ou responsável por crianças ou pessoas com deficiência, e veda apenas ter integrado organização criminosa. A II erra ao acrescentar requisitos que a lei não prevê, como não ter cometido crime hediondo e não ter integrado associação criminosa. Por isso a C.",
+   "dispositivos": [
+    {
+     "ref": "LEP, art. 112, § 3º",
+     "tipo": "lei",
+     "texto": "§ 3º No caso de mulher gestante ou que for mãe ou responsável por crianças ou pessoas com deficiência, os requisitos para progressão de regime são, cumulativamente: (Incluído pela Lei nº 13.769, de 2018)\nI - não ter cometido crime com violência ou grave ameaça a pessoa; (Incluído pela Lei nº 13.769, de 2018)\nII - não ter cometido o crime contra seu filho ou dependente; (Incluído pela Lei nº 13.769, de 2018)\nIII - ter cumprido ao menos 1/8 (um oitavo) da pena no regime anterior; (Incluído pela Lei nº 13.769, de 2018)\nIV - ser primária e ter bom comportamento carcerário, comprovado pelo diretor do estabelecimento; (Incluído pela Lei nº 13.769, de 2018)\nV - não ter integrado organização criminosa. (Incluído pela Lei nº 13.769, de 2018)",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l7210.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-62": {
+   "nota": "A apenada é reincidente e não preenche o requisito da primariedade para a progressão especial (LEP, art. 112, § 3º, IV), o que afasta a B. Ainda assim, as Regras de Bangkok mandam conceder às presas, da forma mais abrangente possível, saídas, regime aberto e programas comunitários, e considerar as responsabilidades maternas na individualização da pena (Regras 45 e 64). Com base nelas, a jurisprudência admite a prisão domiciliar para mães de crianças em situação de vulnerabilidade. Por isso a D. A evasão justificada e seguida de retorno espontâneo não impede, por si só, todo e qualquer benefício (E).",
+   "dispositivos": [
+    {
+     "ref": "Regras de Bangkok (ONU), Regras 45 e 64",
+     "tipo": "entendimento",
+     "texto": "Regra 45: as autoridades penitenciárias concederão às presas, da forma mais abrangente possível, opções como saídas temporárias, regime prisional aberto, albergues de transição e programas e serviços comunitários, para facilitar sua transição para a liberdade, reduzir o estigma e restabelecer o contato com seus familiares o mais cedo possível. Regra 64: penas não privativas de liberdade serão preferíveis às mulheres grávidas e com filhos dependentes, quando possível e apropriado."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-63": {
+   "nota": "O gabarito adota o entendimento de que o porte de pequena quantidade de maconha para consumo, depois do Tema 506 do STF, ainda pode ser falta disciplinar, mas não deve gerar as consequências penais da falta grave, como a regressão (LEP, art. 118) e a perda de dias remidos (art. 127). A sanção administrativa basta. Por isso a D. A conduta não fica simplesmente atípica para fins disciplinares (A). E a homologação judicial não é automática, pois o juiz controla a legalidade (B e C).",
+   "dispositivos": [
+    {
+     "ref": "STF, Tema 506 (RE 635.659) e reflexos na execução penal",
+     "tipo": "entendimento",
+     "texto": "O porte de cannabis para consumo pessoal deixou de ser infração penal e passou a ser ilícito de natureza administrativa, sem efeitos penais; na execução, a conduta não deve gerar as consequências penais próprias da falta grave, como regressão de regime e perda de dias remidos."
+    }
+   ],
+   "ressalva": "A extensão do Tema 506 às faltas disciplinares no cárcere não está expressa na tese do STF. A justificativa segue o gabarito oficial.",
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-64": {
+   "nota": "As três afirmativas são falsas. O diretor deve ter diploma de nível superior em Direito, Psicologia, Ciências Sociais, Pedagogia ou Serviços Sociais, e não de qualquer curso (I, LEP, art. 75, I). Nos estabelecimentos femininos, o pessoal técnico especializado é a exceção à exigência de pessoal feminino (II, art. 77, § 2º). E o Patronato pode ser público ou particular (III, art. 78). Por isso a E.",
+   "dispositivos": [
+    {
+     "ref": "LEP, art. 75, I, art. 77, § 2º, e art. 78",
+     "tipo": "lei",
+     "texto": "I - ser portador de diploma de nível superior de Direito, ou Psicologia, ou Ciências Sociais, ou Pedagogia, ou Serviços Sociais;\n§ 2º No estabelecimento para mulheres somente se permitirá o trabalho de pessoal do sexo feminino, salvo quando se tratar de pessoal técnico especializado.\nArt. 78. O Patronato público ou particular destina-se a prestar assistência aos albergados e aos egressos (artigo 26).",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l7210.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-65": {
+   "nota": "A E reproduz as Regras de Bangkok 43 e 44: as visitas devem ser incentivadas e facilitadas e, diante do maior risco de terem sofrido violência doméstica, as presas devem ser consultadas sobre quem pode visitá-las. Por isso a E. A CF admite a pena de morte em caso de guerra declarada (A, art. 5º, XLVII, a). As Regras de Mandela reconhecem que nem todas as regras podem ser aplicadas em todos os lugares e momentos (B). Elas também estimulam a mediação na prevenção de infrações (C) e proíbem o confinamento solitário prolongado, por mais de 15 dias consecutivos (D).",
+   "dispositivos": [
+    {
+     "ref": "Regras de Bangkok 43 e 44; Regras de Mandela 2, 38 e 43-44",
+     "tipo": "entendimento",
+     "texto": "Bangkok 43: as autoridades prisionais deverão incentivar e facilitar as visitas às mulheres presas, como pré-requisito para seu bem-estar mental e reintegração social. Bangkok 44: tendo em vista a probabilidade desproporcional de terem sofrido violência doméstica, as presas deverão ser consultadas sobre quem poderá visitá-las. Mandela: as regras reconhecem a variedade de condições locais; a mediação é estimulada; o confinamento solitário prolongado (mais de 15 dias consecutivos) é proibido."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-66": {
+   "nota": "O CDC adota a teoria menor da desconsideração da personalidade jurídica: ela cabe sempre que a personalidade for, de algum modo, obstáculo ao ressarcimento dos prejuízos dos consumidores (art. 28, § 5º), sem exigir desvio de finalidade ou confusão patrimonial. Por isso a C. A teoria maior é a do Código Civil (A e E). E a desconsideração não depende de encerramento formal nem de baixa do CNPJ (D).",
+   "dispositivos": [
+    {
+     "ref": "CDC, art. 28, § 5º",
+     "tipo": "lei",
+     "texto": "§ 5° Também poderá ser desconsiderada a pessoa jurídica sempre que sua personalidade for, de alguma forma, obstáculo ao ressarcimento de prejuízos causados aos consumidores.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-67": {
+   "nota": "No fato do produto, o fabricante responde independentemente de culpa pelos danos causados por defeitos de fabricação ou montagem (CDC, art. 12). Por isso a E. O comerciante só responde nas hipóteses do art. 13, como fabricante não identificado, e não solidária e diretamente (C e D). A inversão do ônus da prova vale também para o fato do produto (A, art. 6º, VIII). E a responsabilidade é objetiva (B).",
+   "dispositivos": [
+    {
+     "ref": "CDC, arts. 12, caput, e 13",
+     "tipo": "lei",
+     "texto": "Art. 12. O fabricante, o produtor, o construtor, nacional ou estrangeiro, e o importador respondem, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos decorrentes de projeto, fabricação, construção, montagem, fórmulas, manipulação, apresentação ou acondicionamento de seus produtos, bem como por informações insuficientes ou inadequadas sobre sua utilização e riscos.\nArt. 13. O comerciante é igualmente responsável, nos termos do artigo anterior, quando:\nI - o fabricante, o construtor, o produtor ou o importador não puderem ser identificados;\nII - o produto for fornecido sem identificação clara do seu fabricante, produtor, construtor ou importador;\nIII - não conservar adequadamente os produtos perecíveis.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-68": {
+   "nota": "Para o STJ, é abusiva a cláusula de seguro que exclui o furto simples e cobre só o qualificado. A distinção técnica entre as modalidades de furto não é acessível ao consumidor médio, e a cláusula frustra a legítima expectativa de cobertura, violando os deveres de informação e transparência. Por isso a D. As cláusulas limitativas devem ser redigidas com destaque e de imediata compreensão (CDC, art. 54, § 4º).",
+   "dispositivos": [
+    {
+     "ref": "CDC, art. 54, § 4º",
+     "tipo": "lei",
+     "texto": "§ 4° As cláusulas que implicarem limitação de direito do consumidor deverão ser redigidas com destaque, permitindo sua imediata e fácil compreensão.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    },
+    {
+     "ref": "STJ, REsp 1.837.434 (seguro e furto simples)",
+     "tipo": "entendimento",
+     "texto": "É abusiva a cláusula contratual que prevê a cobertura securitária apenas para o furto qualificado, excluindo o furto simples, por violar o dever de informação e frustrar a expectativa legítima do consumidor, que não domina a distinção técnico-jurídica entre as modalidades."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-69": {
+   "nota": "Os danos dos consumidores que compraram os fogões defeituosos são interesses individuais homogêneos, decorrentes de origem comum (CDC, art. 81, parágrafo único, III). O MP tem legitimidade para defendê-los em ação civil pública (art. 82, I). Por isso a E. Os individuais homogêneos são divisíveis, e não transindividuais indivisíveis (D). E a sentença de procedência faz coisa julgada erga omnes em benefício de todas as vítimas (C, art. 103, III).",
+   "dispositivos": [
+    {
+     "ref": "CDC, art. 81, parágrafo único, III, e art. 82, I",
+     "tipo": "lei",
+     "texto": "III - interesses ou direitos individuais homogêneos, assim entendidos os decorrentes de origem comum.\nArt. 82. Para os fins do art. 81, parágrafo único, são legitimados concorrentemente: (Redação dada pela Lei nº 9.008, de 21.3.1995)\nI - o Ministério Público,",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-70": {
+   "nota": "É enganosa a publicidade inteira ou parcialmente falsa, ou que, mesmo por omissão, induz o consumidor em erro sobre a natureza, as características e as propriedades do produto (CDC, art. 37, § 1º). A promessa de emagrecer 20 kg em um mês, sem dieta nem exercício e com depoimentos fictícios, se enquadra nisso. Por isso a B. O fornecedor responde também pela publicidade feita por influenciadores (C), o CDC vale para qualquer meio (D), e a responsabilidade é objetiva (E).",
+   "dispositivos": [
+    {
+     "ref": "CDC, art. 37, caput e § 1º",
+     "tipo": "lei",
+     "texto": "Art. 37. É proibida toda publicidade enganosa ou abusiva.\n§ 1° É enganosa qualquer modalidade de informação ou comunicação de caráter publicitário, inteira ou parcialmente falsa, ou, por qualquer outro modo, mesmo por omissão, capaz de induzir em erro o consumidor a respeito da natureza, características, qualidade, quantidade, propriedades, origem, preço e quaisquer outros dados sobre produtos e serviços.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-71": {
+   "nota": "O STJ considera lícito o sistema de escore de crédito, que é método estatístico de avaliação de risco e dispensa o consentimento do consumidor. O consumidor tem direito, porém, a esclarecimentos sobre as fontes dos dados e as informações pessoais consideradas, se o solicitar (Súmula 550 do STJ). Por isso a A. O escore não é cadastro de inadimplentes (C), e a recusa de crédito com base nele não é, por si, abusiva (D). O segredo empresarial protege a metodologia, mas não dispensa a informação sobre os dados e as fontes (E).",
+   "dispositivos": [
+    {
+     "ref": "STJ, Súmula 550",
+     "tipo": "entendimento",
+     "texto": "A utilização de escore de crédito, método estatístico de avaliação de risco que não constitui banco de dados, dispensa o consentimento do consumidor, que terá o direito de solicitar esclarecimentos sobre as informações pessoais valoradas e as fontes dos dados considerados no respectivo cálculo."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-72": {
+   "nota": "Estão corretas I e III. A Resolução CNJ 367/2021 elenca entre os princípios da Central de Vagas a dignidade, a brevidade e a excepcionalidade da medida, a prioridade absoluta, a convivência familiar e comunitária e a temporalidade (I). E a resolução decorre do HC coletivo 143.988, no qual o STF determinou o numerus clausus nas unidades socioeducativas superlotadas (III). A II erra ao atribuir ao diretor da unidade o pedido de vaga: é o Poder Judiciário, ao proferir a decisão, quem solicita a vaga à Central. Por isso a C.",
+   "dispositivos": [
+    {
+     "ref": "CNJ, Resolução 367/2021, e STF, HC 143.988",
+     "tipo": "entendimento",
+     "texto": "A Central de Vagas do Sistema Socioeducativo gerencia a ocupação das unidades a partir das decisões judiciais de internação e semiliberdade, observados os princípios da brevidade, excepcionalidade e prioridade absoluta; o STF, no HC coletivo 143.988, fixou a observância do princípio do numerus clausus para as unidades de internação."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-73": {
+   "nota": "A venda de drogas nas imediações de escola é circunstância concreta de maior gravidade e pode ser valorada na escolha da medida socioeducativa. Por isso a E. Havendo adolescente e adulto, a competência se separa: Vítor responde na Justiça comum (A, CPP, art. 79, II). A Súmula 500 do STJ, que trata a corrupção de menores como crime formal, continua válida (B). A internação provisória é cabível presentes os requisitos legais (C). E a internação por reiteração não é obrigatória: só se aplica se não houver outra medida adequada (D, ECA, art. 122, § 2º; Súmula 492 do STJ).",
+   "dispositivos": [
+    {
+     "ref": "ECA, art. 122, I a III",
+     "tipo": "lei",
+     "texto": "Art. 122. A medida de internação só poderá ser aplicada quando:\nI - tratar-se de ato infracional cometido mediante grave ameaça ou violência a pessoa;\nII - por reiteração no cometimento de outras infrações graves;\nIII - por descumprimento reiterado e injustificável da medida anteriormente imposta.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    },
+    {
+     "ref": "STJ, Súmulas 492 e 500",
+     "tipo": "entendimento",
+     "texto": "Súmula 492: o ato infracional análogo ao tráfico de drogas, por si só, não conduz obrigatoriamente à imposição de medida socioeducativa de internação do adolescente. Súmula 500: a configuração do crime do art. 244-B do ECA independe da prova da efetiva corrupção do menor, por se tratar de delito formal."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-74": {
+   "nota": "O tempo de prisão cautelar não convertida em pena privativa de liberdade deve ser descontado do prazo da medida socioeducativa (Lei 12.594/2012, art. 46, § 2º). Por isso a B. A extinção não é automática pelo processo criminal: cabe ao juiz decidir sobre ela, cientificando o juízo criminal (A, art. 46, § 1º). A prescrição da medida segue as regras do CP com prazo reduzido, sem prazo fixo de 3 anos a partir do trânsito (C, Súmula 338 do STJ). E a maioridade não suspende a apuração do ato infracional (E, Súmula 605 do STJ).",
+   "dispositivos": [
+    {
+     "ref": "Lei 12.594/2012, art. 46, §§ 1º e 2º",
+     "tipo": "lei",
+     "texto": "§ 1º No caso de o maior de 18 (dezoito) anos, em cumprimento de medida socioeducativa, responder a processo-crime, caberá à autoridade judiciária decidir sobre eventual extinção da execução, cientificando da decisão o juízo criminal competente.\n§ 2º Em qualquer caso, o tempo de prisão cautelar não convertida em pena privativa de liberdade deve ser descontado do prazo de cumprimento da medida socioeducativa.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12594.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-75": {
+   "nota": "O ECA admite a adoção póstuma quando o adotante, após inequívoca manifestação de vontade, falece no curso do procedimento (art. 42, § 6º). O STJ a estende ao caso em que a morte ocorre antes de iniciado o processo, se demonstrada a inequívoca vontade, como na longa relação socioafetiva. Por isso a B. A vedação é só a ascendentes e irmãos, e não a tios (C, art. 42, § 1º). O preso deve ser citado pessoalmente (D, art. 158, § 2º). A adoção atribui todos os direitos, inclusive sucessórios, sem exceção (E, art. 41). E a destituição pode ser pedida na própria ação de adoção (A).",
+   "dispositivos": [
+    {
+     "ref": "ECA, art. 42, §§ 1º e 6º, e art. 158, § 2º",
+     "tipo": "lei",
+     "texto": "§ 1º Não podem adotar os ascendentes e os irmãos do adotando.\n§ 6 o A adoção poderá ser deferida ao adotante que, após inequívoca manifestação de vontade, vier a falecer no curso do procedimento, antes de prolatada a sentença. (Incluído pela Lei nº 12.010, de 2009) Vigência\n§ 2 o O requerido privado de liberdade deverá ser citado pessoalmente. (Incluído pela Lei nº 12.962, de 2014)",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-76": {
+   "nota": "Só a III está correta: a semiliberdade obriga à escolarização e à profissionalização com uso dos recursos da comunidade (ECA, art. 120, § 1º), o que expressa a incompletude institucional. A I erra porque seis meses é o prazo máximo, e não mínimo, para a reavaliação, aplicável à semiliberdade por remissão às regras da internação (arts. 120, § 2º, e 121, § 2º). A II erra porque a execução cabe, em regra, ao juízo do local de cumprimento da medida, e não ao do município onde o adolescente mora. Por isso a C.",
+   "dispositivos": [
+    {
+     "ref": "ECA, art. 120, §§ 1º e 2º, e art. 121, § 2º",
+     "tipo": "lei",
+     "texto": "§ 1º São obrigatórias a escolarização e a profissionalização, devendo, sempre que possível, ser utilizados os recursos existentes na comunidade.\n§ 2º A medida não comporta prazo determinado aplicando-se, no que couber, as disposições relativas à internação.\n§ 2º A medida não comporta prazo determinado, devendo sua manutenção ser reavaliada, mediante decisão fundamentada, no máximo a cada seis meses.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-77": {
+   "nota": "A Lei Henry Borel prevê que as medidas protetivas podem ser concedidas de imediato, sem audiência das partes e sem manifestação prévia do MP, que deve ser prontamente comunicado (Lei 14.344/2022). Por isso a C. A lei principal para crianças e adolescentes é a própria Lei 14.344/2022, e não a Lei Maria da Penha (A). A preventiva depende de requerimento do MP ou de representação policial, sem decretação de ofício (B, art. 17). Os alimentos provisórios podem ser fixados nas próprias medidas protetivas (D).",
+   "dispositivos": [
+    {
+     "ref": "Lei 14.344/2022, art. 15, § 1º, e art. 17",
+     "tipo": "lei",
+     "texto": "§ 1º As medidas protetivas de urgência poderão ser concedidas de imediato, independentemente de audiência das partes e de manifestação do Ministério Público, o qual deverá ser prontamente comunicado.\nArt. 17. Em qualquer fase do inquérito policial ou da instrução criminal, caberá a prisão preventiva do agressor, decretada pelo juiz, a requerimento do Ministério Público ou mediante representação da autoridade policial.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14344.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-78": {
+   "nota": "As três estão corretas. Em caráter excepcional e de urgência, a entidade pode acolher sem determinação prévia, comunicando ao juiz em até 24 horas (I, ECA, art. 93). Hospedar adolescente desacompanhado em motel é infração administrativa (II, art. 250), mas o STJ entende que, após a Lei 12.038/2009, a pena de 'multa' sem parâmetros impede a aplicação da sanção pecuniária. E qualquer ato libidinoso com menor de 14 anos é estupro de vulnerável, sendo irrelevantes o consentimento, a experiência anterior ou o relacionamento (III, Súmula 593 do STJ; CP, art. 217-A, § 5º). Por isso a E.",
+   "dispositivos": [
+    {
+     "ref": "ECA, arts. 93 e 250",
+     "tipo": "lei",
+     "texto": "Art. 93. As entidades que mantenham programa de acolhimento institucional poderão, em caráter excepcional e de urgência, acolher crianças e adolescentes sem prévia determinação da autoridade competente, fazendo comunicação do fato em até 24 (vinte e quatro) horas ao Juiz da Infância e da Juventude, sob pena de responsabilidade.\nArt. 250. Hospedar criança ou adolescente desacompanhado dos pais ou responsável, ou sem autorização escrita desses ou da autoridade judiciária, em hotel, pensão, motel ou congênere: (Redação dada pela Lei nº 12.038, de 2009).\nPena – multa. (Redação dada pela Lei nº 12.038, de 2009).",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    },
+    {
+     "ref": "STJ, Súmula 593",
+     "tipo": "entendimento",
+     "texto": "O crime de estupro de vulnerável se configura com a conjunção carnal ou prática de ato libidinoso com menor de 14 anos, sendo irrelevante eventual consentimento da vítima para a prática do ato, sua experiência sexual anterior ou existência de relacionamento amoroso com o agente."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-79": {
+   "nota": "Manifestar-se nos processos que os envolvam é um direito, e não um dever, de crianças e adolescentes. Para exercê-lo, eles devem receber todas as informações necessárias, conforme a Resolução Conanda 169/2014 e a Convenção sobre os Direitos da Criança (art. 12). Por isso a E. O consentimento colhido em audiência é exigido apenas do adolescente (A, ECA, art. 28, § 2º). O acesso à assistência jurídica não depende de juízo de conveniência do magistrado (B). Os meios alternativos de solução de conflitos devem ser estimulados, e não usados só excepcionalmente (C). E a remissão cumulada com medida exige a anuência do adolescente (D).",
+   "dispositivos": [
+    {
+     "ref": "Conanda, Resolução 169/2014, e Convenção sobre os Direitos da Criança, art. 12",
+     "tipo": "entendimento",
+     "texto": "A manifestação da criança ou do adolescente nos processos que lhe digam respeito é um direito, e não uma obrigação, devendo-lhes ser asseguradas todas as informações necessárias para que expressem livremente sua opinião e para que esta seja levada em consideração conforme sua idade e maturidade."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-80": {
+   "nota": "É garantido à mãe o sigilo sobre o nascimento e a entrega (ECA, art. 19-A, § 9º), inclusive em relação ao suposto pai e à família extensa. Por isso a D. A gestante é ouvida pela equipe interprofissional, que apresenta relatório ao juiz, e não primeiro pelo juiz (A, § 1º). A assistência psicológica é devida também à mãe que entrega o filho para adoção (B, art. 8º, § 5º). Havendo desistência, o acompanhamento familiar é de 180 dias, e não 60 (C, § 8º). E o consentimento só é retratável até a audiência, com arrependimento em 10 dias após a sentença de extinção do poder familiar (E, art. 166, § 5º).",
+   "dispositivos": [
+    {
+     "ref": "ECA, art. 19-A, §§ 1º, 8º e 9º, e art. 166, § 5º",
+     "tipo": "lei",
+     "texto": "§ 1 o A gestante ou mãe será ouvida pela equipe interprofissional da Justiça da Infância e da Juventude, que apresentará relatório à autoridade judiciária, considerando inclusive os eventuais efeitos do estado gestacional e puerperal. (Incluído pela Lei nº 13.509, de 2017)\n§ 8 o Na hipótese de desistência pelos genitores - manifestada em audiência ou perante a equipe interprofissional - da entrega da criança após o nascimento, a criança será mantida com os genitores, e será determinado pela Justiça da Infância e da Juventude o acompanhamento familiar pelo prazo de 180 (cento e oitenta) dias. (Incluído pela Lei nº 13.509, de 2017)\n§ 9 o É garantido à mãe o direito ao sigilo sobre o nascimento, respeitado o disposto no art. 48 desta Lei. (Incluído pela Lei nº 13.509, de 2017)\n§ 5 o O consentimento é retratável até a data da realização da audiência especificada no § 1 o deste artigo, e os pais podem exercer o arrependimento no prazo de 10 (dez) dias, contado da data de prolação da sentença de extinção do poder familiar. (Redação dada pela Lei nº 13.509, de 2017)",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
   }
  }
 }
