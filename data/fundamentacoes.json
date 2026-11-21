@@ -10726,6 +10726,298 @@
     }
    ],
    "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-61": {
+   "nota": "Estão corretas I e II. A Lei 14.620/2023, do Programa Minha Casa, Minha Vida, permite à mulher sob medida protetiva fazer o distrato antes do prazo e ser beneficiada em outra unidade, sem o impedimento do CADMUT (I). E o agressor deve ressarcir todos os danos, inclusive ao SUS pelos custos do tratamento da vítima (II, Lei 11.340/2006, art. 9º, § 4º). A III erra: desde a Lei 14.443/2022, a esterilização não exige mais o consentimento do cônjuge, regra que antes valia também para a vasectomia. Por isso a A.",
+   "dispositivos": [
+    {
+     "ref": "Lei 14.620/2023, art. 10, § 5º",
+     "tipo": "lei",
+     "texto": "A mulher vítima de violência doméstica e familiar que esteja sob medida protetiva de urgência está autorizada a realizar o distrato dos contratos de compra e venda antes do prazo final contratual, sendo-lhe permitido ser beneficiada em outra unidade habitacional, independentemente do registro no Cadastro Nacional de Mutuários (Cadmut).",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14620.htm"
+    },
+    {
+     "ref": "Lei 11.340/2006, art. 9º, § 4º",
+     "tipo": "lei",
+     "texto": "§ 4º Aquele que, por ação ou omissão, causar lesão, violência física, sexual ou psicológica e dano moral ou patrimonial a mulher fica obrigado a ressarcir todos os danos causados, inclusive ressarcir ao Sistema Único de Saúde (SUS), de acordo com a tabela SUS, os custos relativos aos serviços de saúde prestados para o total tratamento das vítimas em situação de violência doméstica",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm"
+    },
+    {
+     "ref": "Lei 14.443/2022 (planejamento familiar)",
+     "tipo": "entendimento",
+     "texto": "Alterou a Lei 9.263/1996 para retirar a exigência de consentimento do cônjuge para a esterilização voluntária e reduzir a idade mínima para 21 anos."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-62": {
+   "nota": "Qualquer estabelecimento público ou privado deve prestar informações a qualquer dos genitores sobre os filhos, sob multa de R$ 200 a R$ 500 por dia (CC, art. 1.584, § 6º). Por isso a C, e não a D. Sem acordo, a regra é a guarda compartilhada, não a unilateral (A). Morar em cidades diferentes não impede a guarda compartilhada (B). E o descumprimento de cláusula de guarda pode reduzir prerrogativas sem a exigência de reiteração após manifestação contrária (E, art. 1.584, § 4º).",
+   "dispositivos": [
+    {
+     "ref": "Código Civil, art. 1.584, §§ 4º e 6º",
+     "tipo": "lei",
+     "texto": "§ 4º A alteração não autorizada ou o descumprimento imotivado de cláusula de guarda unilateral ou compartilhada poderá implicar a redução de prerrogativas atribuídas ao seu detentor.\n§ 6º Qualquer estabelecimento público ou privado é obrigado a prestar informações a qualquer dos genitores sobre os filhos destes, sob pena de multa de R$ 200,00 (duzentos reais) a R$ 500,00 (quinhentos reais) por dia pelo não atendimento da solicitação.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-63": {
+   "nota": "A questão pede a incorreta. Os cartórios não podem criar óbices ou condições diferenciadas em razão da deficiência e devem reconhecer a capacidade legal plena do solicitante (Lei 13.146/2015, art. 83). Por isso a B. As demais estão corretas: a incapacidade absoluta só existe até os 16 anos, para todos (A); as escolas privadas não podem cobrar a mais pelo profissional de apoio (C); a pessoa com deficiência pode ser testemunha (D); e cabe curatela compartilhada (E).",
+   "dispositivos": [
+    {
+     "ref": "Lei 13.146/2015, art. 83",
+     "tipo": "lei",
+     "texto": "Art. 83. Os serviços notariais e de registro não podem negar ou criar óbices ou condições diferenciadas à prestação de seus serviços em razão de deficiência do solicitante, devendo reconhecer sua capacidade legal plena, garantida a acessibilidade.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-64": {
+   "nota": "A questão pede a incorreta. A mera expansão ou alteração da finalidade original da atividade econômica não constitui desvio de finalidade (CC, art. 50, § 5º). Por isso a D. As demais estão corretas: o Código adota a teoria maior (A), exige requerimento da parte ou do MP (B) e abuso por desvio de finalidade ou confusão patrimonial (C), e prevê a desconsideração inversa (E, art. 50, § 3º).",
+   "dispositivos": [
+    {
+     "ref": "Código Civil, art. 50, §§ 3º e 5º",
+     "tipo": "lei",
+     "texto": "§ 3º O disposto no caput e nos §§ 1º e 2º deste artigo também se aplica à extensão das obrigações de sócios ou de administradores à pessoa jurídica.\n§ 5º Não constitui desvio de finalidade a mera expansão ou a alteração da finalidade original da atividade econômica específica da pessoa jurídica.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-65": {
+   "nota": "Só a II está correta: reproduz o art. 1.259 do CC (invasão superior à vigésima parte, com boa-fé ou má-fé), e o prejuízo do deslocamento de terra também deve ser ressarcido. Por isso a B. A I erra porque a aquisição na invasão de até a vigésima parte exige boa-fé (art. 1.258). A III erra porque o vizinho tem direito a ressarcimento mesmo que as obras acautelatórias tenham sido feitas (art. 1.311, parágrafo único).",
+   "dispositivos": [
+    {
+     "ref": "Código Civil, arts. 1.258, 1.259 e 1.311",
+     "tipo": "lei",
+     "texto": "Art. 1.258. Se a construção, feita parcialmente em solo próprio, invade solo alheio em proporção não superior à vigésima parte deste, adquire o construtor de boa-fé a propriedade da parte do solo invadido, se o valor da construção exceder o dessa parte, e responde por indenização que represente, também, o valor da área perdida e a desvalorização da área remanescente.\nArt. 1.259. Se o construtor estiver de boa-fé, e a invasão do solo alheio exceder a vigésima parte deste, adquire a propriedade da parte do solo invadido, e responde por perdas e danos que abranjam o valor que a invasão acrescer à construção, mais o da área perdida e o da desvalorização da área remanescente; se de má-fé, é obrigado a demolir o que nele construiu, pagando as perdas e danos apurados, que serão devidos em dobro.\nParágrafo único. O proprietário do prédio vizinho tem direito a ressarcimento pelos prejuízos que sofrer, não obstante haverem sido realizadas as obras acautelatórias.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-66": {
+   "nota": "Para o STJ, a querela nullitatis é julgada pelo juízo que proferiu a decisão viciada. Por isso a A. Interesse individual de indígena não atrai a Justiça Federal (B, Súmula 140 do STJ). As ações de interesse de menor correm, em princípio, no foro do domicílio de quem detém a guarda (C, Súmula 383 do STJ). Se a Anatel intervém como assistente, a competência é da Justiça Federal (D). E a reintegração de posse de animal, bem móvel, segue o domicílio do réu (E).",
+   "dispositivos": [
+    {
+     "ref": "STJ, competência na querela nullitatis",
+     "tipo": "entendimento",
+     "texto": "A ação declaratória de nulidade (querela nullitatis insanabilis) deve ser processada e julgada pelo juízo que proferiu a decisão supostamente viciada."
+    },
+    {
+     "ref": "STJ, Súmula 383",
+     "tipo": "entendimento",
+     "texto": "A competência para processar e julgar as ações conexas de interesse de menor é, em princípio, do foro do domicílio do detentor de sua guarda."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-67": {
+   "nota": "O STJ admite a denunciação da lide a quem já integra o polo passivo, para que se defina, no mesmo processo, o direito de regresso entre os réus. Por isso a A. Indeferida a denunciação, o regresso pode ser exercido em ação autônoma (B, CPC, art. 125, § 1º). Vencedor o denunciante, a denunciação fica prejudicada, mas ele paga a sucumbência ao denunciado (C, art. 129, parágrafo único). A denunciação não cabe na execução (D). E não pode ser admitida na sentença (E).",
+   "dispositivos": [
+    {
+     "ref": "CPC/2015, arts. 125, § 1º, e 129, parágrafo único",
+     "tipo": "lei",
+     "texto": "§ 1º O direito regressivo será exercido por ação autônoma quando a denunciação da lide for indeferida, deixar de ser promovida ou não for permitida.\nParágrafo único. Se o denunciante for vencedor, a ação de denunciação não terá o seu pedido examinado, sem prejuízo da condenação do denunciante ao pagamento das verbas de sucumbência em favor do denunciado.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-68": {
+   "nota": "Havendo composse, todos os ocupantes devem ser citados na reintegração: a falta de citação de litisconsorte necessário é vício transrescisório, que pode ser alegado a qualquer tempo (STJ). Por isso a C. O caseiro ou empregado é mero detentor e não tem legitimidade (A, CC, art. 1.198). A liminar na ação de força nova dispensa o perigo de dano (B, CPC, art. 562). Na audiência de justificação, o réu não tem direito de ouvir testemunhas próprias (D). E o direito de retenção por benfeitorias deve ser alegado na contestação (E).",
+   "dispositivos": [
+    {
+     "ref": "CPC/2015, art. 562, caput",
+     "tipo": "lei",
+     "texto": "Art. 562. Estando a petição inicial devidamente instruída, o juiz deferirá, sem ouvir o réu, a expedição do mandado liminar de manutenção ou de reintegração, caso contrário, determinará que o autor justifique previamente o alegado, citando-se o réu para comparecer à audiência que for designada.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    },
+    {
+     "ref": "Código Civil, art. 1.198, caput",
+     "tipo": "lei",
+     "texto": "Art. 1.198. Considera-se detentor aquele que, achando-se em relação de dependência para com outro, conserva a posse em nome deste e em cumprimento de ordens ou instruções suas.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-69": {
+   "nota": "Pelo princípio da comunhão das provas, a prova produzida pertence ao processo, e não a quem a requereu: o juiz aprecia a prova dos autos independentemente do sujeito que a promoveu (CPC, art. 371). A testemunha de Diego pode, portanto, fundamentar a improcedência. Por isso a E. O sistema é o da persuasão racional, não da íntima convicção (B), e ele não impede usar a prova contra quem a produziu (D).",
+   "dispositivos": [
+    {
+     "ref": "CPC/2015, art. 371",
+     "tipo": "lei",
+     "texto": "Art. 371. O juiz apreciará a prova constante dos autos, independentemente do sujeito que a tiver promovido, e indicará na decisão as razões da formação de seu convencimento.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-70": {
+   "nota": "Todas estão corretas: o juiz pode exceder seus prazos por igual tempo, havendo motivo justificado (I, CPC, art. 227); não se conta em dobro o prazo para recorrer quando só um litisconsorte sucumbiu (II, Súmula 641 do STF); com vários executados, o prazo de embargos corre da juntada de cada citação, salvo cônjuges e companheiros (III, art. 915, § 1º); e o ato eletrônico pode ser praticado até as 24 horas do último dia (IV, art. 213). Por isso a A.",
+   "dispositivos": [
+    {
+     "ref": "CPC/2015, arts. 213, 227 e 915, § 1º",
+     "tipo": "lei",
+     "texto": "Art. 213. A prática eletrônica de ato processual pode ocorrer em qualquer horário até as 24 (vinte e quatro) horas do último dia do prazo.\nArt. 227. Em qualquer grau de jurisdição, havendo motivo justificado, pode o juiz exceder, por igual tempo, os prazos a que está submetido.\n§ 1º Quando houver mais de um executado, o prazo para cada um deles embargar conta-se a partir da juntada do respectivo comprovante da citação, salvo no caso de cônjuges ou de companheiros, quando será contado a partir da juntada do último.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    },
+    {
+     "ref": "STF, Súmula 641",
+     "tipo": "entendimento",
+     "texto": "Não se conta em dobro o prazo para recorrer, quando só um dos litisconsortes haja sucumbido."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-71": {
+   "nota": "A questão pede a incorreta. Na usucapião, a revelia não dispensa o juiz de verificar os requisitos legais: o STJ exige a instrução para comprovar posse, prazo e demais elementos, pois a sentença atinge terceiros e cria direito real. Por isso a E. As demais refletem a jurisprudência: a usucapião é aquisição originária e dispensa matrícula prévia (A); o herdeiro com posse exclusiva pode usucapir (B); o prazo pode se completar no curso da ação (C); e bens de sociedade de economia mista são usucapíveis, salvo os afetados a serviço público (D).",
+   "dispositivos": [
+    {
+     "ref": "STJ, revelia na ação de usucapião",
+     "tipo": "entendimento",
+     "texto": "A revelia do réu na ação de usucapião não exime o autor de provar os requisitos legais da prescrição aquisitiva, nem dispensa o juiz de instruir o feito, pois a sentença tem efeitos sobre terceiros e declara direito real."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-72": {
+   "nota": "A questão pede a incorreta. O crédito condominial é título executivo extrajudicial desde que previsto na convenção ou aprovado em assembleia e documentalmente comprovado (CPC, art. 784, X): boletos, sozinhos, não bastam. Por isso a E. As demais estão corretas: o portador de cheque nominal a terceiro, sem endosso, é parte ilegítima (A); a substituição da penhora gera novo termo (B, art. 849); cabe adjudicação parcial de imóvel indivisível (C); e o parcelamento importa renúncia aos embargos (D, art. 916, § 6º).",
+   "dispositivos": [
+    {
+     "ref": "CPC/2015, arts. 784, X, 849 e 916, § 6º",
+     "tipo": "lei",
+     "texto": "X - o crédito referente às contribuições ordinárias ou extraordinárias de condomínio edilício, previstas na respectiva convenção ou aprovadas em assembleia geral, desde que documentalmente comprovadas;\nArt. 849. Sempre que ocorrer a substituição dos bens inicialmente penhorados, será lavrado novo termo.\n§ 6º A opção pelo parcelamento de que trata este artigo importa renúncia ao direito de opor embargos",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-73": {
+   "nota": "Estão incorretas II e III: o juiz só reconhece de ofício a prescrição intercorrente depois de ouvir as partes em 15 dias, e a extinção se dá sem ônus para elas (CPC, art. 921, § 5º). Por isso a D. A I está correta, pois o prazo corre da ciência da primeira tentativa infrutífera de localizar o devedor ou bens (art. 921, § 4º). E a IV também, pois a execução prescreve no mesmo prazo da ação (Súmula 150 do STF).",
+   "dispositivos": [
+    {
+     "ref": "CPC/2015, art. 921, §§ 4º e 5º",
+     "tipo": "lei",
+     "texto": "§ 4º O termo inicial da prescrição no curso do processo será a ciência da primeira tentativa infrutífera de localização do devedor ou de bens penhoráveis, e será suspensa, por uma única vez, pelo prazo máximo previsto no § 1º deste artigo.\n§ 5º O juiz, depois de ouvidas as partes, no prazo de 15 (quinze) dias, poderá, de ofício, reconhecer a prescrição no curso do processo e extingui-lo, sem ônus para as partes.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    },
+    {
+     "ref": "STF, Súmula 150",
+     "tipo": "entendimento",
+     "texto": "Prescreve a execução no mesmo prazo de prescrição da ação."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-74": {
+   "nota": "A gratuidade da justiça compreende os emolumentos de notários e registradores por qualquer ato necessário à efetivação de decisão judicial (CPC, art. 98, § 1º, IX). Por isso a A. Concedida na execução, ela não alcança retroativamente as custas da fase de conhecimento (B). Não afasta a responsabilidade pelas despesas e honorários da sucumbência, que ficam sob condição suspensiva (C, art. 98, § 2º). Cabe agravo contra a decisão que rejeita a gratuidade ou acolhe sua revogação, e não contra a que a defere (D, art. 1.015, V). E a pessoa jurídica, inclusive estatal, pode obtê-la se comprovar a insuficiência (E, Súmula 481 do STJ).",
+   "dispositivos": [
+    {
+     "ref": "CPC/2015, art. 98, § 1º, IX, e § 2º",
+     "tipo": "lei",
+     "texto": "IX - os emolumentos devidos a notários ou registradores em decorrência da prática de registro, averbação ou qualquer outro ato notarial necessário à efetivação de decisão judicial ou à continuidade de processo judicial no qual o benefício tenha sido concedido.\n§ 2º A concessão de gratuidade não afasta a responsabilidade do beneficiário pelas despesas processuais e pelos honorários advocatícios decorrentes de sua sucumbência.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    },
+    {
+     "ref": "CPC/2015, art. 1.015, V",
+     "tipo": "lei",
+     "texto": "V - rejeição do pedido de gratuidade da justiça ou acolhimento do pedido de sua revogação;",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-75": {
+   "nota": "A teoria da causa madura só permite ao tribunal julgar o mérito se o processo estiver em condições de imediato julgamento (CPC, art. 1.013, § 3º). Aqui a perícia grafotécnica foi deferida e não realizada: a instrução não terminou, e julgar o mérito suprimiria uma instância. Por isso a E.",
+   "dispositivos": [
+    {
+     "ref": "CPC/2015, art. 1.013, § 3º",
+     "tipo": "lei",
+     "texto": "§ 3º Se o processo estiver em condições de imediato julgamento, o tribunal deve decidir desde logo o mérito quando:",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-76": {
+   "nota": "A ação civil pública serve para os danos morais e patrimoniais à honra e à dignidade de grupos raciais, étnicos ou religiosos (Lei 7.347/1985, art. 1º, VII). Por isso a D. A mesma lei veda a ACP para pretensões sobre tributos, contribuições previdenciárias, FGTS e fundos institucionais com beneficiários individualmente determináveis (art. 1º, parágrafo único), o que afasta as alternativas A, B, C e E.",
+   "dispositivos": [
+    {
+     "ref": "Lei 7.347/1985, art. 1º, VII e parágrafo único",
+     "tipo": "lei",
+     "texto": "VII – à honra e à dignidade de grupos raciais, étnicos ou religiosos.\nParágrafo único. Não será cabível ação civil pública para veicular pretensões que envolvam tributos, contribuições previdenciárias, o Fundo de Garantia do Tempo de Serviço - FGTS ou outros fundos de natureza institucional cujos beneficiários podem ser individualmente determinados.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-77": {
+   "nota": "A questão pede a incorreta. A B reproduz o art. 16 da Lei 7.347/1985, mas o STF declarou inconstitucional a limitação da coisa julgada aos 'limites da competência territorial do órgão prolator' (Tema 1.075). Por isso a B. As demais estão corretas: o juiz oficia a Defensoria diante de demandas repetitivas (A, CPC, art. 139, X); a competência é do foro do dano (C, art. 2º); cabe cautelar (D, art. 4º); e não há adiantamento de despesas nem condenação da associação, salvo má-fé (E, art. 18).",
+   "dispositivos": [
+    {
+     "ref": "Lei 7.347/1985, art. 16 (limite territorial declarado inconstitucional)",
+     "tipo": "lei",
+     "texto": "Art. 16. A sentença civil fará coisa julgada erga omnes, nos limites da competência territorial do órgão prolator, exceto se o pedido for julgado improcedente por insuficiência de provas, hipótese em que qualquer legitimado poderá intentar outra ação com idêntico fundamento, valendo-se de nova prova.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm"
+    },
+    {
+     "ref": "STF, Tema 1.075 da repercussão geral",
+     "tipo": "entendimento",
+     "texto": "É inconstitucional o art. 16 da Lei 7.347/1985, com a redação da Lei 9.494/1997, na parte em que limita a eficácia da coisa julgada aos limites da competência territorial do órgão prolator."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-78": {
+   "nota": "Só o cidadão, com a prova da cidadania pelo título de eleitor, pode propor ação popular (Lei 4.717/1965, art. 1º, caput e § 3º). Por isso a E. Defensoria, MP e partidos não têm essa legitimidade, e não é qualquer pessoa: estrangeiros e pessoas jurídicas não podem propô-la (Súmula 365 do STF).",
+   "dispositivos": [
+    {
+     "ref": "Lei 4.717/1965, art. 1º, § 3º",
+     "tipo": "lei",
+     "texto": "§ 3º A prova da cidadania, para ingresso em juízo, será feita com o título eleitoral, ou com documento que a ele corresponda.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l4717.htm"
+    },
+    {
+     "ref": "STF, Súmula 365",
+     "tipo": "entendimento",
+     "texto": "Pessoa jurídica não tem legitimidade para propor ação popular."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-79": {
+   "nota": "A questão pede a incorreta. Diante de ilegitimidade ativa ou irregularidade de representação na ação coletiva, o STJ exige a intimação prévia dos colegitimados para que possam assumir o polo ativo, aplicando por analogia o art. 5º, § 3º, da Lei 7.347/1985. Por isso a E. As demais estão corretas: a condenação por dano difuso vai ao fundo (A); cabem honorários no cumprimento individual de sentença coletiva, ainda que não impugnado (B, Súmula 345 do STJ); a indenização por discriminação étnica vai ao Fundo de Defesa dos Direitos Difusos (C); e, passado um ano sem habilitações, os legitimados promovem a liquidação (D, CDC, art. 100).",
+   "dispositivos": [
+    {
+     "ref": "Lei 7.347/1985, art. 5º, § 3º",
+     "tipo": "lei",
+     "texto": "§ 3º Em caso de desistência infundada ou abandono da ação por associação legitimada, o Ministério Público ou outro legitimado assumirá a titularidade ativa.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm"
+    },
+    {
+     "ref": "CDC, art. 100, caput",
+     "tipo": "lei",
+     "texto": "Art. 100. Decorrido o prazo de um ano sem habilitação de interessados em número compatível com a gravidade do dano, poderão os legitimados do art. 82 promover a liquidação e execução da indenização devida.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-80": {
+   "nota": "A questão pede a incorreta. Na execução coletiva, é competente o juízo da ação condenatória; o juízo da liquidação ou da ação condenatória é opção apenas da execução individual (CDC, art. 98, § 2º). Por isso a E. As demais estão corretas: edital para intervenção dos interessados (A, art. 94), condenação genérica (B, art. 95), liquidação e execução também pela vítima e sucessores (C, art. 97) e a liquidação imprópria, que apura também a titularidade do crédito (D).",
+   "dispositivos": [
+    {
+     "ref": "CDC, arts. 95, 97 e 98, § 2º",
+     "tipo": "lei",
+     "texto": "Art. 95. Em caso de procedência do pedido, a condenação será genérica, fixando a responsabilidade do réu pelos danos causados.\nArt. 97. A liquidação e a execução de sentença poderão ser promovidas pela vítima e seus sucessores, assim como pelos legitimados de que trata o art. 82.\n§ 2° É competente para a execução o juízo:\nI - da liquidação da sentença ou da ação condenatória, no caso de execução individual;\nII - da ação condenatória, quando coletiva a execução.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
   }
  }
 }
