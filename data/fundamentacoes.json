@@ -9917,6 +9917,281 @@
     }
    ],
    "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-1": {
+   "nota": "A questão pede a incorreta. A adequação social é aceita em casos como furar a orelha de criança para pôr brinco, mas a jurisprudência nunca a acolheu para a venda de bebida alcoólica a menores, que é crime expresso no ECA (art. 243). Por isso a C. As demais estão corretas: o ne bis in idem também tem dimensão material (A); a subsidiariedade faz do Direito Penal a ultima ratio (B); a insignificância é admitida em crimes patrimoniais sem violência, mas não no roubo (D); e há precedentes que a aplicam mesmo a reincidentes (E).",
+   "dispositivos": [
+    {
+     "ref": "ECA, art. 243",
+     "tipo": "lei",
+     "texto": "Art. 243. Vender, fornecer, servir, ministrar ou entregar, ainda que gratuitamente, de qualquer forma, a criança ou a adolescente, bebida alcoólica ou, sem justa causa, outros produtos cujos componentes possam causar dependência física ou psíquica:",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-2": {
+   "nota": "A questão pede a incorreta. Não cabe legítima defesa contra legítima defesa, porque quem se defende não pratica agressão injusta, requisito do art. 25 do CP. Por isso a E. As demais estão corretas: o consentimento do ofendido é excludente supralegal em bens disponíveis (A); a B distingue corretamente o estado de necessidade defensivo do agressivo; a legítima defesa sucessiva é a reação ao excesso da defesa (C); e a divulgação científica sem identificar a vítima não é ilícita (D).",
+   "dispositivos": [
+    {
+     "ref": "Código Penal, art. 25",
+     "tipo": "lei",
+     "texto": "Art. 25 - Entende-se em legítima defesa quem, usando moderadamente dos meios necessários, repele injusta agressão, atual ou iminente, a direito seu ou de outrem.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-3": {
+   "nota": "Estão corretas II, III e IV: a norma se extrai do tipo, e antinormatividade e antijuridicidade se complementam (II); a imputação objetiva de Roxin exige risco proibido realizado no resultado (III); e o erro de tipo exclui o dolo, permitindo a punição culposa se prevista em lei (IV, CP, art. 20). Por isso a C. A I erra duas vezes: o CP não define crime e adota, quanto ao nexo causal, a equivalência dos antecedentes (art. 13). A V erra porque o domínio do fato define quem é autor, e não serve para presumir o conhecimento de superiores hierárquicos.",
+   "dispositivos": [
+    {
+     "ref": "Código Penal, arts. 13 e 20",
+     "tipo": "lei",
+     "texto": "Art. 13 - O resultado, de que depende a existência do crime, somente é imputável a quem lhe deu causa. Considera-se causa a ação ou omissão sem a qual o resultado não teria ocorrido.\nArt. 20 - O erro sobre elemento constitutivo do tipo legal de crime exclui o dolo, mas permite a punição por crime culposo, se previsto em lei.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-4": {
+   "nota": "A questão pede a incorreta. A exceção da verdade cabe na calúnia (salvo exceções) e, na difamação, só contra funcionário público por ofensa ligada às funções; na injúria nunca cabe, porque não há fato imputado. Por isso a D. As demais estão corretas: a associação para o tráfico exige vínculo estável (A); a Lei 12.850/2013 define organização criminosa e pune quem a integra (B); prosseguir o interrogatório de quem escolheu o silêncio é abuso de autoridade (C, Lei 13.869/2019, art. 15, parágrafo único); e a perseguição exige reiteração (E, CP, art. 147-A).",
+   "dispositivos": [
+    {
+     "ref": "Código Penal, arts. 138, § 3º, e 139, parágrafo único",
+     "tipo": "lei",
+     "texto": "§ 3º - Admite-se a prova da verdade, salvo:\nParágrafo único - A exceção da verdade somente se admite se o ofendido é funcionário público e a ofensa é relativa ao exercício de suas funções.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    },
+    {
+     "ref": "Código Penal, art. 147-A",
+     "tipo": "lei",
+     "texto": "Art. 147-A. Perseguir alguém, reiteradamente e por qualquer meio, ameaçando-lhe a integridade física ou psicológica, restringindo-lhe a capacidade de locomoção ou, de qualquer forma, invadindo ou perturbando sua esfera de liberdade ou privacidade.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-5": {
+   "nota": "Só a II está correta: para o STJ, a confissão qualificada (com alegação de excludente) também atenua a pena. Por isso a D. A I erra porque inquéritos e ações penais em curso não podem agravar a pena-base (Súmula 444 do STJ). A III erra porque, no concurso de crimes, a prescrição considera a pena de cada crime isoladamente, sem o acréscimo do concurso (CP, art. 119; Súmula 497 do STF). A IV erra porque é vedada a prestação de serviços à comunidade como condição especial do regime aberto (Súmula 493 do STJ).",
+   "dispositivos": [
+    {
+     "ref": "Código Penal, art. 119",
+     "tipo": "lei",
+     "texto": "Art. 119 - No caso de concurso de crimes, a extinção da punibilidade incidirá sobre a pena de cada um, isoladamente.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    },
+    {
+     "ref": "STJ, Súmulas 444 e 493",
+     "tipo": "entendimento",
+     "texto": "Súmula 444: é vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena-base. Súmula 493: é inadmissível a fixação de pena substitutiva (art. 44 do CP) como condição especial ao regime aberto."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-6": {
+   "nota": "Para Ferrajoli, o garantismo é um modelo de direito penal mínimo: o sistema penal se legitima como lei do mais fraco, protegendo o cidadão contra a arbitrariedade punitiva, com regras iguais para todos e respeito à dignidade do acusado. Por isso a D. A A descreve teorias culturais da criminalidade; a B, a teoria das 'janelas quebradas'; a C, o funcionalismo sistêmico de Jakobs inspirado em Luhmann; e a E, a crítica da economia política da pena.",
+   "dispositivos": [
+    {
+     "ref": "Luigi Ferrajoli, Direito e Razão (garantismo penal)",
+     "tipo": "entendimento",
+     "texto": "O direito penal mínimo se justifica como tutela do mais fraco: imunidade dos cidadãos contra a arbitrariedade das proibições e das punições, defesa dos fracos por meio de regras do jogo iguais para todos e dignidade da pessoa do imputado."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-7": {
+   "nota": "A questão pede a incorreta. A prevenção especial positiva busca a ressocialização do condenado (LEP, art. 1º); neutralizar o preso para que não cometa crimes é a prevenção especial negativa, e 'resposta salutar à sociedade' remete à prevenção geral. Por isso a D. As demais estão corretas: a crítica abolicionista (A), a teoria agnóstica (B), a lógica do 'inimigo' no populismo penal (C) e as três dimensões da individualização da pena (E, CF, art. 5º, XLVI).",
+   "dispositivos": [
+    {
+     "ref": "LEP, art. 1º",
+     "tipo": "lei",
+     "texto": "Art. 1º - A execução penal tem por objetivo efetivar as disposições de sentença ou decisão criminal e proporcionar condições para a harmônica integração social do condenado e do internado.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l7210.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-8": {
+   "nota": "Todas estão corretas. No finalismo, a culpabilidade é juízo de reprovação com imputabilidade, potencial consciência da ilicitude e exigibilidade de conduta diversa (I). Coação moral irresistível e obediência hierárquica a ordem não manifestamente ilegal excluem a culpabilidade (II, CP, art. 22). A inexigibilidade de conduta diversa é admitida como causa supralegal (III). E Zaffaroni propõe a culpabilidade por vulnerabilidade para limitar o poder punitivo seletivo (IV). Por isso a A.",
+   "dispositivos": [
+    {
+     "ref": "Código Penal, art. 22",
+     "tipo": "lei",
+     "texto": "Art. 22 - Se o fato é cometido sob coação irresistível ou em estrita obediência a ordem, não manifestamente ilegal, de superior hierárquico, só é punível o autor da coação ou da ordem.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-9": {
+   "nota": "Estão corretas I, II, IV e V. O homicídio contra menor de 14 anos é qualificado, com aumento de dois terços se o autor é ascendente (I, CP, art. 121, § 2º, IX, e § 2º-B, II). A jurisprudência admite o homicídio privilegiado com qualificadora objetiva (II). A discussão anterior não afasta automaticamente o motivo fútil: depende do caso (IV). E com duas qualificadoras, uma qualifica e a outra pode agravar a pena sem bis in idem (V). A III erra: não se exige que o descendente presencie todo o iter criminis. Por isso a E.",
+   "dispositivos": [
+    {
+     "ref": "Código Penal, art. 121, § 2º, IX, e § 2º-B, II",
+     "tipo": "lei",
+     "texto": "IX - contra menor de 14 (quatorze) anos:\n§ 2º-B. A pena do homicídio contra menor de 14 (quatorze) anos é aumentada de:\nII - 2/3 (dois terços) se o autor é ascendente, padrasto ou madrasta, tio, irmão, cônjuge, companheiro, tutor, curador, preceptor ou empregador da vítima ou por qualquer outro título tiver autoridade sobre ela.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-10": {
+   "nota": "A questão pede a incorreta. O STF decidiu que é constitucional impor a suspensão da habilitação ao motorista profissional condenado por homicídio culposo no trânsito (RE 607.107, Tema 486). Por isso a D. As demais refletem a jurisprudência: atos infracionais não afastam o tráfico privilegiado (A); o juiz pode deixar de valorar antecedentes antigos ou irrelevantes (B); condenações anteriores só valem como maus antecedentes, não para personalidade ou conduta social (C); e as frações de um oitavo ou um sexto por circunstância são critérios aceitos (E).",
+   "dispositivos": [
+    {
+     "ref": "STF, RE 607.107 (Tema 486 da repercussão geral)",
+     "tipo": "entendimento",
+     "texto": "É constitucional a imposição da pena de suspensão de habilitação para dirigir veículo automotor ao motorista profissional condenado por homicídio culposo no trânsito."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-11": {
+   "nota": "A questão pede o que não decorre da presunção de inocência. A imparcialidade do juiz é base do sistema acusatório, mas decorre da separação entre acusar e julgar, e não do estado de inocência. Por isso a C. As demais são consequências diretas da presunção de inocência: o ônus da prova é da acusação (A); in dubio pro reo na sentença (B); a prisão cautelar só com fumus comissi delicti e periculum libertatis concretos (D); e a proteção contra a exposição estigmatizante do investigado (E).",
+   "dispositivos": [
+    {
+     "ref": "CF/1988, art. 5º, LVII",
+     "tipo": "lei",
+     "texto": "LVII - ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória;",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-12": {
+   "nota": "Condenar por roubo quem foi denunciado por furto, sem aditamento, violou a correlação e o art. 384 do CPP (mutatio libelli). Mas só a defesa recorreu, pedindo absolvição. O tribunal não pode anular a sentença de ofício contra o réu (Súmula 160 do STF), nem condenar por furto, porque sem a prova da violência não há como condenar por outro fato sem aditamento. Resta absolver. Por isso a B. A D é inviável: a Súmula 453 do STF veda aplicar a mutatio em segundo grau.",
+   "dispositivos": [
+    {
+     "ref": "STF, Súmulas 160 e 453",
+     "tipo": "entendimento",
+     "texto": "Súmula 160: é nula a decisão do tribunal que acolhe, contra o réu, nulidade não arguida no recurso da acusação, ressalvados os casos de recurso de ofício. Súmula 453: não se aplicam à segunda instância o art. 384 e parágrafo único do CPP, que possibilitam dar nova definição jurídica ao fato delituoso, em virtude de circunstância elementar não contida, explícita ou implicitamente, na denúncia ou queixa."
+    },
+    {
+     "ref": "CPP, art. 384, caput",
+     "tipo": "lei",
+     "texto": "Art. 384. Encerrada a instrução probatória, se entender cabível nova definição jurídica do fato, em conseqüência de prova existente nos autos de elemento ou circunstância da infração penal não contida na acusação, o Ministério Público deverá aditar a denúncia ou queixa, no prazo de 5 (cinco) dias",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-13": {
+   "nota": "Em recurso exclusivo da defesa, se o tribunal afasta uma circunstância judicial negativa, deve reduzir proporcionalmente a pena-base. Manter o mesmo patamar dá às circunstâncias restantes peso maior do que a sentença deu e configura reformatio in pejus (STJ; CPP, art. 617). Por isso a E. O tribunal pode revisar a dosimetria em favor do réu mesmo com pedido só de absolvição (C), mas o erro na pena não leva à absolvição (A).",
+   "dispositivos": [
+    {
+     "ref": "CPP, art. 617",
+     "tipo": "lei",
+     "texto": "Art. 617. O tribunal, câmara ou turma atenderá nas suas decisões ao disposto nos arts. 383, 386 e 387, no que for aplicável, não podendo, porém, ser agravada a pena, quando somente o réu houver apelado da sentença.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    },
+    {
+     "ref": "STJ, exclusão de circunstância judicial em recurso da defesa",
+     "tipo": "entendimento",
+     "texto": "Afastada em recurso exclusivo da defesa uma circunstância judicial desfavorável, a pena-base deve ser reduzida proporcionalmente; mantê-la no mesmo patamar caracteriza reformatio in pejus."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-14": {
+   "nota": "Desde a Lei 13.964/2019, a preventiva só é decretada a requerimento do MP, do querelante, do assistente ou por representação da autoridade policial (CPP, art. 311), e o STF e o STJ vedam a conversão do flagrante em preventiva de ofício. Com o MP pedindo a liberdade provisória, a juíza não podia converter a prisão. Por isso a A. Não importa que os fundamentos fossem idôneos (B), nem há diferença relevante entre converter e decretar (D). E não cabe remeter ao Procurador-Geral pelo art. 28 (E).",
+   "dispositivos": [
+    {
+     "ref": "CPP, art. 311",
+     "tipo": "lei",
+     "texto": "Art. 311. Em qualquer fase da investigação policial ou do processo penal, caberá a prisão preventiva decretada pelo juiz, a requerimento do Ministério Público, do querelante ou do assistente, ou por representação da autoridade policial.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    },
+    {
+     "ref": "STF e STJ, conversão de ofício do flagrante em preventiva",
+     "tipo": "entendimento",
+     "texto": "Após a Lei 13.964/2019, é ilegal a conversão de ofício da prisão em flagrante em preventiva, sem requerimento do Ministério Público, do querelante, do assistente ou representação da autoridade policial."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-15": {
+   "nota": "Omissão na sentença se ataca por embargos de declaração, no prazo de 2 dias (CPP, art. 382), contado em dobro para a Defensoria: 4 dias (LC 80/1994, art. 128, I). Intimado na sexta, 04/09, o prazo começa no primeiro dia útil seguinte: 07/09 é feriado (Independência), então a contagem vai de 08/09 a 11/09. Por isso a D.",
+   "dispositivos": [
+    {
+     "ref": "CPP, art. 382",
+     "tipo": "lei",
+     "texto": "Art. 382. Qualquer das partes poderá, no prazo de 2 (dois) dias, pedir ao juiz que declare a sentença, sempre que nela houver obscuridade, ambigüidade, contradição ou omissão.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    },
+    {
+     "ref": "LC 80/1994, art. 128, I",
+     "tipo": "lei",
+     "texto": "I – receber, inclusive quando necessário, mediante entrega dos autos com vista, intimação pessoal em qualquer processo e grau de jurisdição ou instância administrativa, contando-se-lhes em dobro todos os prazos;",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-16": {
+   "nota": "Se o interrogando nega a acusação, pode prestar esclarecimentos e indicar provas (CPP, art. 189). A testemunha do álibi indicada no interrogatório deveria ter sido ouvida. Por isso a D. A E exagera ao dizer que o juiz deve 'sempre' ouvir testemunhas da defesa a qualquer tempo; a A e a B ignoram a regra expressa do art. 189; e ouvir o MP sobre o pedido não gera nulidade (C).",
+   "dispositivos": [
+    {
+     "ref": "CPP, art. 189",
+     "tipo": "lei",
+     "texto": "Art. 189. Se o interrogando negar a acusação, no todo ou em parte, poderá prestar esclarecimentos e indicar provas.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-17": {
+   "nota": "Nas ADIs 6.298, 6.299, 6.300 e 6.305, o STF declarou constitucional o juiz das garantias, com ajustes: sua competência termina com o oferecimento da denúncia, e quem recebe a denúncia é o juiz da instrução e julgamento. Por isso a C. Não houve declaração de inconstitucionalidade (A), nem validação integral da Lei 13.964/2019 (B). O recebimento não ficou com o juiz das garantias (D). E caiu a exclusão física dos autos do inquérito (E).",
+   "dispositivos": [
+    {
+     "ref": "STF, ADIs 6.298, 6.299, 6.300 e 6.305 (juiz das garantias)",
+     "tipo": "entendimento",
+     "texto": "O juiz das garantias é constitucional, com interpretação conforme: sua competência cessa com o oferecimento da denúncia; o recebimento da denúncia cabe ao juiz da instrução e julgamento; e os autos da investigação devem ser remetidos ao juiz do processo, afastada a regra de exclusão física."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-18": {
+   "nota": "Os embargos infringentes servem para fazer prevalecer o voto vencido favorável ao réu (CPP, art. 609, parágrafo único). Mas o voto vencido do desembargador G é omisso: absolveu E de um furto sem refazer a pena de F pelo furto simples, o que é essencial para verificar a prescrição. Antes dos infringentes, é preciso sanar essa omissão por embargos de declaração (art. 619). Por isso a E.",
+   "dispositivos": [
+    {
+     "ref": "CPP, arts. 609, parágrafo único, e 619",
+     "tipo": "lei",
+     "texto": "Parágrafo único. Quando não for unânime a decisão de segunda instância, desfavorável ao réu, admitem-se embargos infringentes e de nulidade, que poderão ser opostos dentro de 10 (dez) dias, a contar da publicação de acórdão, na forma do art. 613. Se o desacordo for parcial, os embargos serão restritos à matéria objeto de divergência.\nArt. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-19": {
+   "nota": "Mesmo preclusa a pronúncia, havendo circunstância superveniente que altere a classificação do crime — a morte da vítima transforma a tentativa em homicídio consumado —, o juiz ordena a remessa dos autos ao MP e depois decide (CPP, art. 421, §§ 1º e 2º). Por isso a A. A juíza não pode alterar sozinha a pronúncia (D), nem seguir o julgamento ignorando o fato (B), nem enviar os autos ao tribunal (E).",
+   "dispositivos": [
+    {
+     "ref": "CPP, art. 421, §§ 1º e 2º",
+     "tipo": "lei",
+     "texto": "§ 1º Ainda que preclusa a decisão de pronúncia, havendo circunstância superveniente que altere a classificação do crime, o juiz ordenará a remessa dos autos ao Ministério Público.\n§ 2º Em seguida, os autos serão conclusos ao juiz para decisão.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-20": {
+   "nota": "A questão pede a incorreta. O rito sumário vale para crimes com pena máxima inferior a 4 anos que não sejam infrações de menor potencial ofensivo, as quais seguem o sumaríssimo; a C omite essa exclusão. Por isso a C. As demais estão corretas: citação para resposta em 10 dias no ordinário (A, art. 396); no sumaríssimo, o recebimento da denúncia ocorre na audiência, após a resposta do defensor (B); na Lei de Drogas, audiência em 30 dias ou 90 se houver avaliação de dependência (D, art. 56, § 2º); e no júri, 8 testemunhas na primeira fase e 5 em plenário (E).",
+   "dispositivos": [
+    {
+     "ref": "CPP, arts. 394, § 1º, II, e 396",
+     "tipo": "lei",
+     "texto": "II - sumário, quando tiver por objeto crime cuja sanção máxima cominada seja inferior a 4 (quatro) anos de pena privativa de liberdade;\nArt. 396. Nos procedimentos ordinário e sumário, oferecida a denúncia ou queixa, o juiz, se não a rejeitar liminarmente, recebê-la-á e ordenará a citação do acusado para responder à acusação, por escrito, no prazo de 10 (dez) dias.",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    },
+    {
+     "ref": "Lei 11.343/2006, art. 56, § 2º",
+     "tipo": "lei",
+     "texto": "§ 2º A audiência a que se refere o caput deste artigo será realizada dentro dos 30 (trinta) dias seguintes ao recebimento da denúncia, salvo se determinada a realização de avaliação para atestar dependência de drogas, quando se realizará em 90 (noventa) dias.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
   }
  }
 }
