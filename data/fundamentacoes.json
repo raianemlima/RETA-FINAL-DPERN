@@ -11543,6 +11543,265 @@
     }
    ],
    "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-21": {
+   "nota": "A personalidade civil começa do nascimento com vida, mas a lei põe a salvo, desde a concepção, os direitos do nascituro (CC, art. 2º). Também se legitimam a suceder as pessoas já concebidas no momento da abertura da sucessão (art. 1.798). O nascituro herda, portanto, sob a condição de nascer com vida. Por isso a D. A emancipação aos 16 anos é válida (B e E, art. 5º, parágrafo único). E, na comoriência, presume-se a morte simultânea, de modo que um irmão não herda do outro (C, art. 8º).",
+   "dispositivos": [
+    {
+     "ref": "CC, arts. 2º e 1.798",
+     "tipo": "lei",
+     "texto": "Art. 2 o A personalidade civil da pessoa começa do nascimento com vida; mas a lei põe a salvo, desde a concepção, os direitos do nascituro.\nArt. 1.798. Legitimam-se a suceder as pessoas nascidas ou já concebidas no momento da abertura da sucessão.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-22": {
+   "nota": "No Tema 1.236, o STF decidiu que o regime da separação obrigatória para maiores de 70 anos (CC, art. 1.641, II) pode ser afastado por manifestação expressa das partes. Para quem já é casado ou vive em união estável, a mudança se faz por autorização judicial no casamento e por escritura pública na união estável, com efeitos apenas para o futuro. Por isso a D. O regime não foi declarado inconstitucional nem se afasta de ofício (A). A alteração não retroage (B). Vale também para o casamento (C). E a E confunde herança com a meação dos bens adquiridos por esforço comum.",
+   "dispositivos": [
+    {
+     "ref": "STF, Tema 1.236 da repercussão geral (ARE 1.309.642)",
+     "tipo": "entendimento",
+     "texto": "Nos casamentos e uniões estáveis envolvendo pessoa maior de 70 anos, o regime de separação de bens previsto no art. 1.641, II, do Código Civil pode ser afastado por expressa manifestação de vontade das partes, mediante escritura pública. Para os já casados ou em união estável, a alteração depende de autorização judicial (casamento) ou de manifestação em escritura pública (união estável), com efeitos patrimoniais apenas prospectivos."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-23": {
+   "nota": "Os pródigos são relativamente incapazes (CC, art. 4º, IV), e Maria, que dissipa progressivamente o próprio patrimônio, pode ser submetida a curatela por decisão judicial. Por isso a D. Eva, aos 16 anos e com relação de emprego que lhe dá economia própria, pode emancipar-se sem sentença (A, art. 5º, parágrafo único, V). A ebriedade habitual é causa legal de incapacidade relativa (B, art. 4º, II). Desde o Estatuto da Pessoa com Deficiência, só o menor de 16 anos é absolutamente incapaz; quem não pode exprimir a vontade, como Moisés, é relativamente incapaz e depende de curatela (C, art. 4º, III).",
+   "dispositivos": [
+    {
+     "ref": "CC, art. 4º, II, III e IV, e art. 5º, parágrafo único, V",
+     "tipo": "lei",
+     "texto": "II - os ébrios habituais e os viciados em tóxico; (Redação dada pela Lei nº 13.146, de 2015) (Vigência)\nIII - aqueles que, por causa transitória ou permanente, não puderem exprimir sua vontade; (Redação dada pela Lei nº 13.146, de 2015) (Vigência)\nIV - os pródigos.\nV - pelo estabelecimento civil ou comercial, ou pela existência de relação de emprego, desde que, em função deles, o menor com dezesseis anos completos tenha economia própria.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-24": {
+   "nota": "Para a pessoa idosa, a obrigação alimentar é solidária, e ela pode escolher entre os prestadores (Estatuto da Pessoa Idosa, art. 12). Jorge pode, por exemplo, demandar só Marcelo, que tem melhores condições. Por isso a E. A obrigação não se divide em partes iguais (A). O BPC não exclui o dever familiar (B). Os alimentos devem considerar também as despesas de saúde (C). E as transações podem ser referendadas pelo Promotor ou pelo Defensor Público, e não exclusivamente pelo MP (D, art. 13).",
+   "dispositivos": [
+    {
+     "ref": "Lei 10.741/2003, arts. 12 e 13",
+     "tipo": "lei",
+     "texto": "Art. 12. A obrigação alimentar é solidária, podendo a pessoa idosa optar entre os prestadores. (Redação dada pela Lei nº 14.423, de 2022)\nArt. 13. As transações relativas a alimentos poderão ser celebradas perante o Promotor de Justiça ou Defensor Público, que as referendará, e passarão a ter efeito de título executivo extrajudicial nos termos da lei processual civil. (Redação dada pela Lei nº 11.737, de 2008)",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-25": {
+   "nota": "A renegociação de contrato bancário ou a confissão da dívida não impede a discussão de eventuais ilegalidades dos contratos anteriores (Súmula 286 do STJ), o que afasta A, B, D e E. Quanto aos juros remuneratórios, o STJ admite a revisão apenas em situações excepcionais, quando caracterizada relação de consumo e cabalmente demonstrada a abusividade em relação à taxa média de mercado (REsp 1.061.530, repetitivo). Por isso a C.",
+   "dispositivos": [
+    {
+     "ref": "STJ, Súmula 286 e REsp 1.061.530 (repetitivo)",
+     "tipo": "entendimento",
+     "texto": "Súmula 286: a renegociação de contrato bancário ou a confissão da dívida não impede a possibilidade de discussão sobre eventuais ilegalidades dos contratos anteriores. REsp 1.061.530: é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade fique cabalmente demonstrada, ante as peculiaridades do caso concreto."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-26": {
+   "nota": "A morte do locatário não extingue a locação residencial. O cônjuge sobrevivente e, sucessivamente, os herdeiros necessários que residiam no imóvel sub-rogam-se nos direitos e obrigações do contrato (Lei 8.245/1991, art. 11, I). Ana e os filhos podem, portanto, permanecer até o fim do prazo. Por isso a C. A sub-rogação decorre da lei e não depende de cláusula contratual (D).",
+   "dispositivos": [
+    {
+     "ref": "Lei 8.245/1991, art. 11, I",
+     "tipo": "lei",
+     "texto": "Art. 11. Morrendo o locatário, ficarão sub - rogados nos seus direitos e obrigações:\nI - nas locações com finalidade residencial, o cônjuge sobrevivente ou o companheiro e, sucessivamente, os herdeiros necessários e as pessoas que viviam na dependência econômica do de cujus , desde que residentes no imóvel;",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-27": {
+   "nota": "A petição de herança prescreve no prazo geral de 10 anos (CC, art. 205). A Segunda Seção do STJ fixou que o prazo corre da abertura da sucessão, mesmo quando a paternidade ainda não foi reconhecida (teoria objetiva da actio nata). Aberta a sucessão em 2004, a pretensão de Ana prescreveu em 2014. Por isso a A. A imprescritível é a investigação de paternidade, e não a petição de herança (C, Súmula 149 do STF). E o termo inicial não é a ciência da filiação (D).",
+   "dispositivos": [
+    {
+     "ref": "CC, art. 205",
+     "tipo": "lei",
+     "texto": "Art. 205. A prescrição ocorre em dez anos, quando a lei não lhe haja fixado prazo menor.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    },
+    {
+     "ref": "STJ, Segunda Seção, EAREsp 1.260.418 e Súmula 149 do STF",
+     "tipo": "entendimento",
+     "texto": "O prazo prescricional da pretensão de petição de herança conta-se da abertura da sucessão, independentemente do reconhecimento prévio da paternidade. Súmula 149 do STF: é imprescritível a ação de investigação de paternidade, mas não o é a de petição de herança."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-28": {
+   "nota": "Deferida a gratuidade, a parte contrária pode impugná-la na contestação, na réplica ou nas contrarrazões de recurso (CPC, art. 100). Como o pedido veio na contestação, Tainá pode impugnar na réplica, e a questão também pode ser levada à apelação. Por isso a A. A assistência por advogado particular não impede a gratuidade (B, art. 99, § 4º). O benefício abrange a indenização da testemunha (C, art. 98, § 1º, IV), é pessoal e não se estende ao litisconsorte (D, art. 99, § 6º), e não afasta o pagamento das multas processuais (E, art. 98, § 4º).",
+   "dispositivos": [
+    {
+     "ref": "CPC, art. 100, caput, art. 99, § 4º, e art. 98, § 4º",
+     "tipo": "lei",
+     "texto": "Art. 100. Deferido o pedido, a parte contrária poderá oferecer impugnação na contestação, na réplica, nas contrarrazões de recurso ou, nos casos de pedido superveniente ou formulado por terceiro, por meio de petição simples, a ser apresentada no prazo de 15 (quinze) dias, nos autos do próprio processo, sem suspensão de seu curso.\n§ 4º A assistência do requerente por advogado particular não impede a concessão de gratuidade da justiça.\n§ 4º A concessão de gratuidade não afasta o dever de o beneficiário pagar, ao final, as multas processuais que lhe sejam impostas.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-29": {
+   "nota": "Compreendem-se no principal os juros legais, a correção monetária e as verbas de sucumbência, inclusive honorários advocatícios (CPC, art. 322, § 1º). Por isso a D. O menor de 16 anos é representado, e não assistido (A). Se um dos réus contestar, a revelia do outro não produz o efeito material (B, art. 345, I). Havendo cumulação de pedidos, o valor da causa é a soma de todos eles (C, art. 292, VI). E o Defensor Público atua sem procuração (E, LC 80/1994, art. 128, XI).",
+   "dispositivos": [
+    {
+     "ref": "CPC, art. 322, § 1º, art. 292, VI, e art. 345, I",
+     "tipo": "lei",
+     "texto": "§ 1º Compreendem-se no principal os juros legais, a correção monetária e as verbas de sucumbência, inclusive os honorários advocatícios.\nVI - na ação em que há cumulação de pedidos, a quantia correspondente à soma dos valores de todos eles;\nI - havendo pluralidade de réus, algum deles contestar a ação;",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-30": {
+   "nota": "Estão corretas II e III. A II reproduz a tese do Tema 1.000 do STJ, sobre a multa para exibição de documento (CPC, art. 400, parágrafo único). A III reproduz o Tema 988: o rol do art. 1.015 é de taxatividade mitigada e admite agravo quando há urgência pela inutilidade do julgamento na apelação. A I está errada: o prazo em dobro se aplica aos escritórios de prática jurídica das faculdades de Direito (art. 186, § 3º), e o STJ o estende aos núcleos de instituições privadas. Por isso a D.",
+   "dispositivos": [
+    {
+     "ref": "CPC, art. 186, § 3º",
+     "tipo": "lei",
+     "texto": "§ 3º O disposto no caput aplica-se aos escritórios de prática jurídica das faculdades de Direito reconhecidas na forma da lei e às entidades que prestam assistência jurídica gratuita em razão de convênios firmados com a Defensoria Pública.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    },
+    {
+     "ref": "STJ, Temas 988 e 1.000 dos recursos repetitivos",
+     "tipo": "entendimento",
+     "texto": "Tema 988: o rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação. Tema 1.000: desde que prováveis a existência da relação jurídica entre as partes e de documento ou coisa que se pretende seja exibido, apurada em contraditório prévio, poderá o juiz, após tentativa de busca e apreensão ou outra medida coercitiva, determinar sua exibição sob pena de multa com base no art. 400, parágrafo único, do CPC/2015."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-31": {
+   "nota": "Microempresas podem propor ação no Juizado Especial Cível (Lei 9.099/1995, art. 8º, § 1º, II). Como o cheque já perdeu a força executiva, cabe ação de cobrança da dívida do serviço. Por isso a C. A ação monitória não é admitida no rito dos Juizados (A). A Defensoria pode atender pessoa jurídica que comprove insuficiência de recursos (B). Para a pessoa jurídica, porém, não há presunção de hipossuficiência: ela precisa demonstrá-la (D, Súmula 481 do STJ).",
+   "dispositivos": [
+    {
+     "ref": "Lei 9.099/1995, art. 8º, § 1º, II",
+     "tipo": "lei",
+     "texto": "§ 1 o Somente serão admitidas a propor ação perante o Juizado Especial: (Redação dada pela Lei nº 12.126, de 2009)\nII - as pessoas enquadradas como microempreendedores individuais, microempresas e empresas de pequeno porte na forma da Lei Complementar n o 123, de 14 de dezembro de 2006 ; (Redação dada pela Lei Complementar nº 147, de 2014)",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm"
+    },
+    {
+     "ref": "STJ, Súmula 481",
+     "tipo": "entendimento",
+     "texto": "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-32": {
+   "nota": "O fiador réu pode chamar ao processo o afiançado (CPC, art. 130, I), na contestação. Assim, Arnaldo passa a integrar o polo passivo por iniciativa de Gilson. Por isso a A. A denunciação da lide serve ao direito de regresso por evicção ou garantia legal ou contratual, e não é a figura própria para o afiançado (C).",
+   "dispositivos": [
+    {
+     "ref": "CPC, art. 130, I",
+     "tipo": "lei",
+     "texto": "Art. 130. É admissível o chamamento ao processo, requerido pelo réu:\nI - do afiançado, na ação em que o fiador for réu;",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-33": {
+   "nota": "Os instrumentos necessários ou úteis ao exercício da profissão são impenhoráveis (CPC, art. 833, V). A exceção para dívida de alimentos alcança apenas os incisos IV e X, e não o V (art. 833, § 2º). Por isso a D. A poupança até 40 salários-mínimos é penhorável para alimentos (A). A fiança bancária substitui a penhora com acréscimo de 30%, e não de 10% (B, art. 835, § 2º). A prisão civil só alcança as três prestações anteriores ao ajuizamento e as vincendas (C, art. 528, § 7º). E o efeito suspensivo da impugnação não impede o levantamento mensal da prestação (E, art. 528, § 8º).",
+   "dispositivos": [
+    {
+     "ref": "CPC, art. 833, V e § 2º, e art. 528, §§ 7º e 8º",
+     "tipo": "lei",
+     "texto": "V - os livros, as máquinas, as ferramentas, os utensílios, os instrumentos ou outros bens móveis necessários ou úteis ao exercício da profissão do executado;\n§ 2º O disposto nos incisos IV e X do caput não se aplica à hipótese de penhora para pagamento de prestação alimentícia, independentemente de sua origem, bem como às importâncias excedentes a 50 (cinquenta) salários-mínimos mensais, devendo a constrição observar o disposto no art. 528, § 8º , e no art. 529, § 3º .\n§ 7º O débito alimentar que autoriza a prisão civil do alimentante é o que compreende até as 3 (três) prestações anteriores ao ajuizamento da execução e as que se vencerem no curso do processo.\n§ 8º O exequente pode optar por promover o cumprimento da sentença ou decisão desde logo, nos termos do disposto neste Livro, Título II, Capítulo III, caso em que não será admissível a prisão do executado, e, recaindo a penhora em dinheiro, a concessão de efeito suspensivo à impugnação não obsta a que o exequente levante mensalmente a importância da prestação.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-34": {
+   "nota": "Nas ações de família, o mandado de citação contém apenas os dados da audiência e vai sem cópia da inicial, assegurado ao réu o exame a qualquer tempo (CPC, art. 695, § 1º). Por isso a C. A audiência pode ter tantas sessões quantas forem necessárias, sem limite de quatro (A, art. 696). A indagação sobre violência doméstica vale nas ações de guarda, com prazo de 5 dias, e não de 10 (B, art. 699-A). A presença dos advogados ou defensores é obrigatória (D, art. 695, § 4º). E a suspensão é para mediação extrajudicial ou atendimento multidisciplinar (E, art. 694, parágrafo único).",
+   "dispositivos": [
+    {
+     "ref": "CPC, arts. 694, parágrafo único, 695, §§ 1º e 4º, 696 e 699-A",
+     "tipo": "lei",
+     "texto": "Parágrafo único. A requerimento das partes, o juiz pode determinar a suspensão do processo enquanto os litigantes se submetem a mediação extrajudicial ou a atendimento multidisciplinar.\n§ 1º O mandado de citação conterá apenas os dados necessários à audiência e deverá estar desacompanhado de cópia da petição inicial, assegurado ao réu o direito de examinar seu conteúdo a qualquer tempo.\n§ 4º Na audiência, as partes deverão estar acompanhadas de seus advogados ou de defensores públicos.\nArt. 696. A audiência de mediação e conciliação poderá dividir-se em tantas sessões quantas sejam necessárias para viabilizar a solução consensual, sem prejuízo de providências jurisdicionais para evitar o perecimento do direito.\nArt. 699-A. Nas ações de guarda, antes de iniciada a audiência de mediação e conciliação de que trata o art. 695 deste Código, o juiz indagará às partes e ao Ministério Público se há risco de violência doméstica ou familiar, fixando o prazo de 5 (cinco) dias para a apresentação de prova ou de indícios pertinentes. (Incluído pela Lei nº 14.713, de 2023)",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-35": {
+   "nota": "O STJ admite a intervenção da Defensoria Pública como custos vulnerabilis, uma intervenção atípica em nome próprio para tutelar grupos vulneráveis, como moradores de baixa renda afetados por remoção coletiva. Por isso a B. A legitimidade do MP para a ação civil pública decorre da Constituição e da Lei 7.347/1985, sem depender de interesse de incapaz (A). Os honorários periciais requeridos pelo MP são adiantados pela Fazenda Pública a que ele se vincula (C, STJ, Tema 510). A intervenção não é denunciação da lide (D), e sua atipicidade não impede a admissão (E).",
+   "dispositivos": [
+    {
+     "ref": "STJ, custos vulnerabilis e Tema 510",
+     "tipo": "entendimento",
+     "texto": "A Defensoria Pública pode intervir no processo como custos vulnerabilis, em nome próprio e em defesa dos vulneráveis afetados, com faculdade de produzir provas e recorrer (STJ, EDcl no REsp 1.712.163 e HC 568.693). Tema 510: não é possível exigir do Ministério Público o adiantamento de honorários periciais em ações civis públicas, ficando o encargo para a Fazenda Pública a que se acha vinculado o Parquet."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-36": {
+   "nota": "Estão corretas II e III. Os mandados de segurança decididos em única instância pelos tribunais superiores, quando denegatória a decisão, vão em recurso ordinário ao STF (II, CF, art. 102, II, a). Cabe agravo de instrumento contra a decisão que exclui litisconsorte (III, CPC, art. 1.015, VII). A I está errada: as ações de recuperação judicial, falência, insolvência civil e acidente de trabalho são justamente as exceções à remessa dos autos à Justiça Federal (CPC, art. 45, I). Por isso a D.",
+   "dispositivos": [
+    {
+     "ref": "CPC, art. 45, I, e art. 1.015, VII",
+     "tipo": "lei",
+     "texto": "I - de recuperação judicial, falência, insolvência civil e acidente de trabalho;\nVII - exclusão de litisconsorte;",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    },
+    {
+     "ref": "CF, art. 102, II, a",
+     "tipo": "lei",
+     "texto": "a) o habeas corpus , o mandado de segurança, o habeas data e o mandado de injunção decididos em única instância pelos Tribunais Superiores, se denegatória a decisão;",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-37": {
+   "nota": "Thiago e João estão certos. Thiago reproduz o art. 442 do CPC, e João, o art. 439. Nívea erra o prazo: as partes têm 15 dias, e não 10, contados da intimação da nomeação do perito, para arguir impedimento ou suspeição (art. 465, § 1º). Por isso a C.",
+   "dispositivos": [
+    {
+     "ref": "CPC, arts. 439, 442 e 465, § 1º",
+     "tipo": "lei",
+     "texto": "Art. 439. A utilização de documentos eletrônicos no processo convencional dependerá de sua conversão à forma impressa e da verificação de sua autenticidade, na forma da lei.\nArt. 442. A prova testemunhal é sempre admissível, não dispondo a lei de modo diverso.\n§ 1º Incumbe às partes, dentro de 15 (quinze) dias contados da intimação do despacho de nomeação do perito:",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-38": {
+   "nota": "No Tema 506, o STF descriminalizou o porte de maconha para consumo pessoal, convertendo-o em ilícito administrativo. Fixou ainda a presunção relativa de usuário para quem porta até 40 g ou seis plantas fêmeas de cannabis. Por ser relativa, a presunção não impede que o juiz reconheça a condição de usuário mesmo acima de 40 g, à luz das circunstâncias. Por isso a E. A tese vale só para a maconha, e não para ecstasy ou cocaína (A, B e D). E as balanças, as anotações e o dinheiro afastam a presunção no caso de João, cuja autuação em flagrante não configura abuso (C).",
+   "dispositivos": [
+    {
+     "ref": "STF, Tema 506 da repercussão geral (RE 635.659)",
+     "tipo": "entendimento",
+     "texto": "Não comete infração penal quem adquirir, guardar, tiver em depósito, transportar ou trouxer consigo, para consumo pessoal, a substância cannabis sativa, sem prejuízo do reconhecimento da ilicitude extrapenal da conduta. Presume-se usuário quem adquirir, guardar, tiver em depósito, transportar ou trouxer consigo até 40 gramas de cannabis sativa ou seis plantas-fêmeas; a presunção é relativa, e o juiz pode concluir pela tipicidade (tráfico) ou pela condição de usuário à luz das circunstâncias do caso concreto."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-39": {
+   "nota": "Na ameaça, a pena já é dobrada quando o crime é cometido contra a mulher por razões da condição do sexo feminino (CP, art. 147, § 1º). Aplicar também a agravante do art. 61, II, f, seria bis in idem. Para o descumprimento de medida protetiva, a banca adotou o mesmo raciocínio: o contexto de violência doméstica integra o próprio tipo do art. 24-A da Lei Maria da Penha. Por isso a B.",
+   "dispositivos": [
+    {
+     "ref": "CP, art. 147, § 1º",
+     "tipo": "lei",
+     "texto": "§ 1º Se o crime é cometido contra a mulher por razões da condição do sexo feminino, nos termos do § 1º do art. 121-A deste Código, aplica-se a pena em dobro. (Incluído pela Lei nº 14.994, de 2024)",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    }
+   ],
+   "ressalva": "No Tema 1.197, o STJ fixou que a agravante do art. 61, II, f, aplicada à condenação pelo art. 24-A da Lei 11.340/2006, por si só, não configura bis in idem, o que apontaria para a alternativa C. A justificativa segue o gabarito oficial; confira se houve alteração após os recursos.",
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-40": {
+   "nota": "As imunidades dos arts. 181 e 182 do CP não se aplicam quando a vítima tem 60 anos ou mais (art. 183, III). Se Ernesto tivesse 60 anos, Paulo responderia pelo furto. Por isso a A. Paulo é isento por furtar do ascendente, mas Antônio, que furtou do irmão, não é isento: a ação é que depende de representação (B, arts. 181, II, e 182, II). José usou grave ameaça, o que afasta a imunidade (C, art. 183, I). Em III, o estranho Sérgio não se beneficia da regra (D, art. 183, II). Em IV, Alice não coabita com o tio, de modo que o art. 182, III, não se aplica, e o regime da ação é o mesmo para os dois coautores (E).",
+   "dispositivos": [
+    {
+     "ref": "CP, arts. 181, II, 182, II e III, e 183",
+     "tipo": "lei",
+     "texto": "II - de ascendente ou descendente, seja o parentesco legítimo ou ilegítimo, seja civil ou natural.\nII - de irmão, legítimo ou ilegítimo;\nIII - de tio ou sobrinho, com quem o agente coabita.\nArt. 183 - Não se aplica o disposto nos dois artigos anteriores:\nI - se o crime é de roubo ou de extorsão, ou, em geral, quando haja emprego de grave ameaça ou violência à pessoa;\nII - ao estranho que participa do crime.\nIII – se o crime é praticado contra pessoa com idade igual ou superior a 60 (sessenta) anos. (Incluído pela Lei nº 10.741, de 2003)",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    }
+   ],
+   "ressalva": "Na data da prova, o estelionato dependia de representação (CP, art. 171, § 5º). Esse parágrafo foi revogado pela Lei 15.397/2026, e hoje a ação é pública incondicionada.",
+   "conferido": "2026-11-21"
   }
  }
 }
