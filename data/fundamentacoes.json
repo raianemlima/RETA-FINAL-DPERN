@@ -11282,6 +11282,267 @@
     }
    ],
    "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-1": {
+   "nota": "Ao mandar descumprir uma lei complementar federal, o governador recusou a execução de lei federal. Nesse caso a intervenção depende de o STF dar provimento a representação do Procurador-Geral da República (CF, art. 34, VI, e art. 36, III), e não de pedido de partido político. Se o decreto interventivo só suspender a execução do ato impugnado e isso bastar, dispensa-se a apreciação do Congresso Nacional (art. 36, § 3º). Por isso a D. Não é intervenção espontânea (A e E), nem depende de solicitação de poder coacto, que é a hipótese do art. 34, IV (B).",
+   "dispositivos": [
+    {
+     "ref": "CF, art. 34, VI, e art. 36, III e § 3º",
+     "tipo": "lei",
+     "texto": "VI - prover a execução de lei federal, ordem ou decisão judicial;\nIII - de provimento, pelo Supremo Tribunal Federal, de representação do Procurador-Geral da República, na hipótese do art. 34, VII, e no caso de recusa à execução de lei federal.\n§ 3º Nos casos do art. 34, VI e VII, ou do art. 35, IV, dispensada a apreciação pelo Congresso Nacional ou pela Assembléia Legislativa, o decreto limitar-se-á a suspender a execução do ato impugnado, se essa medida bastar ao restabelecimento da normalidade.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-2": {
+   "nota": "O decreto do estado de sítio deve indicar a duração, as normas de execução e as garantias constitucionais que ficarão suspensas (CF, art. 138). Por isso a B. Na hipótese de comoção grave (art. 137, I), o prazo é de no máximo 30 dias, prorrogáveis; o 'todo o tempo' vale só para guerra (A, art. 138, § 1º). No sítio por comoção grave cabe busca e apreensão em domicílio sem ordem judicial (C, art. 139, V), e as restrições não se limitam a reunião e comunicação (D, art. 139). E o enunciado não diz que o estado de defesa foi afastado por inaptidão de suas medidas; a CF admite o sítio por comoção grave de repercussão nacional, independentemente de prévio estado de defesa (E, art. 137, I).",
+   "dispositivos": [
+    {
+     "ref": "CF, art. 138, caput e § 1º",
+     "tipo": "lei",
+     "texto": "Art. 138. O decreto do estado de sítio indicará sua duração, as normas necessárias a sua execução e as garantias constitucionais que ficarão suspensas, e, depois de publicado, o Presidente da República designará o executor das medidas específicas e as áreas abrangidas.\n§ 1º - O estado de sítio, no caso do art. 137, I, não poderá ser decretado por mais de trinta dias, nem prorrogado, de cada vez, por prazo superior; no do inciso II, poderá ser decretado por todo o tempo que perdurar a guerra ou a agressão armada estrangeira.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-3": {
+   "nota": "Maria nasceu no Brasil, e a situação migratória irregular dos pais não afasta o critério do solo; só se excluem os filhos de estrangeiros a serviço de seu país (CF, art. 12, I, a). Ela é, portanto, brasileira nata. Desde a EC 131/2023, a perda da nacionalidade só ocorre por cancelamento judicial da naturalização ou por pedido expresso de perda, de modo que a naturalização suíça não a fez perder a nacionalidade brasileira (art. 12, § 4º). Por isso a D, e pode alistar-se como eleitora.",
+   "dispositivos": [
+    {
+     "ref": "CF, art. 12, I, a, e § 4º",
+     "tipo": "lei",
+     "texto": "a) os nascidos na República Federativa do Brasil, ainda que de pais estrangeiros, desde que estes não estejam a serviço de seu país;\n§ 4º - Será declarada a perda da nacionalidade do brasileiro que:\nI - tiver cancelada sua naturalização, por sentença judicial, em virtude de fraude relacionada ao processo de naturalização ou de atentado contra a ordem constitucional e o Estado Democrático; (Redação dada pela Emenda Constitucional nº 131, de 2023)\nII - fizer pedido expresso de perda da nacionalidade brasileira perante autoridade brasileira competente, ressalvadas situações que acarretem apatridia. (Redação dada pela Emenda Constitucional nº 131, de 2023)",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-4": {
+   "nota": "A coleta, remoção e tratamento de lixo de imóveis é serviço específico e divisível e pode ser custeada por taxa (Súmula Vinculante 19). E é constitucional a taxa que adote, no cálculo, um ou mais elementos da base de cálculo de imposto, desde que não haja integral identidade entre uma base e a outra (Súmula Vinculante 29). Por isso a D. A vedação do art. 145, § 2º, alcança apenas a base de cálculo própria de imposto, e não a identidade parcial (A).",
+   "dispositivos": [
+    {
+     "ref": "CF, art. 145, § 2º",
+     "tipo": "lei",
+     "texto": "§ 2º As taxas não poderão ter base de cálculo própria de impostos.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    },
+    {
+     "ref": "STF, Súmulas Vinculantes 19 e 29",
+     "tipo": "entendimento",
+     "texto": "SV 19: a taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis não viola o art. 145, II, da Constituição Federal. SV 29: é constitucional a adoção, no cálculo do valor de taxa, de um ou mais elementos da base de cálculo própria de determinado imposto, desde que não haja integral identidade entre uma base e outra."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-5": {
+   "nota": "Contra mandado de segurança decidido em única instância por tribunal de Justiça, quando denegatória a decisão, cabe recurso ordinário ao STJ (CF, art. 105, II, b). É recurso de fundamentação livre, que não exige repercussão geral nem prequestionamento. Por isso a B. A competência originária do TJ para mandado de segurança contra Secretário de Estado é definida pela Constituição Estadual (art. 125, § 1º), sem afronta à Constituição da República (C e E).",
+   "dispositivos": [
+    {
+     "ref": "CF, art. 105, II, b, e art. 125, § 1º",
+     "tipo": "lei",
+     "texto": "II - julgar, em recurso ordinário:\nb) os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão;\n§ 1º A competência dos tribunais será definida na Constituição do Estado, sendo a lei de organização judiciária de iniciativa do Tribunal de Justiça.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-6": {
+   "nota": "A Constituição veda operações de crédito que excedam o montante das despesas de capital (a chamada regra de ouro). A ressalva são as operações autorizadas por créditos suplementares ou especiais com finalidade precisa, aprovados pelo Legislativo por maioria absoluta (CF, art. 167, III). Por isso a A. O limite é a despesa de capital, e não a de custeio (B). A vedação não é absoluta (C). E o Tribunal de Contas não participa dessa autorização (E).",
+   "dispositivos": [
+    {
+     "ref": "CF, art. 167, III",
+     "tipo": "lei",
+     "texto": "III - a realização de operações de créditos que excedam o montante das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares ou especiais com finalidade precisa, aprovados pelo Poder Legislativo por maioria absoluta; (Vide Emenda constitucional nº 106, de 2020)",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-7": {
+   "nota": "A cobrança de taxa de matrícula nas universidades públicas viola a gratuidade do ensino público em estabelecimentos oficiais (CF, art. 206, IV; Súmula Vinculante 12), mesmo com ressalva aos hipossuficientes. Já os cursos de especialização (pós-graduação lato sensu) não se enquadram como atividade de ensino abrangida pela gratuidade, e as universidades públicas podem cobrar mensalidade por eles (STF, Tema 535, RE 597.854). Por isso a A.",
+   "dispositivos": [
+    {
+     "ref": "CF, art. 206, IV",
+     "tipo": "lei",
+     "texto": "IV - gratuidade do ensino público em estabelecimentos oficiais;",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    },
+    {
+     "ref": "STF, Súmula Vinculante 12 e Tema 535",
+     "tipo": "entendimento",
+     "texto": "SV 12: a cobrança de taxa de matrícula nas universidades públicas viola o disposto no art. 206, IV, da Constituição Federal. Tema 535: a garantia constitucional da gratuidade de ensino não obsta a cobrança, por universidades públicas, de mensalidade em cursos de especialização."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-8": {
+   "nota": "Só a II está correta: medidas voltadas especificamente a grupos excluídos produzem, inevitavelmente, um tratamento desigual em relação aos demais (a chamada discriminação reversa ou positiva), justificado pela busca de justiça material. A I erra ao tratar a igualdade material como consequência necessária da formal: a igualdade perante a lei pode conviver com desigualdades de fato, e a material exige medidas próprias. A III erra ao ver as ações afirmativas temporárias e periodicamente avaliadas como disfarce da discriminação: esse é justamente o modelo que o STF reputou legítimo (ADPF 186). Por isso a B.",
+   "dispositivos": [
+    {
+     "ref": "STF, ADPF 186 (ações afirmativas)",
+     "tipo": "entendimento",
+     "texto": "São constitucionais as políticas de ação afirmativa que estabelecem tratamento diferenciado a grupos historicamente discriminados, desde que transitórias e submetidas a avaliação periódica, como instrumento de realização da igualdade material."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-9": {
+   "nota": "Os Tribunais de Justiça podem exercer controle abstrato de leis municipais tendo como parâmetro normas da Constituição da República de reprodução obrigatória pelos Estados, ainda que a Constituição Estadual não as reproduza (STF, Tema 484). As regras básicas do processo legislativo, como a reserva de iniciativa do Executivo sobre o regime jurídico dos servidores, são de reprodução obrigatória. Por isso a D. O STF não julga ADI contra norma municipal (B), e a via concentrada no TJ é cabível (C).",
+   "dispositivos": [
+    {
+     "ref": "CF, art. 125, § 2º",
+     "tipo": "lei",
+     "texto": "§ 2º Cabe aos Estados a instituição de representação de inconstitucionalidade de leis ou atos normativos estaduais ou municipais em face da Constituição Estadual, vedada a atribuição da legitimação para agir a um único órgão.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    },
+    {
+     "ref": "STF, Tema 484 da repercussão geral",
+     "tipo": "entendimento",
+     "texto": "Tribunais de Justiça podem exercer controle abstrato de constitucionalidade de leis municipais utilizando como parâmetro normas da Constituição Federal, desde que se trate de normas de reprodução obrigatória pelos Estados."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-10": {
+   "nota": "O Defensor sustentou que a norma não decorre do texto (dos 'referenciais semióticos'), mas é construída pelo juiz à luz das circunstâncias do caso concreto. Essa é a tese central do realismo jurídico: o direito é o que os juízes efetivamente decidem. Por isso a B. A lógica subsuntiva (A), o originalismo (D) e os métodos de Savigny (E) partem do texto ou da intenção original. E as teorias procedimentais (C) se concentram na legitimidade do procedimento democrático, e não na criação judicial do conteúdo da norma.",
+   "dispositivos": [
+    {
+     "ref": "Teoria da interpretação: realismo jurídico",
+     "tipo": "entendimento",
+     "texto": "Para o realismo jurídico, a norma não preexiste à decisão: o texto normativo é apenas ponto de partida, e o conteúdo do direito é definido pelo julgador diante das circunstâncias do caso concreto."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-11": {
+   "nota": "Frustrar dolosamente a licitude de processo seletivo para parceria com entidade sem fins lucrativos, com perda patrimonial efetiva, é ato de improbidade que causa prejuízo ao erário (Lei 8.429/1992, art. 10, VIII). Desde a Lei 14.230/2021, é vedada a indisponibilidade do bem de família, salvo se o imóvel for fruto de enriquecimento ilícito (art. 16, § 14), o que não é o caso de um imóvel recebido em doação dez anos antes. Por isso a C.",
+   "dispositivos": [
+    {
+     "ref": "Lei 8.429/1992, art. 10, VIII, e art. 16, § 14",
+     "tipo": "lei",
+     "texto": "VIII - frustrar a licitude de processo licitatório ou de processo seletivo para celebração de parcerias com entidades sem fins lucrativos, ou dispensá-los indevidamente, acarretando perda patrimonial efetiva; (Redação dada pela Lei nº 14.230, de 2021)\n§ 14. É vedada a decretação de indisponibilidade do bem de família do réu, salvo se comprovado que o imóvel seja fruto de vantagem patrimonial indevida, conforme descrito no art. 9º desta Lei. (Incluído pela Lei nº 14.230, de 2021)",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-12": {
+   "nota": "Só a I está correta, porque reproduz o art. 10, § 1º, da Lei Anticorrupção. A II erra porque a comissão não aplica sanções: ao fim dos 180 dias, ela apresenta relatório e sugere, de forma motivada, as sanções (art. 10, § 3º). A III erra porque a prorrogação do prazo é feita por ato fundamentado da autoridade instauradora, e não da comissão (art. 10, § 4º). Por isso a A.",
+   "dispositivos": [
+    {
+     "ref": "Lei 12.846/2013, art. 10, §§ 1º, 3º e 4º",
+     "tipo": "lei",
+     "texto": "§ 1º O ente público, por meio do seu órgão de representação judicial, ou equivalente, a pedido da comissão a que se refere o caput , poderá requerer as medidas judiciais necessárias para a investigação e o processamento das infrações, inclusive de busca e apreensão.\n§ 3º A comissão deverá concluir o processo no prazo de 180 (cento e oitenta) dias contados da data da publicação do ato que a instituir e, ao final, apresentar relatórios sobre os fatos apurados e eventual responsabilidade da pessoa jurídica, sugerindo de forma motivada as sanções a serem aplicadas.\n§ 4º O prazo previsto no § 3º poderá ser prorrogado, mediante ato fundamentado da autoridade instauradora.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-13": {
+   "nota": "A contratação de entidade privada sem fins lucrativos para implementar o Programa Cozinha Solidária é hipótese de licitação dispensável, incluída pela Lei 14.628/2023 (Lei 14.133/2021, art. 75, XVIII). O inciso não fixa limite de valor. Por isso a B. O limite de valor só vale para as dispensas dos incisos I e II do art. 75.",
+   "dispositivos": [
+    {
+     "ref": "Lei 14.133/2021, art. 75, XVIII",
+     "tipo": "lei",
+     "texto": "XVIII - para contratação de entidades privadas sem fins lucrativos, para a implementação do Programa Cozinha Solidária, que tem como finalidade fornecer alimentação gratuita preferencialmente à população em situação de vulnerabilidade e risco social, incluída a população em situação de rua, com vistas à promoção de políticas de segurança alimentar e nutricional e de assistência social e à efetivação de direitos sociais, dignidade humana, resgate social e melhoria da qualidade de vida. (Incluído pela Lei nº 14.628, de 2023)",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-14": {
+   "nota": "A sequência é F, F, V. O Procedimento de Manifestação de Interesse Social não obriga a Administração a fazer o chamamento público, que ocorre conforme o interesse administrativo (Lei 13.019/2014, art. 21, caput). Quem propõe o PMIS pode participar do chamamento subsequente (art. 21, § 2º). E é vedado condicionar o chamamento ou a parceria à realização prévia de PMIS (art. 21, § 3º). Por isso a B.",
+   "dispositivos": [
+    {
+     "ref": "Lei 13.019/2014, art. 21, caput e §§ 2º e 3º",
+     "tipo": "lei",
+     "texto": "Art. 21. A realização do Procedimento de Manifestação de Interesse Social não implicará necessariamente na execução do chamamento público, que acontecerá de acordo com os interesses da administração.\n§ 2º A proposição ou a participação no Procedimento de Manifestação de Interesse Social não impede a organização da sociedade civil de participar no eventual chamamento público subsequente.\n§ 3º É vedado condicionar a realização de chamamento público ou a celebração de parceria à prévia realização de Procedimento de Manifestação de Interesse Social. (Incluído pela Lei nº 13.204, de 2015)",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13019.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-15": {
+   "nota": "As definições das afirmativas I e II estão trocadas. A dívida representada por títulos é a mobiliária (LRF, art. 29, II). O montante total das obrigações para amortização em prazo superior a doze meses é a dívida consolidada ou fundada (art. 29, I). A III reproduz o art. 29, § 4º. Por isso a A.",
+   "dispositivos": [
+    {
+     "ref": "LC 101/2000, art. 29, I, II e § 4º",
+     "tipo": "lei",
+     "texto": "I - dívida pública consolidada ou fundada: montante total, apurado sem duplicidade, das obrigações financeiras do ente da Federação, assumidas em virtude de leis, contratos, convênios ou tratados e da realização de operações de crédito, para amortização em prazo superior a doze meses;\nII - dívida pública mobiliária: dívida pública representada por títulos emitidos pela União, inclusive os do Banco Central do Brasil, Estados e Municípios;\n§ 4 o O refinanciamento do principal da dívida mobiliária não excederá, ao término de cada exercício financeiro, o montante do final do exercício anterior, somado ao das operações de crédito autorizadas no orçamento para este efeito e efetivamente realizadas, acrescido de atualização monetária.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-16": {
+   "nota": "A questão pede a incorreta. A caducidade é declarada por decreto do poder concedente, independentemente de indenização prévia (Lei 8.987/1995, art. 38, § 4º). A lei autorizativa específica é exigida para a encampação (art. 37), e não para a caducidade. Por isso a D. As demais reproduzem o art. 38: hipótese de serviço inadequado (B, § 1º, I), processo administrativo com ampla defesa (E, § 2º), comunicação prévia dos descumprimentos (A, § 3º) e ausência de responsabilidade do poder concedente perante terceiros e empregados (C, § 6º).",
+   "dispositivos": [
+    {
+     "ref": "Lei 8.987/1995, art. 38, §§ 3º, 4º e 6º",
+     "tipo": "lei",
+     "texto": "§ 3 o Não será instaurado processo administrativo de inadimplência antes de comunicados à concessionária, detalhadamente, os descumprimentos contratuais referidos no § 1º deste artigo, dando-lhe um prazo para corrigir as falhas e transgressões apontadas e para o enquadramento, nos termos contratuais.\n§ 4 o Instaurado o processo administrativo e comprovada a inadimplência, a caducidade será declarada por decreto do poder concedente, independentemente de indenização prévia, calculada no decurso do processo.\n§ 6 o Declarada a caducidade, não resultará para o poder concedente qualquer espécie de responsabilidade em relação aos encargos, ônus, obrigações ou compromissos com terceiros ou com empregados da concessionária.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987cons.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-17": {
+   "nota": "Jussara preenche os requisitos da usucapião especial urbana. Ela exerce posse mansa, pacífica e ininterrupta, para moradia, por mais de cinco anos, sobre área urbana de até 250 m², e não é proprietária de outro imóvel (CF, art. 183; CC, art. 1.240). Por isso a A. O limite é de 250 m², e não de 200 m², e não se exige autorização municipal (B). A modalidade é individual; a coletiva é outra figura (C). O registro em nome de pessoa jurídica privada não impede a usucapião (D). E não há exigência de prévia política urbana (E).",
+   "dispositivos": [
+    {
+     "ref": "CC, art. 1.240, caput",
+     "tipo": "lei",
+     "texto": "Art. 1.240. Aquele que possuir, como sua, área urbana de até duzentos e cinqüenta metros quadrados, por cinco anos ininterruptamente e sem oposição, utilizando-a para sua moradia ou de sua família, adquirir-lhe-á o domínio, desde que não seja proprietário de outro imóvel urbano ou rural.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-18": {
+   "nota": "No regime da separação obrigatória de bens, o cônjuge sobrevivente não concorre com os descendentes do falecido (CC, art. 1.829, I). Por isso a C. A Súmula 377 do STF, que comunica os aquestos adquiridos por esforço comum, trata de meação e não de herança, e o imóvel foi adquirido antes do casamento (B). O direito real de habitação existe, mas não é herança (D). O cônjuge é herdeiro necessário, mas não concorre com descendentes nesse regime (E).",
+   "dispositivos": [
+    {
+     "ref": "CC, art. 1.829, I",
+     "tipo": "lei",
+     "texto": "I - aos descendentes, em concorrência com o cônjuge sobrevivente, salvo se casado este com o falecido no regime da comunhão universal, ou no da separação obrigatória de bens (art. 1.640, parágrafo único); ou se, no regime da comunhão parcial, o autor da herança não houver deixado bens particulares;",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "ressalva": "Desde o Tema 1.236 do STF (2024), o regime da separação para maiores de 70 anos pode ser afastado por pacto antenupcial. No caso, não houve pacto, e o regime obrigatório subsiste.",
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-19": {
+   "nota": "Os pais não podem alienar imóveis dos filhos, nem praticar atos que ultrapassem a simples administração, sem prévia autorização judicial, mesmo alegando interesse da prole (CC, art. 1.691). Além disso, havendo divergência entre os pais, a solução cabe ao juiz (art. 1.690, parágrafo único). A venda feita por Ana, sem autorização judicial e sem a concordância de Roberto, é inválida. O gabarito a classifica como anulável, porque a invalidade só pode ser arguida pelos legitimados do parágrafo único do art. 1.691. Por isso a C. A B erra porque os pais não estão excluídos da administração dos bens herdados.",
+   "dispositivos": [
+    {
+     "ref": "CC, art. 1.690, parágrafo único, e art. 1.691, caput",
+     "tipo": "lei",
+     "texto": "Parágrafo único. Os pais devem decidir em comum as questões relativas aos filhos e a seus bens; havendo divergência, poderá qualquer deles recorrer ao juiz para a solução necessária.\nArt. 1.691. Não podem os pais alienar, ou gravar de ônus real os imóveis dos filhos, nem contrair, em nome deles, obrigações que ultrapassem os limites da simples administração, salvo por necessidade ou evidente interesse da prole, mediante prévia autorização do juiz.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "ressalva": "O parágrafo único do art. 1.691 fala em 'declaração de nulidade'. A classificação como anulável segue o gabarito oficial e a doutrina que vê, no caso, nulidade relativa, arguível apenas pelos legitimados.",
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-20": {
+   "nota": "A ofendida pode propor a dissolução da união estável no Juizado de Violência Doméstica, mas a partilha de bens fica excluída da competência desse juizado (Lei 11.340/2006, art. 14-A, § 1º). Por isso a D. A lesão corporal grave dolosa contra a outra titular do poder familiar, em contexto de violência doméstica, autoriza a perda do poder familiar (A, CC, art. 1.638, parágrafo único, I, a). O dano moral, nesse contexto, é presumido (B, STJ, Tema 983). E o risco de violência doméstica afasta a guarda compartilhada (E, CC, art. 1.584, § 2º).",
+   "dispositivos": [
+    {
+     "ref": "Lei 11.340/2006, art. 14-A, caput e § 1º",
+     "tipo": "lei",
+     "texto": "Art. 14-A. A ofendida tem a opção de propor ação de divórcio ou de dissolução de união estável no Juizado de Violência Doméstica e Familiar contra a Mulher. (Incluído pela Lei nº 13.894, de 2019)\n§ 1º Exclui-se da competência dos Juizados de Violência Doméstica e Familiar contra a Mulher a pretensão relacionada à partilha de bens. (Incluído pela Lei nº 13.894, de 2019)",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm"
+    },
+    {
+     "ref": "CC, art. 1.584, § 2º",
+     "tipo": "lei",
+     "texto": "§ 2º Quando não houver acordo entre a mãe e o pai quanto à guarda do filho, encontrando-se ambos os genitores aptos a exercer o poder familiar, será aplicada a guarda compartilhada, salvo se um dos genitores declarar ao magistrado que não deseja a guarda da criança ou do adolescente ou quando houver elementos que evidenciem a probabilidade de risco de violência doméstica ou familiar. (Redação dada pela Lei nº 14.713, de 2023)",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
   }
  }
 }
