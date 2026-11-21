@@ -10192,6 +10192,275 @@
     }
    ],
    "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-21": {
+   "nota": "Para o STJ, a superveniência de condenação a penas restritivas de direitos, para quem já cumpre pena privativa de liberdade em regime semiaberto ou fechado, não leva automaticamente à reconversão: as restritivas ficam suspensas até que o sentenciado alcance o regime aberto, quando passam a ser cumpridas simultaneamente com o restante da pena privativa. Por isso a D. Reconverter e somar as penas (A, B e C) prejudicaria o sentenciado sem que as penas fossem incompatíveis no aberto. E não se suspende a pena privativa para cumprir primeiro as restritivas (E).",
+   "dispositivos": [
+    {
+     "ref": "STJ, restritiva de direitos superveniente a quem cumpre pena privativa",
+     "tipo": "entendimento",
+     "texto": "Sobrevindo condenação a pena restritiva de direitos a quem cumpre pena privativa de liberdade em regime fechado ou semiaberto, a execução das restritivas fica suspensa até a progressão ao regime aberto, quando poderão ser cumpridas simultaneamente, sem reconversão automática."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-22": {
+   "nota": "Estão corretas I e IV. A autoridade administrativa pode decretar isolamento preventivo de até dez dias, e a inclusão no RDD depende de despacho judicial (I, LEP, art. 60). Para o STJ, o bom comportamento do livramento condicional se afere em todo o histórico prisional, não só nos últimos 12 meses (IV, Tema 1.161). A II erra: o STF admite que a audiência de justificação, com defensor e MP, supra a falta de PAD (Tema 941). A III e a V distorcem as regras sobre revista íntima. Por isso a A.",
+   "dispositivos": [
+    {
+     "ref": "LEP, art. 60, caput",
+     "tipo": "lei",
+     "texto": "Art. 60. A autoridade administrativa poderá decretar o isolamento preventivo do faltoso pelo prazo de até dez dias. A inclusão do preso no regime disciplinar diferenciado, no interesse da disciplina e da averiguação do fato, dependerá de despacho do juiz competente.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l7210.htm"
+    },
+    {
+     "ref": "STF, Tema 941, e STJ, Tema 1.161",
+     "tipo": "entendimento",
+     "texto": "STF: a oitiva do condenado pelo juízo da execução, em audiência de justificação com a presença do defensor e do MP, afasta a necessidade de prévio PAD e supre eventual deficiência de defesa no procedimento administrativo. STJ: a valoração do bom comportamento para o livramento condicional deve considerar todo o histórico prisional, não se limitando aos últimos 12 meses."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-23": {
+   "nota": "Estão corretas III e V. O STJ admite extinguir a punibilidade mesmo sem o pagamento da multa, se o condenado comprovar que não pode pagá-la (III, Tema 931 revisado). E o condenado por crime hediondo com resultado morte não tinha direito à saída temporária (V); hoje, desde a Lei 14.843/2024, a vedação alcança todo crime hediondo ou cometido com violência ou grave ameaça. A I erra: o STJ admite a detração do recolhimento noturno independentemente de monitoramento eletrônico (Tema 1.155). A II erra no intervalo mínimo de 45 dias. E a IV erra: classificação e transporte de presos também são indelegáveis (LEP, art. 83-B). Por isso a E.",
+   "dispositivos": [
+    {
+     "ref": "LEP, art. 83-B",
+     "tipo": "lei",
+     "texto": "Art. 83-B. São indelegáveis as funções de direção, chefia e coordenação no âmbito do sistema penal, bem como todas as atividades que exijam o exercício do poder de polícia, e notadamente:\nI - classificação de condenados;\nII - aplicação de sanções disciplinares;\nIII - controle de rebeliões;\nIV - transporte de presos para órgãos do Poder Judiciário, hospitais e outros locais externos aos estabelecimentos penais.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l7210.htm"
+    },
+    {
+     "ref": "LEP, art. 122, § 2º (redação da Lei 14.843/2024)",
+     "tipo": "lei",
+     "texto": "§ 2º Não terá direito à saída temporária de que trata o caput deste artigo ou a trabalho externo sem vigilância direta o condenado que cumpre pena por praticar crime hediondo ou com violência ou grave ameaça contra pessoa.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l7210.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-24": {
+   "nota": "No Tema 758, o STF fixou que reconhecer falta grave pela prática de crime doloso dispensa o trânsito em julgado da condenação, desde que haja devido processo, contraditório e ampla defesa no PAD; e que a instrução na execução pode ser suprida por sentença criminal condenatória sobre materialidade, autoria e circunstâncias do crime. Por isso a C. Anotação na folha de antecedentes (A) ou mera denúncia (B) não bastam, e não se exige acórdão (D e E).",
+   "dispositivos": [
+    {
+     "ref": "STF, Tema 758 da repercussão geral",
+     "tipo": "entendimento",
+     "texto": "O reconhecimento de falta grave consistente na prática de fato definido como crime doloso no curso da execução penal dispensa o trânsito em julgado da condenação criminal, desde que a apuração ocorra com observância do devido processo legal, do contraditório e da ampla defesa, podendo a instrução em sede executiva ser suprida por sentença criminal condenatória que verse sobre a materialidade, a autoria e as circunstâncias do crime correspondente."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-25": {
+   "nota": "Pena de dois anos prescreve em quatro (CP, art. 109, V); o reincidente tem acréscimo de um terço (art. 110): 5 anos e 4 meses. Como Henrique tinha menos de 21 anos ao tempo do crime, o prazo cai pela metade (art. 115): 2 anos e 8 meses. O trânsito para a acusação ocorreu em 11/08/2020, antes do marco da modulação do Tema 788 do STF, que manteve para esses casos o termo inicial antigo (art. 112, I). Contando 2 anos e 8 meses de 11/08/2020, o prazo terminou em abril de 2023. Por isso a C.",
+   "dispositivos": [
+    {
+     "ref": "Código Penal, arts. 109, V, 110, 112, I, e 115",
+     "tipo": "lei",
+     "texto": "V - em quatro anos, se o máximo da pena é igual a um ano ou, sendo superior, não excede a dois;\nArt. 110 - A prescrição depois de transitar em julgado a sentença condenatória regula-se pela pena aplicada e verifica-se nos prazos fixados no artigo anterior, os quais se aumentam de um terço, se o condenado é reincidente.\nI - do dia em que transita em julgado a sentença condenatória, para a acusação, ou a que revoga a suspensão condicional da pena ou o livramento condicional;\nArt. 115. São reduzidos de metade os prazos de prescrição quando o criminoso era, ao tempo do crime, menor de 21 (vinte e um) anos",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    },
+    {
+     "ref": "STF, Tema 788 (ARE 848.107)",
+     "tipo": "entendimento",
+     "texto": "O prazo da prescrição da pretensão executória começa a correr do trânsito em julgado para ambas as partes; o STF modulou a tese para aplicá-la apenas aos casos em que o trânsito para a acusação não tinha ocorrido até 12/11/2020."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-26": {
+   "nota": "Desde a EC 115/2022, a proteção dos dados pessoais, inclusive nos meios digitais, é direito fundamental expresso (art. 5º, LXXIX). Por isso a A. Legislar sobre o tema é competência privativa da União, não concorrente (B, art. 22, XXX), e organizar e fiscalizar a proteção de dados também é da União, não comum (C, art. 21, XXVI). O STF reconheceu o estado de coisas inconstitucional da política para a população de rua e deferiu a cautelar (D, ADPF 976). E declarou inconstitucionais os dossiês sobre 'antifascistas' (E, ADPF 722).",
+   "dispositivos": [
+    {
+     "ref": "CF/1988, arts. 5º, LXXIX, 21, XXVI, e 22, XXX",
+     "tipo": "lei",
+     "texto": "LXXIX - é assegurado, nos termos da lei, o direito à proteção dos dados pessoais, inclusive nos meios digitais.\nXXVI - organizar e fiscalizar a proteção e o tratamento de dados pessoais, nos termos da lei.\nXXX - proteção e tratamento de dados pessoais.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-27": {
+   "nota": "A questão pede a incorreta. Não há regra que substitua a Defensoria estadual pela DPU quando o caso envolve direito internacional dos direitos humanos: a atribuição segue a competência jurisdicional, e as Defensorias estaduais também aplicam tratados e o controle de convencionalidade. Por isso a B. As demais estão corretas: a Defensoria como ombudsman (A); a proteção da confiança como projeção do Estado de Direito (C); a homotransfobia equiparada ao racismo, inclusive na injúria racial (D, ADO 26 e MI 4.733); e os três tratados aprovados com status de emenda constitucional (E).",
+   "dispositivos": [
+    {
+     "ref": "CF/1988, art. 134, caput",
+     "tipo": "lei",
+     "texto": "Art. 134. A Defensoria Pública é instituição permanente, essencial à função jurisdicional do Estado, incumbindo-lhe, como expressão e instrumento do regime democrático, fundamentalmente, a orientação jurídica, a promoção dos direitos humanos e a defesa, em todos os graus, judicial e extrajudicial, dos direitos individuais e coletivos, de forma integral e gratuita, aos necessitados, na forma do inciso LXXIV do art. 5º desta Constituição Federal.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-28": {
+   "nota": "A questão pede a incorreta. No Tema 1.031, o STF rejeitou o 'marco temporal': a demarcação de terras indígenas não depende de ocupação ou disputa na data da promulgação da Constituição. Por isso a C. As demais estão corretas: redução de jornada para servidor com dependente com deficiência mesmo sem lei estadual (A, Tema 1.097); regime fiscal favorecido aos biocombustíveis (B, art. 225, § 1º, VIII); afastamento da imunidade de jurisdição por violação de direitos humanos (D, Tema 944); e inconstitucionalidade de lei municipal que proíbe material sobre gênero nas escolas (E).",
+   "dispositivos": [
+    {
+     "ref": "STF, Tema 1.031 (marco temporal)",
+     "tipo": "entendimento",
+     "texto": "A proteção constitucional aos direitos originários sobre as terras que os indígenas tradicionalmente ocupam independe da existência de um marco temporal em 5 de outubro de 1988 ou da configuração do renitente esbulho."
+    },
+    {
+     "ref": "CF/1988, art. 225, § 1º, VIII",
+     "tipo": "lei",
+     "texto": "VIII - manter regime fiscal favorecido para os biocombustíveis e para o hidrogênio de baixa emissão de carbono, na forma de lei complementar, a fim de assegurar-lhes tributação inferior à incidente sobre os combustíveis fósseis, capaz de garantir diferencial competitivo em relação a estes",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-29": {
+   "nota": "A questão pede a incorreta. O constitucionalismo liberal se funda nas liberdades negativas, na abstenção estatal e no monismo jurídico; prestações sociais e a cidadania como luta por reconhecimento pertencem ao constitucionalismo social e às teorias contemporâneas, não ao liberal. Por isso a E. As demais descrevem corretamente o direito antidiscriminatório (A e B), o constitucionalismo abusivo (C) e o constitucionalismo plurinacional latino-americano (D).",
+   "dispositivos": [
+    {
+     "ref": "Doutrina, constitucionalismo liberal",
+     "tipo": "entendimento",
+     "texto": "O constitucionalismo liberal tem como núcleo a limitação do poder e a proteção das liberdades individuais contra o Estado (direitos de defesa), com Estado abstencionista e monismo jurídico; os direitos a prestações sociais caracterizam o constitucionalismo social, posterior."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-30": {
+   "nota": "A questão pede a incorreta. A sétima onda de acesso à justiça, na perspectiva da ordem jurídica justa globalizada, privilegia a atuação 'glocal' e dialógica, inclusive extrajudicial, e não soluções prioritariamente judiciais. Por isso a B. As demais descrevem corretamente a integração de minorias e o papel das instituições de direitos humanos (A), o controle extrajudicial de convencionalidade (C), a democracia globalizada com novos freios e contrapesos (D) e a organização metodológica das instituições para concretizar direitos humanos (E).",
+   "dispositivos": [
+    {
+     "ref": "Doutrina, sétima onda de acesso à justiça",
+     "tipo": "entendimento",
+     "texto": "A sétima onda de acesso à justiça propõe a remoção de obstáculos à justiça na ordem jurídica globalizada, com atuação 'glocal', dialógica e prioritariamente extrajudicial das instituições de direitos humanos, inclusive por meio do controle de convencionalidade."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-31": {
+   "nota": "A questão pede a incorreta. O STF entende que acordos homologados judicialmente não afastam o controle concentrado: na ADI se discute a validade da lei em tese, e a existência de acordos em casos concretos não impede o julgamento. A própria alternativa A se contradiz ao dizer que os acordos 'podem afastar' o controle. Por isso a A. As demais estão corretas, como a inconstitucionalidade da taxa municipal de incêndio (C, Tema 16), a legitimidade da APIB (D, ADPF 709) e o cabimento de ADPF contra omissões estruturais (E).",
+   "dispositivos": [
+    {
+     "ref": "STF, taxa municipal de combate a incêndio (Tema 16)",
+     "tipo": "entendimento",
+     "texto": "A segurança pública, presentes a prevenção e o combate a incêndios, faz-se, no campo da atividade precípua, pela unidade da Federação, e, porque serviço essencial, tem como a viabilizá-la a arrecadação de impostos, não cabendo ao Município a criação de taxa para tal fim."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-32": {
+   "nota": "A questão pede a incorreta. Pelo princípio da justeza ou conformidade funcional, o intérprete não pode subverter a repartição de funções definida pela Constituição; a doutrina não admite como exceção uma 'transmutação temporária' da separação dos poderes em tempos de crise. Por isso a D. As demais descrevem corretamente o método tópico-problemático (A), o normativo-estruturante de Müller (B), o efeito integrador (C) e a mutação constitucional (E).",
+   "dispositivos": [
+    {
+     "ref": "Doutrina (Canotilho), princípio da justeza ou conformidade funcional",
+     "tipo": "entendimento",
+     "texto": "O órgão encarregado da interpretação da Constituição não pode chegar a um resultado que subverta ou perturbe o esquema organizatório-funcional constitucionalmente estabelecido."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-33": {
+   "nota": "Promover programas de construção de moradias e a melhoria das condições habitacionais e de saneamento é competência comum de todos os entes (art. 23, IX). Por isso a B. Combater a poluição é competência comum, não só municipal (A, art. 23, VI). Proteção à infância e à juventude é competência legislativa concorrente (C, art. 24, XV), assim como a organização das polícias civis (E, art. 24, XVI). E, sem lei federal de normas gerais, os Estados exercem competência legislativa plena (D, art. 24, § 3º).",
+   "dispositivos": [
+    {
+     "ref": "CF/1988, art. 23, VI e IX",
+     "tipo": "lei",
+     "texto": "VI - proteger o meio ambiente e combater a poluição em qualquer de suas formas;\nIX - promover programas de construção de moradias e a melhoria das condições habitacionais e de saneamento básico;",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    },
+    {
+     "ref": "CF/1988, art. 24, XV, XVI e § 3º",
+     "tipo": "lei",
+     "texto": "XV - proteção à infância e à juventude;\nXVI - organização, garantias, direitos e deveres das polícias civis.\n§ 3º Inexistindo lei federal sobre normas gerais, os Estados exercerão a competência legislativa plena, para atender a suas peculiaridades.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-34": {
+   "nota": "O constitucionalismo feminista, no plano hermenêutico, propõe identificar e desafiar os elementos da dogmática que discriminam por gênero, trazendo a realidade das mulheres para a interpretação constitucional. Por isso a C. O STF não afastou o constitucionalismo feminista na ADPF 54 (A), e ele não se limita aos direitos, pois também se ocupa das instituições (B). A D generaliza ('em qualquer hipótese') a consequência que o STF ligou ao uso da tese da legítima defesa da honra no processo (ADPF 779). E o art. 4º fala em prevalência dos direitos humanos, não em 'interdependência', e lista separadamente igualdade entre os Estados e solução pacífica dos conflitos (E).",
+   "dispositivos": [
+    {
+     "ref": "CF/1988, art. 4º",
+     "tipo": "lei",
+     "texto": "Art. 4º A República Federativa do Brasil rege-se nas suas relações internacionais pelos seguintes princípios:\nI - independência nacional;\nII - prevalência dos direitos humanos;\nIII - autodeterminação dos povos;\nIV - não-intervenção;\nV - igualdade entre os Estados;\nVI - defesa da paz;\nVII - solução pacífica dos conflitos;\nVIII - repúdio ao terrorismo e ao racismo;\nIX - cooperação entre os povos para o progresso da humanidade;\nX - concessão de asilo político.",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-35": {
+   "nota": "A questão pede a incorreta. Segundo a Corte Interamericana, o controle de convencionalidade vincula todos os órgãos do Estado, inclusive os da administração e os vinculados à administração da justiça, e não apenas o Judiciário. Por isso a E. As demais refletem decisões do STF: federalismo cooperativo no acolhimento de refugiados (A), ADPF para omissões estruturais (B) e limites ao uso da força policial e responsabilidade do Estado por mortes em operações (C e D, ADPF 635 e Tema 1.237).",
+   "dispositivos": [
+    {
+     "ref": "Corte IDH, controle de convencionalidade",
+     "tipo": "entendimento",
+     "texto": "Todos os órgãos do Estado, inclusive seus juízes e demais órgãos vinculados à administração da justiça em todos os níveis, têm o dever de exercer, de ofício, o controle de convencionalidade entre as normas internas e a Convenção Americana, levando em conta também a interpretação da Corte Interamericana."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-36": {
+   "nota": "Só a II está correta: o Estatuto da Igualdade Racial prevê programas de ação afirmativa como política pública prioritária (Lei 12.288/2010, art. 4º, VII e parágrafo único). Por isso a B. A I erra porque o Brasil ratificou a Convenção sobre a Eliminação de Todas as Formas de Discriminação Racial ainda nos anos 1960. A III erra porque população negra são as pessoas que se autodeclaram pretas e pardas pelo quesito do IBGE, e não as 'declaradas pelo IBGE' (art. 1º, parágrafo único, IV).",
+   "dispositivos": [
+    {
+     "ref": "Lei 12.288/2010, art. 1º, caput e parágrafo único, IV",
+     "tipo": "lei",
+     "texto": "Art. 1º Esta Lei institui o Estatuto da Igualdade Racial, destinado a garantir à população negra a efetivação da igualdade de oportunidades, a defesa dos direitos étnicos individuais, coletivos e difusos e o combate à discriminação e às demais formas de intolerância étnica.\nIV - população negra: o conjunto de pessoas que se autodeclaram pretas e pardas, conforme o quesito cor ou raça usado pela Fundação Instituto Brasileiro de Geografia e Estatística (IBGE), ou que adotam autodefinição análoga;",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12288.htm"
+    },
+    {
+     "ref": "Lei 12.288/2010, art. 4º, parágrafo único",
+     "tipo": "lei",
+     "texto": "Parágrafo único. Os programas de ação afirmativa constituir-se-ão em políticas públicas destinadas a reparar as distorções e desigualdades sociais e demais práticas discriminatórias adotadas, nas esferas pública e privada, durante o processo de formação social do País.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12288.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-37": {
+   "nota": "A B reproduz literalmente a definição do Decreto 7.053/2009: grupo heterogêneo que tem em comum a pobreza extrema, vínculos familiares interrompidos ou fragilizados e a falta de moradia convencional regular. Por isso a B. As demais trocam ou retiram elementos da definição, como a pobreza extrema (A), ou incluem requisitos que o decreto não prevê, como dependência química (D) ou mendicância (E).",
+   "dispositivos": [
+    {
+     "ref": "Decreto 7.053/2009, art. 1º, parágrafo único",
+     "tipo": "lei",
+     "texto": "Parágrafo único. Para fins deste Decreto, considera-se população em situação de rua o grupo populacional heterogêneo que possui em comum a pobreza extrema, os vínculos familiares interrompidos ou fragilizados e a inexistência de moradia convencional regular, e que utiliza os logradouros públicos e as áreas degradadas como espaço de moradia e de sustento, de forma temporária ou permanente, bem como as unidades de acolhimento para pernoite temporário ou como moradia provisória.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/decreto/d7053.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-38": {
+   "nota": "Só a III está correta: ações afirmativas são medidas especiais e temporárias para acelerar a igualdade substantiva de grupos vulneráveis. Por isso a A. Na ADPF 186, o STF declarou constitucional a política de cotas (I), e destacou que ela é legítima enquanto persistir o quadro de exclusão que a justifica (II). E a Lei 12.711/2012 contempla indígenas e, desde 2016, pessoas com deficiência (IV).",
+   "dispositivos": [
+    {
+     "ref": "Lei 12.711/2012, art. 3º, caput",
+     "tipo": "lei",
+     "texto": "Art. 3º Em cada instituição federal de ensino superior, as vagas de que trata o art. 1º desta Lei serão preenchidas, por curso e turno, por autodeclarados pretos, pardos, indígenas e quilombolas e por pessoas com deficiência, nos termos da legislação",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12711.htm"
+    },
+    {
+     "ref": "STF, ADPF 186 (cotas raciais na UnB)",
+     "tipo": "entendimento",
+     "texto": "São constitucionais as políticas de ação afirmativa com reserva de vagas por critério étnico-racial, desde que transitórias, condicionadas à persistência do quadro de exclusão que lhes deu origem, e proporcionais."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-39": {
+   "nota": "As recomendações citadas — vedação de punir mulheres presas com proibição de contato com os filhos, instalações para gestantes e lactantes, parto em hospital civil e cuidado das crianças que ficam com as mães — estão nas Regras das Nações Unidas para o Tratamento de Mulheres Presas e Medidas Não Privativas de Liberdade para Mulheres Infratoras, as Regras de Bangkok. Por isso a B. Os Princípios de Bangalore tratam de conduta judicial (A), e a CEDAW é tratado geral sobre discriminação contra a mulher (C).",
+   "dispositivos": [
+    {
+     "ref": "ONU, Regras de Bangkok (2010)",
+     "tipo": "entendimento",
+     "texto": "Regras das Nações Unidas para o tratamento de mulheres presas e medidas não privativas de liberdade para mulheres infratoras, que complementam as Regras Mínimas para o Tratamento de Reclusos com atenção a gestantes, lactantes e mulheres com filhos, vedando, entre outras coisas, sanção disciplinar que proíba o contato com a família, especialmente com as crianças."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-40": {
+   "nota": "A questão pede a incorreta. No caso Favela Nova Brasília, recomendou-se que os sistemas de controle e o dever de investigar as mortes e a violência sexual praticadas por agentes do Estado observem a perspectiva de gênero e étnico-racial, e não que atuem 'independentemente' dela. Por isso a D. As demais refletem o caso e o contexto descrito: padrão estrutural de letalidade policial e perfilamento racial (A e B), erradicação da impunidade (C) e capacitação policial para tratar os setores vulneráveis (E).",
+   "dispositivos": [
+    {
+     "ref": "Corte IDH, caso Favela Nova Brasília vs. Brasil (2017)",
+     "tipo": "entendimento",
+     "texto": "O Estado deve investigar com a devida diligência, com perspectiva de gênero e étnico-racial, os casos de uso de força letal e de violência sexual por agentes policiais, fortalecer órgãos independentes de supervisão e erradicar a impunidade da violência policial."
+    }
+   ],
+   "conferido": "2026-11-21"
   }
  }
 }
