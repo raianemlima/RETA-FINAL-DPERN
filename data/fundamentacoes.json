@@ -13063,6 +13063,267 @@
    ],
    "ressalva": "A classificação é controvertida: grande parte da doutrina situa o estudo dos crimes de Estado na criminologia crítica (alternativa B). A justificativa segue o gabarito oficial.",
    "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-41": {
+   "nota": "Se o fato for punível com detenção, o juiz pode submeter o inimputável diretamente a tratamento ambulatorial (CP, art. 97, caput). A Lei 10.216/2001 e a Resolução CNJ 487/2023 reforçam a preferência pelo tratamento em meio aberto. Por isso a D. A perícia se repete de ano em ano, e não a cada dois anos (A, art. 97, § 2º). A medida não tem prazo máximo de 3 anos fixado dessa forma (B). A Lei 10.216/2001 também se aplica à internação de natureza criminal (C).",
+   "dispositivos": [
+    {
+     "ref": "CP, art. 97, caput e § 2º",
+     "tipo": "lei",
+     "texto": "Art. 97 - Se o agente for inimputável, o juiz determinará sua internação (art. 26). Se, todavia, o fato previsto como crime for punível com detenção, poderá o juiz submetê-lo a tratamento ambulatorial. (Redação dada pela Lei nº 7.209, de 11.7.1984)\n§ 2º - A perícia médica realizar-se-á ao termo do prazo mínimo fixado e deverá ser repetida de ano em ano, ou a qualquer tempo, se o determinar o juiz da execução. (Redação dada pela Lei nº 7.209, de 11.7.1984)",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    }
+   ],
+   "ressalva": "A Lei citada no enunciado como 12.216/2001 é, na verdade, a Lei 10.216/2001 (Lei da Reforma Psiquiátrica).",
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-42": {
+   "nota": "Para Zaffaroni e Bailone, a dogmática penal alemã contemporânea, com o normativismo funcionalista, representa de certa forma um retorno ao neokantismo, com a construção de conceitos a partir de valores e fins político-criminais. Por isso a A. Karl Binding morreu em 1920, antes do nazismo (B). A Escola de Kiel, de Dahm e Schaffstein, não se identifica com o 'programa de Marburg', que é de Franz von Liszt (C). A magistratura de Weimar era conservadora e de origem burguesa (D). E Mezger contribuiu para o direito penal nazista, inclusive com a analogia (E).",
+   "dispositivos": [
+    {
+     "ref": "Zaffaroni e Bailone, dogmática penal e criminologia cautelar",
+     "tipo": "entendimento",
+     "texto": "Os autores apontam que a dogmática penal alemã contemporânea, de matriz funcionalista, representa um retorno ao neokantismo, e analisam a contribuição de penalistas como Mezger e a Escola de Kiel ao direito penal autoritário do período nazista."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-43": {
+   "nota": "A lei não exige pequena quantidade de droga para o tráfico privilegiado: os requisitos são primariedade, bons antecedentes, não dedicação a atividades criminosas e não integração a organização criminosa (Lei 11.343/2006, art. 33, § 4º). A jurisprudência dos Tribunais Superiores entende que a quantidade, isoladamente, não afasta a minorante. Cabe, portanto, apelação. Por isso a D.",
+   "dispositivos": [
+    {
+     "ref": "Lei 11.343/2006, art. 33, § 4º",
+     "tipo": "lei",
+     "texto": "§ 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa. (Vide Resolução nº 5, de 2012)",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm"
+    },
+    {
+     "ref": "STF e STJ, quantidade de droga e tráfico privilegiado",
+     "tipo": "entendimento",
+     "texto": "A quantidade e a natureza da droga apreendida, isoladamente, não bastam para afastar a causa de diminuição do art. 33, § 4º, sendo necessário fundamentar em elementos concretos que indiquem dedicação a atividades criminosas ou integração a organização criminosa."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-44": {
+   "nota": "A decisão está equivocada (I é verdadeira). Desde a Lei 13.964/2019, a preventiva depende de requerimento do MP, do querelante ou do assistente, ou de representação policial (CPP, art. 311). A decretação de ofício é vedada, e o STF e o STJ entendem que o juiz não pode decretá-la contrariando o pedido de liberdade do MP. A II é falsa porque não há previsão legal que permita a decretação de ofício. Por isso a A.",
+   "dispositivos": [
+    {
+     "ref": "CPP, art. 311",
+     "tipo": "lei",
+     "texto": "Art. 311. Em qualquer fase da investigação policial ou do processo penal, caberá a prisão preventiva decretada pelo juiz, a requerimento do Ministério Público, do querelante ou do assistente, ou por representação da autoridade policial. (Redação dada pela Lei nº 13.964, de 2019)",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-45": {
+   "nota": "Para aferir a pena mínima do ANPP, consideram-se as causas de aumento e de diminuição aplicáveis ao caso (CPP, art. 28-A, § 1º). Com a majorante mínima de 1/6 e o privilégio máximo de 2/3, a pena mínima do tráfico fica abaixo de 4 anos, o que torna possível o acordo. Por isso a E. O STF admite o ANPP em processos em curso, mesmo após o recebimento da denúncia, quando o privilégio é reconhecido na sentença (B, HC 185.913).",
+   "dispositivos": [
+    {
+     "ref": "CPP, art. 28-A, § 1º",
+     "tipo": "lei",
+     "texto": "§ 1º Para aferição da pena mínima cominada ao delito a que se refere o caput deste artigo, serão consideradas as causas de aumento e diminuição aplicáveis ao caso concreto. (Incluído pela Lei nº 13.964, de 2019) (Vigência)",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-46": {
+   "nota": "Nos crimes de ação pública condicionada da Lei Maria da Penha, a renúncia (retratação) à representação só é admitida perante o juiz, em audiência designada para esse fim, antes do recebimento da denúncia e ouvido o MP (Lei 11.340/2006, art. 16). Como a denúncia ainda não foi recebida, a retratação é possível. Por isso a C.",
+   "dispositivos": [
+    {
+     "ref": "Lei 11.340/2006, art. 16",
+     "tipo": "lei",
+     "texto": "Art. 16. Nas ações penais públicas condicionadas à representação da ofendida de que trata esta Lei, só será admitida a renúncia à representação perante o juiz, em audiência especialmente designada com tal finalidade, antes do recebimento da denúncia e ouvido o Ministério Público. (Vide ADI 7267)",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm"
+    }
+   ],
+   "ressalva": "Desde a Lei 14.994/2024, a ameaça contra a mulher por razões da condição do sexo feminino é de ação pública incondicionada (CP, art. 147, §§ 1º e 2º). A justificativa segue a lei vigente na data da prova.",
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-47": {
+   "nota": "A Terceira Seção do STJ fixou que o laudo toxicológico definitivo é imprescindível para comprovar a materialidade do tráfico. Só em situações excepcionais o laudo provisório, feito por perito e com grau de certeza equivalente, pode supri-lo (EREsp 1.544.057). Um laudo provisório que não foi feito por perito oficial e se baseou em cheiro e cor não basta. O recurso contra a sentença condenatória é a apelação. Por isso a A.",
+   "dispositivos": [
+    {
+     "ref": "STJ, Terceira Seção, EREsp 1.544.057",
+     "tipo": "entendimento",
+     "texto": "A ausência do laudo toxicológico definitivo implica absolvição por falta de materialidade, salvo em situação excepcional em que o laudo de constatação provisório, elaborado por perito, permita grau de certeza idêntico ao do definitivo."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-48": {
+   "nota": "O gabarito parte de dois pontos. Para o TJPR, a descarga da bateria da tornozeleira pode equivaler à fuga. Mas deve-se evitar o monitoramento eletrônico de pessoas em situação de rua, que não têm onde carregar o equipamento, como orientam a Resolução CNJ 412/2021 e a ADPF 976. Por isso a C.",
+   "dispositivos": [
+    {
+     "ref": "CNJ, Resolução 412/2021, e STF, ADPF 976",
+     "tipo": "entendimento",
+     "texto": "A monitoração eletrônica deve considerar as condições pessoais do monitorado, evitando-se sua aplicação a pessoas em situação de rua, para as quais a ausência de local para recarga inviabiliza o cumprimento e gera punição pela própria vulnerabilidade."
+    }
+   ],
+   "ressalva": "A equiparação da descarga da bateria à fuga é entendimento do TJPR, não pacífico em outros tribunais. A justificativa segue o gabarito oficial.",
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-49": {
+   "nota": "Há previsão expressa impedindo os institutos despenalizadores nos casos de violência doméstica. A Lei 9.099/1995 não se aplica aos crimes com violência doméstica e familiar contra a mulher (Lei 11.340/2006, art. 41), o que afasta transação e suspensão condicional. E o ANPP é vedado nos crimes praticados no âmbito de violência doméstica (CPP, art. 28-A, § 2º, IV). Por isso a D.",
+   "dispositivos": [
+    {
+     "ref": "Lei 11.340/2006, art. 41",
+     "tipo": "lei",
+     "texto": "Art. 41. Aos crimes praticados com violência doméstica e familiar contra a mulher, independentemente da pena prevista, não se aplica a Lei nº 9.099, de 26 de setembro de 1995.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm"
+    },
+    {
+     "ref": "CPP, art. 28-A, § 2º, IV",
+     "tipo": "lei",
+     "texto": "IV - nos crimes praticados no âmbito de violência doméstica ou familiar, ou praticados contra a mulher por razões da condição de sexo feminino, em favor do agressor. (Incluído pela Lei nº 13.964, de 2019) (Vigência)",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-50": {
+   "nota": "Ser processado por contravenção penal no curso do período de prova é causa de revogação facultativa da suspensão condicional do processo (Lei 9.099/1995, art. 89, § 4º). Vias de fato é contravenção. A revogação obrigatória ocorre quando o beneficiário é processado por outro crime (§ 3º). Por isso a C.",
+   "dispositivos": [
+    {
+     "ref": "Lei 9.099/1995, art. 89, §§ 3º e 4º",
+     "tipo": "lei",
+     "texto": "§ 3º A suspensão será revogada se, no curso do prazo, o beneficiário vier a ser processado por outro crime ou não efetuar, sem motivo justificado, a reparação do dano.\n§ 4º A suspensão poderá ser revogada se o acusado vier a ser processado, no curso do prazo, por contravenção, ou descumprir qualquer outra condição imposta.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-51": {
+   "nota": "No júri, o juiz presidente, na sentença condenatória, considera as agravantes ou atenuantes alegadas nos debates (CPP, art. 492, I, b). Há previsão legal expressa: a agravante da reincidência, não sustentada pelo MP em plenário, não pode ser aplicada. O caminho é apelar para reformar a dosimetria. Por isso a B.",
+   "dispositivos": [
+    {
+     "ref": "CPP, art. 492, I, b",
+     "tipo": "lei",
+     "texto": "b) considerará as circunstâncias agravantes ou atenuantes alegadas nos debates; (Incluído pela Lei nº 11.689, de 2008)",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    }
+   ],
+   "ressalva": "O STJ tem precedentes que admitem a reincidência mesmo sem alegação em plenário, por ser circunstância objetiva. A justificativa segue o texto legal e o gabarito oficial.",
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-52": {
+   "nota": "Desde a Lei 14.532/2023, a injúria racial foi para a Lei 7.716/1989, mas a injúria por religião permaneceu no art. 140, § 3º, do CP. Ela é de ação pública condicionada à representação (art. 145, parágrafo único). Não se aplicam a ela a imprescritibilidade e a inafiançabilidade próprias do racismo. Por isso a C.",
+   "dispositivos": [
+    {
+     "ref": "CP, art. 140, § 3º, e art. 145, parágrafo único",
+     "tipo": "lei",
+     "texto": "§ 3º Se a injúria consiste na utilização de elementos referentes a religião ou à condição de pessoa idosa ou com deficiência: (Redação dada pela Lei nº 14.532, de 2023)\nParágrafo único. Procede-se mediante requisição do Ministro da Justiça, no caso do inciso I do caput do art. 141 deste Código, e mediante representação do ofendido, no caso do inciso II do mesmo artigo, bem como no caso do § 3 o do art. 140 deste Código. (Redação dada pela Lei nº 12.033. de 2009)",
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-53": {
+   "nota": "O STF e o STJ reconhecem o direito ao silêncio parcial: o réu pode responder apenas às perguntas que quiser e de quem quiser, inclusive só às da defesa. Encerrar o interrogatório por isso viola a ampla defesa, e o defensor deve registrar o inconformismo em ata. Não há previsão legal expressa sobre o silêncio parcial, que decorre da jurisprudência (C). Por isso a B.",
+   "dispositivos": [
+    {
+     "ref": "CF, art. 5º, LXIII",
+     "tipo": "lei",
+     "texto": "LXIII - o preso será informado de seus direitos, entre os quais o de permanecer calado, sendo-lhe assegurada a assistência da família e de advogado;",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    },
+    {
+     "ref": "STF e STJ, direito ao silêncio parcial",
+     "tipo": "entendimento",
+     "texto": "O acusado pode exercer o direito ao silêncio de forma seletiva, respondendo apenas às perguntas de sua defesa; o encerramento do interrogatório por esse motivo configura cerceamento de defesa."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-54": {
+   "nota": "O gabarito reconhece que Ângela pode obter a remição pelo trabalho de cuidado, ainda sem previsão legal expressa, por analogia ao trabalho (LEP, art. 126). A tese foi construída pela Defensoria e acolhida em decisões do TJPR, com base na perspectiva de gênero e nas Regras de Bangkok. Por isso a E. Não há previsão legal expressa (B), nem nas Regras de Mandela (C). E o benefício pressupõe o efetivo exercício do cuidado (D).",
+   "dispositivos": [
+    {
+     "ref": "Remição pelo trabalho de cuidado (TJPR e Protocolo para Julgamento com Perspectiva de Gênero do CNJ)",
+     "tipo": "entendimento",
+     "texto": "O trabalho doméstico e de cuidado exercido por mulher em cumprimento de pena, responsável por filhos menores, pode ser considerado para fins de remição, por analogia ao art. 126 da LEP e em atenção à perspectiva de gênero."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-55": {
+   "nota": "Estão corretas I e III. A remição pela leitura não está expressa na LEP e é regulamentada pela Resolução CNJ 391/2021 (I). Cada obra lida e avaliada permite remir 4 dias de pena (III). A II erra porque o limite é de 12 obras por ano, o que dá 48 dias, e não 60. A IV erra porque a resolução não restringe a leitura à literatura clássica brasileira. Por isso a A.",
+   "dispositivos": [
+    {
+     "ref": "CNJ, Resolução 391/2021 (remição pela leitura)",
+     "tipo": "entendimento",
+     "texto": "A remição pela leitura é regulamentada pela Resolução CNJ 391/2021: para cada obra lida, mediante relatório ou avaliação, remem-se 4 dias de pena, no limite de 12 obras por ano (48 dias), com acervo diversificado, sem restrição a gêneros ou cânones literários."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-56": {
+   "nota": "No regime disciplinar diferenciado, a lei garante ao preso a saída da cela por 2 horas diárias para banho de sol, em grupos de até 4 presos (LEP, art. 52, IV). Duas horas semanais violam essa previsão legal expressa. Por isso a D.",
+   "dispositivos": [
+    {
+     "ref": "LEP, art. 52, IV",
+     "tipo": "lei",
+     "texto": "IV - direito do preso à saída da cela por 2 (duas) horas diárias para banho de sol, em grupos de até 4 (quatro) presos, desde que não haja contato com presos do mesmo grupo criminoso; (Redação dada pela Lei nº 13.964, de 2019)",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l7210.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-57": {
+   "nota": "O CC lista como direito real a concessão de uso especial para fins de moradia, e não 'para qualquer fim' (art. 1.225, XI). Por isso a D. Usufruto, laje, superfície e os direitos oriundos da imissão provisória na posse concedida ao Poder Público estão no rol (incisos IV, XIII, II e XIV).",
+   "dispositivos": [
+    {
+     "ref": "CC, art. 1.225, II, IV, XI, XIII e XIV",
+     "tipo": "lei",
+     "texto": "II - a superfície;\nIV - o usufruto;\nXI - a concessão de uso especial para fins de moradia; (Incluído pela Lei nº 11.481, de 2007)\nXIII - a laje; (Redação dada pela Lei nº 14.620, de 2023)\nXIV - os direitos oriundos da imissão provisória na posse, quando concedida à União, aos Estados, ao Distrito Federal, aos Municípios ou às suas entidades delegadas e a respectiva cessão e promessa de cessão. (Incluído pela Lei nº 14.620, de 2023)",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-58": {
+   "nota": "A C reproduz o art. 853-A do CC, incluído pela Lei 14.711/2023 (Marco das Garantias), e por isso é a correta. Não há responsabilidade se o terceiro for o cônjuge e a indenização recair sobre seus bens (A, art. 439, parágrafo único). A venda de ascendente a descendente sem consentimento é anulável, e o consentimento do cônjuge é dispensado na separação obrigatória (B, art. 496). Na comissão, o comissário age em nome próprio, e não no do comitente (D, art. 693). A substituição do agente se faz por maioria simples e só é eficaz após publicidade (E, art. 853-A, § 3º).",
+   "dispositivos": [
+    {
+     "ref": "CC, art. 853-A, caput e § 3º",
+     "tipo": "lei",
+     "texto": "Art. 853-A. Qualquer garantia poderá ser constituída, levada a registro, gerida e ter a sua execução pleiteada por agente de garantia, que será designado pelos credores da obrigação garantida para esse fim e atuará em nome próprio e em benefício dos credores, inclusive em ações judiciais que envolvam discussões sobre a existência, a validade ou a eficácia do ato jurídico do crédito garantido, vedada qualquer cláusula que afaste essa regra em desfavor do devedor ou, se for o caso, do terceiro prestador da garantia. (Incluído pela Lei nº 14.711, de 2023)\n§ 3º O agente de garantia poderá ser substituído, a qualquer tempo, por decisão do credor único ou dos titulares que representarem a maioria simples dos créditos garantidos, reunidos em assembleia, mas a substituição do agente de garantia somente será eficaz após ter sido tornada pública pela mesma forma por meio da qual tenha sido dada publicidade à garantia. (Incluído pela Lei nº 14.711, de 2023)",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    },
+    {
+     "ref": "CC, art. 496",
+     "tipo": "lei",
+     "texto": "Art. 496. É anulável a venda de ascendente a descendente, salvo se os outros descendentes e o cônjuge do alienante expressamente houverem consentido.\nParágrafo único. Em ambos os casos, dispensa-se o consentimento do cônjuge se o regime de bens for o da separação obrigatória.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-59": {
+   "nota": "A E reproduz as hipóteses de prioridade do art. 8º da Lei 14.620/2023 (Minha Casa, Minha Vida) e, por isso, é a correta. A atribuição do título à mulher independentemente do regime e sem outorga do cônjuge tem regras próprias, que as alternativas A e B distorcem. As alternativas C e D alteram as regras sobre a subvenção econômica.",
+   "dispositivos": [
+    {
+     "ref": "Lei 14.620/2023, art. 8º, III, IV, VI e VII",
+     "tipo": "lei",
+     "texto": "Art. 8º Serão priorizadas, para fins de atendimento a provisão subsidiada de unidades habitacionais com o emprego de dotação orçamentária da União e com recursos do FNHIS, do FAR ou do FDS, as famílias:\nIII - em situação de vulnerabilidade ou risco social, conforme a Lei nº 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social);\nIV - que tenham perdido a moradia em razão de desastres naturais em localidade em que tenha sido decretada situação de emergência ou estado de calamidade pública;\nVI - em situação de rua;\nVII - que tenham mulheres vítimas de violência doméstica e familiar, conforme o disposto na Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha);",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14620.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pr-2024-60": {
+   "nota": "A questão pede a incorreta. A mudança da destinação do edifício ou da unidade depende da aprovação de 2/3 dos votos dos condôminos, e não de maioria simples dos presentes (CC, art. 1.351). Por isso a A. As demais reproduzem regras do CC: sessão permanente com prazo total de 90 dias (B, art. 1.353, § 1º), assembleia eletrônica ou híbrida (C, art. 1.354-A), multipropriedade com frações de no mínimo 7 dias (D, arts. 1.358-C e 1.358-E) e administrador profissional obrigatório (E, art. 1.358-R).",
+   "dispositivos": [
+    {
+     "ref": "CC, arts. 1.351 e 1.358-C",
+     "tipo": "lei",
+     "texto": "Art. 1.351. Depende da aprovação de 2/3 (dois terços) dos votos dos condôminos a alteração da convenção, bem como a mudança da destinação do edifício ou da unidade imobiliária. (Redação dada pela Lei nº 14.405, de 2022)\nArt. 1.358-C. Multipropriedade é o regime de condomínio em que cada um dos proprietários de um mesmo imóvel é titular de uma fração de tempo, à qual corresponde a faculdade de uso e gozo, com exclusividade, da totalidade do imóvel, a ser exercida pelos proprietários de forma alternada. (Incluído pela Lei nº 13.777, de 2018) (Vigência)",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
   }
  }
 }
