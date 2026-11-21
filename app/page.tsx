@@ -21,7 +21,13 @@ export default async function Home() {
   const others = disciplines.filter((discipline) => discipline !== resume);
   const now = new Date(), days = daysUntilExam(now);
   return <div className="home">
-    <header className="grid-paper"><p className="eyebrow">{COURSE.name}</p><h1>Início</h1></header>
+    {/* Faixa de capa do Reta Final DPE-RN, no estilo da capa do cronograma, nas cores do DUO. */}
+    <header className="rn-cover">
+      <h1 className="visually-hidden">Início</h1>
+      <span className="rn-cover-title" aria-hidden="true">Reta<br />Final</span>
+      <span className="rn-cover-sub">{COURSE.defensoriaNome.replace(/ do Estado do /, " do ")}</span>
+      <span className="rn-chip">{COURSE.defensoria} · {COURSE.banca}</span>
+    </header>
     <section className="exam-card" aria-label="Data da prova">
       {days !== null && days > 1 && <span className="exam-days">{days}</span>}
       <div><p><strong>{days !== null && days > 1 ? `dias para a prova da ${COURSE.defensoria}` : examCountdown(now)}</strong></p><p className="muted">{EXAM_LABEL ? `Prova: ${EXAM_LABEL}` : `Banca: ${COURSE.banca}. A data entra aqui assim que o edital sair.`}</p></div>
