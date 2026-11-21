@@ -11018,6 +11018,270 @@
     }
    ],
    "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-81": {
+   "nota": "Estão corretas II e III. Parte da doutrina sustenta que os direitos individuais homogêneos são tratados como indivisíveis até a liquidação, voltando à indivisibilidade na reparação fluida (fluid recovery) quando não há habilitações suficientes (II). E, na ADI 3.943, o STF reconheceu que basta a presunção de que entre os afetados haja necessitados para legitimar a Defensoria a propor ação civil pública (III). A I erra porque o colegitimado que intervém atua como assistente litisconsorcial autônomo, podendo adotar posição própria. A IV erra porque, para o STJ, a improcedência da ação coletiva sobre direitos individuais homogêneos faz coisa julgada para os legitimados coletivos, sem a ressalva da insuficiência de provas. Por isso a D.",
+   "dispositivos": [
+    {
+     "ref": "STF, ADI 3.943 (legitimidade da Defensoria para ação civil pública)",
+     "tipo": "entendimento",
+     "texto": "A Defensoria Pública tem legitimidade para propor ação civil pública em defesa de interesses difusos, coletivos ou individuais homogêneos; basta a presunção de que, no rol dos afetados pelo resultado da ação, haja pessoas necessitadas."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-82": {
+   "nota": "A questão pede a incorreta. O mandado de injunção coletivo não induz litispendência em relação aos individuais; mas a coisa julgada coletiva não beneficia o impetrante individual que não desistir da sua ação em 30 dias (Lei 13.300/2016, art. 13, parágrafo único). Por isso a C. As demais estão corretas: o objeto do MI coletivo (A, art. 12, parágrafo único) e a legitimidade do MP, de partido político, de entidades com um ano de funcionamento e da Defensoria (B, D e E, art. 12).",
+   "dispositivos": [
+    {
+     "ref": "Lei 13.300/2016, arts. 12, IV e parágrafo único, e 13, parágrafo único",
+     "tipo": "lei",
+     "texto": "IV - pela Defensoria Pública, quando a tutela requerida for especialmente relevante para a promoção dos direitos humanos e a defesa dos direitos individuais e coletivos dos necessitados, na forma do inciso LXXIV do art. 5º da Constituição Federal.\nParágrafo único. Os direitos, as liberdades e as prerrogativas protegidos por mandado de injunção coletivo são os pertencentes, indistintamente, a uma coletividade indeterminada de pessoas ou determinada por grupo, classe ou categoria.\nParágrafo único. O mandado de injunção coletivo não induz litispendência em relação aos individuais, mas os efeitos da coisa julgada não beneficiarão o impetrante que não requerer a desistência da demanda individual no prazo de 30 (trinta) dias a contar da ciência comprovada da impetração coletiva.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13300.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-83": {
+   "nota": "A questão pede a incorreta. A Lei 7.347/1985 faculta ao Poder Público e a outras associações legitimadas habilitar-se como litisconsortes de qualquer das partes, sem a restrição da A (art. 5º, § 2º). Por isso a A. As demais estão corretas: outro legitimado, como a Defensoria, assume a ação abandonada (B, art. 5º, § 3º); a sanção por má-fé (C, art. 17); os requisitos de legitimidade da associação (D, art. 5º, V); e a dispensa da pré-constituição anual pelo juiz (E, art. 5º, § 4º).",
+   "dispositivos": [
+    {
+     "ref": "Lei 7.347/1985, art. 5º, §§ 2º e 3º, e art. 17",
+     "tipo": "lei",
+     "texto": "§ 2º Fica facultado ao Poder Público e a outras associações legitimadas nos termos deste artigo habilitar-se como litisconsortes de qualquer das partes.\n§ 3º Em caso de desistência infundada ou abandono da ação por associação legitimada, o Ministério Público ou outro legitimado assumirá a titularidade ativa.\nArt. 17. Em caso de litigância de má-fé, a associação autora e os diretores responsáveis pela propositura da ação serão solidariamente condenados em honorários advocatícios e ao décuplo das custas, sem prejuízo da responsabilidade por perdas e danos.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-84": {
+   "nota": "A questão pede a incorreta. Pela Lei de Improbidade, o mero exercício da função, sem comprovação de ato doloso com fim ilícito, afasta a responsabilidade por improbidade (art. 1º, § 3º); a B diz o contrário. Por isso a B. As demais reproduzem a lei: princípios do direito administrativo sancionador (A, art. 1º, § 4º), atos contra entidade privada custeada pelo erário (C, art. 1º, § 7º), terceiros que induzem ou concorrem dolosamente (D, art. 3º) e responsabilidade do sucessor até o limite da herança (E, art. 8º).",
+   "dispositivos": [
+    {
+     "ref": "Lei 8.429/1992, art. 1º, §§ 3º e 4º, e art. 3º",
+     "tipo": "lei",
+     "texto": "§ 3º O mero exercício da função ou desempenho de competências públicas, sem comprovação de ato doloso com fim ilícito, afasta a responsabilidade por ato de improbidade administrativa.\n§ 4º Aplicam-se ao sistema da improbidade disciplinado nesta Lei os princípios constitucionais do direito administrativo sancionador.\nArt. 3º As disposições desta Lei são aplicáveis, no que couber, àquele que, mesmo não sendo agente público, induza ou concorra dolosamente para a prática do ato de improbidade.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-85": {
+   "nota": "A questão pede a incorreta. O IRDR exige efetiva repetição de processos sobre a mesma questão unicamente de direito, e não mero risco de multiplicação (CPC, art. 976, I). Por isso a B. As demais estão corretas: a Defensoria pode pedir a suspensão nacional dos processos (A, art. 982, § 3º); não cabe IRDR se tribunal superior já afetou recurso repetitivo sobre o tema (C, art. 976, § 4º); julgamento em um ano com preferência (D, art. 980); e a desistência não impede o exame do mérito (E, art. 976, § 1º).",
+   "dispositivos": [
+    {
+     "ref": "CPC/2015, arts. 976 e 980",
+     "tipo": "lei",
+     "texto": "Art. 976. É cabível a instauração do incidente de resolução de demandas repetitivas quando houver, simultaneamente:\nI - efetiva repetição de processos que contenham controvérsia sobre a mesma questão unicamente de direito;\nII - risco de ofensa à isonomia e à segurança jurídica.\n§ 1º A desistência ou o abandono do processo não impede o exame de mérito do incidente.\nArt. 980. O incidente será julgado no prazo de 1 (um) ano e terá preferência sobre os demais feitos, ressalvados os que envolvam réu preso e os pedidos de habeas corpus.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-86": {
+   "nota": "A questão pede a incorreta. Só a função de membro dos Conselhos dos Direitos da Criança e do Adolescente é não remunerada (ECA, art. 89); os conselheiros tutelares são remunerados, na forma da lei municipal ou distrital (art. 134). Por isso a D. As demais estão corretas: diretrizes da política de atendimento (A, art. 88), eixos de defesa, promoção e controle do Sistema de Garantia (B), prioridade à primeira infância vítima de violência (C) e prioridade absoluta, que a Constituição estende aos jovens (E, art. 227).",
+   "dispositivos": [
+    {
+     "ref": "ECA, arts. 89 e 134",
+     "tipo": "lei",
+     "texto": "Art. 89. A função de membro dos Conselhos dos Direitos da Criança e do Adolescente nacional, estaduais, distrital e municipais é considerada de interesse público relevante e não será remunerada.\nArt. 134. Lei municipal ou distrital disporá sobre o local, dia e horário de funcionamento do Conselho Tutelar, inclusive quanto à remuneração dos respectivos membros, aos quais é assegurado o direito a:",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-87": {
+   "nota": "Estão corretas I e IV: a mãe tem direito ao sigilo sobre o nascimento (ECA, art. 19-A, § 9º), e o consentimento só vale se dado após o nascimento (art. 166, § 6º). Por isso a B. A II erra porque o consentimento é colhido em audiência, não basta o relatório da equipe. A III erra porque a busca à família extensa tem prazo de 90 dias, prorrogável por igual período (art. 19-A, § 3º). E a V erra porque o consentimento é retratável até a audiência, e os pais podem se arrepender em dez dias após a sentença (art. 166, § 5º).",
+   "dispositivos": [
+    {
+     "ref": "ECA, art. 19-A, §§ 3º e 9º",
+     "tipo": "lei",
+     "texto": "§ 3º A busca à família extensa, conforme definida nos termos do parágrafo único do art. 25 desta Lei, respeitará o prazo máximo de 90 (noventa) dias, prorrogável por igual período.\n§ 9º É garantido à mãe o direito ao sigilo sobre o nascimento, respeitado o disposto no art. 48 desta Lei.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    },
+    {
+     "ref": "ECA, art. 166, §§ 5º e 6º",
+     "tipo": "lei",
+     "texto": "§ 5º O consentimento é retratável até a data da realização da audiência especificada no § 1º deste artigo, e os pais podem exercer o arrependimento no prazo de 10 (dez) dias, contado da data de prolação da sentença de extinção do poder familiar.\n§ 6º O consentimento somente terá valor se for dado após o nascimento da criança.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-88": {
+   "nota": "A questão pede a incorreta. A extinção é automática quando se aplica pena privativa de liberdade em regime fechado ou semiaberto (Lei 12.594/2012, art. 46, III), mas, se o maior de 18 anos apenas responde a processo-crime, cabe ao juiz decidir sobre eventual extinção (art. 46, § 1º). Ao juntar as duas hipóteses como causa de extinção obrigatória, a A erra. Por isso a A. As demais reproduzem o SINASE: unificação (B, art. 45), vedação ao reinício da medida (C, art. 45, § 1º), absorção dos atos anteriores (D, art. 45, § 2º) e isolamento só excepcional (E, art. 48, § 2º).",
+   "dispositivos": [
+    {
+     "ref": "Lei 12.594/2012 (SINASE), art. 46, III e § 1º",
+     "tipo": "lei",
+     "texto": "III - pela aplicação de pena privativa de liberdade, a ser cumprida em regime fechado ou semiaberto, em execução provisória ou definitiva;\n§ 1º No caso de o maior de 18 (dezoito) anos, em cumprimento de medida socioeducativa, responder a processo-crime, caberá à autoridade judiciária decidir sobre eventual extinção da execução, cientificando da decisão o juízo criminal competente.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12594.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-89": {
+   "nota": "O acolhimento deve ocorrer no local mais próximo da residência da família, com a inclusão desta em programas de apoio e o estímulo ao contato com a criança (ECA, art. 101, § 7º). Por isso a E. Enquanto não houver adotante, a criança fica sob guarda de família acolhedora, não 'adotada' por ela (A, art. 50, § 11). A adoção por quem tem a guarda de criança maior de três anos exige convivência que comprove laços de afinidade (B, art. 50, § 13, III). Crianças também têm direito de ser informadas e ouvidas, conforme sua capacidade (C). E o afastamento do convívio familiar é exclusivo do juiz (D, art. 101, § 2º).",
+   "dispositivos": [
+    {
+     "ref": "ECA, art. 101, § 7º",
+     "tipo": "lei",
+     "texto": "§ 7º O acolhimento familiar ou institucional ocorrerá no local mais próximo à residência dos pais ou do responsável e, como parte do processo de reintegração familiar, sempre que identificada a necessidade, a família de origem será incluída em programas oficiais de orientação, de apoio e de promoção social, sendo facilitado e estimulado o contato com a criança ou com o adolescente acolhido.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    },
+    {
+     "ref": "ECA, art. 50, § 11",
+     "tipo": "lei",
+     "texto": "§ 11. Enquanto não localizada pessoa ou casal interessado em sua adoção, a criança ou o adolescente, sempre que possível e recomendável, será colocado sob guarda de família cadastrada em programa de acolhimento familiar.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-90": {
+   "nota": "Receber assistência qualificada jurídica e psicossocial especializada, que facilite a participação no processo e proteja contra comportamento inadequado dos órgãos atuantes, é direito da criança e do adolescente vítima ou testemunha (Lei 13.431/2017, art. 5º, VII). Por isso a C. No depoimento especial, é vedada a leitura da denúncia ou de outras peças (A, art. 12, I). A criança tem direito ao silêncio, sem exceção (B, art. 5º, VI). E o depoimento especial antecipado, para menores de 7 anos ou vítimas de violência sexual, é colhido em juízo, não pela polícia (E).",
+   "dispositivos": [
+    {
+     "ref": "Lei 13.431/2017, art. 5º, VI e VII, e art. 12, I",
+     "tipo": "lei",
+     "texto": "VI - ser ouvido e expressar seus desejos e opiniões, assim como permanecer em silêncio;\nVII - receber assistência qualificada jurídica e psicossocial especializada, que facilite a sua participação e o resguarde contra comportamento inadequado adotado pelos demais órgãos atuantes no processo;\nI - os profissionais especializados esclarecerão a criança ou o adolescente sobre a tomada do depoimento especial, informando-lhe os seus direitos e os procedimentos a serem adotados e planejando sua participação, sendo vedada a leitura da denúncia ou de outras peças processuais;",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13431.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-91": {
+   "nota": "Todas estão corretas. O demitido sem justa causa mantém o plano por um terço do tempo de permanência, entre 6 e 24 meses (I, Lei 9.656/1998, art. 30, § 1º). Desde a Lei 14.454/2022, a cobertura fora do rol da ANS depende de comprovação de eficácia baseada em evidências e do plano terapêutico (II, art. 10, § 13). A carência para urgência e emergência é de no máximo 24 horas (III, art. 12, V, c). A recusa por doença preexistente sem exames prévios ou prova de má-fé é ilícita (IV, Súmula 609 do STJ). E a cirurgia plástica reparadora pós-bariátrica é de cobertura obrigatória (V, Tema 1.069 do STJ). Por isso a A.",
+   "dispositivos": [
+    {
+     "ref": "Lei 9.656/1998, art. 12, V, c, e art. 30, § 1º",
+     "tipo": "lei",
+     "texto": "c) prazo máximo de vinte e quatro horas para a cobertura dos casos de urgência e emergência;\n§ 1º O período de manutenção da condição de beneficiário a que se refere o caput será de um terço do tempo de permanência nos produtos de que tratam o inciso I e o § 1º do art. 1º, ou sucessores, com um mínimo assegurado de seis meses e um máximo de vinte e quatro meses.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l9656.htm"
+    },
+    {
+     "ref": "STJ, Súmula 609 e Tema 1.069",
+     "tipo": "entendimento",
+     "texto": "Súmula 609: a recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames médicos prévios à contratação ou a demonstração de má-fé do segurado. Tema 1.069: é de cobertura obrigatória pelos planos de saúde a cirurgia plástica de caráter reparador ou funcional indicada pelo médico assistente em paciente pós-cirurgia bariátrica."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-92": {
+   "nota": "Só a V está incorreta: ficam fora da repactuação as dívidas com garantia real, os financiamentos imobiliários e o crédito rural (CDC, art. 104-A, § 1º). Por isso a C. As demais reproduzem a Lei do Superendividamento: exclusão das dívidas contraídas com fraude, má-fé ou por bens de luxo (I, art. 54-A, § 3º); informação prévia na oferta de crédito, com prazo mínimo de validade de dois dias (II); vedação ao assédio ou pressão (III, art. 54-C, IV); e contestação de compra no cartão (IV).",
+   "dispositivos": [
+    {
+     "ref": "CDC, arts. 54-A, § 3º, 54-C, IV, e 104-A, § 1º",
+     "tipo": "lei",
+     "texto": "§ 3º O disposto neste Capítulo não se aplica ao consumidor cujas dívidas tenham sido contraídas mediante fraude ou má-fé, sejam oriundas de contratos celebrados dolosamente com o propósito de não realizar o pagamento ou decorram da aquisição ou contratação de produtos e serviços de luxo de alto valor.\nIV - assediar ou pressionar o consumidor para contratar o fornecimento de produto, serviço ou crédito, principalmente se se tratar de consumidor idoso, analfabeto, doente ou em estado de vulnerabilidade agravada ou se a contratação envolver prêmio;\n§ 1º Excluem-se do processo de repactuação as dívidas, ainda que decorrentes de relações de consumo, oriundas de contratos celebrados dolosamente sem o propósito de realizar pagamento, bem como as dívidas provenientes de contratos de crédito com garantia real, de financiamentos imobiliários e de crédito rural.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-93": {
+   "nota": "São nulas de pleno direito as cláusulas que impossibilitem, exonerem ou atenuem a responsabilidade do fornecedor por vícios de qualquer natureza (CDC, art. 51, I), e é vedada a cláusula que exonere a obrigação de indenizar (art. 25). A garantia legal existe também para o veículo usado. Por isso a C. A cláusula não vincula o consumidor (A e B), e o CDC é norma de ordem pública, não dispositiva (D). A E erra o fundamento: a garantia contratual é facultativa e complementar à legal (art. 50); o que a cláusula viola é a garantia legal.",
+   "dispositivos": [
+    {
+     "ref": "CDC, arts. 25, 50 e 51, I",
+     "tipo": "lei",
+     "texto": "Art. 25. É vedada a estipulação contratual de cláusula que impossibilite, exonere ou atenue a obrigação de indenizar prevista nesta e nas seções anteriores.\nArt. 50. A garantia contratual é complementar à legal e será conferida mediante termo escrito.\nI - impossibilitem, exonerem ou atenuem a responsabilidade do fornecedor por vícios de qualquer natureza dos produtos e serviços ou impliquem renúncia ou disposição de direitos.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-94": {
+   "nota": "É direito básico do consumidor a informação sobre os preços dos produtos por unidade de medida, como quilo, litro ou metro (CDC, art. 6º, XIII, incluído pela Lei 14.181/2021). Por isso a D. Permitir a entrada de mais consumidores que o máximo fixado é prática abusiva (B, art. 39, XIV). Condicionar o acesso ao Judiciário é cláusula abusiva do art. 51, XVII, e não prática abusiva (C). A carência após a purgação da mora é vedada (A). E a educação financeira e ambiental só entrou nos princípios em 2021, não desde a promulgação (E, art. 4º, IX).",
+   "dispositivos": [
+    {
+     "ref": "CDC, arts. 4º, IX, 6º, XIII, 39, XIV, e 51, XVII",
+     "tipo": "lei",
+     "texto": "IX - fomento de ações direcionadas à educação financeira e ambiental dos consumidores;\nXIII - a informação acerca dos preços dos produtos por unidade de medida, tal como por quilo, por litro, por metro ou por outra unidade, conforme o caso.\nXIV - permitir o ingresso em estabelecimentos comerciais ou de serviços de um número maior de consumidores que o fixado pela autoridade administrativa como máximo.\nXVII - condicionem ou limitem de qualquer forma o acesso aos órgãos do Poder Judiciário;",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-95": {
+   "nota": "A questão pede a incorreta. Fraudes e delitos praticados por terceiros no âmbito de operações bancárias são fortuito interno, inerente ao risco da atividade, e o banco responde objetivamente (Súmula 479 do STJ); o STJ também exige que o banco bloqueie transações fora do padrão do cliente. Por isso a D, que fala em fortuito externo. As demais estão corretas: responsabilidade objetiva por fortuito interno (A e C), dever de conferir operações atípicas (B) e defeito do serviço por falta de segurança (E, CDC, art. 14).",
+   "dispositivos": [
+    {
+     "ref": "STJ, Súmula 479",
+     "tipo": "entendimento",
+     "texto": "As instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias."
+    },
+    {
+     "ref": "CDC, art. 14, caput",
+     "tipo": "lei",
+     "texto": "Art. 14. O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-96": {
+   "nota": "A questão pede o que não é atribuição. A Defensoria exerce a curadoria especial, que é função processual de defesa do incapaz ou ausente no processo, e não 'curadoria de direito material' (LC 80/1994, art. 4º, XVI). Por isso a C. As demais são atribuições: atuar nos estabelecimentos penais (A, art. 4º, XVII), assistir a mulher vítima de violência como assistente de acusação (B), propor as ações e incidentes cabíveis (D, art. 4º, X) e convocar audiências públicas (E, art. 4º, XXII).",
+   "dispositivos": [
+    {
+     "ref": "LC 80/1994, art. 4º, X, XVI, XVII e XXII",
+     "tipo": "lei",
+     "texto": "X – promover a mais ampla defesa dos direitos fundamentais dos necessitados, abrangendo seus direitos individuais, coletivos, sociais, econômicos, culturais e ambientais, sendo admissíveis todas as espécies de ações capazes de propiciar sua adequada e efetiva tutela;\nXVI – exercer a curadoria especial nos casos previstos em lei;\nXVII – atuar nos estabelecimentos policiais, penitenciários e de internação de adolescentes, visando a assegurar às pessoas, sob quaisquer circunstâncias, o exercício pleno de seus direitos e garantias fundamentais;\nXXII – convocar audiências públicas para discutir matérias relacionadas às suas funções institucionais.",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-97": {
+   "nota": "Estão incorretas II, III e IV. A recusa de patrocínio se comunica e se recorre ao Defensor Público-Geral, não a uma coordenadoria regional (II). Revista a recusa, o Defensor-Geral designa outro defensor para o caso, e não necessariamente a mesma defensora (III). E o Conselho Superior não pode impor o ajuizamento de ação, porque o defensor tem independência funcional e não se subordina hierarquicamente no exercício da atividade-fim (IV). A I e a V estão corretas: o defensor pode deixar de patrocinar ação manifestamente inconveniente, fundamentando, e a orientação jurídica pode alcançar os coproprietários ausentes. Por isso a D.",
+   "dispositivos": [
+    {
+     "ref": "LC 80/1994, recusa de patrocínio e independência funcional",
+     "tipo": "entendimento",
+     "texto": "O defensor pode deixar de patrocinar ação manifestamente incabível ou inconveniente aos interesses da parte, comunicando as razões ao Defensor Público-Geral, a quem cabe rever a recusa e designar outro defensor; no exercício da atividade-fim, o defensor goza de independência funcional e não se subordina a determinações de órgãos colegiados."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-98": {
+   "nota": "Cabe à Defensoria avaliar a condição de necessitado de quem a procura, e o defensor atua sem procuração; por isso a DPMG pode atender Thiago se ele for hipossuficiente, mas também pode negar a assistência se não for. Por isso a D. Ser advogado não impede a assistência a quem comprova carência (A). O fim do prazo de resposta não autoriza recusar por si só (B). A Defensoria pode atender as duas partes por defensores distintos, sem tergiversação (C). E os defensores não se sujeitam ao Estatuto da Advocacia (E, STF, ADI 4.636).",
+   "dispositivos": [
+    {
+     "ref": "STF, ADI 4.636 (Defensoria e Estatuto da Advocacia)",
+     "tipo": "entendimento",
+     "texto": "A capacidade postulatória dos defensores públicos decorre diretamente da Constituição e da lei orgânica, independentemente de inscrição na OAB; os defensores não se submetem ao Estatuto da Advocacia."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-99": {
+   "nota": "A questão pede a incorreta, e o gabarito é a D: a decisão do juiz da Bahia não foi acertada, pois o poder de requisição da Defensoria, reconhecido pelo STF como prerrogativa ampla para obter providências necessárias às suas atribuições (ADI 6.852), não se resume a autoridades públicas na visão da banca. As demais foram consideradas corretas: atendimento por vulnerabilidade, e não só renda (A); criação do núcleo por deliberação do Conselho Superior (B); atuação conciliatória do núcleo com independência funcional (C); e requisição de divulgação de informações (E).",
+   "dispositivos": [
+    {
+     "ref": "STF, ADI 6.852 (poder de requisição da Defensoria)",
+     "tipo": "entendimento",
+     "texto": "É constitucional a prerrogativa da Defensoria Pública de requisitar de autoridades públicas e de seus agentes certidões, exames, perícias, documentos, informações e providências necessárias ao exercício de suas atribuições."
+    }
+   ],
+   "ressalva": "O alcance do poder de requisição sobre entidades privadas é controvertido: a LC 80/1994 fala em 'autoridade pública ou seus agentes'. A justificativa segue o gabarito oficial.",
+   "conferido": "2026-11-21"
+  },
+  "dpe-mg-2023-100": {
+   "nota": "A Defensoria pode atuar de ofício em tutela coletiva para prevenir discriminação algorítmica contra grupo vulnerável, antes mesmo do uso do sistema (LC 80/1994, art. 4º, VII e X). Por isso a A. Na tutela coletiva, basta a presunção de que haja necessitados entre os afetados, sem prova prévia de carência (B, ADI 3.943). A assistência jurídica abrange também a fase pré-processual (C). Pelo Tema 1.002 do STF, a Defensoria pode receber honorários do ente a que se vincula, mas destinados ao aparelhamento, vedado o rateio entre membros (D). E não depende de outras instituições para agir judicialmente (E).",
+   "dispositivos": [
+    {
+     "ref": "LC 80/1994, art. 4º, VII",
+     "tipo": "lei",
+     "texto": "VII – promover ação civil pública e todas as espécies de ações capazes de propiciar a adequada tutela dos direitos difusos, coletivos ou individuais homogêneos quando o resultado da demanda puder beneficiar grupo de pessoas hipossuficientes;",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm"
+    },
+    {
+     "ref": "STF, Tema 1.002 da repercussão geral",
+     "tipo": "entendimento",
+     "texto": "É devido o pagamento de honorários sucumbenciais à Defensoria Pública, quando representa parte vencedora em demanda ajuizada contra qualquer ente público, inclusive aquele que integra; os valores devem ser destinados exclusivamente ao aparelhamento das Defensorias, vedado o rateio entre seus membros."
+    }
+   ],
+   "conferido": "2026-11-21"
   }
  }
 }
