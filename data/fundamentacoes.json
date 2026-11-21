@@ -12316,6 +12316,256 @@
     }
    ],
    "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-81": {
+   "nota": "Estão corretas II e III. O STF aplica ao procedimento de apuração de ato infracional a regra do CPP de que o interrogatório é o último ato da instrução, como meio de defesa (II). O prazo de apelação no ECA é de 10 dias, contados em dias corridos (arts. 198, II, e 152, § 2º), e a Defensoria Pública tem prazo em dobro, o que resulta em 20 dias corridos (III). A I erra porque o ato infracional pressupõe conduta descrita como crime ou contravenção (ECA, art. 103): se o porte de maconha para uso pessoal deixou de ser infração penal (STF, Tema 506), não pode justificar medida socioeducativa. Por isso a D.",
+   "dispositivos": [
+    {
+     "ref": "ECA, art. 198, II, e art. 152, § 2º",
+     "tipo": "lei",
+     "texto": "II - em todos os recursos, salvo nos embargos de declaração, o prazo para o Ministério Público e para a defesa será sempre de 10 (dez) dias; (Redação dada pela Lei nº 12.594, de 2012) (Vide)\n§ 2º Os prazos estabelecidos nesta Lei e aplicáveis aos seus procedimentos são contados em dias corridos, excluído o dia do começo e incluído o dia do vencimento, vedado o prazo em dobro para a Fazenda Pública e o Ministério Público. (Incluído pela Lei nº 13.509, de 2017)",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    },
+    {
+     "ref": "STF, interrogatório como último ato (HC 127.900) e Tema 506",
+     "tipo": "entendimento",
+     "texto": "O interrogatório, como meio de defesa, deve ser o último ato da instrução também nos procedimentos regidos por leis especiais, inclusive o de apuração de ato infracional. O porte de cannabis para consumo pessoal não é infração penal, e por isso não pode ser tratado como ato infracional."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-82": {
+   "nota": "Para os universalistas, os direitos humanos decorrem da dignidade inerente a toda pessoa e, por isso, valem universalmente, independentemente da cultura. Por isso a B. Os relativistas sustentam que a noção de direitos depende do contexto cultural de cada sociedade, sem se limitarem aos direitos positivados (A) ou à instrumentalidade (C). E os universalistas não exigem status idêntico em todos os ordenamentos, mas um mínimo ético irredutível (E).",
+   "dispositivos": [
+    {
+     "ref": "Teoria dos direitos humanos: universalismo e relativismo",
+     "tipo": "entendimento",
+     "texto": "Para o universalismo, os direitos humanos decorrem da dignidade humana, valor intrínseco a toda pessoa, e formam um mínimo ético irredutível; para o relativismo cultural, a noção de direitos está ligada ao sistema político, econômico, cultural e moral de cada sociedade."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-83": {
+   "nota": "A questão pede a afirmativa que não pertence à teoria crítica. A tese do 'fim dos direitos humanos' (Costas Douzinas) critica justamente a redução dos direitos humanos à positivação e ao discurso jurídico estatal. Não afirma que sua defesa dependa de positivação. Por isso a B. As demais expressam pontos da teoria crítica: a crítica ao pensamento hegemônico (A), a abertura ao multiculturalismo (D) e a crítica à classificação por gerações, que sugere sucessão em vez de concomitância (E).",
+   "dispositivos": [
+    {
+     "ref": "Teoria crítica dos direitos humanos",
+     "tipo": "entendimento",
+     "texto": "A teoria crítica (Douzinas, Herrera Flores, Boaventura de Sousa Santos) questiona o discurso hegemônico e a redução dos direitos humanos ao direito positivo, defende uma concepção multicultural e rejeita a ideia de gerações sucessivas de direitos."
+    }
+   ],
+   "ressalva": "A afirmativa C também é discutível dentro da teoria crítica. A justificativa segue o gabarito oficial.",
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-84": {
+   "nota": "A Convenção de Viena de 1969 trata do direito dos tratados, isto é, das regras sobre celebração, interpretação e extinção de tratados entre Estados. Não é documento de afirmação histórica dos direitos humanos. Por isso a C. A Magna Carta (1215), a Constituição de Weimar (1919), o Estatuto de Roma (1998) e a Declaração Universal (1948) são marcos dessa afirmação.",
+   "dispositivos": [
+    {
+     "ref": "Afirmação histórica dos direitos humanos",
+     "tipo": "entendimento",
+     "texto": "Marcos normativos da afirmação histórica dos direitos humanos incluem a Magna Carta (1215), a Constituição de Weimar (1919), a Declaração Universal (1948) e o Estatuto de Roma (1998); a Convenção de Viena sobre o Direito dos Tratados (1969) regula a celebração e aplicação de tratados entre Estados."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-85": {
+   "nota": "A doutrina chama de 'lei-ponte' a lei interna que disciplinaria o procedimento de cumprimento, no Brasil, das recomendações da Comissão e das sentenças da Corte Interamericana, definindo competências, prazos e formas de pagamento. O Brasil ainda não a editou. Por isso a A.",
+   "dispositivos": [
+    {
+     "ref": "Lei-ponte (cumprimento de decisões do Sistema Interamericano)",
+     "tipo": "entendimento",
+     "texto": "Lei-ponte é a lei de implementação que estabelece, no direito interno, o procedimento para cumprimento das decisões e recomendações dos órgãos internacionais de direitos humanos; o Brasil ainda não dispõe de lei com esse objeto."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-86": {
+   "nota": "Esgotados os recursos internos, a vítima ou seu representante pode peticionar à Comissão Interamericana, alegando violação do direito de recorrer da sentença a juiz ou tribunal superior (CADH, arts. 8.2.h e 44), e pedir medidas cautelares. Por isso a E. O indivíduo não acessa diretamente a Corte Interamericana (B, C e D), e a ação rescisória é instituto cível (A).",
+   "dispositivos": [
+    {
+     "ref": "Convenção Americana sobre Direitos Humanos, arts. 8.2.h, 44 e 61",
+     "tipo": "entendimento",
+     "texto": "Toda pessoa acusada tem direito de recorrer da sentença para juiz ou tribunal superior (art. 8.2.h). Qualquer pessoa pode apresentar à Comissão petições com denúncias de violação da Convenção (art. 44); somente os Estados-partes e a Comissão têm direito de submeter caso à Corte (art. 61)."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-87": {
+   "nota": "No caso Maria da Penha Maia Fernandes (Relatório 54/2001, caso 12.051), a Comissão Interamericana responsabilizou o Brasil por tolerância à violência doméstica. Recomendou medidas legislativas e de política pública, o que levou à edição da Lei 11.340/2006. Por isso a D.",
+   "dispositivos": [
+    {
+     "ref": "CIDH, Relatório 54/2001 (caso 12.051, Maria da Penha Maia Fernandes)",
+     "tipo": "entendimento",
+     "texto": "A Comissão Interamericana concluiu que o Brasil violou os direitos às garantias judiciais e à proteção judicial e recomendou a adoção de medidas para eliminar a tolerância estatal à violência doméstica contra a mulher, recomendação que deu origem à Lei Maria da Penha."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-88": {
+   "nota": "Nas medidas provisórias sobre o Complexo do Curado, a Corte Interamericana determinou a proteção de defensoras que atuam no caso (A), o Diagnóstico Técnico e o Plano de Contingência (B), a proibição de novos ingressos com avaliação criminológica (C) e o cômputo em dobro de cada dia cumprido na unidade (D). Não determinou a transferência de todo o efetivo nem a adaptação do complexo a um modelo do Conselho Nacional de Política Criminal e Penitenciária. Por isso a E.",
+   "dispositivos": [
+    {
+     "ref": "Corte IDH, Medidas Provisórias, Complexo Penitenciário do Curado (Brasil)",
+     "tipo": "entendimento",
+     "texto": "Entre as medidas determinadas estão a proteção da vida e integridade dos internos e de defensoras atuantes no caso, a elaboração de Diagnóstico Técnico e Plano de Contingência, a proibição de ingresso de novos presos e o cômputo em dobro de cada dia de privação de liberdade cumprido no complexo."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-89": {
+   "nota": "O gabarito aponta como obstáculo a ausência de materialidade comprovada nos casos de desaparecimento, somada à falta de tipificação do desaparecimento forçado no Brasil. Sem corpo nem prova direta da morte, a persecução penal fica dificultada, e o Brasil ainda não tipificou o desaparecimento forçado, embora seja signatário da Convenção Interamericana sobre a matéria. Por isso a E.",
+   "dispositivos": [
+    {
+     "ref": "Desaparecimento forçado no direito brasileiro",
+     "tipo": "entendimento",
+     "texto": "O Brasil ratificou a Convenção Interamericana sobre o Desaparecimento Forçado de Pessoas, mas ainda não tipificou autonomamente o crime de desaparecimento forçado, o que dificulta a responsabilização penal quando não há comprovação da materialidade (corpo ou prova da morte)."
+    }
+   ],
+   "ressalva": "A Lei de Anistia (Lei 6.683/1979), considerada pela Corte IDH incompatível com a Convenção Americana (caso Gomes Lund), é apontada pela doutrina como o principal obstáculo no Brasil. A justificativa segue o gabarito oficial.",
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-90": {
+   "nota": "A ADPF 635 (ADPF das Favelas) dialoga com a condenação do Brasil no caso Favela Nova Brasília pela Corte Interamericana, que tratou da letalidade policial. A ADPF 347, que reconheceu o estado de coisas inconstitucional no sistema prisional, dialoga com as medidas provisórias da Corte em unidades prisionais brasileiras. Nas duas, o STF incorporou parâmetros do Sistema Interamericano. Por isso a A.",
+   "dispositivos": [
+    {
+     "ref": "STF, ADPF 635 e ADPF 347",
+     "tipo": "entendimento",
+     "texto": "ADPF 635: medidas de redução da letalidade policial no Rio de Janeiro, com referência à sentença da Corte IDH no caso Favela Nova Brasília vs. Brasil. ADPF 347: reconhecimento do estado de coisas inconstitucional do sistema prisional brasileiro, em diálogo com as medidas provisórias da Corte IDH sobre unidades prisionais."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-91": {
+   "nota": "A questão pede a incorreta. No caso Herzog, a CNV identificou a cadeia de comando, com nomes e patentes dos responsáveis, e o local dos crimes: o DOI-CODI do II Exército, em São Paulo. Por isso a D. As demais correspondem ao relatório da CNV: política estatal sistemática de violações (A), papel da Comissão Interamericana na retificação da certidão de óbito (B), descrição circunstanciada da tortura (C) e indicação da cadeia de comando até o Presidente da República (E).",
+   "dispositivos": [
+    {
+     "ref": "Comissão Nacional da Verdade, Relatório Final (2014), caso Vladimir Herzog",
+     "tipo": "entendimento",
+     "texto": "A CNV concluiu que Vladimir Herzog foi torturado e morto nas dependências do DOI-CODI do II Exército, em São Paulo, identificou a cadeia de comando responsável, com nomes e patentes, e registrou a retificação da certidão de óbito para constar morte decorrente de lesões e maus-tratos."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-92": {
+   "nota": "A questão pede a incorreta. As decisões do TPI vinculam os Estados-partes, mas sua execução depende da cooperação dos Estados, como na prisão e entrega de acusados e no cumprimento das penas. Não são, portanto, autoaplicáveis no território dos Estados. Por isso a A. As demais estão corretas: o Estatuto de Roma prevê a entrega de pessoas e a prisão perpétua (B, arts. 89 e 77), a complementaridade (C, art. 17), a superação dos tribunais ad hoc com respeito ao juiz natural (D) e a irrelevância da qualidade oficial (E, art. 27).",
+   "dispositivos": [
+    {
+     "ref": "Estatuto de Roma do TPI, arts. 17, 27, 77, 86 e 89",
+     "tipo": "entendimento",
+     "texto": "O TPI é complementar às jurisdições nacionais (art. 17); a qualidade oficial é irrelevante para a responsabilidade penal (art. 27); a prisão perpétua é admitida (art. 77); os Estados-partes devem cooperar plenamente com o Tribunal (art. 86), inclusive na entrega de pessoas (art. 89)."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-93": {
+   "nota": "O gabarito admite que a Defensoria Pública do Estado, como representante de vítimas, leve à Corte IDH as novas violações ligadas ao mesmo caso e passe a atuar ao lado da peticionária original. O Regulamento da Corte assegura às vítimas e a seus representantes atuação autônoma no processo. Por isso a D. Há previsão de amicus curiae (A, Regulamento, art. 44). Fatos supervenientes ligados à causa podem ser considerados (B). A defesa do Brasil é feita pela União, por meio da AGU, e não pelo Município (C). E não há regra de 'paridade' que atribua o caso à DPU (E).",
+   "dispositivos": [
+    {
+     "ref": "Regulamento da Corte IDH, arts. 25 e 44",
+     "tipo": "entendimento",
+     "texto": "Depois de notificado o escrito de submissão do caso, as supostas vítimas ou seus representantes podem apresentar de forma autônoma seus escritos, argumentos e provas durante todo o processo (art. 25). Qualquer pessoa ou instituição pode apresentar escrito como amicus curiae (art. 44)."
+    }
+   ],
+   "ressalva": "A atuação da Defensoria como nova representante de vítimas em caso já em curso depende de habilitação perante a Corte. A justificativa segue o gabarito oficial.",
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-94": {
+   "nota": "A relação correta é 2, 1, 3, 3, 3. No judicare, advogados particulares são pagos pelo Estado caso a caso (2). No modelo pro bono, atuam sem contraprestação pública (1). No salaried staff model, profissionais assalariados recebem independentemente da carga de trabalho (3). E é esse modelo de corpo próprio e especializado que permite atuação estratégica e proativa, com casos-teste, educação em direitos e tutela coletiva (3 e 3). Por isso a D.",
+   "dispositivos": [
+    {
+     "ref": "Modelos de assistência jurídica (Cappelletti e Garth; Diogo Esteves e Franklyn Roger)",
+     "tipo": "entendimento",
+     "texto": "Pro bono: advogados privados atuam sem remuneração estatal. Judicare: advogados privados remunerados pelo Estado caso a caso. Salaried staff model: profissionais assalariados, em corpo próprio, aptos à atuação estratégica, coletiva e proativa, modelo adotado pela Defensoria Pública brasileira."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-95": {
+   "nota": "A sequência é F, V, V. A Defensoria estadual encaminha sua proposta orçamentária ao Chefe do Poder Executivo, para consolidação, e não diretamente ao Legislativo (LC 80/1994, art. 97-B). O STF considera inconstitucional a redução unilateral da proposta pelo Executivo, que só pode pleitear a redução ao Legislativo (ADI 5.287). E o repasse dos duodécimos até o dia 20 de cada mês é dever constitucional do Executivo (CF, art. 168; ADPF 339). Por isso a B.",
+   "dispositivos": [
+    {
+     "ref": "LC 80/1994, art. 97-B",
+     "tipo": "lei",
+     "texto": "Art. 97-B. A Defensoria Pública do Estado elaborará sua proposta orçamentária atendendo aos seus princípios, às diretrizes e aos limites definidos na lei de diretrizes orçamentárias, encaminhando-a ao Chefe do Poder Executivo para consolidação e encaminhamento ao Poder Legislativo. (Incluído pela Lei Complementar nº 132, de 2009).",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm"
+    },
+    {
+     "ref": "CF, art. 168",
+     "tipo": "lei",
+     "texto": "Art. 168. Os recursos correspondentes às dotações orçamentárias, compreendidos os créditos suplementares e especiais, destinados aos órgãos dos Poderes Legislativo e Judiciário, do Ministério Público e da Defensoria Pública, ser-lhes-ão entregues até o dia 20 de cada mês, em duodécimos, na forma da lei complementar a que se refere o art. 165, § 9º. ( Redação dada pela Emenda Constitucional nº 45, de 2004)",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-96": {
+   "nota": "Estão corretas I e II. Viola a autonomia a lei que vincula a Defensoria à estrutura do Executivo (I, CF, art. 134, § 2º). E, no Tema 847, o STF fixou que ofende a autonomia a decisão judicial que determina a lotação de defensor em localidade desamparada contra os critérios da própria instituição, observado o art. 98 do ADCT (II). A III erra: o STF considera inconstitucional impor à Defensoria a destinação de parte de seu orçamento a convênios com advogados privados (ADI 4.163). Por isso a B.",
+   "dispositivos": [
+    {
+     "ref": "CF, art. 134, § 2º",
+     "tipo": "lei",
+     "texto": "§ 2º Às Defensorias Públicas Estaduais são asseguradas autonomia funcional e administrativa e a iniciativa de sua proposta orçamentária dentro dos limites estabelecidos na lei de diretrizes orçamentárias e subordinação ao disposto no art. 99, § 2º. (Incluído pela Emenda Constitucional nº 45, de 2004)",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    },
+    {
+     "ref": "STF, Tema 847 (RE 887.671) e ADI 4.163",
+     "tipo": "entendimento",
+     "texto": "Tema 847: ofende a autonomia administrativa das Defensorias Públicas decisão judicial que determine a lotação de defensor público em localidade desamparada, em desacordo com os critérios previamente definidos pela própria instituição, desde que observados os critérios do art. 98, caput e § 2º, do ADCT. ADI 4.163: é inconstitucional norma que impõe à Defensoria a celebração obrigatória de convênio com a OAB para prestação de assistência jurídica suplementar."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-97": {
+   "nota": "O defensor pode deixar de patrocinar ação manifestamente incabível ou inconveniente aos interesses da parte, comunicando o fato e suas razões ao Defensor Público-Geral (LC 80/1994, art. 128, XII). Por isso a D. A prisão em flagrante é comunicada ao Defensor Público-Geral, e não ao Corregedor (A, art. 128, II). A intimação pessoal vale também nas instâncias administrativas (B, art. 128, I). A requisição se dirige a autoridade pública e seus agentes, e não a entidades privadas (C, art. 128, X). E a dispensa de mandato não alcança os casos em que a lei exige poderes especiais (E, art. 128, XI).",
+   "dispositivos": [
+    {
+     "ref": "LC 80/1994, art. 128, I, II, X, XI e XII",
+     "tipo": "lei",
+     "texto": "I – receber, inclusive quando necessário, mediante entrega dos autos com vista, intimação pessoal em qualquer processo e grau de jurisdição ou instância administrativa, contando-se-lhes em dobro todos os prazos; (Redação dada pela Lei Complementar nº 132, de 2009).\nII - não ser preso, senão por ordem judicial escrita, salvo em flagrante, caso em que a autoridade fará imediata comunicação ao Defensor Publico-Geral;\nX - requisitar de autoridade pública ou de seus agentes exames, certidões, perícias, vistorias, diligências, processos, documentos, informações, esclarecimentos e providências necessárias ao exercício de suas atribuições;\nXI - representar a parte, em feito administrativo ou judicial, independentemente de mandato, ressalvados os casos para os quais a lei exija poderes especiais;\nXII - deixar de patrocinar ação, quando ela for manifestamente incabível ou inconveniente aos interesses da parte sob seu patrocínio, comunicando o fato ao Defensor Publico-Geral, com as razões de seu proceder;",
+     "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-98": {
+   "nota": "A irredutibilidade de vencimentos é assegurada aos ocupantes de cargos e empregos públicos em geral (CF, art. 37, XV), e não só aos defensores. Por isso a E. A independência funcional não afasta a hierarquia administrativa interna (A). A inamovibilidade é a garantia expressa no art. 134, § 1º, mas não é a única garantia com previsão constitucional que alcança os defensores (B). A perda do cargo do defensor estável pode ocorrer também por processo administrativo disciplinar (C, CF, art. 41, § 1º). E a inamovibilidade admite outras hipóteses legais de afastamento (D).",
+   "dispositivos": [
+    {
+     "ref": "CF, art. 37, XV, e art. 134, § 1º",
+     "tipo": "lei",
+     "texto": "XV - o subsídio e os vencimentos dos ocupantes de cargos e empregos públicos são irredutíveis, ressalvado o disposto nos incisos XI e XIV deste artigo e nos arts. 39, § 4º, 150, II, 153, III, e 153, § 2º, I; (Redação dada pela Emenda Constitucional nº 19, de 1998)\n§ 1º Lei complementar organizará a Defensoria Pública da União e do Distrito Federal e dos Territórios e prescreverá normas gerais para sua organização nos Estados, em cargos de carreira, providos, na classe inicial, mediante concurso público de provas e títulos, assegurada a seus integrantes a garantia da inamovibilidade e vedado o exercício da advocacia fora das atribuições institucionais. (Renumerado do parágrafo único pela Emenda Constitucional nº 45, de 2004)",
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-99": {
+   "nota": "A sequência é V, F, V. A curadoria especial é função atípica, que independe de comprovação de carência financeira (LC 80/1994, art. 4º, XVI). A segunda é falsa: pelo Tema 1.002 do STF, são devidos honorários à Defensoria mesmo quando ela atua contra o ente público que a integra, destinados ao aparelhamento da instituição. A terceira reflete a ADI 3.943 e o RE 733.433: a Defensoria tem legitimidade para ação civil pública em defesa de direitos difusos e coletivos quando os titulares forem, em tese, necessitados. Por isso a B.",
+   "dispositivos": [
+    {
+     "ref": "STF, Tema 1.002 e RE 733.433 (Tema 607)",
+     "tipo": "entendimento",
+     "texto": "Tema 1.002: é devido o pagamento de honorários sucumbenciais à Defensoria Pública quando representa parte vencedora em demanda ajuizada contra qualquer ente público, inclusive aquele que integra. Tema 607: a Defensoria Pública tem legitimidade para a propositura de ação civil pública que vise a promover a tutela judicial de direitos difusos e coletivos de que sejam titulares, em tese, pessoas necessitadas."
+    }
+   ],
+   "conferido": "2026-11-21"
+  },
+  "dpe-pe-2025-100": {
+   "nota": "A sequência é V, F, V. A capacidade postulatória do defensor decorre da nomeação e posse, e é inconstitucional exigir inscrição na OAB (STF, Tema 1.074, RE 1.240.999). A segunda é falsa: o defensor atua independentemente de mandato (LC 80/1994, art. 128, XI), e por isso não há substabelecimento do advogado para a Defensoria. A terceira reflete o art. 99, § 4º, do CPC e a jurisprudência do STJ, que dispensa declaração de que o advogado particular não cobra honorários. Por isso a D.",
+   "dispositivos": [
+    {
+     "ref": "STF, Tema 1.074 (RE 1.240.999)",
+     "tipo": "entendimento",
+     "texto": "É inconstitucional a exigência de inscrição do Defensor Público nos quadros da Ordem dos Advogados do Brasil."
+    },
+    {
+     "ref": "CPC, art. 99, § 4º",
+     "tipo": "lei",
+     "texto": "§ 4º A assistência do requerente por advogado particular não impede a concessão de gratuidade da justiça.",
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    }
+   ],
+   "conferido": "2026-11-21"
   }
  }
 }
