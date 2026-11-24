@@ -158,16 +158,12 @@ label { display: grid; gap: .35rem; font-weight: 600; font-size: .9rem; }
 .resume-meta { color: #CFE1D3; font-size: .9rem; }
 .resume-action { justify-self: start; margin-top: var(--s-2); min-height: 44px; display: inline-flex; align-items: center; padding: 0 var(--s-4); border-radius: var(--r-md); background: #FFFFFF; color: var(--forest-700); font-weight: 700; }
 .section-title { font-size: 1.125rem; margin: var(--s-5) 0 var(--s-2); }
-/* Toques do DPE-RN (amarelo da capa): traço sob os títulos de seção, selo "DPE-RN" e o dia de hoje no cronograma. */
-.section-title::after { content: ""; display: block; width: 2.5rem; height: 4px; margin-top: var(--s-1); border-radius: var(--r-full); background: var(--rn-yellow); }
-.rn-chip { display: inline-block; padding: .1rem .5rem; border-radius: var(--r-sm); background: var(--rn-yellow); color: var(--forest-700); font-weight: 800; letter-spacing: .03em; line-height: 1.4; }
-.plan-day.is-today { box-shadow: inset 0 -4px 0 var(--rn-yellow); }
-.rn-cover { position: relative; overflow: hidden; display: grid; gap: var(--s-2); justify-items: start; margin: 0 0 var(--s-4); padding: var(--s-5) var(--s-5) var(--s-5); border-radius: var(--r-lg); background: var(--forest-700); color: #FFFFFF; box-shadow: var(--e-2); }
-.rn-cover::before, .rn-cover::after { content: ""; position: absolute; left: 0; right: 0; height: 6px; background: var(--rn-yellow); }
-.rn-cover::before { top: 0; } .rn-cover::after { bottom: 0; }
-.rn-cover-title { font-family: var(--font-brand); font-weight: 900; font-size: clamp(2.6rem, 9vw, 4rem); line-height: .9; letter-spacing: .01em; text-transform: uppercase; color: var(--rn-yellow); }
-.rn-cover-sub { font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; max-width: 26ch; }
-.rn-cover .rn-chip { margin-top: var(--s-1); }
+/* Faixa de capa no estilo da capa dos ebooks do Reta Final (fundo escuro, RETA FINAL em vermelho, RN em branco), como na DPE-SP. */
+.sp-cover { position: relative; overflow: hidden; display: grid; justify-items: center; text-align: center; gap: var(--s-2); margin: 0 0 var(--s-4); padding: var(--s-6) var(--s-4) var(--s-5); border-radius: var(--r-lg); color: #FFFFFF; box-shadow: var(--e-2);
+  background: radial-gradient(120% 90% at 50% 0%, #3A3333 0%, #1C1818 60%, #141111 100%); }
+.sp-cover-title { font-family: var(--font-brand); font-weight: 900; font-size: clamp(2.8rem, 10vw, 4.4rem); line-height: .88; text-transform: uppercase; color: #FF3B3F; letter-spacing: .01em; }
+.sp-cover-band { display: inline-block; padding: .15rem .9rem; background: #C8161D; color: #FFFFFF; font-family: var(--font-brand); font-weight: 600; font-size: clamp(.8rem, 2.6vw, 1rem); letter-spacing: .18em; text-transform: uppercase; border-radius: 3px; }
+.sp-cover-state { font-family: var(--font-brand); font-weight: 900; font-size: clamp(4.5rem, 18vw, 7.5rem); line-height: .85; letter-spacing: -.02em; color: #FFFFFF; }
 .disc-dot { width: 44px; height: 44px; border-radius: 50%; background: var(--forest-700); border: 1.5px solid var(--border-strong); display: grid; place-items: center; flex: none; }
 .disc-dot img { display: block; }
 .discipline-head { display: flex; align-items: center; gap: var(--s-3); }

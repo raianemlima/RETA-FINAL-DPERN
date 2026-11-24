@@ -22,12 +22,12 @@ export default async function Home() {
   const others = disciplines.filter((discipline) => discipline !== resume);
   const now = new Date(), days = daysUntilExam(now);
   return <div className="home">
-    {/* Faixa de capa do Reta Final DPE-RN, no estilo da capa do cronograma, nas cores do DUO. */}
-    <header className="rn-cover">
+    {/* Faixa de capa no estilo da capa dos ebooks do Reta Final (fundo escuro, RETA FINAL em vermelho, RN em branco), como na DPE-SP. */}
+    <header className="sp-cover">
       <h1 className="visually-hidden">Início</h1>
-      <span className="rn-cover-title" aria-hidden="true">Reta<br />Final</span>
-      <span className="rn-cover-sub">{COURSE.defensoriaNome.replace(/ do Estado do /, " do ")}</span>
-      <span className="rn-chip">{COURSE.defensoria} · {COURSE.banca}</span>
+      <span className="sp-cover-title" aria-hidden="true">Reta<br />Final</span>
+      <span className="sp-cover-band">Defensoria Pública do</span>
+      <span className="sp-cover-state" aria-label="Rio Grande do Norte">RN</span>
     </header>
     <section className="exam-card" aria-label="Data da prova">
       {days !== null && days > 1 && <span className="exam-days">{days}</span>}

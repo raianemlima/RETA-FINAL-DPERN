@@ -6,9 +6,6 @@
   --charcoal: #292424;
   --duo-green: #31BF5D; /* só decoração em fundo escuro: sobre claro dá 2,2:1 */
   --duo-paper: #F7F6F1;
-  /* Toque do Reta Final DPE-RN: o amarelo da capa do cronograma, só em detalhes (selo, traços, faixa da capa).
-     Sobre o verde do DUO: 8,2:1. Sobre o papel claro só entra como traço decorativo, nunca como texto. */
-  --rn-yellow: #FFD34D;
 
   /* Texto: mesma fonte dos e-books em PDF (Arial). Arimo é a versão livre e métrica-idêntica; garante o mesmo desenho no Android. */
   --font-text: "Arimo", Arial, "Liberation Sans", Helvetica, sans-serif;

@@ -25,7 +25,7 @@ export function AppShell({ children, isStaff }: { children: React.ReactNode; isS
   const links = navigation.map((item) => <Link className={item.active ? "nav-link active" : "nav-link"} href={item.href} key={item.href} aria-current={item.active ? "page" : undefined}><span aria-hidden="true">{item.icon}</span>{item.label}</Link>);
   return <div className="app-shell">
     <a className="skip-link" href="#conteudo">Pular para o conteúdo</a>
-    <aside className="sidebar"><Link href="/" aria-label="Início"><BrandLogo /></Link><p className="eyebrow">Reta Final <span className="rn-chip">{COURSE.defensoria}</span></p><span className="exam-chip" suppressHydrationWarning>{examShort(new Date())}</span><nav className="main-nav" aria-label="Navegação principal">{links}</nav><div className="sidebar-footer"><ThemeToggle /><button className="button ghost" onClick={signOut}>Sair</button></div></aside>
+    <aside className="sidebar"><Link href="/" aria-label="Início"><BrandLogo /></Link><p className="eyebrow">Reta Final {COURSE.defensoria}</p><span className="exam-chip" suppressHydrationWarning>{examShort(new Date())}</span><nav className="main-nav" aria-label="Navegação principal">{links}</nav><div className="sidebar-footer"><ThemeToggle /><button className="button ghost" onClick={signOut}>Sair</button></div></aside>
     <div className="main-column">
       <header className="mobile-top"><Link href="/" aria-label="Início"><BrandLogo size="sm" /></Link><span><ThemeToggle /><button className="icon-button" onClick={signOut} aria-label="Sair">⎋</button></span></header>
       <main className="content" id="conteudo">{children}</main>
